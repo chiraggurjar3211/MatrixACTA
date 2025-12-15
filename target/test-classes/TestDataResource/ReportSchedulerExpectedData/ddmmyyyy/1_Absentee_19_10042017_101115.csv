@@ -1,0 +1,180 @@
+,,DADB,,,Page 1 of 1,
+,,Organization-Wise Absentee From 01/04/2017 To 10/04/2017,,,,
+Run by:,System Admin,,Date:,,,
+Sr No, User ID,Name,Date,Shift,1st Half ,2nd Half 
+Organization :,,DADB,,,,
+1,2pwithexitreade,Exit reader enabled but punches from entry,03/04/2017,HO,IN,PL
+2,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017,GS,PR,AB
+3,4PbreakEO,4 Punch user with break earlyout,04/04/2017,BE,AB,AB
+4,4PbreakEO,4 Punch user with break earlyout,05/04/2017,BE,AB,AB
+5,4PbreakEO,4 Punch user with break earlyout,06/04/2017,BE,AB,AB
+6,4PbreakEO,4 Punch user with break earlyout,07/04/2017,BE,AB,AB
+7,4PbreakEO,4 Punch user with break earlyout,08/04/2017,BE,AB,AB
+8,4PBreakEOex,4P Break for earlyout exceeds,03/04/2017,BE,AB,PR
+9,4PBreakEOex,4P Break for earlyout exceeds,04/04/2017,BE,AB,AB
+10,4PBreakEOex,4P Break for earlyout exceeds,05/04/2017,BE,AB,AB
+11,4PBreakEOex,4P Break for earlyout exceeds,06/04/2017,BE,AB,AB
+12,4PBreakEOex,4P Break for earlyout exceeds,07/04/2017,BE,AB,AB
+13,4PBreakEOex,4P Break for earlyout exceeds,08/04/2017,BE,AB,AB
+14,4PbreakEOgrace,4P user with break earlyout grace,04/04/2017,BE,AB,AB
+15,4PbreakEOgrace,4P user with break earlyout grace,05/04/2017,BE,AB,AB
+16,4PbreakEOgrace,4P user with break earlyout grace,06/04/2017,BE,AB,AB
+17,4PbreakEOgrace,4P user with break earlyout grace,07/04/2017,BE,AB,AB
+18,4PbreakEOgrace,4P user with break earlyout grace,08/04/2017,BE,AB,AB
+19,4PBreakLIex,4P user exceeds break latein,03/04/2017,BR,PR,AB
+20,4PBreakLIex,4P user exceeds break latein,04/04/2017,BR,AB,AB
+21,4PBreakLIex,4P user exceeds break latein,05/04/2017,BR,AB,AB
+22,4PBreakLIex,4P user exceeds break latein,06/04/2017,BR,AB,AB
+23,4PBreakLIex,4P user exceeds break latein,07/04/2017,BR,AB,AB
+24,4PBreakLIex,4P user exceeds break latein,08/04/2017,BR,AB,AB
+25,4pgracebreakear,4 punch user with break early out and grace,06/04/2017,HO,AB,PR
+26,4pgracebreakear,4 punch user with break early out and grace,08/04/2017,HO,AB,PR
+27,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017,HO,PR,AB
+28,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017,HO,PR,AB
+29,auto,auto,06/04/2017,A2,IN,TR
+30,Autoshift,Auto shift user with shift schedule not proce,05/04/2017,HO,PR,AB
+31,Autoshift,Auto shift user with shift schedule not proce,06/04/2017,,AB,AB
+32,Awardandpenalty,award n penalty,03/04/2017,HO,AB,AB
+33,Awardandpenalty,award n penalty,04/04/2017,HO,AB,AB
+34,Awardandpenalty,award n penalty,05/04/2017,HO,AB,AB
+35,Awardandpenalty,award n penalty,06/04/2017,HO,AB,AB
+36,Awardandpenalty,award n penalty,07/04/2017,HO,AB,AB
+37,Awardandpenalty,award n penalty,08/04/2017,HO,AB,AB
+38,BreakLIinTotal,Break latein in total latein,03/04/2017,BT,AB,AB
+39,BreakLIinTotal,Break latein in total latein,04/04/2017,BT,AB,AB
+40,BreakLIinTotal,Break latein in total latein,05/04/2017,BT,AB,AB
+41,BreakLIinTotal,Break latein in total latein,06/04/2017,BT,AB,AB
+42,BreakLIinTotal,Break latein in total latein,07/04/2017,BT,AB,AB
+43,BreakLIinTotal,Break latein in total latein,08/04/2017,BT,AB,AB
+44,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,03/04/2017,HO,AB,AB
+45,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,04/04/2017,HO,AB,AB
+46,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,05/04/2017,HO,AB,AB
+47,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,06/04/2017,HO,AB,AB
+48,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,07/04/2017,HO,AB,AB
+49,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,08/04/2017,HO,AB,AB
+50,daily1earlyin,Cal onWOPH as per weekday,03/04/2017,HO,AB,AB
+51,daily1earlyin,Cal onWOPH as per weekday,04/04/2017,HO,AB,AB
+52,daily1earlyin,Cal onWOPH as per weekday,05/04/2017,HO,AB,AB
+53,daily1earlyin,Cal onWOPH as per weekday,06/04/2017,HO,AB,AB
+54,daily1earlyin,Cal onWOPH as per weekday,07/04/2017,HO,AB,AB
+55,daily1earlyin,Cal onWOPH as per weekday,08/04/2017,HO,AB,AB
+56,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,03/04/2017,HO,AB,AB
+57,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,04/04/2017,HO,AB,AB
+58,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,05/04/2017,HO,AB,AB
+59,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,06/04/2017,HO,AB,AB
+60,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,07/04/2017,HO,AB,AB
+61,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,08/04/2017,HO,AB,AB
+62,daily1wkdys,daily1 wkdys and weekends not assigned,03/04/2017,HO,AB,AB
+63,daily1wkdys,daily1 wkdys and weekends not assigned,04/04/2017,HO,AB,AB
+64,daily1wkdys,daily1 wkdys and weekends not assigned,05/04/2017,HO,AB,AB
+65,daily1wkdys,daily1 wkdys and weekends not assigned,06/04/2017,HO,AB,AB
+66,daily1wkdys,daily1 wkdys and weekends not assigned,07/04/2017,HO,AB,AB
+67,daily1wkdys,daily1 wkdys and weekends not assigned,08/04/2017,HO,AB,AB
+68,Flexible,flexibleuser,03/04/2017,HO,AB,AB
+69,Flexible,flexibleuser,04/04/2017,HO,AB,AB
+70,Flexible,flexibleuser,05/04/2017,HO,AB,AB
+71,Flexible,flexibleuser,06/04/2017,HO,AB,AB
+72,Flexible,flexibleuser,07/04/2017,HO,AB,AB
+73,Flexible,flexibleuser,08/04/2017,HO,AB,AB
+74,FlexibleMonthly,FlexibleMonthly,07/04/2017,GS,AB,AB
+75,FlexibleMonthly,FlexibleMonthly,08/04/2017,GS,AB,AB
+76,FlexibleMonthly,FlexibleMonthly,09/04/2017,GS,AB,AB
+77,FlexibleNone,FlexibleNone,03/04/2017,GS,AB,AB
+78,FlexibleNone,FlexibleNone,04/04/2017,GS,AB,AB
+79,FlexibleNone,FlexibleNone,07/04/2017,GS,AB,AB
+80,FlexibleNone,FlexibleNone,08/04/2017,GS,AB,AB
+81,FlexibleNone,FlexibleNone,09/04/2017,GS,AB,AB
+82,FlexibleOT,OT for flexible user,03/04/2017,HO,AB,AB
+83,FlexibleOT,OT for flexible user,04/04/2017,HO,AB,AB
+84,FlexibleOT,OT for flexible user,05/04/2017,HO,AB,AB
+85,FlexibleOT,OT for flexible user,06/04/2017,HO,AB,AB
+86,FlexibleOT,OT for flexible user,07/04/2017,HO,AB,AB
+87,FlexibleOT,OT for flexible user,08/04/2017,HO,AB,AB
+88,Inpunch,User with In pucnh only,01/04/2017,HO,IN,PL
+89,Inpunch,User with In pucnh only,03/04/2017,HO,IN,AB
+90,Inpunch,User with In pucnh only,04/04/2017,HO,AB,AB
+91,Inpunch,User with In pucnh only,05/04/2017,HO,AB,AB
+92,Inpunch,User with In pucnh only,06/04/2017,HO,AB,AB
+93,Inpunch,User with In pucnh only,07/04/2017,HO,AB,AB
+94,Inpunch,User with In pucnh only,08/04/2017,HO,AB,AB
+95,JPC,JPC user,03/04/2017,HO,AB,AB
+96,JPC,JPC user,04/04/2017,HO,AB,AB
+97,JPC,JPC user,05/04/2017,HO,AB,AB
+98,JPC,JPC user,06/04/2017,HO,AB,AB
+99,JPC,JPC user,07/04/2017,HO,AB,AB
+100,JPC,JPC user,08/04/2017,HO,AB,AB
+101,Jpcdefaultenter,Job coseting user with default job of enterpr,03/04/2017,HO,AB,AB
+102,Jpcdefaultenter,Job coseting user with default job of enterpr,04/04/2017,HO,AB,AB
+103,Jpcdefaultenter,Job coseting user with default job of enterpr,05/04/2017,HO,AB,AB
+104,Jpcdefaultenter,Job coseting user with default job of enterpr,06/04/2017,HO,AB,AB
+105,Jpcdefaultenter,Job coseting user with default job of enterpr,07/04/2017,HO,AB,AB
+106,Jpcdefaultenter,Job coseting user with default job of enterpr,08/04/2017,HO,AB,AB
+107,JPCdefaultjob,JPC default job,03/04/2017,HO,AB,AB
+108,JPCdefaultjob,JPC default job,04/04/2017,HO,AB,AB
+109,JPCdefaultjob,JPC default job,05/04/2017,HO,AB,AB
+110,JPCdefaultjob,JPC default job,06/04/2017,HO,AB,AB
+111,JPCdefaultjob,JPC default job,07/04/2017,HO,AB,AB
+112,JPCdefaultjob,JPC default job,08/04/2017,HO,AB,AB
+113,Jpcdevicebased,JPC user with device based,03/04/2017,HO,AB,AB
+114,Jpcdevicebased,JPC user with device based,04/04/2017,HO,AB,AB
+115,Jpcdevicebased,JPC user with device based,05/04/2017,HO,AB,AB
+116,Jpcdevicebased,JPC user with device based,06/04/2017,HO,AB,AB
+117,Jpcdevicebased,JPC user with device based,07/04/2017,HO,AB,AB
+118,Jpcdevicebased,JPC user with device based,08/04/2017,HO,AB,AB
+119,JPCmergejob,JPC merged Job,01/04/2017,HO,IN,PL
+120,JPCmergejob,JPC merged Job,03/04/2017,HO,AB,AB
+121,JPCmergejob,JPC merged Job,04/04/2017,HO,AB,AB
+122,JPCmergejob,JPC merged Job,05/04/2017,HO,AB,AB
+123,JPCmergejob,JPC merged Job,06/04/2017,HO,AB,AB
+124,JPCmergejob,JPC merged Job,07/04/2017,HO,AB,AB
+125,JPCmergejob,JPC merged Job,08/04/2017,HO,AB,AB
+126,JPCsitedefaultj,JPC user with sitewise default job,03/04/2017,HO,AB,AB
+127,JPCsitedefaultj,JPC user with sitewise default job,04/04/2017,HO,AB,AB
+128,JPCsitedefaultj,JPC user with sitewise default job,05/04/2017,HO,AB,AB
+129,JPCsitedefaultj,JPC user with sitewise default job,06/04/2017,HO,AB,AB
+130,JPCsitedefaultj,JPC user with sitewise default job,07/04/2017,HO,AB,AB
+131,JPCsitedefaultj,JPC user with sitewise default job,08/04/2017,HO,AB,AB
+132,JPCSplitHO,JPC split timesheet normal shift,03/04/2017,HO,AB,AB
+133,JPCSplitHO,JPC split timesheet normal shift,04/04/2017,HO,AB,AB
+134,JPCSplitHO,JPC split timesheet normal shift,05/04/2017,HO,AB,AB
+135,JPCSplitHO,JPC split timesheet normal shift,06/04/2017,HO,AB,AB
+136,JPCSplitHO,JPC split timesheet normal shift,07/04/2017,HO,AB,AB
+137,JPCSplitHO,JPC split timesheet normal shift,08/04/2017,HO,AB,AB
+138,NpunchFlexible,Npunch user with type as flexible,03/04/2017,HO,AB,AB
+139,NpunchFlexible,Npunch user with type as flexible,04/04/2017,HO,AB,AB
+140,NpunchFlexible,Npunch user with type as flexible,05/04/2017,HO,AB,AB
+141,NpunchFlexible,Npunch user with type as flexible,06/04/2017,HO,AB,AB
+142,NpunchFlexible,Npunch user with type as flexible,07/04/2017,HO,AB,AB
+143,NpunchFlexible,Npunch user with type as flexible,08/04/2017,HO,AB,AB
+144,nPunchlatein,npunch user with 30min latein,03/04/2017,GS,PR,AB
+145,nPunchlatein,npunch user with 30min latein,05/04/2017,GS,PR,AB
+146,nPunchlatein,npunch user with 30min latein,06/04/2017,GS,PR,AB
+147,nPunchlatein,npunch user with 30min latein,08/04/2017,GS,PR,AB
+148,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,01/04/2017,HO,IN,PL
+149,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,03/04/2017,HO,IN,PL
+150,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,03/04/2017,HO,AB,AB
+151,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,04/04/2017,HO,AB,AB
+152,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,05/04/2017,HO,AB,AB
+153,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,06/04/2017,HO,AB,AB
+154,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,07/04/2017,HO,AB,AB
+155,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,08/04/2017,HO,AB,AB
+156,RestrictedDail1,Restricted OT cal for Daily1,03/04/2017,HO,AB,AB
+157,RestrictedDail1,Restricted OT cal for Daily1,04/04/2017,HO,AB,AB
+158,RestrictedDail1,Restricted OT cal for Daily1,05/04/2017,HO,AB,AB
+159,RestrictedDail1,Restricted OT cal for Daily1,06/04/2017,HO,AB,AB
+160,RestrictedDail1,Restricted OT cal for Daily1,07/04/2017,HO,AB,AB
+161,RestrictedDail1,Restricted OT cal for Daily1,08/04/2017,HO,AB,AB
+162,RestrictedDail1,Restricted OT cal for Daily1,10/04/2017,HO,AB,AB
+163,SpecialOvertime,Special Overtime,04/04/2017,SO,,
+164,SpecialOvertime,Special Overtime,05/04/2017,SO,,
+165,SpecialOvertime,Special Overtime,06/04/2017,SO,,
+166,SpecialOvertime,Special Overtime,07/04/2017,SO,,
+167,SpecialOvertime,Special Overtime,08/04/2017,SO,,
+168,SpecialOvertime,Special Overtime,09/04/2017,SO,,
+169,weekOffChange,weekOff,01/04/2017,GS,AB,AB
+170,weekOffChange,weekOff,02/04/2017,GS,AB,AB
+171,weekOffChange,weekOff,03/04/2017,GS,AB,AB
+172,weekOffChange,weekOff,04/04/2017,GS,AB,AB
+173,weekOffChange,weekOff,06/04/2017,GS,AB,AB
+174,weekOffChange,weekOff,07/04/2017,GS,AB,AB
+175,weekOffChange,weekOff,09/04/2017,GS,AB,AB

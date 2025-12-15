@@ -1,0 +1,141 @@
+UID	Uname	IdName
+111	abc	111Mayank
+12	abc	12dfddd
+1234	abc	1234test user
+1515	abc	1515AMIT-BLE
+21	abc	21Shift allwnce
+21212	abc	21212Worker_S
+2breaklatein	abc	2breaklatein2punch user with break latein
+2pGraceinWH	abc	2pGraceinWH2Punch user includes grace time in work hours
+2pgracelatein	abc	2pgracelatein2punch user with grace and late in policy
+2pgraceshiftEO	abc	2pgraceshiftEO2punch user for EO Shift grace and EO duratio
+2pofficialin	abc	2pofficialin2punch user with official in
+2pOfficialout	abc	2pOfficialout2 punch user with official out
+2poutfromexit	abc	2poutfromexit2Punch user with out punch from exit reader o
+2pshortleaveout	abc	2pshortleaveout2 Punch user for shortleave out
+2punchearlyout	abc	2punchearlyout2punchuserwith earlyout policy
+2punchnoearly	abc	2punchnoearly2punch with no earlyout duration
+2punchnolatein	abc	2punchnolatein2punch user with no late in duration applicab
+2punchshortleav	abc	2punchshortleavShortleave in for 2 punch
+2punchuser	abc	2punchuser2punch user with latein
+2pwithexitreade	abc	2pwithexitreadeExit reader enabled but punches from entry
+4breaklatein	abc	4breaklatein4 punch user with break latein AND earlyout
+4PbreakEO	abc	4PbreakEO4 Punch user with break earlyout
+4PBreakEOex	abc	4PBreakEOex4P Break for earlyout exceeds
+4PbreakEOgrace	abc	4PbreakEOgrace4P user with break earlyout grace
+4Pbreakingrace	abc	4Pbreakingrace4 punch user with break hours within grace
+4Pbreaklatein	abc	4Pbreaklatein4p user with break latein
+4PBreakLIex	abc	4PBreakLIex4P user exceeds break latein
+4pgracebreakear	abc	4pgracebreakear4 punch user with break early out and grace
+4pgracebreaklat	abc	4pgracebreaklat4 punch user with grace for shift and breakla
+4ptotallatein	abc	4ptotallatein4punch user for adding break latein in total
+auto	abc	autoauto
+Autoshift	abc	AutoshiftAuto shift user with shift schedule not proce
+Autoshiftproces	abc	AutoshiftprocesAuto shift user whose shift has been processe
+Awardandpenalty	abc	Awardandpenaltyaward n penalty
+BreakEOexceeds	abc	BreakEOexceedsInclude Break early out in shift exceeds TD
+BreakEOInTotal	abc	BreakEOInTotalBreak earlyout in total early out
+BreakLIexceeds	abc	BreakLIexceedsExceeds break and total latein
+BreakLIinTotal	abc	BreakLIinTotalBreak latein in total latein
+CalcWkdaynwkoff	abc	CalcWkdaynwkoffCal of OT on Wkday and WeekOff as per chkbox
+chiag	abc	chiagchirag
+Chirag/Hourly	abc	Chirag/HourlyChirag
+Club_rule	abc	Club_ruleClub_rule
+club_rule_1	abc	club_rule_1club_rule_1
+COFF	abc	COFFCOFF
+D1	abc	D1Dummy1
+daily1earlyin	abc	daily1earlyinCal onWOPH as per weekday
+daily1OTNtconfi	abc	daily1OTNtconfiDaily1 OT Not configured for Wkdays n weekend
+daily1weekends	abc	daily1weekendsdaily1 weekends config in OT
+daily1wkdys	abc	daily1wkdysdaily1 wkdys and weekends not assigned
+earlyout	abc	earlyoutuser punches on early out duration of 30mins
+Earlyoutgrace	abc	EarlyoutgraceEarlyout user with punches on grace time
+Eligiblehours	abc	EligiblehoursEligible work hours
+EOdurationexcee	abc	EOdurationexceeEO duration exceeds
+EOgraceexceed	abc	EOgraceexceedEarlyout grace duration exceeds
+FB	abc	FBOT for FB
+firsthalfabsent	abc	firsthalfabsentFirst half absent
+Firsthalfleave	abc	FirsthalfleaveUser with first half leave
+Flexible	abc	Flexibleflexibleuser
+FlexibleMonthly	abc	FlexibleMonthlyFlexibleMonthly
+FlexibleNone	abc	FlexibleNoneFlexibleNone
+FlexibleOT	abc	FlexibleOTOT for flexible user
+Fulldayleave	abc	FulldayleaveUser with full day leave
+hourlyPaidLeave	abc	hourlyPaidLeavehourlyPaidLeave
+Inpunch	abc	InpunchUser with In pucnh only
+Intercom	abc	IntercomIntercom
+JPC	abc	JPCJPC user
+Jpcdefaultenter	abc	JpcdefaultenterJob coseting user with default job of enterpr
+JPCdefaultjob	abc	JPCdefaultjobJPC default job
+Jpcdevicebased	abc	JpcdevicebasedJPC user with device based
+JPCmergejob	abc	JPCmergejobJPC merged Job
+JPCNEW	abc	JPCNEWJPCNEW
+JPCsitedefaultj	abc	JPCsitedefaultjJPC user with sitewise default job
+JPCSplitHO	abc	JPCSplitHOJPC split timesheet normal shift
+JPCSplitNS	abc	JPCSplitNSJPC split timesheet night shift
+l1	abc	l1leave1
+Lategraceexceed	abc	LategraceexceedUser with exceed grace period
+Latein	abc	Lateinuser punches on latein only
+Lateinduraexcee	abc	LateinduraexceeLate in Duration exceed
+Lateingrace	abc	LateingraceUser have pucnges on grace latein
+leave_user2	abc	leave_user2leave_user2
+LeaveEncash	abc	LeaveEncashLeaveEncash
+leavehpl	abc	leavehplleavehpl
+Lessworkhours	abc	LessworkhoursLess work hours for daily limit
+manualOT	abc	manualOTUser with Manual Overtime
+mitali	abc	mitalimitali
+mitali1	abc	mitali1mitali1
+mixshift	abc	mixshiftmixshifts
+mjr	abc	mjrmjr
+mjr1	abc	mjr1mjr1
+mjr2	abc	mjr2mjr2
+NetworkHrs	abc	NetworkHrsNetworkhours bt no OT Component
+new	abc	newnew
+new_user	abc	new_usernew_user
+new_user1	abc	new_user1new_user1
+new1	abc	new1new1
+new2	abc	new2new2
+NightShift	abc	NightShiftNightShift
+Ninad	abc	Ninadninad
+Normal	abc	Normalnormal user
+npgraceEO	abc	npgraceEONpunch user with grace in EO and EO duration
+NpofficialIn	abc	NpofficialInN punch user for official In
+Npoutfromexit	abc	NpoutfromexitNpunch user with out punch from exit reader
+npshortleavein	abc	npshortleaveinn punch user for shortleave in
+npshortleaveout	abc	npshortleaveoutn punch user with short leave out
+Npucnofficialou	abc	NpucnofficialouN punch user with official out
+Npunchbeyond	abc	NpunchbeyondNpunch user with deduction type as beyond
+NpunchFlexible	abc	NpunchFlexibleNpunch user with type as flexible
+Npunchgreater	abc	NpunchgreaterN punch user with greater than deduction typr
+nPunchlatein	abc	nPunchlateinnpunch user with 30min latein
+NpunchNightshif	abc	NpunchNightshifN punch user with night shift
+npunchnoearly	abc	npunchnoearlynpunch user with no earlyout policy
+npunchnolatein	abc	npunchnolateinNpunch user with no late in duration
+npunchwithearly	abc	npunchwithearlynpunch user with earlyout policy
+NpWithexitenabl	abc	NpWithexitenablNpunchuser exit enabled bt punches frm entry
+OT_COFF	abc	OT_COFFOT_COFF
+OTcalWkdyntchk	abc	OTcalWkdyntchkCal on weekday bt wkday is nt checked for OT
+OTCOFFBoth	abc	OTCOFFBothAuto authorize OT COFF
+OTonWeekdays	abc	OTonWeekdaysOvertime consider  weekdays for WOPH
+RestrictedDail1	abc	RestrictedDail1Restricted OT cal for Daily1
+RI1	abc	RI1Reporting Incharge1
+RI12	abc	RI12Reporting incharge1
+RI2	abc	RI2Reporting Incharge2
+s1	abc	s1s1
+Secondhalfleave	abc	Secondhalfleaveuser with second half leave
+seconhalfabsent	abc	seconhalfabsentsecond half absent
+SpecialOTearlyi	abc	SpecialOTearlyiSpecial OT with earlyin defined component
+SpecialOTwOearl	abc	SpecialOTwOearlSpecialOTWithoutearlyIn
+SpecialOvertime	abc	SpecialOvertimeSpecial Overtime
+test1	abc	test1test1
+Test2	abc	Test2test2
+Tour_user	abc	Tour_userTour_user
+Tour_user1	abc	Tour_user1Tour_user1
+W1	abc	W1W1
+w10	abc	w10Worker10
+W2	abc	W2W2
+W3	abc	W3W3
+w4	abc	w4w4
+W5	abc	W5W5
+w6	abc	w6w6
+weekOffChange	abc	weekOffChangeweekOff

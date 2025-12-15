@@ -1,0 +1,29 @@
+,,DADB,,,,Page 1 of 1
+,,User-Wise Transactions From 02/01/2022 To 02/10/2022,,,,
+Run by:,System Admin,,,Date:,,
+Sr No.,Date Time,,Device,Previous Balance,Transaction Amount, Transaction
+new-new,,,,,,
+1,02/02/2022 15:33,,System,,300.00,Recharge
+2,02/02/2022 15:33,,Vega Controller-Device-18,,10.00,Purchase
+3,02/02/2022 15:33,,Vega Controller-Device-18,,10.00,Purchase
+4,02/02/2022 15:34,,Vega Controller-Device-18,,10.00,Purchase
+5,02/02/2022 15:34,,Vega Controller-Device-18,,10.00,Purchase
+6,02/02/2022 15:34,,Vega Controller-Device-18,,10.00,Purchase
+7,02/02/2022 15:34,,Vega Controller-Device-18,,10.00,Purchase
+8,02/02/2022 15:53,,System,,50.00,Recharge
+new1-new1,,,,,,
+1,02/02/2022 15:26,,Vega Controller-Device-18,,10.00,Purchase
+2,02/02/2022 15:26,,System,,10.00,Payment
+3,02/02/2022 15:27,,System,,10.00,Adjustment
+4,02/02/2022 15:28,,Vega Controller-Device-18,,10.00,Purchase
+test1-test1,,,,,,
+1,02/02/2022 15:06,,System,,500.00,Recharge
+2,02/02/2022 15:25,,Vega Controller-Device-18,,10.00,Purchase
+3,02/02/2022 16:25,,Vega Controller-Device-18,,10.00,Purchase
+4,02/02/2022 16:26,,Vega Controller-Device-18,,10.00,Purchase
+5,02/02/2022 16:27,,Vega Controller-Device-18,,10.00,Purchase
+6,02/02/2022 16:30,,Vega Controller-Device-18,,10.00,Purchase
+Test2-test2,,,,,,
+1,02/02/2022 15:06,,System,,500.00,Recharge
+2,02/02/2022 15:27,,System,,10.00,Adjustment
+3,02/02/2022 16:27,,Vega Controller-Device-18,,10.00,Purchase

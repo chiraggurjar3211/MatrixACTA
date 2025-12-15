@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="24.1.6.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="Events" DisplayName="Events" PaperKind="A2" PageWidth="1654" PageHeight="2339" Version="24.1" DataMember="Events" DataSource="#Ref-0" Tag_type="System.Byte" Tag="0">
+  <Extensions>
+    <Item1 Ref="2" Key="DataSerializationExtension" Value="CustomUntypedDataSetSerializer" />
+  </Extensions>
+  <CalculatedFields>
+    <Item1 Ref="3" Name="Punchtime" DisplayName="Event Time(HH:MM)" Expression=" Concat( [calculatedField4] ,':', [calculatedField3] )" DataMember="Events" />
+    <Item2 Ref="4" Name="PUNCHDATE" DisplayName="Event Date" Expression=" GetDate( [Event Date Time] ) " DataMember="Events" />
+    <Item3 Ref="5" Name="eventdelay" DisplayName="Event Delay_Duration(HH:MM)" Expression=" Concat( [zeropaddinghrs]  ,':', [zeropaddingeventdelay]  ) " DataMember="Events" />
+    <Item4 Ref="6" Name="eventtype" DisplayName="Event Type : Entry/Exit" Expression=" Iif( [In/Out Event] == '0','IN' ,'OUT' ) " DataMember="Events" />
+    <Item5 Ref="7" Name="zeropaddingeventdelay" DisplayName="Event Delay Duration(Mins)_Zero Padding" Expression=" Iif( Len( [eventsdelaymins] ) &lt; '2' , PadLeft( [eventsdelaymins] ,2 , '0') , [eventsdelaymins]  ) " DataMember="Events" />
+    <Item6 Ref="8" Name="eventsdelaymins" FieldType="String" DisplayName="Event Delay Duration_Mins" Expression=" [Event Delay-Mins] % 60" DataMember="Events" />
+    <Item7 Ref="9" Name="punchdelayhrs" DisplayName="Event Delay Duration_Hrs" Expression=" [Event Delay-Mins] /  60" DataMember="Events" />
+    <Item8 Ref="10" Name="zeropaddinghrs" DisplayName="Event Delay Duration(Hours)_Zero Padding" Expression=" Iif( Len( [punchdelayhrs]  ) &lt; '2' , PadLeft( [punchdelayhrs]  ,2 , '0') , [punchdelayhrs]  ) " DataMember="Events" />
+    <Item9 Ref="11" Name="calculatedField1" DisplayName="Event Time_Hours" Expression=" GetHour( [Event Date Time] ) " DataMember="Events" />
+    <Item10 Ref="12" Name="calculatedField2" DisplayName="Event Time_Minute" Expression=" GetMinute( [Event Date Time] ) " DataMember="Events" />
+    <Item11 Ref="13" Name="calculatedField3" DisplayName="Event Time(MInutes)_ZeroPadding" Expression=" Iif( Len( [calculatedField2]  ) &lt; '2' , PadLeft( [calculatedField2]  ,2 , '0') , [calculatedField2]   ) " DataMember="Events" />
+    <Item12 Ref="14" Name="calculatedField4" DisplayName="Event Time(Hours)_Zero Padding" Expression=" Iif( Len( [calculatedField1]  ) &lt; '2' , PadLeft( [calculatedField1]  ,2 , '0') , [calculatedField1]   ) " DataMember="Events" />
+    <Item13 Ref="15" Name="calculatedField6" DisplayName="Event Source Data" Expression="Iif([Event Source ID]==0,Iif([Device Name] != 'NULL',Concat('Device:',[Device Name] ),Concat('MID:',[Master Controller ID],' ','DID:',[Door ID] ) ) ,Iif([GPS Latitude] != 'NULL' &amp;&amp; [GPS Longitude] != 'NULL',Concat('GPSLat:',[GPS Latitude],' ','GPSLong:', [GPS Longitude]) ,Iif([GSM Latitude] != 'NULL' &amp;&amp; [GSM Longitude] != 'NULL',Concat('GSMLat:',[GSM Latitude],' ','GSMLong:',[GSM Longitude] ) ,Iif([MAC Address] != 'NULL',Concat('MAC:',[MAC Address]) ,Concat('BLE:',[BLE Code]) ) ) ) )" DataMember="Events" />
+  </CalculatedFields>
+  <Bands>
+    <Item1 Ref="16" ControlType="TopMarginBand" Name="TopMargin" TextAlignment="TopLeft" Padding="0,0,0,0,100" />
+    <Item2 Ref="17" ControlType="ReportHeaderBand" Name="ReportHeader1" HeightF="51.03" />
+    <Item3 Ref="18" ControlType="PageHeaderBand" Name="PageHeader" HeightF="200.33">
+      <Controls>
+        <Item1 Ref="19" ControlType="XRLabel" Name="label3" TextFormatString="{0:dd/MM/yyyy}" Text="[ToDate]" SizeF="175,50" LocationFloat="866.51,50" Font="Times New Roman, 14pt, style=Bold, Italic" ForeColor="255,8,61,135" Padding="2,2,0,0,100" Tag_type="System.String" Tag="To_Date">
+          <StylePriority Ref="20" UseFont="false" UseForeColor="false" />
+        </Item1>
+        <Item2 Ref="21" ControlType="XRLabel" Name="label2" TextFormatString="{0:dd/MM/yyyy}" Text="[FromDate]" TextAlignment="TopCenter" SizeF="125,50" LocationFloat="701.51,50" Font="Times New Roman, 14pt, style=Bold, Italic" ForeColor="255,8,61,135" Padding="2,2,0,0,100" Tag_type="System.String" Tag="From_Date">
+          <StylePriority Ref="22" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="23" ControlType="XRTable" Name="table15" SizeF="40,50" LocationFloat="826.51,50" Font="Times New Roman, 14pt, style=Bold, Italic" ForeColor="255,8,61,135">
+          <Rows>
+            <Item1 Ref="24" ControlType="XRTableRow" Name="tableRow15" Weight="1">
+              <Cells>
+                <Item1 Ref="25" ControlType="XRTableCell" Name="tableCell29" Weight="0.5" Text="To" TextAlignment="TopCenter" Font="Times New Roman, 14pt, style=Bold, Italic">
+                  <StylePriority Ref="26" UseFont="false" UseTextAlignment="false" />
+                </Item1>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="27" UseFont="false" UseForeColor="false" />
+        </Item3>
+        <Item4 Ref="28" ControlType="XRTable" Name="table12" SizeF="300,50" LocationFloat="401.51,50">
+          <Rows>
+            <Item1 Ref="29" ControlType="XRTableRow" Name="tableRow12" Weight="1">
+              <Cells>
+                <Item1 Ref="30" ControlType="XRTableCell" Name="tableCell26" Weight="5.128971428571429" Text="Department - Wise  Details  From " TextAlignment="TopRight" Font="Times New Roman, 14pt, style=Bold, Italic" ForeColor="255,8,61,135">
+                  <StylePriority Ref="31" UseFont="false" UseForeColor="false" UseTextAlignment="false" />
+                </Item1>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item4>
+        <Item5 Ref="32" ControlType="XRPageInfo" Name="pageInfo3" TextFormatString="Page {0} of {1}" TextAlignment="MiddleCenter" SizeF="100,23" LocationFloat="1201.49,77.08" Font="Times New Roman, 9pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="33" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="34" ControlType="XRTable" Name="table9" SizeF="450,50" LocationFloat="500.43,0">
+          <Rows>
+            <Item1 Ref="35" ControlType="XRTableRow" Name="tableRow9" Weight="1">
+              <Cells>
+                <Item1 Ref="36" ControlType="XRTableCell" Name="tableCell25" Weight="3" Text="IN/OUT Punch Posting Report" TextAlignment="MiddleCenter" Font="Times New Roman, 17pt, style=Bold, Underline" ForeColor="255,8,61,135" Borders="None">
+                  <StylePriority Ref="37" UseFont="false" UseForeColor="false" UseBorders="false" UseTextAlignment="false" />
+                </Item1>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item6>
+        <Item7 Ref="38" ControlType="XRPictureBox" Name="pictureBox1" Sizing="StretchImage" ImageAlignment="MiddleCenter" SizeF="200,50" LocationFloat="101.51,50" Tag_type="System.String" Tag="Company_Logo" />
+        <Item8 Ref="39" ControlType="XRLine" Name="line1" LineWidth="2" SizeF="1300,23" LocationFloat="101.51,149.95" />
+        <Item9 Ref="40" ControlType="XRTable" Name="table11" SizeF="300,25" LocationFloat="101.51,124.9" Font="Times New Roman, 10pt">
+          <Rows>
+            <Item1 Ref="41" ControlType="XRTableRow" Name="tableRow11" Weight="1">
+              <Cells>
+                <Item1 Ref="42" ControlType="XRTableCell" Name="tableCell16" Weight="1" Text="Run By :       " TextAlignment="MiddleRight" Font="Times New Roman, 9pt, style=Bold">
+                  <StylePriority Ref="43" UseFont="false" UseTextAlignment="false" />
+                </Item1>
+                <Item2 Ref="44" ControlType="XRTableCell" Name="tableCell18" Weight="2" Text="tableCell18">
+                  <Controls>
+                    <Item1 Ref="45" ControlType="XRPageInfo" Name="pageInfo1" PageInfo="UserName" TextAlignment="MiddleLeft" SizeF="200,25" LocationFloat="0.01,0" Font="Times New Roman, 10pt, style=Bold" Padding="2,2,0,0,100">
+                      <StylePriority Ref="46" UseFont="false" UseTextAlignment="false" />
+                    </Item1>
+                  </Controls>
+                </Item2>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="47" UseFont="false" />
+        </Item9>
+        <Item10 Ref="48" ControlType="XRTable" Name="table4" TextAlignment="MiddleCenter" SizeF="400,25" LocationFloat="1001.51,174.98" Font="Times New Roman, 9pt, style=Bold" ForeColor="255,252,255,255" BackColor="255,7,104,143" BorderColor="255,204,113,22" Borders="All">
+          <Rows>
+            <Item1 Ref="49" ControlType="XRTableRow" Name="tableRow4" Weight="1">
+              <Cells>
+                <Item1 Ref="50" ControlType="XRTableCell" Name="tableCell10" Weight="1" Text="Entry/Exit" />
+                <Item2 Ref="51" ControlType="XRTableCell" Name="tableCell11" Weight="2" Text="Event Source" />
+                <Item3 Ref="52" ControlType="XRTableCell" Name="tableCell12" Weight="1" Text="Site Name" />
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="53" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorderColor="false" UseBorders="false" UseTextAlignment="false" />
+        </Item10>
+        <Item11 Ref="54" ControlType="XRTable" Name="table3" TextAlignment="MiddleCenter" SizeF="300,25" LocationFloat="701.51,174.98" Font="Times New Roman, 9pt, style=Bold" ForeColor="255,252,255,255" BackColor="255,7,104,143" BorderColor="255,204,113,22" Borders="All">
+          <Rows>
+            <Item1 Ref="55" ControlType="XRTableRow" Name="tableRow3" Weight="1">
+              <Cells>
+                <Item1 Ref="56" ControlType="XRTableCell" Name="tableCell7" Weight="1" Text="Event Date" />
+                <Item2 Ref="57" ControlType="XRTableCell" Name="tableCell8" Weight="1" Text="Event Time" />
+                <Item3 Ref="58" ControlType="XRTableCell" Name="tableCell9" Weight="1" Text="Event Delay" />
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="59" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorderColor="false" UseBorders="false" UseTextAlignment="false" />
+        </Item11>
+        <Item12 Ref="60" ControlType="XRTable" Name="table2" TextAlignment="MiddleCenter" SizeF="100,25" LocationFloat="601.51,174.98" Font="Times New Roman, 9pt, style=Bold" ForeColor="255,252,255,255" BackColor="255,7,104,143" BorderColor="255,204,113,22" Borders="All">
+          <Rows>
+            <Item1 Ref="61" ControlType="XRTableRow" Name="tableRow2" Weight="1">
+              <Cells>
+                <Item1 Ref="62" ControlType="XRTableCell" Name="tableCell5" Weight="2" Text="&lt;designation&gt;" />
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="63" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorderColor="false" UseBorders="false" UseTextAlignment="false" />
+        </Item12>
+        <Item13 Ref="64" ControlType="XRTable" Name="table1" TextAlignment="MiddleCenter" SizeF="500,25" LocationFloat="101.51,174.98" Font="Times New Roman, 9pt, style=Bold" ForeColor="255,252,255,255" BackColor="255,7,104,143" BorderColor="255,204,113,22" Borders="All">
+          <Rows>
+            <Item1 Ref="65" ControlType="XRTableRow" Name="tableRow1" Weight="1">
+              <Cells>
+                <Item1 Ref="66" ControlType="XRTableCell" Name="tableCell1" Weight="1" Text="Sr. No." />
+                <Item2 Ref="67" ControlType="XRTableCell" Name="tableCell2" Weight="1.5" Text="&lt;user&gt; ID" />
+                <Item3 Ref="68" ControlType="XRTableCell" Name="tableCell3" Weight="2.5" Text="&lt;user&gt; Name" />
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="69" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorderColor="false" UseBorders="false" UseTextAlignment="false" />
+        </Item13>
+      </Controls>
+    </Item3>
+    <Item4 Ref="70" ControlType="GroupHeaderBand" Name="GroupHeader1" RepeatEveryPage="true" HeightF="25.07" Font="Times New Roman, 10pt, style=Bold, Italic" BackColor="255,204,196,196">
+      <GroupFields>
+        <Item1 Ref="71" FieldName="Department Name" />
+      </GroupFields>
+      <Controls>
+        <Item1 Ref="72" ControlType="XRTable" Name="table10" SizeF="1300,25" LocationFloat="101.51,0">
+          <Rows>
+            <Item1 Ref="73" ControlType="XRTableRow" Name="tableRow10" Weight="1">
+              <Cells>
+                <Item1 Ref="74" ControlType="XRTableCell" Name="tableCell4" Weight="1" Text="tableCell4" TextAlignment="MiddleCenter">
+                  <ExpressionBindings>
+                    <Item1 Ref="75" EventName="BeforePrint" PropertyName="Text" Expression="[Department ID]" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="76" UseTextAlignment="false" />
+                </Item1>
+                <Item2 Ref="77" ControlType="XRTableCell" Name="tableCell6" Weight="12" TextTrimming="None" Text="tableCell6" TextAlignment="MiddleLeft" Padding="2,0,0,0,100">
+                  <ExpressionBindings>
+                    <Item1 Ref="78" EventName="BeforePrint" PropertyName="Text" Expression="[Department Name]" />
+                  </ExpressionBindings>
+                  <StylePriority Ref="79" UsePadding="false" UseTextAlignment="false" />
+                </Item2>
+              </Cells>
+            </Item1>
+          </Rows>
+        </Item1>
+      </Controls>
+      <StylePriority Ref="80" UseFont="false" UseBackColor="false" />
+    </Item4>
+    <Item5 Ref="81" ControlType="DetailBand" Name="Detail" HeightF="50" TextAlignment="TopLeft" EvenStyleName="evenstyle" OddStyleName="oddstyle" Padding="0,0,0,0,100">
+      <Controls>
+        <Item1 Ref="82" ControlType="XRTable" Name="table8" TextAlignment="MiddleCenter" SizeF="400,50" LocationFloat="1001.51,0">
+          <Rows>
+            <Item1 Ref="83" ControlType="XRTableRow" Name="tableRow8" Weight="1">
+              <Cells>
+                <Item1 Ref="84" ControlType="XRTableCell" Name="tableCell22" Weight="1" Text="tableCell22">
+                  <ExpressionBindings>
+                    <Item1 Ref="85" EventName="BeforePrint" PropertyName="Text" Expression="[eventtype]" />
+                  </ExpressionBindings>
+                </Item1>
+                <Item2 Ref="86" ControlType="XRTableCell" Name="tableCell23" Weight="2" Text="tableCell23">
+                  <ExpressionBindings>
+                    <Item1 Ref="87" EventName="BeforePrint" PropertyName="Text" Expression="[calculatedField6]" />
+                  </ExpressionBindings>
+                </Item2>
+                <Item3 Ref="88" ControlType="XRTableCell" Name="tableCell24" Weight="1" Text="tableCell24">
+                  <ExpressionBindings>
+                    <Item1 Ref="89" EventName="BeforePrint" PropertyName="Text" Expression="[Site Name]" />
+                  </ExpressionBindings>
+                </Item3>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="90" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="91" ControlType="XRTable" Name="table7" TextAlignment="MiddleCenter" SizeF="300,50" LocationFloat="701.51,0">
+          <Rows>
+            <Item1 Ref="92" ControlType="XRTableRow" Name="tableRow7" Weight="1">
+              <Cells>
+                <Item1 Ref="93" ControlType="XRTableCell" Name="tableCell19" Weight="1" TextFormatString="{0:dd/MM/yyyy}" Text="tableCell19">
+                  <ExpressionBindings>
+                    <Item1 Ref="94" EventName="BeforePrint" PropertyName="Text" Expression="[PUNCHDATE]" />
+                  </ExpressionBindings>
+                </Item1>
+                <Item2 Ref="95" ControlType="XRTableCell" Name="tableCell20" Weight="1" Text="tableCell20">
+                  <ExpressionBindings>
+                    <Item1 Ref="96" EventName="BeforePrint" PropertyName="Text" Expression="[Punchtime]" />
+                  </ExpressionBindings>
+                </Item2>
+                <Item3 Ref="97" ControlType="XRTableCell" Name="tableCell21" Weight="1" Text="tableCell21">
+                  <ExpressionBindings>
+                    <Item1 Ref="98" EventName="BeforePrint" PropertyName="Text" Expression="[eventdelay]" />
+                    <Item2 Ref="99" EventName="BeforePrint" PropertyName="ForeColor" Expression="Iif([Event Delay-Mins] &gt;= 30, 'Red' ,? )" />
+                  </ExpressionBindings>
+                </Item3>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="100" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="101" ControlType="XRTable" Name="table6" TextAlignment="MiddleCenter" SizeF="100,50" LocationFloat="601.51,0">
+          <Rows>
+            <Item1 Ref="102" ControlType="XRTableRow" Name="tableRow6" Weight="1">
+              <Cells>
+                <Item1 Ref="103" ControlType="XRTableCell" Name="tableCell17" Weight="3" Text="tableCell17">
+                  <ExpressionBindings>
+                    <Item1 Ref="104" EventName="BeforePrint" PropertyName="Text" Expression="[Designation Name]" />
+                  </ExpressionBindings>
+                </Item1>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="105" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="106" ControlType="XRTable" Name="table5" TextAlignment="MiddleCenter" SizeF="500,50" LocationFloat="101.51,0">
+          <Rows>
+            <Item1 Ref="107" ControlType="XRTableRow" Name="tableRow5" Weight="1">
+              <Cells>
+                <Item1 Ref="108" ControlType="XRTableCell" Name="tableCell13" Weight="1" Text="tableCell13">
+                  <Summary Ref="109" Running="Report" Func="RecordNumber" />
+                  <StylePriority Ref="110" UseBackColor="false" />
+                </Item1>
+                <Item2 Ref="111" ControlType="XRTableCell" Name="tableCell14" Weight="1.5" Text="tableCell14">
+                  <ExpressionBindings>
+                    <Item1 Ref="112" EventName="BeforePrint" PropertyName="Text" Expression="[User ID]" />
+                  </ExpressionBindings>
+                </Item2>
+                <Item3 Ref="113" ControlType="XRTableCell" Name="tableCell15" Weight="2.5" Text="tableCell15">
+                  <ExpressionBindings>
+                    <Item1 Ref="114" EventName="BeforePrint" PropertyName="Text" Expression="[User Name]" />
+                  </ExpressionBindings>
+                </Item3>
+              </Cells>
+            </Item1>
+          </Rows>
+          <StylePriority Ref="115" UseTextAlignment="false" />
+        </Item4>
+      </Controls>
+    </Item5>
+    <Item6 Ref="116" ControlType="PageFooterBand" Name="PageFooter" HeightF="27.08" />
+    <Item7 Ref="117" ControlType="BottomMarginBand" Name="BottomMargin" TextAlignment="TopLeft" Padding="0,0,0,0,100" />
+  </Bands>
+  <StyleSheet>
+    <Item1 Ref="118" Name="evenstyle" BorderStyle="Inset" BackColor="232,235,229,206" BorderColor="255,204,113,22" Sides="All" StringFormat="Near;Near;0;None;Character;GenericDefault" />
+    <Item2 Ref="119" Name="oddstyle" BorderStyle="Inset" BackColor="102,235,229,206" BorderColor="255,242,153,29" Sides="All" StringFormat="Near;Near;0;None;Character;GenericDefault" />
+  </StyleSheet>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v24.1" Ref="0" Content="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Cosec&gt;&lt;xs:schema id=&quot;Cosec&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&lt;xs:element name=&quot;Cosec&quot; msdata:IsDataSet=&quot;true&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&lt;xs:complexType&gt;&lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&lt;xs:element name=&quot;Events&quot;&gt;&lt;xs:complexType&gt;&lt;xs:sequence&gt;&lt;xs:element name=&quot;Aadhar_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Biometric_x0020_Group_x0020_No.&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Birth_x0020_Date&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;BLE_x0020_Code&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Blood_x0020_Group&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Branch_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Branch_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Branch_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Category_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Category_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Category_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Comment&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Confirmation_x0020_Date&quot; type=&quot;xs:dateTime&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_1_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_1_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_1_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_2_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_2_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_2_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_3_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_3_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Custom_x0020_Group_x0020_3_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Department_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Department_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Department_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Designation_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Designation_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Designation_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Device_x0020_IP_x0020_Address&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Device_x0020_MAC_x0020_Address&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Device_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Device_x0020_Type&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Door_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Driving_x0020_License&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Driving_x0020_License_x0020_Expiry&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;ESI_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Credentials&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Credentials_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Date_x0020_Time&quot; type=&quot;xs:dateTime&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Delay-Mins&quot; type=&quot;xs:int&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Source&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Source_x0020_Details&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Event_x0020_Source_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Experience&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Father_x002F_Spouse_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field1&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field2&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field3&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field4&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field5&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field6&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field7&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field8&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field9&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Field10&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Full_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Gender&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;GPS_x0020_Latitude&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;GPS_x0020_Longitude&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Grade_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Grade_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Grade_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;GSM_x0020_Latitude&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;GSM_x0020_Longitude&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;IMEI_x0020_Registration_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;In_x002F_Out_x0020_Event&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Index_x0020_No&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Insertion_x0020_Date_x0020_Time&quot; type=&quot;xs:dateTime&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Job_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Job_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Job_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Joining_x0020_Date&quot; type=&quot;xs:dateTime&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Leaving_x0020_Date&quot; type=&quot;xs:dateTime&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_Address_x0020_1&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_Address_x0020_2&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_Address_x0020_3&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_City&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_Country&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Local_x0020_State&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;MAC_x0020_Address&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Marital_x0020_Status&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Master_x0020_Controller_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Medical_x0020_History&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Nationality&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Office_x0020_Extension_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Official_x0020_Email_x0020_ID&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Official_x0020_Mobile_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Official_x0020_Phone_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Organization_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Organization_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Organization_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;PAN_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Passport_x0020_Expiry&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Passport_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_Address_x0020_1&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_Address_x0020_2&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_Address_x0020_3&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_City&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_Country&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Permanent_x0020_State&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Personal_x0020_Email_x0020_ID&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Personal_x0020_Mobile_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Personal_x0020_Phone_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;PF_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Phase_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Phase_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Project_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Project_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Qualification&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reason&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reference_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reporting_x0020_Group_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reporting_x0020_Group_x0020_Incharge-1&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reporting_x0020_Group_x0020_Incharge-2&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Reporting_x0020_Group_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Section_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Section_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Section_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Site_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Site_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Spcl_x0020_Fn&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Spcl_x0020_Fn_x0020_ID&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Timezone_x0020_for_x0020_Punch_x0020_Marking&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;UAN&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;User_x0020_Active_x002F_Inactive&quot; type=&quot;xs:decimal&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;User_x0020_ID&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;User_x0020_Name&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;User_x0020_Photo&quot; type=&quot;xs:base64Binary&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Vehicle_x0020_Registration_x0020_No.&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;VISA&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;VISA_x0020_Expiry_x0020_Date&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Voter_x0020_ID&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Formatted_x0020_Address&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Route&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Administrative_x0020_Area_x0020_Level_x0020_1&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Administrative_x0020_Area_x0020_Level_x0020_2&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;xs:element name=&quot;Country_x0020_Postal_x0020_Code&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&lt;/xs:sequence&gt;&lt;/xs:complexType&gt;&lt;/xs:element&gt;&lt;/xs:choice&gt;&lt;/xs:complexType&gt;&lt;/xs:element&gt;&lt;/xs:schema&gt;&lt;/Cosec&gt;" Type="System.Data.DataSet" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

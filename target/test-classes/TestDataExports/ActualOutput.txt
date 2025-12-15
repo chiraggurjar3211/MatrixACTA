@@ -1,0 +1,164 @@
+DADB																				Page 1 of 1				
+Guard Tour Details Report From 05/01/2022 To 05/10/2022																				
+Run by:	System Admin																	Date:				
+Device1		Device2		Device3		Device4		Device5		Device6		Device7		Device8		
+
+Tour Details		Cycle No.		Start Time		End Time		vega_panel_1		NGT Direct Door-Device-1		Wireless Door-Device-15												Verdict		
+Tour ID:	1.0	1.0	17:39	17:40	FAIL	
+Date:	Fri May 06 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	test1	
+Name:	test1	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		vega_panel_1		NGT Direct Door-Device-1		Wireless Door-Device-15												Verdict		
+Tour ID:	1.0	1.0	17:39	17:40	FAIL	
+Date:	Sat May 07 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	test1	
+Name:	test1	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		vega_panel_1		NGT Direct Door-Device-1		Wireless Door-Device-15												Verdict		
+Tour ID:	1.0	1.0	17:39	17:40	FAIL	
+Date:	Sun May 08 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	test1	
+Name:	test1	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		vega_panel_1		NGT Direct Door-Device-1		Wireless Door-Device-15												Verdict		
+Tour ID:	1.0	1.0	17:39	17:40	FAIL	
+Date:	Mon May 09 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	test1	
+Name:	test1	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		vega_panel_1		NGT Direct Door-Device-1		Wireless Door-Device-15												Verdict		
+Tour ID:	1.0	1.0	17:39	17:40	FAIL	
+Date:	Tue May 10 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	test1	
+Name:	test1	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		Wireless Door-Device-15		PVR Door-Device-3		vega_panel_1												Verdict		
+Tour ID:	2.0	1.0	17:39	17:40	FAIL	
+Date:	Fri May 06 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	mjr	
+Name:	mjr	
+Sequential:	No	
+
+Tour Details		Cycle No.		Start Time		End Time		Wireless Door-Device-15		PVR Door-Device-3		vega_panel_1												Verdict		
+Tour ID:	2.0	1.0	17:39	17:40	FAIL	
+Date:	Sat May 07 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	mjr	
+Name:	mjr	
+Sequential:	No	
+
+Tour Details		Cycle No.		Start Time		End Time		Wireless Door-Device-15		PVR Door-Device-3		vega_panel_1												Verdict		
+Tour ID:	2.0	1.0	17:39	17:40	FAIL	
+Date:	Sun May 08 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	mjr	
+Name:	mjr	
+Sequential:	No	
+
+Tour Details		Cycle No.		Start Time		End Time		Wireless Door-Device-15		PVR Door-Device-3		vega_panel_1												Verdict		
+Tour ID:	2.0	1.0	17:39	17:40	FAIL	
+Date:	Mon May 09 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	mjr	
+Name:	mjr	
+Sequential:	No	
+
+Tour Details		Cycle No.		Start Time		End Time		Wireless Door-Device-15		PVR Door-Device-3		vega_panel_1												Verdict		
+Tour ID:	2.0	1.0	17:39	17:40	FAIL	
+Date:	Tue May 10 00:00:00 IST 2022	2.0	17:40	17:41	FAIL	
+Tour Period:	17:39-17:41	
+No. of Devices:	3.0	
+	
+Guard ID:	mjr	
+Name:	mjr	
+Sequential:	No	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Thu May 05 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Fri May 06 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Sat May 07 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Sun May 08 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Mon May 09 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	
+
+Tour Details		Cycle No.		Start Time		End Time		panel_door_200_1		NGT Direct Door-Device-1		PVR Door-Device-3		Vega Controller-Device-10										Verdict		
+Tour ID:	3.0	1.0	18:13	18:14	FAIL	
+Date:	Tue May 10 00:00:00 IST 2022	2.0	18:14	18:15	FAIL	
+Tour Period:	18:13-18:15	
+No. of Devices:	4.0	
+	
+Guard ID:	1515	
+Name:	AMIT-BLE	
+Sequential:	Yes	

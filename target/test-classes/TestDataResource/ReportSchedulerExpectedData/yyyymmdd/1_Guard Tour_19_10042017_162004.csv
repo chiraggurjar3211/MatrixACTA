@@ -1,0 +1,32 @@
+,,DADB,,,,Page 1 of 1,
+,,Guard Tour,,,,,
+Run by:,System Admin,,,,Date:,,
+ID ,  Guard Tour Name,User ID,Name,Start Time,Tour Duration,Cycle Time,Sequenced
+1,22,test1,test1,17:39,00:02,00:01,Yes
+,Door Controller: ,ID , Name, Device Type,,,
+,,1,NGT Direct Door-Device-1,NGT Direct Door ,,,
+,,1,vega_panel_1,Panel200 Door,,,
+,,15,Wireless Door-Device-15,Wireless Door,,,
+2,33,mjr,mjr,17:39,00:02,00:01,No
+,Door Controller: ,ID , Name, Device Type,,,
+,,3,PVR Door-Device-3,PVR Door,,,
+,,1,vega_panel_1,Panel200 Door,,,
+,,15,Wireless Door-Device-15,Wireless Door,,,
+3,test amit,1515,AMIT-BLE,18:13,00:02,00:01,Yes
+,Door Controller: ,ID , Name, Device Type,,,
+,,1,NGT Direct Door-Device-1,NGT Direct Door ,,,
+,,1,panel_door_200_1,Panel Door,,,
+,,3,PVR Door-Device-3,PVR Door,,,
+,,10,Vega Controller-Device-10,Vega Controller,,,
+4,1456,21,Shift allwnce,18:13,00:02,00:01,Yes
+,Door Controller: ,ID , Name, Device Type,,,
+,,1,NGT Direct Door-Device-1,NGT Direct Door ,,,
+,,1,panel_door_200_1,Panel Door,,,
+,,2,Door V3-Device-2,Door V3,,,
+,,3,PVR Door-Device-3,PVR Door,,,
+,,1,vega_panel_1,Panel200 Door,,,
+,,8,Vega Controller-Device-8,Vega Controller,,,
+,,9,Vega Controller-Device-9,Vega Controller,,,
+,,10,Vega Controller-Device-10,Vega Controller,,,
+,,15,Wireless Door-Device-15,Wireless Door,,,
+,,18,Vega Controller-Device-18,Vega Controller,,,

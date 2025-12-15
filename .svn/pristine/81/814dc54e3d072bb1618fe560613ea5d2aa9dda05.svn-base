@@ -1,0 +1,143 @@
+,,DADB,,,,Page 1 of 1,
+,,Organization-Wise Overstay From 01/04/2017 To 10/04/2017,,,,,
+Run by:,System Admin,,Date:,,,,
+Sr No, User ID, Name,Date, Shift, IN,OUT,Overstay
+Organization :,,DADB,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,06/04/2017,WH,09:20,18:50,00:20
+2,2pGraceinWH,2Punch user includes grace time in work hours,07/04/2017,WH,09:40,19:10,00:40
+3,2pGraceinWH,2Punch user includes grace time in work hours,08/04/2017,WH,09:45,19:30,01:00
+4,2pGraceinWH,2Punch user includes grace time in work hours,10/04/2017,WH,09:20,18:40,00:10
+5,2pgracelatein,2punch user with grace and late in policy,01/04/2017,HO,09:30,19:00,00:30
+6,2pgracelatein,2punch user with grace and late in policy,03/04/2017,HO,10:00,19:30,01:00
+7,2pgracelatein,2punch user with grace and late in policy,04/04/2017,HO,09:31,19:01,00:31
+8,2pgracelatein,2punch user with grace and late in policy,05/04/2017,HO,10:01,19:31,01:01
+9,2pgracelatein,2punch user with grace and late in policy,06/04/2017,HO,09:15,18:45,00:15
+10,2pgracelatein,2punch user with grace and late in policy,07/04/2017,HO,09:05,18:35,00:05
+11,2pgracelatein,2punch user with grace and late in policy,08/04/2017,HO,10:35,19:35,01:05
+12,2pgracelatein,2punch user with grace and late in policy,10/04/2017,HO,09:45,19:15,00:45
+13,2poutfromexit,2Punch user with out punch from exit reader o,03/04/2017,HO,09:10,18:40,00:10
+14,2poutfromexit,2Punch user with out punch from exit reader o,04/04/2017,HO,09:30,19:00,00:30
+15,2punchearlyout,2punchuserwith earlyout policy,04/04/2017,GS,09:00,18:40,00:10
+16,2punchearlyout,2punchuserwith earlyout policy,05/04/2017,GS,09:00,18:10,00:10
+17,2punchearlyout,2punchuserwith earlyout policy,06/04/2017,GS,09:00,18:25,00:25
+18,2punchearlyout,2punchuserwith earlyout policy,07/04/2017,GS,09:25,18:25,00:25
+19,2punchearlyout,2punchuserwith earlyout policy,08/04/2017,GS,09:10,18:28,00:28
+20,2punchnoearly,2punch with no earlyout duration,01/04/2017,GS,09:00,18:20,00:20
+21,2punchnoearly,2punch with no earlyout duration,08/04/2017,GS,09:30,18:29,00:29
+22,2punchnolatein,2punch user with no late in duration applicab,01/04/2017,GS,09:10,18:30,00:30
+23,2punchnolatein,2punch user with no late in duration applicab,03/04/2017,GS,09:32,18:32,00:32
+24,2punchnolatein,2punch user with no late in duration applicab,04/04/2017,GS,09:01,18:31,00:31
+25,2punchnolatein,2punch user with no late in duration applicab,06/04/2017,GS,10:00,19:00,01:00
+26,2punchnolatein,2punch user with no late in duration applicab,08/04/2017,GS,11:30,20:30,02:30
+27,2punchuser,2punch user with latein,01/04/2017,GS,10:01,19:05,01:05
+28,2punchuser,2punch user with latein,03/04/2017,GS,09:30,19:00,00:30
+29,2punchuser,2punch user with latein,04/04/2017,GS,09:31,19:31,01:31
+30,2punchuser,2punch user with latein,05/04/2017,GS,09:05,18:38,00:38
+31,2punchuser,2punch user with latein,08/04/2017,GS,09:25,18:55,00:55
+32,2punchuser,2punch user with latein,10/04/2017,GS,09:45,19:15,00:45
+33,4breaklatein,4 punch user with break latein AND earlyout,03/04/2017,GS,09:00,18:30,00:30
+34,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017,GS,09:00,18:31,00:01
+35,4breaklatein,4 punch user with break latein AND earlyout,05/04/2017,GS,09:30,19:20,01:20
+36,4breaklatein,4 punch user with break latein AND earlyout,06/04/2017,GS,09:20,19:10,01:10
+37,4breaklatein,4 punch user with break latein AND earlyout,07/04/2017,GS,08:10,20:10,02:10
+38,4breaklatein,4 punch user with break latein AND earlyout,08/04/2017,GS,09:10,19:00,01:00
+39,4PbreakEO,4 Punch user with break earlyout,01/04/2017,BE,09:00,19:00,00:30
+40,4PbreakEO,4 Punch user with break earlyout,03/04/2017,BE,09:00,19:00,00:30
+41,4PbreakEOgrace,4P user with break earlyout grace,01/04/2017,BE,09:00,19:00,00:30
+42,4PbreakEOgrace,4P user with break earlyout grace,03/04/2017,BE,09:00,19:00,00:30
+43,4Pbreakingrace,4 punch user with break hours within grace,01/04/2017,BR,09:00,18:40,00:10
+44,4Pbreakingrace,4 punch user with break hours within grace,03/04/2017,BR,09:00,18:35,00:05
+45,4Pbreaklatein,4p user with break latein,01/04/2017,BR,09:00,18:50,00:20
+46,4Pbreaklatein,4p user with break latein,03/04/2017,BR,09:00,19:10,00:40
+47,4PBreakLIex,4P user exceeds break latein,01/04/2017,BR,09:00,19:10,00:40
+48,4PBreakLIex,4P user exceeds break latein,03/04/2017,BR,09:00,19:20,00:50
+49,4pgracebreaklat,4 punch user with grace for shift and breakla,01/04/2017,HO,09:00,18:41,00:11
+50,4pgracebreaklat,4 punch user with grace for shift and breakla,03/04/2017,HO,09:01,19:00,00:30
+51,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017,HO,09:00,19:30,01:00
+52,4pgracebreaklat,4 punch user with grace for shift and breakla,06/04/2017,HO,09:00,18:40,00:10
+53,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017,HO,09:00,19:00,00:30
+54,4pgracebreaklat,4 punch user with grace for shift and breakla,08/04/2017,HO,09:30,19:00,00:30
+55,4pgracebreaklat,4 punch user with grace for shift and breakla,10/04/2017,HO,10:00,19:34,01:04
+56,4ptotallatein,4punch user for adding break latein in total,03/04/2017,LI,09:15,18:45,00:15
+57,4ptotallatein,4punch user for adding break latein in total,04/04/2017,LI,09:30,19:00,00:30
+58,4ptotallatein,4punch user for adding break latein in total,05/04/2017,LI,09:15,18:45,00:15
+59,4ptotallatein,4punch user for adding break latein in total,06/04/2017,LI,09:00,18:45,00:15
+60,auto,auto,01/04/2017,A1,19:30,04:30,00:30
+61,auto,auto,03/04/2017,A1,19:30,04:30,00:30
+62,auto,auto,08/04/2017,A1,19:30,04:30,00:30
+63,auto,auto,10/04/2017,A1,19:30,04:30,00:30
+64,Autoshift,Auto shift user with shift schedule not proce,01/04/2017,GY,20:00,06:00,01:00
+65,Autoshift,Auto shift user with shift schedule not proce,04/04/2017,HO,09:00,20:00,01:30
+66,Autoshiftproces,Auto shift user whose shift has been processe,03/04/2017,GY,20:00,06:00,01:00
+67,BreakLIexceeds,Exceeds break and total latein,01/04/2017,BT,09:32,19:20,00:50
+68,BreakLIexceeds,Exceeds break and total latein,03/04/2017,BT,09:20,19:30,01:00
+69,BreakLIinTotal,Break latein in total latein,01/04/2017,BT,09:10,19:20,00:50
+70,BreakLIinTotal,Break latein in total latein,03/04/2017,BT,09:20,19:20,00:50
+71,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,02/04/2017,HO,07:30,20:30,02:00
+72,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,10/04/2017,HO,09:01,19:01,00:31
+73,COFF,COFF,01/04/2017,HO,09:00,19:00,00:30
+74,COFF,COFF,03/04/2017,HO,08:00,21:00,02:30
+75,daily1earlyin,Cal onWOPH as per weekday,02/04/2017,HO,06:30,21:30,03:00
+76,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,02/04/2017,HO,07:30,19:30,01:00
+77,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,10/04/2017,HO,09:00,19:00,00:30
+78,daily1weekends,daily1 weekends config in OT,01/04/2017,HO,07:00,19:00,00:30
+79,daily1weekends,daily1 weekends config in OT,02/04/2017,HO,07:00,19:00,00:30
+80,daily1weekends,daily1 weekends config in OT,10/04/2017,HO,07:00,20:20,01:50
+81,daily1wkdys,daily1 wkdys and weekends not assigned,02/04/2017,HO,07:30,19:30,01:00
+82,daily1wkdys,daily1 wkdys and weekends not assigned,09/04/2017,HO,06:30,21:30,03:00
+83,daily1wkdys,daily1 wkdys and weekends not assigned,10/04/2017,HO,09:00,19:00,00:30
+84,Eligiblehours,Eligible work hours,01/04/2017,DV,06:00,21:00,03:00
+85,FB,OT for FB,01/04/2017,HO,09:01,19:30,01:00
+86,Lategraceexceed,User with exceed grace period,01/04/2017,HO,09:31,19:05,00:35
+87,Lategraceexceed,User with exceed grace period,03/04/2017,HO,10:00,19:30,01:00
+88,Latein,user punches on latein only,01/04/2017,LI,09:30,19:00,00:30
+89,Latein,user punches on latein only,03/04/2017,LI,09:15,18:45,00:15
+90,Lateinduraexcee,Late in Duration exceed,01/04/2017,LI,10:00,19:30,01:00
+91,Lateinduraexcee,Late in Duration exceed,03/04/2017,LI,09:31,19:31,01:01
+92,Lateingrace,User have pucnges on grace latein,01/04/2017,HO,09:30,19:00,00:30
+93,Lateingrace,User have pucnges on grace latein,03/04/2017,HO,09:10,18:40,00:10
+94,Lateingrace,User have pucnges on grace latein,04/04/2017,HO,09:29,19:00,00:30
+95,manualOT,User with Manual Overtime,01/04/2017,HO,08:01,20:01,01:31
+96,manualOT,User with Manual Overtime,03/04/2017,HO,07:00,21:00,02:30
+97,NetworkHrs,Networkhours bt no OT Component,01/04/2017,HO,08:30,19:30,01:00
+98,NetworkHrs,Networkhours bt no OT Component,10/04/2017,HO,09:00,19:00,00:30
+99,NpofficialIn,N punch user for official In,01/04/2017,HO,11:00,18:40,00:04
+100,NpofficialIn,N punch user for official In,04/04/2017,HO,09:00,19:50,01:20
+101,Npoutfromexit,Npunch user with out punch from exit reader,01/04/2017,HO,09:00,19:00,00:30
+102,Npoutfromexit,Npunch user with out punch from exit reader,03/04/2017,HO,09:30,18:40,00:10
+103,Npucnofficialou,N punch user with official out,01/04/2017,HO,09:00,19:00,00:30
+104,Npunchbeyond,Npunch user with deduction type as beyond,01/04/2017,HO,09:00,18:50,00:20
+105,Npunchbeyond,Npunch user with deduction type as beyond,03/04/2017,HO,09:00,19:00,00:30
+106,Npunchbeyond,Npunch user with deduction type as beyond,04/04/2017,HO,09:00,18:45,00:15
+107,NpunchFlexible,Npunch user with type as flexible,01/04/2017,HO,09:00,19:00,00:30
+108,Npunchgreater,N punch user with greater than deduction typr,04/04/2017,HO,09:00,19:00,00:30
+109,nPunchlatein,npunch user with 30min latein,01/04/2017,GS,09:12,18:48,00:08
+110,nPunchlatein,npunch user with 30min latein,03/04/2017,GS,09:25,18:40,00:40
+111,nPunchlatein,npunch user with 30min latein,04/04/2017,GS,09:00,18:40,00:10
+112,nPunchlatein,npunch user with 30min latein,05/04/2017,GS,09:40,18:40,00:40
+113,nPunchlatein,npunch user with 30min latein,06/04/2017,GS,09:30,19:40,01:30
+114,nPunchlatein,npunch user with 30min latein,08/04/2017,GS,09:30,18:30,00:30
+115,nPunchlatein,npunch user with 30min latein,10/04/2017,GS,10:00,19:10,00:40
+116,NpunchNightshif,N punch user with night shift,01/04/2017,NS,20:00,06:30,00:30
+117,npunchnoearly,npunch user with no earlyout policy,01/04/2017,GS,09:00,18:30,00:30
+118,npunchnoearly,npunch user with no earlyout policy,04/04/2017,GS,09:00,18:29,00:29
+119,npunchnoearly,npunch user with no earlyout policy,08/04/2017,GS,09:00,18:20,00:20
+120,npunchnoearly,npunch user with no earlyout policy,10/04/2017,GS,09:20,18:40,00:10
+121,npunchnolatein,Npunch user with no late in duration,01/04/2017,GS,09:30,19:00,01:00
+122,npunchnolatein,Npunch user with no late in duration,03/04/2017,GS,09:15,18:36,00:36
+123,npunchnolatein,Npunch user with no late in duration,04/04/2017,GS,10:38,22:48,03:00
+124,npunchnolatein,Npunch user with no late in duration,05/04/2017,GS,09:01,19:16,01:16
+125,npunchnolatein,Npunch user with no late in duration,06/04/2017,GS,09:00,19:00,00:30
+126,npunchnolatein,Npunch user with no late in duration,07/04/2017,GS,08:00,18:40,00:10
+127,npunchwithearly,npunch user with earlyout policy,03/04/2017,GS,09:20,18:28,00:28
+128,npunchwithearly,npunch user with earlyout policy,05/04/2017,GS,08:20,18:29,00:29
+129,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,10/04/2017,HO,09:00,19:30,01:00
+130,OTCOFFBoth,Auto authorize OT COFF,02/04/2017,HO,08:30,20:30,02:00
+131,OTCOFFBoth,Auto authorize OT COFF,03/04/2017,HO,08:00,19:30,01:00
+132,RestrictedDail1,Restricted OT cal for Daily1,01/04/2017,HO,08:01,20:00,01:30
+133,SpecialOTearlyi,Special OT with earlyin defined component,01/04/2017,SO,14:00,06:00,03:00
+134,SpecialOTwOearl,SpecialOTWithoutearlyIn,01/04/2017,SO,15:00,06:00,03:00
+135,SpecialOvertime,Special Overtime,01/04/2017,SO,15:01,06:00,03:00
+136,SpecialOvertime,Special Overtime,03/04/2017,SO,16:00,05:00,02:00
+Overstay Group Total:,,,,,,113:20,
+Overstay Grand Total:,,,,,,113:20,

@@ -1,0 +1,291 @@
+,,,DADB,,,,,,,,,,,,,,,,,,,,,,,,,,,Page 1 of 1,,,,,
+,,,Shift Schedule For APRIL-2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Run by:,System Admin,,,,,,,,,,,,,,,,,,,,,,Date:,,,,,,,,,,,,
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2breaklatein - 2punch user with break latein,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pGraceinWH - 2Punch user includes grace time in work hours,,Shift,,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,WH,,WH,WH,WH,WH,WH,WH,,WH,WH,WH,WH,WH
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pgracelatein - 2punch user with grace and late in policy,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pgraceshiftEO - 2punch user for EO Shift grace and EO duratio,,Shift,,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pofficialin - 2punch user with official in,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pOfficialout - 2 punch user with official out,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2poutfromexit - 2Punch user with out punch from exit reader o,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pshortleaveout - 2 Punch user for shortleave out,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2punchearlyout - 2punchuserwith earlyout policy,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2punchnoearly - 2punch with no earlyout duration,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2punchnolatein - 2punch user with no late in duration applicab,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2punchshortleav - Shortleave in for 2 punch,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2punchuser - 2punch user with latein,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+2pwithexitreade - Exit reader enabled but punches from entry,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4breaklatein - 4 punch user with break latein AND earlyout,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4PbreakEO - 4 Punch user with break earlyout,,Shift,,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4PBreakEOex - 4P Break for earlyout exceeds,,Shift,,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4PbreakEOgrace - 4P user with break earlyout grace,,Shift,,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE,BE,,BE,BE,BE,BE,BE
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4Pbreakingrace - 4 punch user with break hours within grace,,Shift,,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4Pbreaklatein - 4p user with break latein,,Shift,,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4PBreakLIex - 4P user exceeds break latein,,Shift,,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR,BR,,BR,BR,BR,BR,BR
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4pgracebreakear - 4 punch user with break early out and grace,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4pgracebreaklat - 4 punch user with grace for shift and breakla,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+4ptotallatein - 4punch user for adding break latein in total,,Shift,,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,29,30,,,,,,,,,,,,,,,,
+auto - auto,,Shift,,A1,,A1,,A2,A2,,A1,,A1,,A1,,,,,,,,,,,,,,,,,,,,
+,,Status,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,01,02,03,04,05,06,29,30,,,,,,,,,,,,,,,,,,,,,,,,
+Autoshift - Auto shift user with shift schedule not proce,,Shift,,GY,,GY,HO,HO,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Status,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Autoshiftproces - Auto shift user whose shift has been processe,,Shift,,HO,NS,GY,GY,GY,HO,HO,HO,NS,NS,GY,GY,HO,HO,HO,NS,NS,GY,GY,,HO,HO,HO,NS,NS,GY,,GY,HO,HO,HO,NS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Awardandpenalty - award n penalty,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+BreakEOexceeds - Include Break early out in shift exceeds TD,,Shift,,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,,ET,ET,ET,ET,ET,ET,,ET,ET,ET,ET,ET
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+BreakEOInTotal - Break earlyout in total early out,,Shift,,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,,ET,ET,ET,ET,ET,ET,,ET,ET,ET,ET,ET
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+BreakLIexceeds - Exceeds break and total latein,,Shift,,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,,BT,BT,BT,BT,BT,BT,,BT,BT,BT,BT,BT
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+BreakLIinTotal - Break latein in total latein,,Shift,,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,BT,,BT,BT,BT,BT,BT,BT,,BT,BT,BT,BT,BT
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+CalcWkdaynwkoff - Cal of OT on Wkday and WeekOff as per chkbox,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+COFF - COFF,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+daily1earlyin - Cal onWOPH as per weekday,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+daily1OTNtconfi - Daily1 OT Not configured for Wkdays n weekend,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+daily1weekends - daily1 weekends config in OT,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+daily1wkdys - daily1 wkdys and weekends not assigned,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+earlyout - user punches on early out duration of 30mins,,Shift,,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Earlyoutgrace - Earlyout user with punches on grace time,,Shift,,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,,EG,EG,EG,EG,EG,EG,,EG,EG,EG,EG,EG
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Eligiblehours - Eligible work hours,,Shift,,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,DV,,DV,DV,DV,DV,DV,DV,,DV,DV,DV,DV,DV
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+EOdurationexcee - EO duration exceeds,,Shift,,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+EOgraceexceed - Earlyout grace duration exceeds,,Shift,,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,EG,,EG,EG,EG,EG,EG,EG,,EG,EG,EG,EG,EG
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+FB - OT for FB,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+firsthalfabsent - First half absent,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Firsthalfleave - User with first half leave,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Flexible - flexibleuser,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+FlexibleMonthly - FlexibleMonthly,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,,,,WO,WO,,,,PH,,,,WO,,,,,,,,,WO,,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+FlexibleNone - FlexibleNone,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,,,,WO,WO,,,,PH,,,,WO,,,,,,,,,WO,,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+FlexibleOT - OT for flexible user,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Fulldayleave - User with full day leave,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Inpunch - User with In pucnh only,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPC - JPC user,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Jpcdefaultenter - Job coseting user with default job of enterpr,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPCdefaultjob - JPC default job,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Jpcdevicebased - JPC user with device based,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPCmergejob - JPC merged Job,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPCsitedefaultj - JPC user with sitewise default job,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPCSplitHO - JPC split timesheet normal shift,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+JPCSplitNS - JPC split timesheet night shift,,Shift,,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Lategraceexceed - User with exceed grace period,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Latein - user punches on latein only,,Shift,,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Lateinduraexcee - Late in Duration exceed,,Shift,,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI,LI,,LI,LI,LI,LI,LI
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Lateingrace - User have pucnges on grace latein,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Lessworkhours - Less work hours for daily limit,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+manualOT - User with Manual Overtime,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+mitali - mitali,,Shift,,FB,FB,FB,FB,FB,RD,RD,RD,RD,RD,RD,RD,GS,GS,GS,GS,GS,GS,GS,,FB,FB,FB,FB,FB,FB,,FB,RD,RD,RD,RD
+,,Status,,,,,,WO,WO,,,,,,,,WO,,,,,,,,,WO,,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+mitali1 - mitali1,,Shift,,FB,FB,FB,FB,FB,RD,RD,RD,RD,RD,RD,RD,GS,GS,GS,GS,GS,GS,GS,,FB,FB,FB,FB,FB,FB,,FB,RD,RD,RD,RD
+,,Status,,,,,,WO,WO,,,,,,,,WO,,,,,,,,,WO,,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NetworkHrs - Networkhours bt no OT Component,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NightShift - NightShift,,Shift,,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Normal - normal user,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npgraceEO - Npunch user with grace in EO and EO duration,,Shift,,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO,EO,,EO,EO,EO,EO,EO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NpofficialIn - N punch user for official In,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Npoutfromexit - Npunch user with out punch from exit reader,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npshortleavein - n punch user for shortleave in,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npshortleaveout - n punch user with short leave out,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Npucnofficialou - N punch user with official out,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Npunchbeyond - Npunch user with deduction type as beyond,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NpunchFlexible - Npunch user with type as flexible,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Npunchgreater - N punch user with greater than deduction typr,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+nPunchlatein - npunch user with 30min latein,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NpunchNightshif - N punch user with night shift,,Shift,,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS,NS,,NS,NS,NS,NS,NS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npunchnoearly - npunch user with no earlyout policy,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npunchnolatein - Npunch user with no late in duration,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+npunchwithearly - npunch user with earlyout policy,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+NpWithexitenabl - Npunchuser exit enabled bt punches frm entry,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+OTcalWkdyntchk - Cal on weekday bt wkday is nt checked for OT,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+OTCOFFBoth - Auto authorize OT COFF,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OTonWeekdays - Overtime consider  weekdays for WOPH,,Shift,,HO,HO,HO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Status,,,WO,PH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+RestrictedDail1 - Restricted OT cal for Daily1,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,,,,,,WO,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+Secondhalfleave - user with second half leave,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+seconhalfabsent - second half absent,,Shift,,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO,HO,,HO,HO,HO,HO,HO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+SpecialOTearlyi - Special OT with earlyin defined component,,Shift,,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+SpecialOTwOearl - SpecialOTWithoutearlyIn,,Shift,,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+SpecialOvertime - Special Overtime,,Shift,,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO,SO,,SO,SO,SO,SO,SO
+,,Status,,,WO,,,,,,,WO,PH,,,,,,WO,,,,,,,,WO,,,,,,,,WO
+,,,,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,,20,21,22,23,24,25,,26,27,28,29,30
+weekOffChange - weekOff,,Shift,,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS,GS,,GS,GS,GS,GS,GS
+,,Status,,,,,,WO,,,WO,,PH,,,,,WO,,,,,,,,WO,,,,,,,,,WO

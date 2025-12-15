@@ -1,0 +1,71 @@
+,,DADB,,,,,Page 1 of 1
+,,Organization-Wise Leave Credit/Debit For JANUARY-2022,,,,,
+Run by:,System Admin,,,,Date:,,
+Sr No,User ID,Name,Entry Date,,Credit,Debit,Remark
+DADB,,,,,,,
+HR - hours,,,,,,,
+1,LeaveEncash,LeaveEncash,28/01/2022,,100:00,00:00,
+Leave Credit Total:,,100:00,,Leave Debit Total :,,,00:00
+P1 - P1,,,,,,,
+1,l1,leave1,01/02/2022,,34.00,0,dfdgv
+2,LeaveEncash,LeaveEncash,01/02/2022,,34.00,0,dfdgv
+3,LeaveEncash,LeaveEncash,28/01/2022,,10.00,0,
+Leave Credit Total:,,78.00,,Leave Debit Total :,,,0.00
+P2 - p2,,,,,,,
+1,Fulldayleave,User with full day leave,28/01/2022,,01:01,00:00,gfvgbvb
+2,l1,leave1,28/01/2022,,05:00,00:00,fgdfghfh
+3,LeaveEncash,LeaveEncash,28/01/2022,,01:01,00:00,gfvgbvb
+4,mitali,mitali,05/01/2022,,10:00,00:00,
+5,mitali,mitali,02/02/2022,,10:00,00:00,
+Leave Credit Total:,,27:02,,Leave Debit Total :,,,00:00
+P4 - P4,,,,,,,
+1,chiag,chirag,22/06/2022,,100:00,00:00,
+2,leavehpl,leavehpl,22/06/2022,,10:00,00:00,
+3,mitali,mitali,02/02/2022,,10:00,00:00,
+4,mitali,mitali,23/06/2022,,10:00,00:00,
+Leave Credit Total:,,130:00,,Leave Debit Total :,,,00:00
+PL - PL,,,,,,,
+1,mitali,mitali,22/06/2022,,10.00,0,
+Leave Credit Total:,,10.00,,Leave Debit Total :,,,0.00
+RH - RH,,,,,,,
+1,mitali,mitali,05/01/2022,,10.00,0,
+Leave Credit Total:,,10.00,,Leave Debit Total :,,,0.00
+Organization Credit Total:,,98.00,Organization Debit Total:,,,,0.00
+Organization Credit Total (Hours):,,257:02,Organization Credit Total (Hours):,,,,00:00
+ORG2,,,,,,,
+P2 - p2,,,,,,,
+1,111,Mayank,31/01/2022,,99:00,00:00,gvhgjh
+2,111,Mayank,31/01/2022,,99:00,00:00,gvhgjh
+3,12,dfddd,31/01/2022,,99:00,00:00,gvhgjh
+4,12,dfddd,31/01/2022,,99:00,00:00,gvhgjh
+5,1234,test user,31/01/2022,,99:00,00:00,gvhgjh
+6,1234,test user,31/01/2022,,99:00,00:00,gvhgjh
+7,1515,AMIT-BLE,31/01/2022,,99:00,00:00,gvhgjh
+8,1515,AMIT-BLE,31/01/2022,,99:00,00:00,gvhgjh
+9,2breaklatein,2punch user with break latein,31/01/2022,,99:00,00:00,gvhgjh
+10,2breaklatein,2punch user with break latein,31/01/2022,,99:00,00:00,gvhgjh
+11,2pGraceinWH,2Punch user includes grace time in work hours,31/01/2022,,99:00,00:00,gvhgjh
+12,2pGraceinWH,2Punch user includes grace time in work hours,31/01/2022,,99:00,00:00,gvhgjh
+13,2pgracelatein,2punch user with grace and late in policy,31/01/2022,,99:00,00:00,gvhgjh
+14,2pgracelatein,2punch user with grace and late in policy,31/01/2022,,99:00,00:00,gvhgjh
+15,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,31/01/2022,,99:00,00:00,gvhgjh
+16,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,31/01/2022,,99:00,00:00,gvhgjh
+17,2pofficialin,2punch user with official in,31/01/2022,,99:00,00:00,gvhgjh
+18,2pofficialin,2punch user with official in,31/01/2022,,99:00,00:00,gvhgjh
+Leave Credit Total:,,1782:00,,Leave Debit Total :,,,00:00
+P4 - P4,,,,,,,
+1,mitali1,mitali1,23/06/2022,,10:00,00:00,
+2,mitali1,mitali1,23/06/2022,,10:00,00:00,
+3,mitali1,mitali1,27/06/2022,,10:00,00:00,
+Leave Credit Total:,,30:00,,Leave Debit Total :,,,00:00
+PL - PL,,,,,,,
+1,1234,test user,31/01/2022,,5.00,0,
+2,1234,test user,31/01/2022,,5.00,0,
+3,1234,test user,31/01/2022,,0,2.00,
+4,mitali1,mitali1,23/06/2022,,10.00,0,
+Leave Credit Total:,,20.00,,Leave Debit Total :,,,2.00
+RH - RH,,,,,,,
+1,mitali1,mitali1,23/06/2022,,10.00,0,
+Leave Credit Total:,,10.00,,Leave Debit Total :,,,0.00
+Organization Credit Total:,,30.00,Organization Debit Total:,,,,2.00
+Organization Credit Total (Hours):,,1812:00,Organization Credit Total (Hours):,,,,00:00

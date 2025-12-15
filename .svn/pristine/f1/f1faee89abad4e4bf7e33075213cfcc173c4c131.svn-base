@@ -1,0 +1,102 @@
+UserID	UserName	PYear	PMonth	PRDays	ABDays	FullName
+111	Mayank	2017	4	0.0	0.0	Mayank
+12	dfddd	2017	4	0.0	0.0	dfddd
+1234	test user	2017	4	0.0	0.0	test user
+1515	AMIT-BLE	2017	4	0.0	0.0	AMIT-BLE
+2breaklatein	2punch user with break latein	2017	4	3.0	20.0	2punch user with break latein
+2pGraceinWH	2Punch user includes grace time in work hours	2017	4	8.0	15.0	2Punch user includes grace time in work hours
+2pgracelatein	2punch user with grace and late in policy	2017	4	9.0	14.0	2punch user with grace and late in policy
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	2017	4	12.0	11.0	2punch user for EO Shift grace and EO duratio
+2pofficialin	2punch user with official in	2017	4	2.0	21.0	2punch user with official in
+2pOfficialout	2 punch user with official out	2017	4	2.0	21.0	2 punch user with official out
+2poutfromexit	2Punch user with out punch from exit reader o	2017	4	3.0	20.0	2Punch user with out punch from exit reader o
+2pshortleaveout	2 Punch user for shortleave out	2017	4	2.0	21.0	2 Punch user for shortleave out
+2punchearlyout	2punchuserwith earlyout policy	2017	4	11.0	12.0	2punchuserwith earlyout policy
+2punchnoearly	2punch with no earlyout duration	2017	4	7.0	16.0	2punch with no earlyout duration
+2punchnolatein	2punch user with no late in duration applicab	2017	4	7.0	16.0	2punch user with no late in duration applicab
+2punchshortleav	Shortleave in for 2 punch	2017	4	2.0	21.0	Shortleave in for 2 punch
+2punchuser	2punch user with latein	2017	4	10.0	13.0	2punch user with latein
+2pwithexitreade	Exit reader enabled but punches from entry	2017	4	1.0	22.0	Exit reader enabled but punches from entry
+4breaklatein	4 punch user with break latein AND earlyout	2017	4	5.0	18.0	4 punch user with break latein AND earlyout
+4PbreakEO	4 Punch user with break earlyout	2017	4	1.5	22.0	4 Punch user with break earlyout
+4PBreakEOex	4P Break for earlyout exceeds	2017	4	1.0	22.5	4P Break for earlyout exceeds
+4PbreakEOgrace	4P user with break earlyout grace	2017	4	1.5	22.0	4P user with break earlyout grace
+4Pbreakingrace	4 punch user with break hours within grace	2017	4	2.0	21.0	4 punch user with break hours within grace
+4Pbreaklatein	4p user with break latein	2017	4	1.5	21.5	4p user with break latein
+4PBreakLIex	4P user exceeds break latein	2017	4	1.0	22.5	4P user exceeds break latein
+4pgracebreakear	4 punch user with break early out and grace	2017	4	7.0	16.0	4 punch user with break early out and grace
+4pgracebreaklat	4 punch user with grace for shift and breakla	2017	4	5.5	18.0	4 punch user with grace for shift and breakla
+4ptotallatein	4punch user for adding break latein in total	2017	4	3.5	19.5	4punch user for adding break latein in total
+auto	auto	2017	4	5.0	9.0	auto
+Autoshift	Auto shift user with shift schedule not proce	2017	4	3.5	1.5	Auto shift user with shift schedule not proce
+Autoshiftproces	Auto shift user whose shift has been processe	2017	4	5.0	18.0	Auto shift user whose shift has been processe
+Awardandpenalty	award n penalty	2017	4	1.0	22.0	award n penalty
+BreakEOexceeds	Include Break early out in shift exceeds TD	2017	4	1.0	22.0	Include Break early out in shift exceeds TD
+BreakEOInTotal	Break earlyout in total early out	2017	4	3.0	20.0	Break earlyout in total early out
+BreakLIexceeds	Exceeds break and total latein	2017	4	2.0	21.0	Exceeds break and total latein
+BreakLIinTotal	Break latein in total latein	2017	4	0.5	23.0	Break latein in total latein
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	2017	4	0.0	23.0	Cal of OT on Wkday and WeekOff as per chkbox
+COFF	COFF	2017	4	2.0	21.0	COFF
+daily1earlyin	Cal onWOPH as per weekday	2017	4	0.0	23.0	Cal onWOPH as per weekday
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	2017	4	0.0	23.0	Daily1 OT Not configured for Wkdays n weekend
+daily1weekends	daily1 weekends config in OT	2017	4	1.0	22.0	daily1 weekends config in OT
+daily1wkdys	daily1 wkdys and weekends not assigned	2017	4	0.0	23.0	daily1 wkdys and weekends not assigned
+earlyout	user punches on early out duration of 30mins	2017	4	2.0	21.0	user punches on early out duration of 30mins
+Earlyoutgrace	Earlyout user with punches on grace time	2017	4	2.0	21.0	Earlyout user with punches on grace time
+Eligiblehours	Eligible work hours	2017	4	6.5	17.0	Eligible work hours
+EOdurationexcee	EO duration exceeds	2017	4	2.0	21.0	EO duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	2017	4	2.0	21.0	Earlyout grace duration exceeds
+FB	OT for FB	2017	4	1.0	22.0	OT for FB
+firsthalfabsent	First half absent	2017	4	1.5	21.5	First half absent
+Firsthalfleave	User with first half leave	2017	4	1.0	19.5	User with first half leave
+Flexible	flexibleuser	2017	4	0.0	23.0	flexibleuser
+FlexibleOT	OT for flexible user	2017	4	0.0	23.0	OT for flexible user
+Fulldayleave	User with full day leave	2017	4	0.0	20.5	User with full day leave
+Inpunch	User with In pucnh only	2017	4	0.0	23.5	User with In pucnh only
+JPC	JPC user	2017	4	1.0	22.0	JPC user
+Jpcdefaultenter	Job coseting user with default job of enterpr	2017	4	0.5	22.5	Job coseting user with default job of enterpr
+JPCdefaultjob	JPC default job	2017	4	0.5	22.5	JPC default job
+Jpcdevicebased	JPC user with device based	2017	4	0.0	23.0	JPC user with device based
+JPCmergejob	JPC merged Job	2017	4	2.0	21.5	JPC merged Job
+JPCsitedefaultj	JPC user with sitewise default job	2017	4	0.5	22.5	JPC user with sitewise default job
+JPCSplitHO	JPC split timesheet normal shift	2017	4	1.0	22.0	JPC split timesheet normal shift
+JPCSplitNS	JPC split timesheet night shift	2017	4	1.0	22.0	JPC split timesheet night shift
+Lategraceexceed	User with exceed grace period	2017	4	2.0	21.0	User with exceed grace period
+Latein	user punches on latein only	2017	4	2.0	21.0	user punches on latein only
+Lateinduraexcee	Late in Duration exceed	2017	4	2.0	21.0	Late in Duration exceed
+Lateingrace	User have pucnges on grace latein	2017	4	3.0	20.0	User have pucnges on grace latein
+Lessworkhours	Less work hours for daily limit	2017	4	4.0	19.0	Less work hours for daily limit
+manualOT	User with Manual Overtime	2017	4	2.0	21.0	User with Manual Overtime
+mitali	mitali	2017	4	2.5	0.0	mitali
+mitali1	mitali1	2017	4	0.0	5.0	mitali1
+mixshift	mixshifts	2017	4	0.0	0.0	mixshifts
+NetworkHrs	Networkhours bt no OT Component	2017	4	1.0	22.0	Networkhours bt no OT Component
+new	new	2017	4	0.0	0.0	new
+NightShift	NightShift	2017	4	2.0	21.0	NightShift
+Normal	normal user	2017	4	2.0	21.0	normal user
+npgraceEO	Npunch user with grace in EO and EO duration	2017	4	9.0	14.0	Npunch user with grace in EO and EO duration
+NpofficialIn	N punch user for official In	2017	4	3.0	20.0	N punch user for official In
+Npoutfromexit	Npunch user with out punch from exit reader	2017	4	2.0	21.0	Npunch user with out punch from exit reader
+npshortleavein	n punch user for shortleave in	2017	4	2.0	21.0	n punch user for shortleave in
+npshortleaveout	n punch user with short leave out	2017	4	1.5	21.5	n punch user with short leave out
+Npucnofficialou	N punch user with official out	2017	4	2.0	21.0	N punch user with official out
+Npunchbeyond	Npunch user with deduction type as beyond	2017	4	3.0	20.0	Npunch user with deduction type as beyond
+NpunchFlexible	Npunch user with type as flexible	2017	4	0.0	23.0	Npunch user with type as flexible
+Npunchgreater	N punch user with greater than deduction typr	2017	4	3.0	20.0	N punch user with greater than deduction typr
+nPunchlatein	npunch user with 30min latein	2017	4	5.0	18.0	npunch user with 30min latein
+NpunchNightshif	N punch user with night shift	2017	4	1.0	22.0	N punch user with night shift
+npunchnoearly	npunch user with no earlyout policy	2017	4	10.5	12.5	npunch user with no earlyout policy
+npunchnolatein	Npunch user with no late in duration	2017	4	6.0	17.0	Npunch user with no late in duration
+npunchwithearly	npunch user with earlyout policy	2017	4	9.0	14.0	npunch user with earlyout policy
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	2017	4	0.0	23.0	Npunchuser exit enabled bt punches frm entry
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	2017	4	0.0	23.0	Cal on weekday bt wkday is nt checked for OT
+OTCOFFBoth	Auto authorize OT COFF	2017	4	1.5	21.5	Auto authorize OT COFF
+OTonWeekdays	Overtime consider  weekdays for WOPH	2017	4	0.0	23.0	Overtime consider  weekdays for WOPH
+RestrictedDail1	Restricted OT cal for Daily1	2017	4	2.0	21.0	Restricted OT cal for Daily1
+RI1	Reporting Incharge1	2017	4	0.0	0.0	Reporting Incharge1
+RI12	Reporting incharge1	2017	4	0.0	0.0	Reporting incharge1
+RI2	Reporting Incharge2	2017	4	0.0	0.0	Reporting Incharge2
+Secondhalfleave	user with second half leave	2017	4	1.0	19.5	user with second half leave
+seconhalfabsent	second half absent	2017	4	2.0	21.0	second half absent
+SpecialOTearlyi	Special OT with earlyin defined component	2017	4	1.0	22.0	Special OT with earlyin defined component
+SpecialOTwOearl	SpecialOTWithoutearlyIn	2017	4	1.0	22.0	SpecialOTWithoutearlyIn

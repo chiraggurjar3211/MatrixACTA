@@ -1,0 +1,28 @@
+,,DADB,,,Page 1 of 1
+,,User Job Details From 04/21/2017 To 04/30/2017,,,
+Run by:,System Admin,,,Date:,
+Sr No,User ID,,Name,,Job Hours
+04/24/2017,,,,,
+CV   COSEC CENTRA,,,,,
+SRNO,JPCmergejob,,JPC merged Job,,08:30
+,,,Total:,,08:30
+CO   COSEC,,,,,
+SRNO,Jpcdevicebased,,JPC user with device based,,02:00
+SRNO,JPCSplitHO,,JPC split timesheet normal shift,,01:00
+SRNO,JPCSplitNS,,JPC split timesheet night shift,,02:00
+,,,Total:,,05:00
+CV   COSEC CENTRA,,,,,
+SRNO,JPCSplitHO,,JPC split timesheet normal shift,,01:30
+SRNO,JPCSplitNS,,JPC split timesheet night shift,,04:00
+,,,Total:,,05:30
+04/25/2017,,,,,
+CV   COSEC CENTRA,,,,,
+SRNO,JPCmergejob,,JPC merged Job,,07:07
+,,,Total:,,07:07
+CO   COSEC,,,,,
+SRNO,Awardandpenalty,,award n penalty,,02:00
+SRNO,JPCSplitHO,,JPC split timesheet normal shift,,08:00
+,,,Total:,,10:00
+CV   COSEC CENTRA,,,,,
+SRNO,JPCSplitHO,,JPC split timesheet normal shift,,02:00
+,,,Total:,,02:00

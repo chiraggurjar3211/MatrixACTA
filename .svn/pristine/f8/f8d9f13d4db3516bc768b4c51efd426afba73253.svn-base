@@ -1,0 +1,18 @@
+IndexNo,UserID,UserName,EventDateTime,EntryExitType,MasterControllerID,DoorControllerID,IDateTime,FullName
+17,new,new,02/02/2022 15:33:07,0,18,1,02/02/2022 15:33:08,new
+1,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 09:20:23,0,17,1,02/02/2022 14:04:43,2punch user with no late in duration applicab
+2,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 10:05:16,0,17,1,02/02/2022 14:04:44,2punch user with no late in duration applicab
+3,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 10:05:24,0,17,1,02/02/2022 14:04:44,2punch user with no late in duration applicab
+4,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 10:05:33,0,17,1,02/02/2022 14:04:44,2punch user with no late in duration applicab
+5,nPunchlatein,npunch user with 30min latein,21/01/2022 11:42:02,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+6,nPunchlatein,npunch user with 30min latein,21/01/2022 11:42:07,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+7,nPunchlatein,npunch user with 30min latein,21/01/2022 11:42:19,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+8,nPunchlatein,npunch user with 30min latein,21/01/2022 11:42:25,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+9,nPunchlatein,npunch user with 30min latein,21/01/2022 11:46:57,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+10,nPunchlatein,npunch user with 30min latein,21/01/2022 11:58:44,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+11,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 12:02:15,0,17,1,02/02/2022 14:04:45,2punch user with no late in duration applicab
+12,nPunchlatein,npunch user with 30min latein,21/01/2022 12:03:12,0,17,1,02/02/2022 14:04:45,npunch user with 30min latein
+13,nPunchlatein,npunch user with 30min latein,21/01/2022 12:06:49,0,17,1,02/02/2022 14:04:46,npunch user with 30min latein
+14,2punchnolatein,2punch user with no late in duration applicab,21/01/2022 14:40:02,0,17,1,02/02/2022 14:04:47,2punch user with no late in duration applicab
+15,nPunchlatein,npunch user with 30min latein,02/02/2022 13:57:15,0,17,1,02/02/2022 14:04:47,npunch user with 30min latein
+16,nPunchlatein,npunch user with 30min latein,02/02/2022 13:59:17,0,17,1,02/02/2022 14:04:47,npunch user with 30min latein

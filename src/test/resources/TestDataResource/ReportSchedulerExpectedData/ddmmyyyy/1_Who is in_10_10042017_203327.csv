@@ -1,0 +1,29 @@
+,,DADB,,,Page 1 of 1
+,,Who Is In as on 10/04/2017 20:33:27,,,
+Run by:,System Admin,,,Date:,
+Sr No, User ID,,Name,Door,IN Date-Time
+Department-1,,,,,
+1,2pGraceinWH,,2Punch user includes grace time in work hours,NGT Direct Door-Device-1,10/04/2017 18:40
+2,2pgracelatein,,2punch user with grace and late in policy,NGT Direct Door-Device-1,10/04/2017 19:15
+3,2pgraceshiftEO,,2punch user for EO Shift grace and EO duratio,NGT Direct Door-Device-1,10/04/2017 17:00
+4,2punchearlyout,,2punchuserwith earlyout policy,NGT Direct Door-Device-1,10/04/2017 17:30
+5,2punchnoearly,,2punch with no earlyout duration,NGT Direct Door-Device-1,10/04/2017 18:29
+6,4breaklatein,,4 punch user with break latein AND earlyout,NGT Direct Door-Device-1,10/04/2017 18:20
+7,4pgracebreakear,,4 punch user with break early out and grace,NGT Direct Door-Device-1,10/04/2017 17:55
+8,4pgracebreaklat,,4 punch user with grace for shift and breakla,NGT Direct Door-Device-1,10/04/2017 19:34
+9,auto,,auto,Vega Controller-Device-9,10/04/2017 19:30
+10,CalcWkdaynwkoff,,Cal of OT on Wkday and WeekOff as per chkbox,NGT Direct Door-Device-1,10/04/2017 19:01
+11,daily1earlyin,,Cal onWOPH as per weekday,NGT Direct Door-Device-1,10/04/2017 18:30
+12,daily1OTNtconfi,,Daily1 OT Not configured for Wkdays n weekend,NGT Direct Door-Device-1,10/04/2017 19:00
+13,daily1weekends,,daily1 weekends config in OT,NGT Direct Door-Device-1,10/04/2017 20:20
+14,daily1wkdys,,daily1 wkdys and weekends not assigned,NGT Direct Door-Device-1,10/04/2017 19:00
+15,FlexibleOT,,OT for flexible user,NGT Direct Door-Device-1,10/04/2017 16:00
+16,NetworkHrs,,Networkhours bt no OT Component,NGT Direct Door-Device-1,10/04/2017 19:00
+17,npgraceEO,,Npunch user with grace in EO and EO duration,NGT Direct Door-Device-1,10/04/2017 18:30
+18,nPunchlatein,,npunch user with 30min latein,NGT Direct Door-Device-1,10/04/2017 19:10
+19,npunchnoearly,,npunch user with no earlyout policy,NGT Direct Door-Device-1,10/04/2017 18:40
+20,npunchwithearly,,npunch user with earlyout policy,NGT Direct Door-Device-1,10/04/2017 17:59
+21,OTcalWkdyntchk,,Cal on weekday bt wkday is nt checked for OT,NGT Direct Door-Device-1,10/04/2017 19:30
+22,OTonWeekdays,,Overtime consider  weekdays for WOPH,NGT Direct Door-Device-1,10/04/2017 19:00
+Dept2,,,,,
+1,2punchuser,,2punch user with latein,NGT Direct Door-Device-1,10/04/2017 19:15

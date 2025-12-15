@@ -1,0 +1,304 @@
+,,,DADB,,,,,,,Page 1 of 1,,
+,,,Organization-Wise Leave Application From 04/01/2017 To 04/10/2017,,,,,,,,,
+Run by:,System Admin,,,,,Date:,,,,,,
+Sr No,User ID,  Name,Reporting In-Charge,StartDate,EndDate,Leave,"Applied
+Days/Duration",Posted Days/Duration, Reason,Status,Status Date,Remark
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2breaklatein,2punch user with break latein,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2breaklatein,2punch user with break latein,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2pofficialin,2punch user with official in,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2pofficialin,2punch user with official in,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2pOfficialout,2 punch user with official out,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2pOfficialout,2 punch user with official out,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2poutfromexit,2Punch user with out punch from exit reader o,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2poutfromexit,2Punch user with out punch from exit reader o,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2pshortleaveout,2 Punch user for shortleave out,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2pshortleaveout,2 Punch user for shortleave out,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2punchshortleav,Shortleave in for 2 punch,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2punchshortleav,Shortleave in for 2 punch,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,2pwithexitreade,Exit reader enabled but punches from entry,Reporting Incharge1,04/03/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,2pwithexitreade,Exit reader enabled but punches from entry,Reporting Incharge1,04/04/2017,04/08/2017,TR,4.50,4.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4PbreakEO,4 Punch user with break earlyout,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4PBreakEOex,4P Break for earlyout exceeds,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4PbreakEOgrace,4P user with break earlyout grace,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4Pbreakingrace,4 punch user with break hours within grace,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,4Pbreakingrace,4 punch user with break hours within grace,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4Pbreaklatein,4p user with break latein,Reporting Incharge1,04/03/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,4Pbreaklatein,4p user with break latein,Reporting Incharge1,04/04/2017,04/08/2017,TR,4.50,4.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4PBreakLIex,4P user exceeds break latein,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4pgracebreakear,4 punch user with break early out and grace,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,4pgracebreakear,4 punch user with break early out and grace,Reporting Incharge1,04/05/2017,04/05/2017,TR,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4pgracebreaklat,4 punch user with grace for shift and breakla,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,4ptotallatein,4punch user for adding break latein in total,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,4ptotallatein,4punch user for adding break latein in total,Reporting Incharge1,04/06/2017,04/08/2017,TR,2.50,2.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,auto,auto,,04/02/2017,04/02/2017,TR,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,auto,auto,,04/04/2017,04/05/2017,TR,2.00,2.00,,Approved,12/28/2023,Absent Adjustment
+3,auto,auto,,04/06/2017,04/07/2017,TR,1.50,1.50,,Approved,12/28/2023,Absent Adjustment
+4,auto,auto,,04/09/2017,04/09/2017,TR,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Autoshift,Auto shift user with shift schedule not proce,Reporting Incharge1,04/02/2017,04/02/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Autoshiftproces,Auto shift user whose shift has been processe,Reporting Incharge1,04/07/2017,04/07/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Autoshiftproces,Auto shift user whose shift has been processe,Reporting Incharge1,04/08/2017,04/08/2017,TR,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Awardandpenalty,award n penalty,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,BreakEOexceeds,Include Break early out in shift exceeds TD,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+2,BreakEOexceeds,Include Break early out in shift exceeds TD,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+3,BreakEOexceeds,Include Break early out in shift exceeds TD,Reporting Incharge1,04/03/2017,04/08/2017,TR,5.50,5.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,BreakEOInTotal,Break earlyout in total early out,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+2,BreakEOInTotal,Break earlyout in total early out,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+3,BreakEOInTotal,Break earlyout in total early out,Reporting Incharge1,04/04/2017,04/04/2017,TR,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+4,BreakEOInTotal,Break earlyout in total early out,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,BreakLIexceeds,Exceeds break and total latein,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,BreakLIexceeds,Exceeds break and total latein,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,BreakLIinTotal,Break latein in total latein,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,COFF,COFF,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,COFF,COFF,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,daily1earlyin,Cal onWOPH as per weekday,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,daily1weekends,daily1 weekends config in OT,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,daily1weekends,daily1 weekends config in OT,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,daily1wkdys,daily1 wkdys and weekends not assigned,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,earlyout,user punches on early out duration of 30mins,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,earlyout,user punches on early out duration of 30mins,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Earlyoutgrace,Earlyout user with punches on grace time,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Earlyoutgrace,Earlyout user with punches on grace time,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Eligiblehours,Eligible work hours,Reporting Incharge1,04/06/2017,04/06/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,EOdurationexcee,EO duration exceeds,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,EOdurationexcee,EO duration exceeds,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,EOgraceexceed,Earlyout grace duration exceeds,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,EOgraceexceed,Earlyout grace duration exceeds,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,FB,OT for FB,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,FB,OT for FB,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,firsthalfabsent,First half absent,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+2,firsthalfabsent,First half absent,Reporting Incharge1,04/04/2017,04/04/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+3,firsthalfabsent,First half absent,Reporting Incharge1,04/04/2017,04/08/2017,TR,4.50,4.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,04/21/2017,,,,,,,,,,
+1,Firsthalfleave,User with first half leave,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,04/21/2017,
+2,Firsthalfleave,User with first half leave,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,04/21/2017,
+3,Firsthalfleave,User with first half leave,Reporting Incharge1,04/04/2017,04/06/2017,PL,2.50,2.50,,Approved,12/28/2023,Absent Adjustment
+4,Firsthalfleave,User with first half leave,Reporting Incharge1,04/06/2017,04/08/2017,TR,2.50,2.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Flexible,flexibleuser,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,FlexibleOT,OT for flexible user,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,04/24/2017,,,,,,,,,,
+1,Fulldayleave,User with full day leave,Reporting Incharge1,04/01/2017,04/03/2017,PL,3.00,2.00,,Approved,04/24/2017,
+2,Fulldayleave,User with full day leave,Reporting Incharge1,04/04/2017,04/05/2017,PL,1.50,1.50,,Approved,12/28/2023,Absent Adjustment
+3,Fulldayleave,User with full day leave,Reporting Incharge1,04/05/2017,04/08/2017,TR,3.50,3.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Inpunch,User with In pucnh only,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPC,JPC user,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Jpcdefaultenter,Job coseting user with default job of enterpr,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPCdefaultjob,JPC default job,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Jpcdevicebased,JPC user with device based,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPCmergejob,JPC merged Job,,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPCsitedefaultj,JPC user with sitewise default job,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPCSplitHO,JPC split timesheet normal shift,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+ORG2,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,JPCSplitNS,JPC split timesheet night shift,,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,JPCSplitNS,JPC split timesheet night shift,,04/03/2017,04/08/2017,TR,6.00,6.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Lategraceexceed,User with exceed grace period,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Lategraceexceed,User with exceed grace period,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Latein,user punches on latein only,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Latein,user punches on latein only,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Lateinduraexcee,Late in Duration exceed,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Lateinduraexcee,Late in Duration exceed,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Lateingrace,User have pucnges on grace latein,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Lateingrace,User have pucnges on grace latein,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Lessworkhours,Less work hours for daily limit,Reporting Incharge1,04/06/2017,04/06/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Lessworkhours,Less work hours for daily limit,Reporting Incharge1,04/07/2017,04/08/2017,TR,2.00,2.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,manualOT,User with Manual Overtime,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,manualOT,User with Manual Overtime,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NetworkHrs,Networkhours bt no OT Component,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,NetworkHrs,Networkhours bt no OT Component,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NightShift,NightShift,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,NightShift,NightShift,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Normal,normal user,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Normal,normal user,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NpofficialIn,N punch user for official In,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,NpofficialIn,N punch user for official In,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Npoutfromexit,Npunch user with out punch from exit reader,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Npoutfromexit,Npunch user with out punch from exit reader,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,npshortleavein,n punch user for shortleave in,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,npshortleavein,n punch user for shortleave in,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,npshortleaveout,n punch user with short leave out,Reporting Incharge1,04/03/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,npshortleaveout,n punch user with short leave out,Reporting Incharge1,04/04/2017,04/08/2017,TR,4.50,4.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Npucnofficialou,N punch user with official out,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Npucnofficialou,N punch user with official out,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Npunchbeyond,Npunch user with deduction type as beyond,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Npunchbeyond,Npunch user with deduction type as beyond,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NpunchFlexible,Npunch user with type as flexible,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,Npunchgreater,N punch user with greater than deduction typr,Reporting Incharge1,04/05/2017,04/05/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,Npunchgreater,N punch user with greater than deduction typr,Reporting Incharge1,04/06/2017,04/08/2017,TR,3.00,3.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,nPunchlatein,npunch user with 30min latein,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NpunchNightshif,N punch user with night shift,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,NpunchNightshif,N punch user with night shift,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,npunchnoearly,npunch user with no earlyout policy,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,npunchnolatein,Npunch user with no late in duration,Reporting Incharge1,04/08/2017,04/08/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+2,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,12/28/2023,Absent Adjustment
+3,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,OTCOFFBoth,Auto authorize OT COFF,,04/03/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,OTCOFFBoth,Auto authorize OT COFF,,04/04/2017,04/08/2017,TR,4.50,4.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,05/01/2017,,,,,,,,,,
+1,OTonWeekdays,Overtime consider  weekdays for WOPH,Reporting Incharge1,04/01/2017,04/01/2017,PL,1.00,1.00,,Approved,05/01/2017,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,04/24/2017,,,,,,,,,,
+1,Secondhalfleave,user with second half leave,Reporting Incharge1,04/01/2017,04/01/2017,PL,0.50,0.50,,Approved,04/24/2017,
+2,Secondhalfleave,user with second half leave,Reporting Incharge1,04/03/2017,04/03/2017,PL,0.50,0.50,,Approved,04/24/2017,
+3,Secondhalfleave,user with second half leave,Reporting Incharge1,04/04/2017,04/06/2017,PL,2.50,2.50,,Approved,12/28/2023,Absent Adjustment
+4,Secondhalfleave,user with second half leave,Reporting Incharge1,04/06/2017,04/08/2017,TR,2.50,2.50,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,seconhalfabsent,second half absent,Reporting Incharge1,04/04/2017,04/04/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,seconhalfabsent,second half absent,Reporting Incharge1,04/05/2017,04/08/2017,TR,4.00,4.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,SpecialOTearlyi,Special OT with earlyin defined component,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,SpecialOTearlyi,Special OT with earlyin defined component,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment
+DADB,,,,,,,,,,,,
+Application Date:,,12/28/2023,,,,,,,,,,
+1,SpecialOTwOearl,SpecialOTWithoutearlyIn,Reporting Incharge1,04/03/2017,04/03/2017,PL,1.00,1.00,,Approved,12/28/2023,Absent Adjustment
+2,SpecialOTwOearl,SpecialOTWithoutearlyIn,Reporting Incharge1,04/04/2017,04/08/2017,TR,5.00,5.00,,Approved,12/28/2023,Absent Adjustment

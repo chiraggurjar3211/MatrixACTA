@@ -1,0 +1,11 @@
+[
+  {
+    "Active": true,
+    "AtdEnable": true,
+    "ACSEnable": true,
+    "ESSEnable": true,
+    "ESSDetail": true,
+    "PunchMarkingviaESS": true,
+    "Validation": "Saved Successfully"
+  }
+]

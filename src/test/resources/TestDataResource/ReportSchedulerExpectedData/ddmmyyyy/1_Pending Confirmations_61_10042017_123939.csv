@@ -1,0 +1,10 @@
+,,DADB,,,,Page 1 of 1,
+,,Pending Confirmation From 01/04/2017 To 10/04/2017,,,,,
+Run by:,System Admin,,,,Date:,,
+User ID,Name,,Department,Designation,Joining Date,Days Remaining,Confirmation On
+DADB,,,,,,,
+npgraceEO,Npunch user with grace in EO and EO duration,,Department-1,Designation-1,23/03/2017,-,02/04/2017
+ORG2,,,,,,,
+2pGraceinWH,2Punch user includes grace time in work hours,,Department-1,Designation-1,28/03/2017,-,07/04/2017
+2pgracelatein,2punch user with grace and late in policy,,Department-1,Designation-1,31/03/2017,0,10/04/2017
+2punchearlyout,2punchuserwith earlyout policy,,Department-1,Designation-1,31/03/2017,0,10/04/2017

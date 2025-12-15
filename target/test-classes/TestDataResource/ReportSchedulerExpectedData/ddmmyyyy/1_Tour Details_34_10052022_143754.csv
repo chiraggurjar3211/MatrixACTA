@@ -1,0 +1,132 @@
+,,DADB,,,,,,,,,,,,,Page 1 of 1,,
+,,Guard Tour Details Report From 01/05/2022 To 10/05/2022,,,,,,,,,,,,,,,
+Run by:,System Admin,,,,,,,,,,,,Date:,,,,
+,,,,,,,,Device1,Device2,Device3,Device4,Device5,Device6,Device7,Device8,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,vega_panel_1,NGT Direct Door-Device-1,Wireless Door-Device-15,,,,,,Verdict,
+Tour ID:,1,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,06/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,test1,,,,,,,,,,,,,,,,
+Name:,test1,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,vega_panel_1,NGT Direct Door-Device-1,Wireless Door-Device-15,,,,,,Verdict,
+Tour ID:,1,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,07/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,test1,,,,,,,,,,,,,,,,
+Name:,test1,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,vega_panel_1,NGT Direct Door-Device-1,Wireless Door-Device-15,,,,,,Verdict,
+Tour ID:,1,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,08/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,test1,,,,,,,,,,,,,,,,
+Name:,test1,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,vega_panel_1,NGT Direct Door-Device-1,Wireless Door-Device-15,,,,,,Verdict,
+Tour ID:,1,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,09/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,test1,,,,,,,,,,,,,,,,
+Name:,test1,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,vega_panel_1,NGT Direct Door-Device-1,Wireless Door-Device-15,,,,,,Verdict,
+Tour ID:,1,,1,,17:39,,17:40,,,,,,,,,,
+Date:,10/05/2022,,2,,17:40,,17:41,,,,,,,,,,
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,test1,,,,,,,,,,,,,,,,
+Name:,test1,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,Wireless Door-Device-15,PVR Door-Device-3,vega_panel_1,,,,,,Verdict,
+Tour ID:,2,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,06/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,mjr,,,,,,,,,,,,,,,,
+Name:,mjr,,,,,,,,,,,,,,,,
+Sequential:,No,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,Wireless Door-Device-15,PVR Door-Device-3,vega_panel_1,,,,,,Verdict,
+Tour ID:,2,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,07/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,mjr,,,,,,,,,,,,,,,,
+Name:,mjr,,,,,,,,,,,,,,,,
+Sequential:,No,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,Wireless Door-Device-15,PVR Door-Device-3,vega_panel_1,,,,,,Verdict,
+Tour ID:,2,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,08/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,mjr,,,,,,,,,,,,,,,,
+Name:,mjr,,,,,,,,,,,,,,,,
+Sequential:,No,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,Wireless Door-Device-15,PVR Door-Device-3,vega_panel_1,,,,,,Verdict,
+Tour ID:,2,,1,,17:39,,17:40,,,,,,,,,,FAIL
+Date:,09/05/2022,,2,,17:40,,17:41,,,,,,,,,,FAIL
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,mjr,,,,,,,,,,,,,,,,
+Name:,mjr,,,,,,,,,,,,,,,,
+Sequential:,No,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,Wireless Door-Device-15,PVR Door-Device-3,vega_panel_1,,,,,,Verdict,
+Tour ID:,2,,1,,17:39,,17:40,,,,,,,,,,
+Date:,10/05/2022,,2,,17:40,,17:41,,,,,,,,,,
+Tour Period:,17:39-17:41,,,,,,,,,,,,,,,,
+No. of Devices:,3,,,,,,,,,,,,,,,,
+Guard ID:,mjr,,,,,,,,,,,,,,,,
+Name:,mjr,,,,,,,,,,,,,,,,
+Sequential:,No,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,FAIL
+Date:,05/05/2022,,2,,18:14,,18:15,,,,,,,,,,FAIL
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,FAIL
+Date:,06/05/2022,,2,,18:14,,18:15,,,,,,,,,,FAIL
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,FAIL
+Date:,07/05/2022,,2,,18:14,,18:15,,,,,,,,,,FAIL
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,FAIL
+Date:,08/05/2022,,2,,18:14,,18:15,,,,,,,,,,FAIL
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,FAIL
+Date:,09/05/2022,,2,,18:14,,18:15,,,,,,,,,,FAIL
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,
+Tour Details,,Cycle No.,,Start Time,,End Time,,panel_door_200_1,NGT Direct Door-Device-1,PVR Door-Device-3,Vega Controller-Device-10,,,,,Verdict,
+Tour ID:,3,,1,,18:13,,18:14,,,,,,,,,,
+Date:,10/05/2022,,2,,18:14,,18:15,,,,,,,,,,
+Tour Period:,18:13-18:15,,,,,,,,,,,,,,,,
+No. of Devices:,4,,,,,,,,,,,,,,,,
+Guard ID:,1515,,,,,,,,,,,,,,,,
+Name:,AMIT-BLE,,,,,,,,,,,,,,,,
+Sequential:,Yes,,,,,,,,,,,,,,,,

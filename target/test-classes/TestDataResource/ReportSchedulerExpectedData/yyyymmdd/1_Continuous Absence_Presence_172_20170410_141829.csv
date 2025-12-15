@@ -1,0 +1,162 @@
+,,DADB,,,,Page 1 of 1
+,,Continuous Absence For 1 Or More Days From 2017/04/01 To 2017/04/10,,,,
+Run by:,System Admin,,,,Date:,
+Sr No, User ID,,Name,From     ,To,No. of Days
+1,2breaklatein,,2punch user with break latein,2017/04/05,2017/04/10,6
+2,2breaklatein,,2punch user with break latein,2017/04/02,2017/04/02,1
+3,2pGraceinWH,,2Punch user includes grace time in work hours,2017/04/09,2017/04/10,2
+4,2pGraceinWH,,2Punch user includes grace time in work hours,2017/04/02,2017/04/02,1
+5,2pgracelatein,,2punch user with grace and late in policy,2017/04/09,2017/04/10,2
+6,2pgracelatein,,2punch user with grace and late in policy,2017/04/02,2017/04/02,1
+7,2pgraceshiftEO,,2punch user for EO Shift grace and EO duratio,2017/04/09,2017/04/10,2
+8,2pgraceshiftEO,,2punch user for EO Shift grace and EO duratio,2017/04/02,2017/04/02,1
+9,2pofficialin,,2punch user with official in,2017/04/04,2017/04/10,7
+10,2pofficialin,,2punch user with official in,2017/04/02,2017/04/02,1
+11,2pOfficialout,,2 punch user with official out,2017/04/04,2017/04/10,7
+12,2pOfficialout,,2 punch user with official out,2017/04/02,2017/04/02,1
+13,2poutfromexit,,2Punch user with out punch from exit reader o,2017/04/05,2017/04/10,6
+14,2poutfromexit,,2Punch user with out punch from exit reader o,2017/04/02,2017/04/02,1
+15,2pshortleaveout,,2 Punch user for shortleave out,2017/04/04,2017/04/10,7
+16,2pshortleaveout,,2 Punch user for shortleave out,2017/04/02,2017/04/02,1
+17,2punchearlyout,,2punchuserwith earlyout policy,2017/04/09,2017/04/10,2
+18,2punchearlyout,,2punchuserwith earlyout policy,2017/04/02,2017/04/02,1
+19,2punchnoearly,,2punch with no earlyout duration,2017/04/09,2017/04/10,2
+20,2punchnoearly,,2punch with no earlyout duration,2017/04/02,2017/04/02,1
+21,2punchnolatein,,2punch user with no late in duration applicab,2017/04/09,2017/04/10,2
+22,2punchnolatein,,2punch user with no late in duration applicab,2017/04/02,2017/04/02,1
+23,2punchshortleav,,Shortleave in for 2 punch,2017/04/04,2017/04/10,7
+24,2punchshortleav,,Shortleave in for 2 punch,2017/04/02,2017/04/02,1
+25,2punchuser,,2punch user with latein,2017/04/09,2017/04/10,2
+26,2punchuser,,2punch user with latein,2017/04/02,2017/04/02,1
+27,2pwithexitreade,,Exit reader enabled but punches from entry,2017/04/04,2017/04/10,7
+28,2pwithexitreade,,Exit reader enabled but punches from entry,2017/04/02,2017/04/02,1
+29,4breaklatein,,4 punch user with break latein AND earlyout,2017/04/09,2017/04/10,2
+30,4breaklatein,,4 punch user with break latein AND earlyout,2017/04/02,2017/04/02,1
+31,4PbreakEO,,4 Punch user with break earlyout,2017/04/04,2017/04/10,7
+32,4PbreakEO,,4 Punch user with break earlyout,2017/04/02,2017/04/02,1
+33,4PBreakEOex,,4P Break for earlyout exceeds,2017/04/04,2017/04/10,7
+34,4PBreakEOex,,4P Break for earlyout exceeds,2017/04/02,2017/04/02,1
+35,4PbreakEOgrace,,4P user with break earlyout grace,2017/04/04,2017/04/10,7
+36,4PbreakEOgrace,,4P user with break earlyout grace,2017/04/02,2017/04/02,1
+37,4Pbreakingrace,,4 punch user with break hours within grace,2017/04/04,2017/04/10,7
+38,4Pbreakingrace,,4 punch user with break hours within grace,2017/04/02,2017/04/02,1
+39,4Pbreaklatein,,4p user with break latein,2017/04/04,2017/04/10,7
+40,4Pbreaklatein,,4p user with break latein,2017/04/02,2017/04/02,1
+41,4PBreakLIex,,4P user exceeds break latein,2017/04/04,2017/04/10,7
+42,4PBreakLIex,,4P user exceeds break latein,2017/04/02,2017/04/02,1
+43,4pgracebreakear,,4 punch user with break early out and grace,2017/04/09,2017/04/10,2
+44,4pgracebreakear,,4 punch user with break early out and grace,2017/04/04,2017/04/04,1
+45,4pgracebreakear,,4 punch user with break early out and grace,2017/04/02,2017/04/02,1
+46,4pgracebreaklat,,4 punch user with grace for shift and breakla,2017/04/09,2017/04/10,2
+47,4pgracebreaklat,,4 punch user with grace for shift and breakla,2017/04/02,2017/04/02,1
+48,4ptotallatein,,4punch user for adding break latein in total,2017/04/07,2017/04/10,4
+49,4ptotallatein,,4punch user for adding break latein in total,2017/04/05,2017/04/05,1
+50,4ptotallatein,,4punch user for adding break latein in total,2017/04/02,2017/04/02,1
+51,auto,,auto,2017/04/05,2017/04/05,1
+52,Autoshiftproces,,Auto shift user whose shift has been processe,2017/04/07,2017/04/10,4
+53,Autoshiftproces,,Auto shift user whose shift has been processe,2017/04/02,2017/04/02,1
+54,Awardandpenalty,,award n penalty,2017/04/01,2017/04/10,10
+55,BreakEOexceeds,,Include Break early out in shift exceeds TD,2017/04/02,2017/04/10,9
+56,BreakEOInTotal,,Break earlyout in total early out,2017/04/05,2017/04/10,6
+57,BreakEOInTotal,,Break earlyout in total early out,2017/04/02,2017/04/02,1
+58,BreakLIexceeds,,Exceeds break and total latein,2017/04/04,2017/04/10,7
+59,BreakLIexceeds,,Exceeds break and total latein,2017/04/02,2017/04/02,1
+60,BreakLIinTotal,,Break latein in total latein,2017/04/02,2017/04/10,9
+61,CalcWkdaynwkoff,,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/01,2017/04/10,10
+62,COFF,,COFF,2017/04/04,2017/04/10,7
+63,COFF,,COFF,2017/04/02,2017/04/02,1
+64,daily1earlyin,,Cal onWOPH as per weekday,2017/04/01,2017/04/10,10
+65,daily1OTNtconfi,,Daily1 OT Not configured for Wkdays n weekend,2017/04/01,2017/04/10,10
+66,daily1weekends,,daily1 weekends config in OT,2017/04/02,2017/04/10,9
+67,daily1wkdys,,daily1 wkdys and weekends not assigned,2017/04/01,2017/04/10,10
+68,earlyout,,user punches on early out duration of 30mins,2017/04/04,2017/04/10,7
+69,earlyout,,user punches on early out duration of 30mins,2017/04/02,2017/04/02,1
+70,Earlyoutgrace,,Earlyout user with punches on grace time,2017/04/04,2017/04/10,7
+71,Earlyoutgrace,,Earlyout user with punches on grace time,2017/04/02,2017/04/02,1
+72,Eligiblehours,,Eligible work hours,2017/04/09,2017/04/10,2
+73,Eligiblehours,,Eligible work hours,2017/04/02,2017/04/02,1
+74,EOdurationexcee,,EO duration exceeds,2017/04/04,2017/04/10,7
+75,EOdurationexcee,,EO duration exceeds,2017/04/02,2017/04/02,1
+76,EOgraceexceed,,Earlyout grace duration exceeds,2017/04/04,2017/04/10,7
+77,EOgraceexceed,,Earlyout grace duration exceeds,2017/04/02,2017/04/02,1
+78,FB,,OT for FB,2017/04/02,2017/04/10,9
+79,firsthalfabsent,,First half absent,2017/04/04,2017/04/10,7
+80,firsthalfabsent,,First half absent,2017/04/02,2017/04/02,1
+81,Firsthalfleave,,User with first half leave,2017/04/04,2017/04/10,7
+82,Firsthalfleave,,User with first half leave,2017/04/02,2017/04/02,1
+83,Flexible,,flexibleuser,2017/04/01,2017/04/10,10
+84,FlexibleMonthly,,FlexibleMonthly,2017/04/05,2017/04/10,6
+85,FlexibleNone,,FlexibleNone,2017/04/03,2017/04/10,8
+86,FlexibleOT,,OT for flexible user,2017/04/01,2017/04/10,10
+87,Fulldayleave,,User with full day leave,2017/04/01,2017/04/10,10
+88,Inpunch,,User with In pucnh only,2017/04/04,2017/04/10,7
+89,Inpunch,,User with In pucnh only,2017/04/02,2017/04/02,1
+90,JPC,,JPC user,2017/04/01,2017/04/10,10
+91,Jpcdefaultenter,,Job coseting user with default job of enterpr,2017/04/01,2017/04/10,10
+92,JPCdefaultjob,,JPC default job,2017/04/01,2017/04/10,10
+93,Jpcdevicebased,,JPC user with device based,2017/04/01,2017/04/10,10
+94,JPCmergejob,,JPC merged Job,2017/04/02,2017/04/10,9
+95,JPCsitedefaultj,,JPC user with sitewise default job,2017/04/01,2017/04/10,10
+96,JPCSplitHO,,JPC split timesheet normal shift,2017/04/01,2017/04/10,10
+97,JPCSplitNS,,JPC split timesheet night shift,2017/04/01,2017/04/10,10
+98,Lategraceexceed,,User with exceed grace period,2017/04/04,2017/04/10,7
+99,Lategraceexceed,,User with exceed grace period,2017/04/02,2017/04/02,1
+100,Latein,,user punches on latein only,2017/04/04,2017/04/10,7
+101,Latein,,user punches on latein only,2017/04/02,2017/04/02,1
+102,Lateinduraexcee,,Late in Duration exceed,2017/04/04,2017/04/10,7
+103,Lateinduraexcee,,Late in Duration exceed,2017/04/02,2017/04/02,1
+104,Lateingrace,,User have pucnges on grace latein,2017/04/05,2017/04/10,6
+105,Lateingrace,,User have pucnges on grace latein,2017/04/02,2017/04/02,1
+106,Lessworkhours,,Less work hours for daily limit,2017/04/06,2017/04/10,5
+107,Lessworkhours,,Less work hours for daily limit,2017/04/02,2017/04/02,1
+108,manualOT,,User with Manual Overtime,2017/04/04,2017/04/10,7
+109,manualOT,,User with Manual Overtime,2017/04/02,2017/04/02,1
+110,mitali,,mitali,2017/04/01,2017/04/10,10
+111,mitali1,,mitali1,2017/04/01,2017/04/10,10
+112,NetworkHrs,,Networkhours bt no OT Component,2017/04/02,2017/04/10,9
+113,NightShift,,NightShift,2017/04/04,2017/04/10,7
+114,NightShift,,NightShift,2017/04/02,2017/04/02,1
+115,Normal,,normal user,2017/04/04,2017/04/10,7
+116,Normal,,normal user,2017/04/02,2017/04/02,1
+117,npgraceEO,,Npunch user with grace in EO and EO duration,2017/04/09,2017/04/10,2
+118,npgraceEO,,Npunch user with grace in EO and EO duration,2017/04/02,2017/04/02,1
+119,NpofficialIn,,N punch user for official In,2017/04/05,2017/04/10,6
+120,NpofficialIn,,N punch user for official In,2017/04/02,2017/04/02,1
+121,Npoutfromexit,,Npunch user with out punch from exit reader,2017/04/04,2017/04/10,7
+122,Npoutfromexit,,Npunch user with out punch from exit reader,2017/04/02,2017/04/02,1
+123,npshortleavein,,n punch user for shortleave in,2017/04/04,2017/04/10,7
+124,npshortleavein,,n punch user for shortleave in,2017/04/02,2017/04/02,1
+125,npshortleaveout,,n punch user with short leave out,2017/04/04,2017/04/10,7
+126,npshortleaveout,,n punch user with short leave out,2017/04/02,2017/04/02,1
+127,Npucnofficialou,,N punch user with official out,2017/04/04,2017/04/10,7
+128,Npucnofficialou,,N punch user with official out,2017/04/02,2017/04/02,1
+129,Npunchbeyond,,Npunch user with deduction type as beyond,2017/04/05,2017/04/10,6
+130,Npunchbeyond,,Npunch user with deduction type as beyond,2017/04/02,2017/04/02,1
+131,NpunchFlexible,,Npunch user with type as flexible,2017/04/01,2017/04/10,10
+132,Npunchgreater,,N punch user with greater than deduction typr,2017/04/05,2017/04/10,6
+133,Npunchgreater,,N punch user with greater than deduction typr,2017/04/02,2017/04/02,1
+134,nPunchlatein,,npunch user with 30min latein,2017/04/09,2017/04/10,2
+135,nPunchlatein,,npunch user with 30min latein,2017/04/02,2017/04/02,1
+136,NpunchNightshif,,N punch user with night shift,2017/04/02,2017/04/10,9
+137,npunchnoearly,,npunch user with no earlyout policy,2017/04/09,2017/04/10,2
+138,npunchnoearly,,npunch user with no earlyout policy,2017/04/02,2017/04/02,1
+139,npunchnolatein,,Npunch user with no late in duration,2017/04/08,2017/04/10,3
+140,npunchnolatein,,Npunch user with no late in duration,2017/04/02,2017/04/02,1
+141,npunchwithearly,,npunch user with earlyout policy,2017/04/09,2017/04/10,2
+142,npunchwithearly,,npunch user with earlyout policy,2017/04/02,2017/04/02,1
+143,NpWithexitenabl,,Npunchuser exit enabled bt punches frm entry,2017/04/04,2017/04/10,7
+144,NpWithexitenabl,,Npunchuser exit enabled bt punches frm entry,2017/04/02,2017/04/02,1
+145,OTcalWkdyntchk,,Cal on weekday bt wkday is nt checked for OT,2017/04/01,2017/04/10,10
+146,OTCOFFBoth,,Auto authorize OT COFF,2017/04/04,2017/04/10,7
+147,OTCOFFBoth,,Auto authorize OT COFF,2017/04/02,2017/04/02,1
+148,OTonWeekdays,,Overtime consider  weekdays for WOPH,2017/04/01,2017/04/02,2
+149,RestrictedDail1,,Restricted OT cal for Daily1,2017/04/02,2017/04/10,9
+150,Secondhalfleave,,user with second half leave,2017/04/04,2017/04/10,7
+151,Secondhalfleave,,user with second half leave,2017/04/02,2017/04/02,1
+152,seconhalfabsent,,second half absent,2017/04/04,2017/04/10,7
+153,seconhalfabsent,,second half absent,2017/04/02,2017/04/02,1
+154,SpecialOTearlyi,,Special OT with earlyin defined component,2017/04/02,2017/04/10,9
+155,SpecialOTwOearl,,SpecialOTWithoutearlyIn,2017/04/02,2017/04/10,9
+156,SpecialOvertime,,Special Overtime,2017/04/04,2017/04/04,1
+157,SpecialOvertime,,Special Overtime,2017/04/02,2017/04/02,1
+158,weekOffChange,,weekOff,2017/04/01,2017/04/10,10

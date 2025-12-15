@@ -1,0 +1,813 @@
+,,MONTHLY OVERTIME PAYABLE REPORT,,,,,
+Organization-Wise Monthly Overtime Payable Report for,,,,,,Month - Year,
+Run By:,SYSTEM,,,,,,
+User ID,,Name,,,Net Work (HH:MM),OT of Net Work %,Payable Amount
+1,,DADB,,,,,
+EOgraceexceed,,Earlyout grace duration exceeds,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+FB,,OT for FB,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+firsthalfabsent,,First half absent,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Firsthalfleave,,User with first half leave,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Flexible,,flexibleuser,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+FlexibleOT,,OT for flexible user,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Fulldayleave,,User with full day leave,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Inpunch,,User with In pucnh only,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Jpcdefaultenter,,Job coseting user with default job of enterpr,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCmergejob,,JPC merged Job,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+l1,,leave1,,,22:02,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,03:00,01:32,00:00,00:00,00:00,04:32
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Lategraceexceed,,User with exceed grace period,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Latein,,user punches on latein only,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Lateinduraexcee,,Late in Duration exceed,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Lateingrace,,User have pucnges on grace latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+LeaveEncash,,LeaveEncash,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Lessworkhours,,Less work hours for daily limit,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+manualOT,,User with Manual Overtime,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+mitali,,mitali,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+mixshift,,mixshifts,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+mjr,,mjr,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+mjr1,,mjr1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+mjr2,,mjr2,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NetworkHrs,,Networkhours bt no OT Component,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+new1,,new1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+new2,,new2,,,03:00,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NightShift,,NightShift,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Normal,,normal user,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npgraceEO,,Npunch user with grace in EO and EO duration,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NpofficialIn,,N punch user for official In,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Npoutfromexit,,Npunch user with out punch from exit reader,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npshortleavein,,n punch user for shortleave in,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npshortleaveout,,n punch user with short leave out,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Npucnofficialou,,N punch user with official out,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Npunchbeyond,,Npunch user with deduction type as beyond,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NpunchFlexible,,Npunch user with type as flexible,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Npunchgreater,,N punch user with greater than deduction typr,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+nPunchlatein,,npunch user with 30min latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NpunchNightshif,,N punch user with night shift,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npunchnoearly,,npunch user with no earlyout policy,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npunchnolatein,,Npunch user with no late in duration,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+npunchwithearly,,npunch user with earlyout policy,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+NpWithexitenabl,,Npunchuser exit enabled bt punches frm entry,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+OTcalWkdyntchk,,Cal on weekday bt wkday is nt checked for OT,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+OTCOFFBoth,,Auto authorize OT COFF,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+RestrictedDail1,,Restricted OT cal for Daily1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+RI1,,Reporting Incharge1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+RI12,,Reporting incharge1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+RI2,,Reporting Incharge2,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Secondhalfleave,,user with second half leave,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+seconhalfabsent,,second half absent,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+SpecialOTearlyi,,Special OT with earlyin defined component,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+SpecialOTwOearl,,SpecialOTWithoutearlyIn,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+test1,,test1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+W1,,W1,,,21:00,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,04:00,00:00,00:50,00:00,04:50
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+W2,,W2,,,10:30,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,02:00,00:00,00:25,00:00,02:25
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+W5,,W5,,,14:00,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+TOTAL PAYABLE : ,,,,,,Rs. 0,
+2,,ORG2,,,,,
+111,,Mayank,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+12,,dfddd,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+1234,,test user,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+1515,,AMIT-BLE,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+21,,Shift allwnce,,,10:30,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:30,00:00,00:00,00:00,00:30
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2breaklatein,,2punch user with break latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pGraceinWH,,2Punch user includes grace time in work hours,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pgracelatein,,2punch user with grace and late in policy,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pgraceshiftEO,,2punch user for EO Shift grace and EO duratio,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pofficialin,,2punch user with official in,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pOfficialout,,2 punch user with official out,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2poutfromexit,,2Punch user with out punch from exit reader o,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pshortleaveout,,2 Punch user for shortleave out,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2punchearlyout,,2punchuserwith earlyout policy,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2punchnoearly,,2punch with no earlyout duration,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2punchnolatein,,2punch user with no late in duration applicab,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2punchshortleav,,Shortleave in for 2 punch,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2punchuser,,2punch user with latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+2pwithexitreade,,Exit reader enabled but punches from entry,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4breaklatein,,4 punch user with break latein AND earlyout,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4PbreakEO,,4 Punch user with break earlyout,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4PBreakEOex,,4P Break for earlyout exceeds,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4PbreakEOgrace,,4P user with break earlyout grace,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4Pbreakingrace,,4 punch user with break hours within grace,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4Pbreaklatein,,4p user with break latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4PBreakLIex,,4P user exceeds break latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4pgracebreakear,,4 punch user with break early out and grace,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4pgracebreaklat,,4 punch user with grace for shift and breakla,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+4ptotallatein,,4punch user for adding break latein in total,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+auto,,auto,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Autoshift,,Auto shift user with shift schedule not proce,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Autoshiftproces,,Auto shift user whose shift has been processe,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Awardandpenalty,,award n penalty,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+BreakEOexceeds,,Include Break early out in shift exceeds TD,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+BreakEOInTotal,,Break earlyout in total early out,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+BreakLIexceeds,,Exceeds break and total latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+BreakLIinTotal,,Break latein in total latein,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+CalcWkdaynwkoff,,Cal of OT on Wkday and WeekOff as per chkbox,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+COFF,,COFF,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+D1,,Dummy1,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+daily1earlyin,,Cal onWOPH as per weekday,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+daily1OTNtconfi,,Daily1 OT Not configured for Wkdays n weekend,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+daily1weekends,,daily1 weekends config in OT,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+daily1wkdys,,daily1 wkdys and weekends not assigned,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+earlyout,,user punches on early out duration of 30mins,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Earlyoutgrace,,Earlyout user with punches on grace time,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Eligiblehours,,Eligible work hours,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+EOdurationexcee,,EO duration exceeds,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPC,,JPC user,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCdefaultjob,,JPC default job,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Jpcdevicebased,,JPC user with device based,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCNEW,,JPCNEW,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCsitedefaultj,,JPC user with sitewise default job,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCSplitHO,,JPC split timesheet normal shift,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+JPCSplitNS,,JPC split timesheet night shift,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+new,,new,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Test2,,test2,,,00:00,,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+W3,,W3,,,14:00,.00%,Rs.0
+,,OT1,OT2,OT3,OT4,OT5,OT
+Generated OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Authorized OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Credit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Manual Debit OT,,00:00,00:00,00:00,00:00,00:00,00:00
+Net OT,,00:00,00:00,00:00,00:00,00:00,00:00
+TOTAL PAYABLE : ,,,,,,Rs. 0,

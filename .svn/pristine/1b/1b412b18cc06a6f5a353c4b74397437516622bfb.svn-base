@@ -1,0 +1,363 @@
+,,DADB,,,,,,,,,,Page 1 of 1
+,,Organization-Wise Exceptions From 2017/04/01 To 2017/04/10,,,,,,,,,,
+Run by:,System Admin,,,,,,,,,Date:,,
+Sr No, User,Name,Date,Shift,IN,OUT,IN,OUT,1st,2nd,Work,Reason
+, ID,,,,,,,,Half,Half,Hours,
+Organization :,,DADB,,,,,,,,,,
+1,2breaklatein,2punch user with break latein,2017/04/06,GS,,,,,AB,AB,00:00,No Punches Available
+2,2breaklatein,2punch user with break latein,2017/04/07,GS,,,,,AB,AB,00:00,No Punches Available
+3,2breaklatein,2punch user with break latein,2017/04/08,GS,,,,,AB,AB,00:00,No Punches Available
+4,2pofficialin,2punch user with official in,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+5,2pofficialin,2punch user with official in,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+6,2pofficialin,2punch user with official in,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+7,2pofficialin,2punch user with official in,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+8,2pOfficialout,2 punch user with official out,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+9,2pOfficialout,2 punch user with official out,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+10,2pOfficialout,2 punch user with official out,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+11,2pOfficialout,2 punch user with official out,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+12,2poutfromexit,2Punch user with out punch from exit reader o,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+13,2poutfromexit,2Punch user with out punch from exit reader o,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+14,2poutfromexit,2Punch user with out punch from exit reader o,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+15,2pshortleaveout,2 Punch user for shortleave out,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+16,2pshortleaveout,2 Punch user for shortleave out,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+17,2pshortleaveout,2 Punch user for shortleave out,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+18,2pshortleaveout,2 Punch user for shortleave out,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+19,2punchshortleav,Shortleave in for 2 punch,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+20,2punchshortleav,Shortleave in for 2 punch,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+21,2punchshortleav,Shortleave in for 2 punch,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+22,2punchshortleav,Shortleave in for 2 punch,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+23,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/03,HO,09:00,,,,IN,PL,00:00,Punches Not In Pair
+24,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/04,HO,,,,,PL,AB,00:00,No Punches Available
+25,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+26,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+27,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+28,2pwithexitreade,Exit reader enabled but punches from entry,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+29,4breaklatein,4 punch user with break latein AND earlyout,2017/04/04,GS,09:00,13:00,14:31,18:31,PR,AB,08:31,AB:Break Late-IN
+30,4breaklatein,4 punch user with break latein AND earlyout,2017/04/06,GS,09:20,13:20,14:10,19:10,AB,AB,08:50,2nd Half AB:Late-IN Limit
+31,4breaklatein,4 punch user with break latein AND earlyout,2017/04/07,GS,08:10,12:10,14:10,20:10,AB,AB,11:00,2nd Half AB:Late-IN Limit
+32,4PbreakEO,4 Punch user with break earlyout,2017/04/04,BE,,,,,AB,AB,00:00,No Punches Available
+33,4PbreakEO,4 Punch user with break earlyout,2017/04/05,BE,,,,,AB,AB,00:00,No Punches Available
+34,4PbreakEO,4 Punch user with break earlyout,2017/04/06,BE,,,,,AB,AB,00:00,No Punches Available
+35,4PbreakEO,4 Punch user with break earlyout,2017/04/07,BE,,,,,AB,AB,00:00,No Punches Available
+36,4PbreakEO,4 Punch user with break earlyout,2017/04/08,BE,,,,,AB,AB,00:00,No Punches Available
+37,4PBreakEOex,4P Break for earlyout exceeds,2017/04/03,BE,09:00,11:10,13:10,18:30,AB,PR,07:30,AB:Break Early-OUT
+38,4PBreakEOex,4P Break for earlyout exceeds,2017/04/04,BE,,,,,AB,AB,00:00,No Punches Available
+39,4PBreakEOex,4P Break for earlyout exceeds,2017/04/05,BE,,,,,AB,AB,00:00,No Punches Available
+40,4PBreakEOex,4P Break for earlyout exceeds,2017/04/06,BE,,,,,AB,AB,00:00,No Punches Available
+41,4PBreakEOex,4P Break for earlyout exceeds,2017/04/07,BE,,,,,AB,AB,00:00,No Punches Available
+42,4PBreakEOex,4P Break for earlyout exceeds,2017/04/08,BE,,,,,AB,AB,00:00,No Punches Available
+43,4PbreakEOgrace,4P user with break earlyout grace,2017/04/04,BE,,,,,AB,AB,00:00,No Punches Available
+44,4PbreakEOgrace,4P user with break earlyout grace,2017/04/05,BE,,,,,AB,AB,00:00,No Punches Available
+45,4PbreakEOgrace,4P user with break earlyout grace,2017/04/06,BE,,,,,AB,AB,00:00,No Punches Available
+46,4PbreakEOgrace,4P user with break earlyout grace,2017/04/07,BE,,,,,AB,AB,00:00,No Punches Available
+47,4PbreakEOgrace,4P user with break earlyout grace,2017/04/08,BE,,,,,AB,AB,00:00,No Punches Available
+48,4Pbreakingrace,4 punch user with break hours within grace,2017/04/05,BR,,,,,AB,AB,00:00,No Punches Available
+49,4Pbreakingrace,4 punch user with break hours within grace,2017/04/06,BR,,,,,AB,AB,00:00,No Punches Available
+50,4Pbreakingrace,4 punch user with break hours within grace,2017/04/07,BR,,,,,AB,AB,00:00,No Punches Available
+51,4Pbreakingrace,4 punch user with break hours within grace,2017/04/08,BR,,,,,AB,AB,00:00,No Punches Available
+52,4Pbreaklatein,4p user with break latein,2017/04/04,BR,,,,,PL,AB,00:00,No Punches Available
+53,4Pbreaklatein,4p user with break latein,2017/04/05,BR,,,,,AB,AB,00:00,No Punches Available
+54,4Pbreaklatein,4p user with break latein,2017/04/06,BR,,,,,AB,AB,00:00,No Punches Available
+55,4Pbreaklatein,4p user with break latein,2017/04/07,BR,,,,,AB,AB,00:00,No Punches Available
+56,4Pbreaklatein,4p user with break latein,2017/04/08,BR,,,,,AB,AB,00:00,No Punches Available
+57,4PBreakLIex,4P user exceeds break latein,2017/04/03,BR,09:00,13:00,14:20,19:20,PR,AB,09:00,AB:Break Late-IN
+58,4PBreakLIex,4P user exceeds break latein,2017/04/04,BR,,,,,AB,AB,00:00,No Punches Available
+59,4PBreakLIex,4P user exceeds break latein,2017/04/05,BR,,,,,AB,AB,00:00,No Punches Available
+60,4PBreakLIex,4P user exceeds break latein,2017/04/06,BR,,,,,AB,AB,00:00,No Punches Available
+61,4PBreakLIex,4P user exceeds break latein,2017/04/07,BR,,,,,AB,AB,00:00,No Punches Available
+62,4PBreakLIex,4P user exceeds break latein,2017/04/08,BR,,,,,AB,AB,00:00,No Punches Available
+63,4pgracebreakear,4 punch user with break early out and grace,2017/04/08,HO,09:00,12:45,13:00,18:30,AB,PR,09:00,1st Half AB:Early-OUT Limit
+64,4pgracebreaklat,4 punch user with grace for shift and breakla,2017/04/04,HO,09:00,13:00,14:45,19:30,PR,AB,10:00,AB:Break Late-IN
+65,4pgracebreaklat,4 punch user with grace for shift and breakla,2017/04/07,HO,09:00,13:00,14:00,19:00,PR,AB,09:30,2nd Half AB:Late-IN Limit
+66,4ptotallatein,4punch user for adding break latein in total,2017/04/06,LI,09:00,13:00,13:45,18:45,PR,AB,09:00,2nd Half AB:Late-IN Limit
+67,4ptotallatein,4punch user for adding break latein in total,2017/04/07,LI,09:16,,,,IN,AB,00:00,Punches Not In Pair
+68,4ptotallatein,4punch user for adding break latein in total,2017/04/08,LI,,,,,AB,AB,00:00,No Punches Available
+69,auto,auto,2017/04/02,,,,,,AB,AB,00:00,No Punches Available
+70,auto,auto,2017/04/04,,,,,,AB,AB,00:00,No Punches Available
+71,auto,auto,2017/04/05,A2,,09:30,,,AB,AB,00:00,Punches Not In Pair
+72,auto,auto,2017/04/06,A2,04:30,,,,IN,AB,00:00,Punches Not In Pair
+73,auto,auto,2017/04/07,,,,,,AB,AB,00:00,No Punches Available
+74,auto,auto,2017/04/09,,,,,,AB,AB,00:00,No Punches Available
+75,Autoshift,Auto shift user with shift schedule not proce,2017/04/05,HO,22:00,06:00,,,PR,AB,08:00,AB:Early-OUT
+76,Autoshift,Auto shift user with shift schedule not proce,2017/04/06,,,,,,AB,AB,00:00,No Punches Available
+77,Autoshiftproces,Auto shift user whose shift has been processe,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+78,Awardandpenalty,award n penalty,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+79,Awardandpenalty,award n penalty,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+80,Awardandpenalty,award n penalty,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+81,Awardandpenalty,award n penalty,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+82,Awardandpenalty,award n penalty,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+83,Awardandpenalty,award n penalty,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+84,BreakEOexceeds,Include Break early out in shift exceeds TD,2017/04/04,ET,,,,,AB,AB,00:00,No Punches Available
+85,BreakEOexceeds,Include Break early out in shift exceeds TD,2017/04/05,ET,,,,,AB,AB,00:00,No Punches Available
+86,BreakEOexceeds,Include Break early out in shift exceeds TD,2017/04/06,ET,,,,,AB,AB,00:00,No Punches Available
+87,BreakEOexceeds,Include Break early out in shift exceeds TD,2017/04/07,ET,,,,,AB,AB,00:00,No Punches Available
+88,BreakEOexceeds,Include Break early out in shift exceeds TD,2017/04/08,ET,,,,,AB,AB,00:00,No Punches Available
+89,BreakEOInTotal,Break earlyout in total early out,2017/04/06,ET,,,,,AB,AB,00:00,No Punches Available
+90,BreakEOInTotal,Break earlyout in total early out,2017/04/07,ET,,,,,AB,AB,00:00,No Punches Available
+91,BreakEOInTotal,Break earlyout in total early out,2017/04/08,ET,,,,,AB,AB,00:00,No Punches Available
+92,BreakLIexceeds,Exceeds break and total latein,2017/04/05,BT,,,,,AB,AB,00:00,No Punches Available
+93,BreakLIexceeds,Exceeds break and total latein,2017/04/06,BT,,,,,AB,AB,00:00,No Punches Available
+94,BreakLIexceeds,Exceeds break and total latein,2017/04/07,BT,,,,,AB,AB,00:00,No Punches Available
+95,BreakLIexceeds,Exceeds break and total latein,2017/04/08,BT,,,,,AB,AB,00:00,No Punches Available
+96,BreakLIinTotal,Break latein in total latein,2017/04/03,BT,09:20,13:00,13:40,19:20,AB,AB,09:20,2nd Half AB:Late-IN Limit
+97,BreakLIinTotal,Break latein in total latein,2017/04/04,BT,,,,,AB,AB,00:00,No Punches Available
+98,BreakLIinTotal,Break latein in total latein,2017/04/05,BT,,,,,AB,AB,00:00,No Punches Available
+99,BreakLIinTotal,Break latein in total latein,2017/04/06,BT,,,,,AB,AB,00:00,No Punches Available
+100,BreakLIinTotal,Break latein in total latein,2017/04/07,BT,,,,,AB,AB,00:00,No Punches Available
+101,BreakLIinTotal,Break latein in total latein,2017/04/08,BT,,,,,AB,AB,00:00,No Punches Available
+102,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+103,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+104,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+105,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+106,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+107,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+108,COFF,COFF,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+109,COFF,COFF,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+110,COFF,COFF,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+111,COFF,COFF,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+112,daily1earlyin,Cal onWOPH as per weekday,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+113,daily1earlyin,Cal onWOPH as per weekday,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+114,daily1earlyin,Cal onWOPH as per weekday,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+115,daily1earlyin,Cal onWOPH as per weekday,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+116,daily1earlyin,Cal onWOPH as per weekday,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+117,daily1earlyin,Cal onWOPH as per weekday,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+118,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+119,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+120,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+121,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+122,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+123,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+124,daily1weekends,daily1 weekends config in OT,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+125,daily1weekends,daily1 weekends config in OT,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+126,daily1weekends,daily1 weekends config in OT,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+127,daily1weekends,daily1 weekends config in OT,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+128,daily1weekends,daily1 weekends config in OT,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+129,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+130,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+131,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+132,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+133,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+134,daily1wkdys,daily1 wkdys and weekends not assigned,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+135,earlyout,user punches on early out duration of 30mins,2017/04/05,EO,,,,,AB,AB,00:00,No Punches Available
+136,earlyout,user punches on early out duration of 30mins,2017/04/06,EO,,,,,AB,AB,00:00,No Punches Available
+137,earlyout,user punches on early out duration of 30mins,2017/04/07,EO,,,,,AB,AB,00:00,No Punches Available
+138,earlyout,user punches on early out duration of 30mins,2017/04/08,EO,,,,,AB,AB,00:00,No Punches Available
+139,Earlyoutgrace,Earlyout user with punches on grace time,2017/04/05,EG,,,,,AB,AB,00:00,No Punches Available
+140,Earlyoutgrace,Earlyout user with punches on grace time,2017/04/06,EG,,,,,AB,AB,00:00,No Punches Available
+141,Earlyoutgrace,Earlyout user with punches on grace time,2017/04/07,EG,,,,,AB,AB,00:00,No Punches Available
+142,Earlyoutgrace,Earlyout user with punches on grace time,2017/04/08,EG,,,,,AB,AB,00:00,No Punches Available
+143,EOdurationexcee,EO duration exceeds,2017/04/05,EO,,,,,AB,AB,00:00,No Punches Available
+144,EOdurationexcee,EO duration exceeds,2017/04/06,EO,,,,,AB,AB,00:00,No Punches Available
+145,EOdurationexcee,EO duration exceeds,2017/04/07,EO,,,,,AB,AB,00:00,No Punches Available
+146,EOdurationexcee,EO duration exceeds,2017/04/08,EO,,,,,AB,AB,00:00,No Punches Available
+147,EOgraceexceed,Earlyout grace duration exceeds,2017/04/05,EG,,,,,AB,AB,00:00,No Punches Available
+148,EOgraceexceed,Earlyout grace duration exceeds,2017/04/06,EG,,,,,AB,AB,00:00,No Punches Available
+149,EOgraceexceed,Earlyout grace duration exceeds,2017/04/07,EG,,,,,AB,AB,00:00,No Punches Available
+150,EOgraceexceed,Earlyout grace duration exceeds,2017/04/08,EG,,,,,AB,AB,00:00,No Punches Available
+151,FB,OT for FB,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+152,FB,OT for FB,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+153,FB,OT for FB,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+154,FB,OT for FB,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+155,FB,OT for FB,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+156,firsthalfabsent,First half absent,2017/04/04,HO,,,,,PL,AB,00:00,No Punches Available
+157,firsthalfabsent,First half absent,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+158,firsthalfabsent,First half absent,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+159,firsthalfabsent,First half absent,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+160,firsthalfabsent,First half absent,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+161,Firsthalfleave,User with first half leave,2017/04/06,HO,,,,,PL,AB,00:00,No Punches Available
+162,Firsthalfleave,User with first half leave,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+163,Firsthalfleave,User with first half leave,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+164,Flexible,flexibleuser,2017/04/03,HO,09:00,15:00,,,AB,AB,05:30,Full Day AB:Target Shortfall
+165,Flexible,flexibleuser,2017/04/04,HO,08:00,12:00,,,AB,AB,03:30,Full Day AB:Target Shortfall
+166,Flexible,flexibleuser,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+167,Flexible,flexibleuser,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+168,Flexible,flexibleuser,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+169,Flexible,flexibleuser,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+170,FlexibleOT,OT for flexible user,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+171,FlexibleOT,OT for flexible user,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+172,FlexibleOT,OT for flexible user,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+173,FlexibleOT,OT for flexible user,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+174,FlexibleOT,OT for flexible user,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+175,FlexibleOT,OT for flexible user,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+176,Fulldayleave,User with full day leave,2017/04/05,HO,,,,,PL,AB,00:00,No Punches Available
+177,Fulldayleave,User with full day leave,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+178,Fulldayleave,User with full day leave,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+179,Fulldayleave,User with full day leave,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+180,Inpunch,User with In pucnh only,2017/04/01,HO,09:00,,,,IN,PL,00:00,Punches Not In Pair
+181,Inpunch,User with In pucnh only,2017/04/03,HO,09:00,,,,IN,AB,00:00,Punches Not In Pair
+182,Inpunch,User with In pucnh only,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+183,Inpunch,User with In pucnh only,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+184,Inpunch,User with In pucnh only,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+185,Inpunch,User with In pucnh only,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+186,Inpunch,User with In pucnh only,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+187,JPC,JPC user,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+188,JPC,JPC user,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+189,JPC,JPC user,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+190,JPC,JPC user,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+191,JPC,JPC user,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+192,JPC,JPC user,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+193,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+194,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+195,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+196,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+197,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+198,Jpcdefaultenter,Job coseting user with default job of enterpr,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+199,JPCdefaultjob,JPC default job,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+200,JPCdefaultjob,JPC default job,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+201,JPCdefaultjob,JPC default job,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+202,JPCdefaultjob,JPC default job,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+203,JPCdefaultjob,JPC default job,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+204,JPCdefaultjob,JPC default job,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+205,Jpcdevicebased,JPC user with device based,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+206,Jpcdevicebased,JPC user with device based,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+207,Jpcdevicebased,JPC user with device based,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+208,Jpcdevicebased,JPC user with device based,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+209,Jpcdevicebased,JPC user with device based,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+210,Jpcdevicebased,JPC user with device based,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+211,JPCmergejob,JPC merged Job,2017/04/01,HO,09:00,,,,IN,PL,00:00,Punches Not In Pair
+212,JPCmergejob,JPC merged Job,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+213,JPCmergejob,JPC merged Job,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+214,JPCmergejob,JPC merged Job,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+215,JPCmergejob,JPC merged Job,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+216,JPCmergejob,JPC merged Job,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+217,JPCmergejob,JPC merged Job,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+218,JPCsitedefaultj,JPC user with sitewise default job,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+219,JPCsitedefaultj,JPC user with sitewise default job,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+220,JPCsitedefaultj,JPC user with sitewise default job,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+221,JPCsitedefaultj,JPC user with sitewise default job,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+222,JPCsitedefaultj,JPC user with sitewise default job,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+223,JPCsitedefaultj,JPC user with sitewise default job,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+224,JPCSplitHO,JPC split timesheet normal shift,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+225,JPCSplitHO,JPC split timesheet normal shift,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+226,JPCSplitHO,JPC split timesheet normal shift,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+227,JPCSplitHO,JPC split timesheet normal shift,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+228,JPCSplitHO,JPC split timesheet normal shift,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+229,JPCSplitHO,JPC split timesheet normal shift,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+230,JPCSplitNS,JPC split timesheet night shift,2017/04/03,NS,,,,,AB,AB,00:00,No Punches Available
+231,JPCSplitNS,JPC split timesheet night shift,2017/04/04,NS,,,,,AB,AB,00:00,No Punches Available
+232,JPCSplitNS,JPC split timesheet night shift,2017/04/05,NS,,,,,AB,AB,00:00,No Punches Available
+233,JPCSplitNS,JPC split timesheet night shift,2017/04/06,NS,,,,,AB,AB,00:00,No Punches Available
+234,JPCSplitNS,JPC split timesheet night shift,2017/04/07,NS,,,,,AB,AB,00:00,No Punches Available
+235,JPCSplitNS,JPC split timesheet night shift,2017/04/08,NS,,,,,AB,AB,00:00,No Punches Available
+236,Lategraceexceed,User with exceed grace period,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+237,Lategraceexceed,User with exceed grace period,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+238,Lategraceexceed,User with exceed grace period,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+239,Lategraceexceed,User with exceed grace period,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+240,Latein,user punches on latein only,2017/04/05,LI,,,,,AB,AB,00:00,No Punches Available
+241,Latein,user punches on latein only,2017/04/06,LI,,,,,AB,AB,00:00,No Punches Available
+242,Latein,user punches on latein only,2017/04/07,LI,,,,,AB,AB,00:00,No Punches Available
+243,Latein,user punches on latein only,2017/04/08,LI,,,,,AB,AB,00:00,No Punches Available
+244,Lateinduraexcee,Late in Duration exceed,2017/04/05,LI,,,,,AB,AB,00:00,No Punches Available
+245,Lateinduraexcee,Late in Duration exceed,2017/04/06,LI,,,,,AB,AB,00:00,No Punches Available
+246,Lateinduraexcee,Late in Duration exceed,2017/04/07,LI,,,,,AB,AB,00:00,No Punches Available
+247,Lateinduraexcee,Late in Duration exceed,2017/04/08,LI,,,,,AB,AB,00:00,No Punches Available
+248,Lateingrace,User have pucnges on grace latein,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+249,Lateingrace,User have pucnges on grace latein,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+250,Lateingrace,User have pucnges on grace latein,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+251,Lessworkhours,Less work hours for daily limit,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+252,Lessworkhours,Less work hours for daily limit,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+253,manualOT,User with Manual Overtime,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+254,manualOT,User with Manual Overtime,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+255,manualOT,User with Manual Overtime,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+256,manualOT,User with Manual Overtime,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+257,NetworkHrs,Networkhours bt no OT Component,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+258,NetworkHrs,Networkhours bt no OT Component,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+259,NetworkHrs,Networkhours bt no OT Component,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+260,NetworkHrs,Networkhours bt no OT Component,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+261,NetworkHrs,Networkhours bt no OT Component,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+262,NightShift,NightShift,2017/04/05,NS,,,,,AB,AB,00:00,No Punches Available
+263,NightShift,NightShift,2017/04/06,NS,,,,,AB,AB,00:00,No Punches Available
+264,NightShift,NightShift,2017/04/07,NS,,,,,AB,AB,00:00,No Punches Available
+265,NightShift,NightShift,2017/04/08,NS,,,,,AB,AB,00:00,No Punches Available
+266,Normal,normal user,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+267,Normal,normal user,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+268,Normal,normal user,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+269,Normal,normal user,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+270,NpofficialIn,N punch user for official In,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+271,NpofficialIn,N punch user for official In,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+272,NpofficialIn,N punch user for official In,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+273,Npoutfromexit,Npunch user with out punch from exit reader,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+274,Npoutfromexit,Npunch user with out punch from exit reader,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+275,Npoutfromexit,Npunch user with out punch from exit reader,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+276,Npoutfromexit,Npunch user with out punch from exit reader,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+277,npshortleavein,n punch user for shortleave in,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+278,npshortleavein,n punch user for shortleave in,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+279,npshortleavein,n punch user for shortleave in,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+280,npshortleavein,n punch user for shortleave in,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+281,npshortleaveout,n punch user with short leave out,2017/04/04,HO,,,,,PL,AB,00:00,No Punches Available
+282,npshortleaveout,n punch user with short leave out,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+283,npshortleaveout,n punch user with short leave out,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+284,npshortleaveout,n punch user with short leave out,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+285,npshortleaveout,n punch user with short leave out,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+286,Npucnofficialou,N punch user with official out,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+287,Npucnofficialou,N punch user with official out,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+288,Npucnofficialou,N punch user with official out,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+289,Npucnofficialou,N punch user with official out,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+290,Npunchbeyond,Npunch user with deduction type as beyond,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+291,Npunchbeyond,Npunch user with deduction type as beyond,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+292,Npunchbeyond,Npunch user with deduction type as beyond,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+293,NpunchFlexible,Npunch user with type as flexible,2017/04/03,HO,08:30,18:00,,,AB,AB,09:00,Full Day AB:Target Shortfall
+294,NpunchFlexible,Npunch user with type as flexible,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+295,NpunchFlexible,Npunch user with type as flexible,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+296,NpunchFlexible,Npunch user with type as flexible,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+297,NpunchFlexible,Npunch user with type as flexible,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+298,NpunchFlexible,Npunch user with type as flexible,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+299,Npunchgreater,N punch user with greater than deduction typr,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+300,Npunchgreater,N punch user with greater than deduction typr,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+301,Npunchgreater,N punch user with greater than deduction typr,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+302,nPunchlatein,npunch user with 30min latein,2017/04/05,GS,09:40,18:40,,,PR,AB,05:40,AB:Less Work Hrs
+303,nPunchlatein,npunch user with 30min latein,2017/04/06,GS,09:30,19:40,,,PR,AB,06:30,AB:Less Work Hrs
+304,nPunchlatein,npunch user with 30min latein,2017/04/08,GS,09:30,18:30,,,PR,AB,06:10,AB:Less Work Hrs
+305,NpunchNightshif,N punch user with night shift,2017/04/04,NS,,,,,AB,AB,00:00,No Punches Available
+306,NpunchNightshif,N punch user with night shift,2017/04/05,NS,,,,,AB,AB,00:00,No Punches Available
+307,NpunchNightshif,N punch user with night shift,2017/04/06,NS,,,,,AB,AB,00:00,No Punches Available
+308,NpunchNightshif,N punch user with night shift,2017/04/07,NS,,,,,AB,AB,00:00,No Punches Available
+309,NpunchNightshif,N punch user with night shift,2017/04/08,NS,,,,,AB,AB,00:00,No Punches Available
+310,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/01,HO,09:00,,,,IN,PL,00:00,Punches Not In Pair
+311,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/03,HO,09:00,,,,IN,PL,00:00,Punches Not In Pair
+312,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+313,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+314,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+315,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+316,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+317,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+318,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+319,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+320,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+321,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+322,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+323,OTCOFFBoth,Auto authorize OT COFF,2017/04/04,HO,,,,,PL,AB,00:00,No Punches Available
+324,OTCOFFBoth,Auto authorize OT COFF,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+325,OTCOFFBoth,Auto authorize OT COFF,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+326,OTCOFFBoth,Auto authorize OT COFF,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+327,OTCOFFBoth,Auto authorize OT COFF,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+328,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+329,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+330,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+331,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+332,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+333,OTonWeekdays,Overtime consider  weekdays for WOPH,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+334,RestrictedDail1,Restricted OT cal for Daily1,2017/04/03,HO,,,,,AB,AB,00:00,No Punches Available
+335,RestrictedDail1,Restricted OT cal for Daily1,2017/04/04,HO,,,,,AB,AB,00:00,No Punches Available
+336,RestrictedDail1,Restricted OT cal for Daily1,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+337,RestrictedDail1,Restricted OT cal for Daily1,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+338,RestrictedDail1,Restricted OT cal for Daily1,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+339,RestrictedDail1,Restricted OT cal for Daily1,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+340,RestrictedDail1,Restricted OT cal for Daily1,2017/04/10,HO,,,,,AB,AB,00:00,No Punches Available
+341,Secondhalfleave,user with second half leave,2017/04/06,HO,,,,,PL,AB,00:00,No Punches Available
+342,Secondhalfleave,user with second half leave,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+343,Secondhalfleave,user with second half leave,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+344,seconhalfabsent,second half absent,2017/04/05,HO,,,,,AB,AB,00:00,No Punches Available
+345,seconhalfabsent,second half absent,2017/04/06,HO,,,,,AB,AB,00:00,No Punches Available
+346,seconhalfabsent,second half absent,2017/04/07,HO,,,,,AB,AB,00:00,No Punches Available
+347,seconhalfabsent,second half absent,2017/04/08,HO,,,,,AB,AB,00:00,No Punches Available
+348,SpecialOTearlyi,Special OT with earlyin defined component,2017/04/04,SO,,,,,AB,AB,00:00,No Punches Available
+349,SpecialOTearlyi,Special OT with earlyin defined component,2017/04/05,SO,,,,,AB,AB,00:00,No Punches Available
+350,SpecialOTearlyi,Special OT with earlyin defined component,2017/04/06,SO,,,,,AB,AB,00:00,No Punches Available
+351,SpecialOTearlyi,Special OT with earlyin defined component,2017/04/07,SO,,,,,AB,AB,00:00,No Punches Available
+352,SpecialOTearlyi,Special OT with earlyin defined component,2017/04/08,SO,,,,,AB,AB,00:00,No Punches Available
+353,SpecialOTwOearl,SpecialOTWithoutearlyIn,2017/04/04,SO,,,,,AB,AB,00:00,No Punches Available
+354,SpecialOTwOearl,SpecialOTWithoutearlyIn,2017/04/05,SO,,,,,AB,AB,00:00,No Punches Available
+355,SpecialOTwOearl,SpecialOTWithoutearlyIn,2017/04/06,SO,,,,,AB,AB,00:00,No Punches Available
+356,SpecialOTwOearl,SpecialOTWithoutearlyIn,2017/04/07,SO,,,,,AB,AB,00:00,No Punches Available
+357,SpecialOTwOearl,SpecialOTWithoutearlyIn,2017/04/08,SO,,,,,AB,AB,00:00,No Punches Available

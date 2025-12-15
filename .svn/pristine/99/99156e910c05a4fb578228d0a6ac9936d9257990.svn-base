@@ -1,0 +1,22 @@
+,,DADB,,,,Page 1 of 1
+,,Organization-Wise Leave Encashment For JANUARY-2022,,,,
+Run by:,System Admin,,,,Date:,
+Sr No,User ID,Name,Enc Days,Hours, Entry Dt,Remark
+DADB,,,,,,
+Leave : ,P1,,,,,
+1,LeaveEncash,LeaveEncash,5.00,,28/01/2022,
+,,Leave Total:,5.00,,,
+,,Organization Total:,5.00,,,
+ORG2,,,,,,
+Leave : ,P2,,,,,
+1,111,Mayank,0.00,10:00,31/01/2022,gvhgjh
+2,12,dfddd,0.00,10:00,31/01/2022,gvhgjh
+3,1234,test user,0.00,10:00,31/01/2022,gvhgjh
+4,1515,AMIT-BLE,0.00,10:00,31/01/2022,gvhgjh
+5,2breaklatein,2punch user with break latein,0.00,10:00,31/01/2022,gvhgjh
+6,2pGraceinWH,2Punch user includes grace time in work hours,0.00,10:00,31/01/2022,gvhgjh
+7,2pgracelatein,2punch user with grace and late in policy,0.00,10:00,31/01/2022,gvhgjh
+8,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,0.00,10:00,31/01/2022,gvhgjh
+9,2pofficialin,2punch user with official in,0.00,10:00,31/01/2022,gvhgjh
+,,Leave Total:,0.00,90:00,,
+,,Organization Total:,0.00,90:00,,

@@ -1,0 +1,950 @@
+UserID	UserName	ProcessDate	Punch1	Punch2	WorkingShift	LateIn	EarlyOut	Overtime	WorkTime	FullName
+2breaklatein	2punch user with break latein	01/04/2017	01/04/2017 09:00:24	01/04/2017 18:30:30	GS	0	0	0	510	2punch user with break latein
+2breaklatein	2punch user with break latein	02/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	03/04/2017	03/04/2017 09:00:23	03/04/2017 18:30:24	GS	0	0	0	510	2punch user with break latein
+2breaklatein	2punch user with break latein	04/04/2017	04/04/2017 09:00:24	04/04/2017 18:30:24	GS	0	0	0	510	2punch user with break latein
+2breaklatein	2punch user with break latein	05/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	06/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	07/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	08/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	09/04/2017			GS	0	0	0	0	2punch user with break latein
+2breaklatein	2punch user with break latein	10/04/2017			GS	0	0	0	0	2punch user with break latein
+2pGraceinWH	2Punch user includes grace time in work hours	01/04/2017	01/04/2017 09:10:00	01/04/2017 18:30:00	WH	0	0	0	530	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	02/04/2017			WH	0	0	0	0	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	03/04/2017	03/04/2017 09:05:37	03/04/2017 18:30:36	WH	0	0	0	535	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	04/04/2017	04/04/2017 09:00:36	04/04/2017 18:25:36	WH	0	0	0	540	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	05/04/2017	05/04/2017 09:15:37	05/04/2017 18:30:36	WH	5	0	0	525	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	06/04/2017	06/04/2017 09:20:36	06/04/2017 18:50:37	WH	0	0	20	560	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	07/04/2017	07/04/2017 09:40:36	07/04/2017 19:10:38	WH	0	0	40	580	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	08/04/2017	08/04/2017 09:45:37	08/04/2017 19:30:36	WH	0	0	60	600	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	09/04/2017			WH	0	0	0	0	2Punch user includes grace time in work hours
+2pGraceinWH	2Punch user includes grace time in work hours	10/04/2017	10/04/2017 09:20:00	10/04/2017 18:40:00	WH	0	0	10	530	2Punch user includes grace time in work hours
+2pgracelatein	2punch user with grace and late in policy	01/04/2017	01/04/2017 09:30:24	01/04/2017 19:00:24	HO	0	0	30	540	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	02/04/2017			HO	0	0	0	0	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	03/04/2017	03/04/2017 10:00:23	03/04/2017 19:30:23	HO	30	0	60	540	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	04/04/2017	04/04/2017 09:31:23	04/04/2017 19:01:23	HO	0	0	31	571	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	05/04/2017	05/04/2017 10:01:24	05/04/2017 19:31:23	HO	0	0	61	601	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	06/04/2017	06/04/2017 09:15:24	06/04/2017 18:45:23	HO	0	0	15	540	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	07/04/2017	07/04/2017 09:05:24	07/04/2017 18:35:23	HO	0	0	5	540	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	08/04/2017	08/04/2017 10:35:24	08/04/2017 19:35:23	HO	0	0	65	605	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	09/04/2017			HO	0	0	0	0	2punch user with grace and late in policy
+2pgracelatein	2punch user with grace and late in policy	10/04/2017	10/04/2017 09:45:59	10/04/2017 19:15:59	HO	0	0	45	540	2punch user with grace and late in policy
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	01/04/2017	01/04/2017 08:50:00	01/04/2017 18:20:00	EO	0	10	10	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	02/04/2017			EO	0	0	0	0	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	03/04/2017	03/04/2017 09:00:37	03/04/2017 17:50:43	EO	0	0	0	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	04/04/2017	04/04/2017 09:00:36	04/04/2017 18:25:36	EO	0	0	0	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	05/04/2017	05/04/2017 09:00:36	05/04/2017 18:19:36	EO	0	0	0	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	06/04/2017	06/04/2017 09:00:37	06/04/2017 17:49:36	EO	0	0	0	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	07/04/2017	07/04/2017 09:00:36	07/04/2017 18:30:37	EO	0	0	0	540	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	08/04/2017	08/04/2017 08:40:37	08/04/2017 17:40:36	EO	0	0	20	560	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	09/04/2017			EO	0	0	0	0	2punch user for EO Shift grace and EO duratio
+2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	10/04/2017	10/04/2017 09:00:35	10/04/2017 17:00:36	EO	0	0	0	450	2punch user for EO Shift grace and EO duratio
+2pofficialin	2punch user with official in	01/04/2017	01/04/2017 10:45:47	01/04/2017 18:30:41	HO	0	0	0	540	2punch user with official in
+2pofficialin	2punch user with official in	02/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	03/04/2017	03/04/2017 10:10:42	03/04/2017 18:30:39	HO	0	0	0	540	2punch user with official in
+2pofficialin	2punch user with official in	04/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	05/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	06/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	07/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	08/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	09/04/2017			HO	0	0	0	0	2punch user with official in
+2pofficialin	2punch user with official in	10/04/2017			HO	0	0	0	0	2punch user with official in
+2pOfficialout	2 punch user with official out	01/04/2017	01/04/2017 09:00:38	01/04/2017 16:30:41	HO	0	0	0	540	2 punch user with official out
+2pOfficialout	2 punch user with official out	02/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	03/04/2017	03/04/2017 09:00:38	03/04/2017 16:00:44	HO	0	0	0	540	2 punch user with official out
+2pOfficialout	2 punch user with official out	04/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	05/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	06/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	07/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	08/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	09/04/2017			HO	0	0	0	0	2 punch user with official out
+2pOfficialout	2 punch user with official out	10/04/2017			HO	0	0	0	0	2 punch user with official out
+2poutfromexit	2Punch user with out punch from exit reader o	01/04/2017	01/04/2017 09:00:37	01/04/2017 18:30:37	HO	0	0	0	540	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	02/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	03/04/2017	03/04/2017 09:10:37	03/04/2017 18:40:37	HO	0	0	10	540	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	04/04/2017	04/04/2017 09:30:37	04/04/2017 19:00:37	HO	0	0	30	540	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	05/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	06/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	07/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	08/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	09/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2poutfromexit	2Punch user with out punch from exit reader o	10/04/2017			HO	0	0	0	0	2Punch user with out punch from exit reader o
+2pshortleaveout	2 Punch user for shortleave out	01/04/2017	01/04/2017 09:00:00	01/04/2017 17:00:51	HO	0	0	0	540	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	02/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	03/04/2017	03/04/2017 09:00:00	03/04/2017 17:30:45	HO	0	0	0	540	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	04/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	05/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	06/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	07/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	08/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	09/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2pshortleaveout	2 Punch user for shortleave out	10/04/2017			HO	0	0	0	0	2 Punch user for shortleave out
+2punchearlyout	2punchuserwith earlyout policy	01/04/2017	01/04/2017 09:00:03	01/04/2017 18:00:02	GS	0	30	0	480	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	02/04/2017			GS	0	0	0	0	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	03/04/2017	03/04/2017 09:00:02	03/04/2017 17:59:02	GS	0	0	0	479	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	04/04/2017	04/04/2017 09:00:03	04/04/2017 18:40:13	GS	0	0	10	520	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	05/04/2017	05/04/2017 09:00:03	05/04/2017 18:10:01	GS	0	0	10	490	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	06/04/2017	06/04/2017 09:00:02	06/04/2017 18:25:02	GS	0	0	25	505	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	07/04/2017	07/04/2017 09:25:05	07/04/2017 18:25:15	GS	15	0	25	480	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	08/04/2017	08/04/2017 09:10:05	08/04/2017 18:28:24	GS	0	0	28	498	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	09/04/2017			GS	0	0	0	0	2punchuserwith earlyout policy
+2punchearlyout	2punchuserwith earlyout policy	10/04/2017	10/04/2017 09:31:23	10/04/2017 17:30:23	GS	0	0	0	419	2punchuserwith earlyout policy
+2punchnoearly	2punch with no earlyout duration	01/04/2017	01/04/2017 09:00:26	01/04/2017 18:20:24	GS	0	0	20	500	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	02/04/2017			GS	0	0	0	0	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	03/04/2017	03/04/2017 09:00:25	03/04/2017 18:00:24	GS	0	0	0	480	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	04/04/2017	04/04/2017 09:00:24	04/04/2017 18:30:23	GS	0	0	0	510	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	05/04/2017	05/04/2017 09:10:25	05/04/2017 18:00:24	GS	0	0	0	470	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	06/04/2017	06/04/2017 08:59:23	06/04/2017 17:59:23	GS	0	0	1	480	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	07/04/2017	07/04/2017 09:00:23	07/04/2017 17:59:23	GS	0	0	0	479	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	08/04/2017	08/04/2017 09:30:25	08/04/2017 18:29:24	GS	20	0	29	479	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	09/04/2017			GS	0	0	0	0	2punch with no earlyout duration
+2punchnoearly	2punch with no earlyout duration	10/04/2017	10/04/2017 09:00:23	10/04/2017 18:29:23	GS	0	0	0	509	2punch with no earlyout duration
+2punchnolatein	2punch user with no late in duration applicab	01/04/2017	01/04/2017 09:10:00	01/04/2017 18:30:23	GS	0	0	30	500	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	02/04/2017			GS	0	0	0	0	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	03/04/2017	03/04/2017 09:32:00	03/04/2017 18:32:00	GS	0	0	32	512	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	04/04/2017	04/04/2017 09:01:00	04/04/2017 18:31:00	GS	0	0	31	510	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	05/04/2017	05/04/2017 09:00:07	05/04/2017 18:30:06	GS	0	0	0	510	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	06/04/2017	06/04/2017 10:00:06	06/04/2017 19:00:06	GS	0	0	60	540	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	07/04/2017	07/04/2017 08:30:07	07/04/2017 18:30:06	GS	0	0	30	540	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	08/04/2017	08/04/2017 11:30:06	08/04/2017 20:30:07	GS	0	0	150	630	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	09/04/2017			GS	0	0	0	0	2punch user with no late in duration applicab
+2punchnolatein	2punch user with no late in duration applicab	10/04/2017			GS	0	0	0	0	2punch user with no late in duration applicab
+2punchshortleav	Shortleave in for 2 punch	01/04/2017	01/04/2017 10:30:00	01/04/2017 18:30:00	HO	0	0	0	540	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	02/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	03/04/2017	03/04/2017 10:10:00	03/04/2017 18:30:00	HO	0	0	0	540	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	04/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	05/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	06/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	07/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	08/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	09/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchshortleav	Shortleave in for 2 punch	10/04/2017			HO	0	0	0	0	Shortleave in for 2 punch
+2punchuser	2punch user with latein	01/04/2017	01/04/2017 10:01:02	01/04/2017 19:05:51	GS	0	0	65	545	2punch user with latein
+2punchuser	2punch user with latein	02/04/2017			GS	0	0	0	0	2punch user with latein
+2punchuser	2punch user with latein	03/04/2017	03/04/2017 09:30:50	03/04/2017 19:00:50	GS	30	0	30	510	2punch user with latein
+2punchuser	2punch user with latein	04/04/2017	04/04/2017 09:31:49	04/04/2017 19:31:50	GS	0	0	91	571	2punch user with latein
+2punchuser	2punch user with latein	05/04/2017	05/04/2017 09:05:01	05/04/2017 18:38:54	GS	0	0	38	513	2punch user with latein
+2punchuser	2punch user with latein	06/04/2017	06/04/2017 09:00:54	06/04/2017 18:30:54	GS	0	0	0	510	2punch user with latein
+2punchuser	2punch user with latein	07/04/2017	07/04/2017 08:30:54	07/04/2017 18:00:54	GS	0	30	30	510	2punch user with latein
+2punchuser	2punch user with latein	08/04/2017	08/04/2017 09:25:54	08/04/2017 18:55:54	GS	0	0	55	535	2punch user with latein
+2punchuser	2punch user with latein	09/04/2017			GS	0	0	0	0	2punch user with latein
+2punchuser	2punch user with latein	10/04/2017	10/04/2017 09:45:54	10/04/2017 19:15:54	GS	0	0	45	510	2punch user with latein
+2pwithexitreade	Exit reader enabled but punches from entry	01/04/2017	01/04/2017 09:00:02	01/04/2017 18:30:02	HO	0	0	0	540	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	02/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	03/04/2017	03/04/2017 09:00:01		HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	04/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	05/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	06/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	07/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	08/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	09/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+2pwithexitreade	Exit reader enabled but punches from entry	10/04/2017			HO	0	0	0	0	Exit reader enabled but punches from entry
+4breaklatein	4 punch user with break latein AND earlyout	01/04/2017	01/04/2017 09:00:25	01/04/2017 13:00:24	GS	0	0	0	510	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	02/04/2017			GS	0	0	0	0	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	03/04/2017	03/04/2017 09:00:24	03/04/2017 13:00:24	GS	0	0	30	510	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	04/04/2017	04/04/2017 09:00:23	04/04/2017 13:00:26	GS	0	0	1	511	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	05/04/2017	05/04/2017 09:30:24	05/04/2017 13:00:24	GS	0	0	80	560	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	06/04/2017	06/04/2017 09:20:24	06/04/2017 13:20:23	GS	0	0	70	550	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	07/04/2017	07/04/2017 08:10:25	07/04/2017 12:10:25	GS	0	0	180	660	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	08/04/2017	08/04/2017 09:10:24	08/04/2017 12:30:24	GS	0	0	60	530	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	09/04/2017			GS	0	0	0	0	4 punch user with break latein AND earlyout
+4breaklatein	4 punch user with break latein AND earlyout	10/04/2017	10/04/2017 09:00:25	10/04/2017 12:45:25	GS	0	0	0	500	4 punch user with break latein AND earlyout
+4PbreakEO	4 Punch user with break earlyout	01/04/2017	01/04/2017 09:00:34	01/04/2017 12:30:34	BE	0	0	30	540	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	02/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	03/04/2017	03/04/2017 09:00:34	03/04/2017 12:40:33	BE	0	0	30	550	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	04/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	05/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	06/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	07/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	08/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	09/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PbreakEO	4 Punch user with break earlyout	10/04/2017			BE	0	0	0	0	4 Punch user with break earlyout
+4PBreakEOex	4P Break for earlyout exceeds	01/04/2017	01/04/2017 09:00:52	01/04/2017 11:15:50	BE	0	0	0	450	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	02/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	03/04/2017	03/04/2017 09:00:49	03/04/2017 11:10:52	BE	0	0	0	450	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	04/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	05/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	06/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	07/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	08/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	09/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PBreakEOex	4P Break for earlyout exceeds	10/04/2017			BE	0	0	0	0	4P Break for earlyout exceeds
+4PbreakEOgrace	4P user with break earlyout grace	01/04/2017	01/04/2017 09:00:34	01/04/2017 12:50:33	BE	0	0	30	560	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	02/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	03/04/2017	03/04/2017 09:00:35	03/04/2017 12:55:33	BE	0	0	30	565	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	04/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	05/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	06/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	07/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	08/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	09/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4PbreakEOgrace	4P user with break earlyout grace	10/04/2017			BE	0	0	0	0	4P user with break earlyout grace
+4Pbreakingrace	4 punch user with break hours within grace	01/04/2017	01/04/2017 09:00:17	01/04/2017 13:00:16	BR	0	0	10	540	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	02/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	03/04/2017	03/04/2017 09:00:18	03/04/2017 13:00:17	BR	0	0	5	540	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	04/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	05/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	06/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	07/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	08/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	09/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreakingrace	4 punch user with break hours within grace	10/04/2017			BR	0	0	0	0	4 punch user with break hours within grace
+4Pbreaklatein	4p user with break latein	01/04/2017	01/04/2017 09:00:16	01/04/2017 13:00:17	BR	0	0	20	540	4p user with break latein
+4Pbreaklatein	4p user with break latein	02/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	03/04/2017	03/04/2017 09:00:16	03/04/2017 13:00:16	BR	0	0	40	540	4p user with break latein
+4Pbreaklatein	4p user with break latein	04/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	05/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	06/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	07/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	08/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	09/04/2017			BR	0	0	0	0	4p user with break latein
+4Pbreaklatein	4p user with break latein	10/04/2017			BR	0	0	0	0	4p user with break latein
+4PBreakLIex	4P user exceeds break latein	01/04/2017	01/04/2017 09:00:41	01/04/2017 13:00:40	BR	0	0	40	535	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	02/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	03/04/2017	03/04/2017 09:00:41	03/04/2017 13:00:45	BR	0	0	50	540	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	04/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	05/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	06/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	07/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	08/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	09/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4PBreakLIex	4P user exceeds break latein	10/04/2017			BR	0	0	0	0	4P user exceeds break latein
+4pgracebreakear	4 punch user with break early out and grace	01/04/2017	01/04/2017 09:00:00	01/04/2017 12:50:00	HO	0	0	0	540	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	02/04/2017			HO	0	0	0	0	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	03/04/2017	03/04/2017 09:00:37	03/04/2017 12:20:37	HO	0	0	0	540	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	04/04/2017	04/04/2017 09:00:36	04/04/2017 12:20:37	HO	0	0	0	530	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	05/04/2017	05/04/2017 09:00:36	05/04/2017 12:15:36	HO	0	0	0	540	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	06/04/2017	06/04/2017 08:50:37	06/04/2017 12:30:38	HO	0	0	10	550	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	07/04/2017	07/04/2017 09:00:36	07/04/2017 12:55:36	HO	0	0	0	540	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	08/04/2017	08/04/2017 09:00:36	08/04/2017 12:45:36	HO	0	0	0	540	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	09/04/2017			HO	0	0	0	0	4 punch user with break early out and grace
+4pgracebreakear	4 punch user with break early out and grace	10/04/2017	10/04/2017 09:00:37	10/04/2017 12:49:36	HO	0	0	0	505	4 punch user with break early out and grace
+4pgracebreaklat	4 punch user with grace for shift and breakla	01/04/2017	01/04/2017 09:00:00	01/04/2017 13:01:00	HO	0	0	11	551	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	02/04/2017			HO	0	0	0	0	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	03/04/2017	03/04/2017 09:01:00	03/04/2017 13:01:00	HO	0	0	30	569	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	04/04/2017	04/04/2017 09:00:00	04/04/2017 13:00:00	HO	0	0	60	600	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	05/04/2017	05/04/2017 09:00:52	05/04/2017 13:00:52	HO	0	0	0	540	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	06/04/2017	06/04/2017 09:00:52	06/04/2017 13:00:54	HO	0	0	10	550	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	07/04/2017	07/04/2017 09:00:52	07/04/2017 13:00:54	HO	0	0	30	570	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	08/04/2017	08/04/2017 09:30:52	08/04/2017 13:00:52	HO	0	0	30	540	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	09/04/2017			HO	0	0	0	0	4 punch user with grace for shift and breakla
+4pgracebreaklat	4 punch user with grace for shift and breakla	10/04/2017	10/04/2017 10:00:52	10/04/2017 13:00:53	HO	0	0	64	544	4 punch user with grace for shift and breakla
+4ptotallatein	4punch user for adding break latein in total	01/04/2017	01/04/2017 09:00:23	01/04/2017 18:30:21	LI	0	0	0	540	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	02/04/2017			LI	0	0	0	0	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	03/04/2017	03/04/2017 09:15:21	03/04/2017 18:45:23	LI	15	0	15	540	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	04/04/2017	04/04/2017 09:30:22	04/04/2017 19:00:21	LI	0	0	30	570	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	05/04/2017	05/04/2017 09:15:22	05/04/2017 13:00:21	LI	15	0	15	510	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	06/04/2017	06/04/2017 09:00:21	06/04/2017 13:00:20	LI	0	0	15	540	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	07/04/2017	07/04/2017 09:16:06		LI	0	0	0	0	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	08/04/2017			LI	0	0	0	0	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	09/04/2017			LI	0	0	0	0	4punch user for adding break latein in total
+4ptotallatein	4punch user for adding break latein in total	10/04/2017			LI	0	0	0	0	4punch user for adding break latein in total
+auto	auto	01/04/2017	01/04/2017 19:30:34	02/04/2017 04:30:04	A1	0	0	30	540	auto
+auto	auto	02/04/2017				0	0	0	0	auto
+auto	auto	03/04/2017	03/04/2017 19:30:25	04/04/2017 04:30:04	A1	0	0	30	540	auto
+auto	auto	04/04/2017				0	0	0	0	auto
+auto	auto	05/04/2017		05/04/2017 09:30:08	A2	0	0	0	0	auto
+auto	auto	06/04/2017	06/04/2017 04:30:03		A2	0	0	0	0	auto
+auto	auto	07/04/2017				0	0	0	0	auto
+auto	auto	08/04/2017	08/04/2017 19:30:04	09/04/2017 04:30:03	A1	0	0	30	540	auto
+auto	auto	09/04/2017				0	0	0	0	auto
+auto	auto	10/04/2017	10/04/2017 19:30:02	11/04/2017 04:30:07	A1	0	0	30	540	auto
+Autoshift	Auto shift user with shift schedule not proce	01/04/2017	01/04/2017 20:00:39	02/04/2017 06:00:39	GY	0	0	120	570	Auto shift user with shift schedule not proce
+Autoshift	Auto shift user with shift schedule not proce	02/04/2017				0	0	0	0	Auto shift user with shift schedule not proce
+Autoshift	Auto shift user with shift schedule not proce	03/04/2017	03/04/2017 21:00:38	04/04/2017 05:00:39	GY	0	0	0	450	Auto shift user with shift schedule not proce
+Autoshift	Auto shift user with shift schedule not proce	04/04/2017	04/04/2017 09:00:39	04/04/2017 20:00:38	HO	0	0	90	630	Auto shift user with shift schedule not proce
+Autoshift	Auto shift user with shift schedule not proce	05/04/2017	04/04/2017 22:00:39	05/04/2017 06:00:38	HO	0	0	240	480	Auto shift user with shift schedule not proce
+Autoshift	Auto shift user with shift schedule not proce	06/04/2017				0	0	0	0	Auto shift user with shift schedule not proce
+Autoshiftproces	Auto shift user whose shift has been processe	01/04/2017	01/04/2017 09:00:39	01/04/2017 18:30:39	HO	0	0	0	540	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	02/04/2017			NS	0	0	0	0	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	03/04/2017	03/04/2017 20:00:39	04/04/2017 06:00:38	GY	0	0	120	570	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	04/04/2017	04/04/2017 21:00:38	05/04/2017 05:00:38	GY	0	0	0	450	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	05/04/2017	05/04/2017 21:00:38	06/04/2017 05:00:39	GY	0	0	0	450	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	06/04/2017	06/04/2017 09:00:39	06/04/2017 18:30:38	HO	0	0	0	540	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	07/04/2017			HO	0	0	0	0	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	08/04/2017			HO	0	0	0	0	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	09/04/2017			NS	0	0	0	0	Auto shift user whose shift has been processe
+Autoshiftproces	Auto shift user whose shift has been processe	10/04/2017			NS	0	0	0	0	Auto shift user whose shift has been processe
+Awardandpenalty	award n penalty	01/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	02/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	03/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	04/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	05/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	06/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	07/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	08/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	09/04/2017			HO	0	0	0	0	award n penalty
+Awardandpenalty	award n penalty	10/04/2017			HO	0	0	0	0	award n penalty
+BreakEOexceeds	Include Break early out in shift exceeds TD	01/04/2017	01/04/2017 08:35:21	01/04/2017 12:50:29	ET	0	0	25	525	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	02/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	03/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	04/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	05/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	06/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	07/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	08/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	09/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOexceeds	Include Break early out in shift exceeds TD	10/04/2017			ET	0	0	0	0	Include Break early out in shift exceeds TD
+BreakEOInTotal	Break earlyout in total early out	01/04/2017	01/04/2017 08:50:50	01/04/2017 12:40:49	ET	0	0	10	540	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	02/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	03/04/2017	03/04/2017 08:35:49	03/04/2017 12:55:49	ET	0	0	25	570	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	04/04/2017	04/04/2017 08:35:54	04/04/2017 12:55:48	ET	0	0	25	540	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	05/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	06/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	07/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	08/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	09/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakEOInTotal	Break earlyout in total early out	10/04/2017			ET	0	0	0	0	Break earlyout in total early out
+BreakLIexceeds	Exceeds break and total latein	01/04/2017	01/04/2017 09:32:49	01/04/2017 13:00:49	BT	2	0	50	588	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	02/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	03/04/2017	03/04/2017 09:20:49	03/04/2017 13:00:49	BT	20	0	60	580	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	04/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	05/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	06/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	07/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	08/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	09/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIexceeds	Exceeds break and total latein	10/04/2017			BT	0	0	0	0	Exceeds break and total latein
+BreakLIinTotal	Break latein in total latein	01/04/2017	01/04/2017 09:10:50	01/04/2017 13:00:50	BT	30	0	50	560	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	02/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	03/04/2017	03/04/2017 09:20:49	03/04/2017 13:00:48	BT	30	0	50	560	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	04/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	05/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	06/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	07/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	08/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	09/04/2017			BT	0	0	0	0	Break latein in total latein
+BreakLIinTotal	Break latein in total latein	10/04/2017			BT	0	0	0	0	Break latein in total latein
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	01/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	02/04/2017	02/04/2017 07:30:00	02/04/2017 20:30:00	HO	0	0	600	750	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	03/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	04/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	05/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	06/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	07/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	08/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	09/04/2017			HO	0	0	0	0	Cal of OT on Wkday and WeekOff as per chkbox
+CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	10/04/2017	10/04/2017 09:01:14	10/04/2017 19:01:02	HO	0	0	570	570	Cal of OT on Wkday and WeekOff as per chkbox
+COFF	COFF	01/04/2017	01/04/2017 09:00:00	01/04/2017 19:00:00	HO	0	0	570	570	COFF
+COFF	COFF	02/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	03/04/2017	03/04/2017 08:00:34	03/04/2017 21:00:34	HO	0	0	600	750	COFF
+COFF	COFF	04/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	05/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	06/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	07/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	08/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	09/04/2017			HO	0	0	0	0	COFF
+COFF	COFF	10/04/2017			HO	0	0	0	0	COFF
+daily1earlyin	Cal onWOPH as per weekday	01/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	02/04/2017	02/04/2017 06:30:14	02/04/2017 21:30:14	HO	0	0	720	870	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	03/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	04/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	05/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	06/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	07/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	08/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	09/04/2017			HO	0	0	0	0	Cal onWOPH as per weekday
+daily1earlyin	Cal onWOPH as per weekday	10/04/2017	10/04/2017 07:30:12	10/04/2017 18:30:12	HO	0	0	570	630	Cal onWOPH as per weekday
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	01/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	02/04/2017	02/04/2017 07:30:13	02/04/2017 19:30:13	HO	0	0	0	690	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	03/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	04/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	05/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	06/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	07/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	08/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	09/04/2017			HO	0	0	0	0	Daily1 OT Not configured for Wkdays n weekend
+daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	10/04/2017	10/04/2017 09:00:12	10/04/2017 19:00:12	HO	0	0	0	570	Daily1 OT Not configured for Wkdays n weekend
+daily1weekends	daily1 weekends config in OT	01/04/2017	01/04/2017 07:00:00	01/04/2017 19:00:00	HO	0	0	0	690	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	02/04/2017	02/04/2017 07:00:00	02/04/2017 19:00:00	HO	0	0	690	690	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	03/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	04/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	05/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	06/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	07/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	08/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	09/04/2017			HO	0	0	0	0	daily1 weekends config in OT
+daily1weekends	daily1 weekends config in OT	10/04/2017	10/04/2017 07:00:00	10/04/2017 20:20:00	HO	0	0	770	770	daily1 weekends config in OT
+daily1wkdys	daily1 wkdys and weekends not assigned	01/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	02/04/2017	02/04/2017 07:30:12	02/04/2017 19:30:14	HO	0	0	690	690	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	03/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	04/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	05/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	06/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	07/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	08/04/2017			HO	0	0	0	0	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	09/04/2017	09/04/2017 06:30:00	09/04/2017 21:30:00	HO	0	0	780	870	daily1 wkdys and weekends not assigned
+daily1wkdys	daily1 wkdys and weekends not assigned	10/04/2017	10/04/2017 09:00:12	10/04/2017 19:00:12	HO	0	0	570	570	daily1 wkdys and weekends not assigned
+earlyout	user punches on early out duration of 30mins	01/04/2017	01/04/2017 08:30:21	01/04/2017 18:00:20	EO	0	30	30	540	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	02/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	03/04/2017	03/04/2017 08:50:21	03/04/2017 18:20:21	EO	0	0	10	550	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	04/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	05/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	06/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	07/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	08/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	09/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+earlyout	user punches on early out duration of 30mins	10/04/2017			EO	0	0	0	0	user punches on early out duration of 30mins
+Earlyoutgrace	Earlyout user with punches on grace time	01/04/2017	01/04/2017 08:50:22	01/04/2017 18:20:20	EG	0	0	10	540	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	02/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	03/04/2017	03/04/2017 08:55:21	03/04/2017 18:25:20	EG	0	0	5	540	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	04/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	05/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	06/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	07/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	08/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	09/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Earlyoutgrace	Earlyout user with punches on grace time	10/04/2017			EG	0	0	0	0	Earlyout user with punches on grace time
+Eligiblehours	Eligible work hours	01/04/2017	01/04/2017 06:00:14	01/04/2017 21:00:14	DV	0	0	360	900	Eligible work hours
+Eligiblehours	Eligible work hours	02/04/2017			DV	0	0	0	0	Eligible work hours
+Eligiblehours	Eligible work hours	03/04/2017	03/04/2017 09:00:15	03/04/2017 18:00:14	DV	0	0	0	540	Eligible work hours
+Eligiblehours	Eligible work hours	04/04/2017	04/04/2017 08:00:14	04/04/2017 18:00:14	DV	0	0	60	600	Eligible work hours
+Eligiblehours	Eligible work hours	05/04/2017	05/04/2017 07:00:16	05/04/2017 17:00:14	DV	0	0	120	600	Eligible work hours
+Eligiblehours	Eligible work hours	06/04/2017	06/04/2017 07:00:13	06/04/2017 15:00:14	DV	0	0	120	480	Eligible work hours
+Eligiblehours	Eligible work hours	07/04/2017	07/04/2017 08:30:00	07/04/2017 16:30:00	DV	0	0	30	570	Eligible work hours
+Eligiblehours	Eligible work hours	08/04/2017	08/04/2017 08:30:13	08/04/2017 16:30:19	DV	0	0	30	570	Eligible work hours
+Eligiblehours	Eligible work hours	09/04/2017			DV	0	0	0	0	Eligible work hours
+Eligiblehours	Eligible work hours	10/04/2017			DV	0	0	0	0	Eligible work hours
+EOdurationexcee	EO duration exceeds	01/04/2017	01/04/2017 08:25:21	01/04/2017 17:55:21	EO	0	0	35	575	EO duration exceeds
+EOdurationexcee	EO duration exceeds	02/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	03/04/2017	03/04/2017 08:15:21	03/04/2017 17:45:21	EO	0	0	45	585	EO duration exceeds
+EOdurationexcee	EO duration exceeds	04/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	05/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	06/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	07/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	08/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	09/04/2017			EO	0	0	0	0	EO duration exceeds
+EOdurationexcee	EO duration exceeds	10/04/2017			EO	0	0	0	0	EO duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	01/04/2017	01/04/2017 08:45:00	01/04/2017 18:19:00	EG	0	0	15	555	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	02/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	03/04/2017	03/04/2017 08:30:20	03/04/2017 18:15:20	EG	0	0	30	570	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	04/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	05/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	06/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	07/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	08/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	09/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+EOgraceexceed	Earlyout grace duration exceeds	10/04/2017			EG	0	0	0	0	Earlyout grace duration exceeds
+FB	OT for FB	01/04/2017	01/04/2017 09:01:06	01/04/2017 19:30:59	HO	0	0	599	599	OT for FB
+FB	OT for FB	02/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	03/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	04/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	05/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	06/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	07/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	08/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	09/04/2017			HO	0	0	0	0	OT for FB
+FB	OT for FB	10/04/2017			HO	0	0	0	0	OT for FB
+firsthalfabsent	First half absent	01/04/2017	01/04/2017 13:30:20	01/04/2017 18:30:20	HO	0	0	0	570	First half absent
+firsthalfabsent	First half absent	02/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	03/04/2017	03/04/2017 14:00:20	03/04/2017 18:30:21	HO	0	0	0	300	First half absent
+firsthalfabsent	First half absent	04/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	05/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	06/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	07/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	08/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	09/04/2017			HO	0	0	0	0	First half absent
+firsthalfabsent	First half absent	10/04/2017			HO	0	0	0	0	First half absent
+Firsthalfleave	User with first half leave	01/04/2017	01/04/2017 14:00:25	01/04/2017 18:30:21	HO	0	0	0	270	User with first half leave
+Firsthalfleave	User with first half leave	02/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	03/04/2017	03/04/2017 14:00:21	03/04/2017 18:30:21	HO	0	0	0	270	User with first half leave
+Firsthalfleave	User with first half leave	04/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	05/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	06/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	07/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	08/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	09/04/2017			HO	0	0	0	0	User with first half leave
+Firsthalfleave	User with first half leave	10/04/2017			HO	0	0	0	0	User with first half leave
+Flexible	flexibleuser	01/04/2017	01/04/2017 09:00:00	01/04/2017 13:00:00	HO	0	0	0	210	flexibleuser
+Flexible	flexibleuser	02/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	03/04/2017	03/04/2017 09:00:04	03/04/2017 15:00:04	HO	0	0	0	330	flexibleuser
+Flexible	flexibleuser	04/04/2017	04/04/2017 08:00:04	04/04/2017 12:00:04	HO	0	0	60	210	flexibleuser
+Flexible	flexibleuser	05/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	06/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	07/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	08/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	09/04/2017			HO	0	0	0	0	flexibleuser
+Flexible	flexibleuser	10/04/2017			HO	0	0	0	0	flexibleuser
+FlexibleMonthly	FlexibleMonthly	01/04/2017	01/04/2017 09:00:00	01/04/2017 18:00:00	GS	0	0	0	480	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	02/04/2017	02/04/2017 09:00:00	02/04/2017 18:00:00	GS	0	0	0	480	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	03/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	04/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	05/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	06/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	07/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	08/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	09/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleMonthly	FlexibleMonthly	10/04/2017			GS	0	0	0	0	FlexibleMonthly
+FlexibleNone	FlexibleNone	01/04/2017	01/04/2017 09:00:00	01/04/2017 18:00:00	GS	0	0	0	480	FlexibleNone
+FlexibleNone	FlexibleNone	02/04/2017	02/04/2017 09:00:00	02/04/2017 18:00:00	GS	0	0	0	480	FlexibleNone
+FlexibleNone	FlexibleNone	03/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	04/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	05/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	06/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	07/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	08/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	09/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleNone	FlexibleNone	10/04/2017			GS	0	0	0	0	FlexibleNone
+FlexibleOT	OT for flexible user	01/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	02/04/2017	02/04/2017 07:00:10	02/04/2017 17:00:09	HO	0	0	570	570	OT for flexible user
+FlexibleOT	OT for flexible user	03/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	04/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	05/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	06/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	07/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	08/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	09/04/2017			HO	0	0	0	0	OT for flexible user
+FlexibleOT	OT for flexible user	10/04/2017	10/04/2017 09:00:10	10/04/2017 16:00:09	HO	0	0	390	390	OT for flexible user
+Fulldayleave	User with full day leave	01/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	02/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	03/04/2017		03/04/2017 14:08:44	HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	04/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	05/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	06/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	07/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	08/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	09/04/2017			HO	0	0	0	0	User with full day leave
+Fulldayleave	User with full day leave	10/04/2017			HO	0	0	0	0	User with full day leave
+Inpunch	User with In pucnh only	01/04/2017	01/04/2017 09:00:20		HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	02/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	03/04/2017	03/04/2017 09:00:20		HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	04/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	05/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	06/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	07/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	08/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	09/04/2017			HO	0	0	0	0	User with In pucnh only
+Inpunch	User with In pucnh only	10/04/2017			HO	0	0	0	0	User with In pucnh only
+JPC	JPC user	01/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	02/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	03/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	04/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	05/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	06/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	07/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	08/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	09/04/2017			HO	0	0	0	0	JPC user
+JPC	JPC user	10/04/2017			HO	0	0	0	0	JPC user
+Jpcdefaultenter	Job coseting user with default job of enterpr	01/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	02/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	03/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	04/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	05/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	06/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	07/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	08/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	09/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+Jpcdefaultenter	Job coseting user with default job of enterpr	10/04/2017			HO	0	0	0	0	Job coseting user with default job of enterpr
+JPCdefaultjob	JPC default job	01/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	02/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	03/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	04/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	05/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	06/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	07/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	08/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	09/04/2017			HO	0	0	0	0	JPC default job
+JPCdefaultjob	JPC default job	10/04/2017			HO	0	0	0	0	JPC default job
+Jpcdevicebased	JPC user with device based	01/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	02/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	03/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	04/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	05/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	06/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	07/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	08/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	09/04/2017			HO	0	0	0	0	JPC user with device based
+Jpcdevicebased	JPC user with device based	10/04/2017			HO	0	0	0	0	JPC user with device based
+JPCmergejob	JPC merged Job	01/04/2017	01/04/2017 09:00:41		HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	02/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	03/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	04/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	05/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	06/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	07/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	08/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	09/04/2017			HO	0	0	0	0	JPC merged Job
+JPCmergejob	JPC merged Job	10/04/2017			HO	0	0	0	0	JPC merged Job
+JPCsitedefaultj	JPC user with sitewise default job	01/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	02/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	03/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	04/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	05/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	06/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	07/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	08/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	09/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCsitedefaultj	JPC user with sitewise default job	10/04/2017			HO	0	0	0	0	JPC user with sitewise default job
+JPCSplitHO	JPC split timesheet normal shift	01/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	02/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	03/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	04/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	05/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	06/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	07/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	08/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	09/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitHO	JPC split timesheet normal shift	10/04/2017			HO	0	0	0	0	JPC split timesheet normal shift
+JPCSplitNS	JPC split timesheet night shift	01/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	02/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	03/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	04/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	05/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	06/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	07/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	08/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	09/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+JPCSplitNS	JPC split timesheet night shift	10/04/2017			NS	0	0	0	0	JPC split timesheet night shift
+Lategraceexceed	User with exceed grace period	01/04/2017	01/04/2017 09:31:20	01/04/2017 19:05:20	HO	0	0	35	575	User with exceed grace period
+Lategraceexceed	User with exceed grace period	02/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	03/04/2017	03/04/2017 10:00:20	03/04/2017 19:30:20	HO	0	0	60	600	User with exceed grace period
+Lategraceexceed	User with exceed grace period	04/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	05/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	06/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	07/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	08/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	09/04/2017			HO	0	0	0	0	User with exceed grace period
+Lategraceexceed	User with exceed grace period	10/04/2017			HO	0	0	0	0	User with exceed grace period
+Latein	user punches on latein only	01/04/2017	01/04/2017 09:30:20	01/04/2017 19:00:22	LI	30	0	30	540	user punches on latein only
+Latein	user punches on latein only	02/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	03/04/2017	03/04/2017 09:15:20	03/04/2017 18:45:29	LI	0	0	15	555	user punches on latein only
+Latein	user punches on latein only	04/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	05/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	06/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	07/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	08/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	09/04/2017			LI	0	0	0	0	user punches on latein only
+Latein	user punches on latein only	10/04/2017			LI	0	0	0	0	user punches on latein only
+Lateinduraexcee	Late in Duration exceed	01/04/2017	01/04/2017 10:00:22	01/04/2017 19:30:20	LI	0	0	60	600	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	02/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	03/04/2017	03/04/2017 09:31:21	03/04/2017 19:31:20	LI	0	0	61	601	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	04/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	05/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	06/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	07/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	08/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	09/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateinduraexcee	Late in Duration exceed	10/04/2017			LI	0	0	0	0	Late in Duration exceed
+Lateingrace	User have pucnges on grace latein	01/04/2017	01/04/2017 09:30:19	01/04/2017 19:00:21	HO	0	0	30	540	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	02/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	03/04/2017	03/04/2017 09:10:21	03/04/2017 18:40:20	HO	0	0	10	540	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	04/04/2017	04/04/2017 09:29:20	04/04/2017 19:00:20	HO	0	0	30	541	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	05/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	06/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	07/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	08/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	09/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lateingrace	User have pucnges on grace latein	10/04/2017			HO	0	0	0	0	User have pucnges on grace latein
+Lessworkhours	Less work hours for daily limit	01/04/2017	01/04/2017 08:40:00	01/04/2017 18:10:00	HO	0	0	20	540	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	02/04/2017			HO	0	0	0	0	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	03/04/2017	03/04/2017 09:00:32	03/04/2017 18:20:32	HO	0	0	0	530	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	04/04/2017	04/04/2017 09:10:00	04/04/2017 18:30:00	HO	0	0	0	530	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	05/04/2017	05/04/2017 09:15:00	05/04/2017 18:25:00	HO	0	0	0	520	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	06/04/2017			HO	0	0	0	0	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	07/04/2017			HO	0	0	0	0	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	08/04/2017			HO	0	0	0	0	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	09/04/2017			HO	0	0	0	0	Less work hours for daily limit
+Lessworkhours	Less work hours for daily limit	10/04/2017			HO	0	0	0	0	Less work hours for daily limit
+manualOT	User with Manual Overtime	01/04/2017	01/04/2017 08:01:02	01/04/2017 20:01:01	HO	0	0	150	690	User with Manual Overtime
+manualOT	User with Manual Overtime	02/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	03/04/2017	03/04/2017 07:00:33	03/04/2017 21:00:33	HO	0	0	270	810	User with Manual Overtime
+manualOT	User with Manual Overtime	04/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	05/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	06/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	07/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	08/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	09/04/2017			HO	0	0	0	0	User with Manual Overtime
+manualOT	User with Manual Overtime	10/04/2017			HO	0	0	0	0	User with Manual Overtime
+mitali	mitali	01/04/2017			FB	0	0	0	0	mitali
+mitali	mitali	02/04/2017			FB	0	0	0	0	mitali
+mitali	mitali	03/04/2017			FB	0	0	0	0	mitali
+mitali	mitali	04/04/2017			FB	0	0	0	0	mitali
+mitali	mitali	05/04/2017			FB	0	0	0	0	mitali
+mitali	mitali	06/04/2017			RD	0	0	0	0	mitali
+mitali	mitali	07/04/2017			RD	0	0	0	0	mitali
+mitali	mitali	08/04/2017			RD	0	0	0	0	mitali
+mitali	mitali	09/04/2017			RD	0	0	0	0	mitali
+mitali	mitali	10/04/2017			RD	0	0	0	0	mitali
+mitali1	mitali1	01/04/2017			FB	0	0	0	0	mitali1
+mitali1	mitali1	02/04/2017			FB	0	0	0	0	mitali1
+mitali1	mitali1	03/04/2017			FB	0	0	0	0	mitali1
+mitali1	mitali1	04/04/2017			FB	0	0	0	0	mitali1
+mitali1	mitali1	05/04/2017			FB	0	0	0	0	mitali1
+mitali1	mitali1	06/04/2017			RD	0	0	0	0	mitali1
+mitali1	mitali1	07/04/2017			RD	0	0	0	0	mitali1
+mitali1	mitali1	08/04/2017			RD	0	0	0	0	mitali1
+mitali1	mitali1	09/04/2017			RD	0	0	0	0	mitali1
+mitali1	mitali1	10/04/2017			RD	0	0	0	0	mitali1
+NetworkHrs	Networkhours bt no OT Component	01/04/2017	01/04/2017 08:30:00	01/04/2017 19:30:00	HO	0	0	480	630	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	02/04/2017	02/04/2017 08:30:00	02/04/2017 18:30:00	HO	0	0	0	570	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	03/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	04/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	05/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	06/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	07/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	08/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	09/04/2017			HO	0	0	0	0	Networkhours bt no OT Component
+NetworkHrs	Networkhours bt no OT Component	10/04/2017	10/04/2017 09:00:16	10/04/2017 19:00:17	HO	0	0	0	570	Networkhours bt no OT Component
+NightShift	NightShift	01/04/2017	01/04/2017 20:00:18	02/04/2017 06:00:20	NS	0	0	0	540	NightShift
+NightShift	NightShift	02/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	03/04/2017	03/04/2017 20:00:17	04/04/2017 06:00:17	NS	0	0	0	540	NightShift
+NightShift	NightShift	04/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	05/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	06/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	07/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	08/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	09/04/2017			NS	0	0	0	0	NightShift
+NightShift	NightShift	10/04/2017			NS	0	0	0	0	NightShift
+Normal	normal user	01/04/2017	01/04/2017 09:00:21	01/04/2017 18:30:21	HO	0	0	0	540	normal user
+Normal	normal user	02/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	03/04/2017	03/04/2017 09:00:21	03/04/2017 18:30:20	HO	0	0	0	540	normal user
+Normal	normal user	04/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	05/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	06/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	07/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	08/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	09/04/2017			HO	0	0	0	0	normal user
+Normal	normal user	10/04/2017			HO	0	0	0	0	normal user
+npgraceEO	Npunch user with grace in EO and EO duration	01/04/2017	01/04/2017 09:00:37	01/04/2017 18:20:37	EO	0	10	0	530	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	02/04/2017			EO	0	0	0	0	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	03/04/2017	03/04/2017 09:00:36	03/04/2017 17:50:36	EO	0	0	0	550	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	04/04/2017	04/04/2017 09:00:36	04/04/2017 18:19:36	EO	0	0	0	540	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	05/04/2017	05/04/2017 08:19:36	05/04/2017 17:49:36	EO	0	0	41	573	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	06/04/2017	06/04/2017 09:00:36	06/04/2017 18:00:36	EO	0	0	0	542	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	07/04/2017	07/04/2017 08:40:36	07/04/2017 18:25:36	EO	0	0	20	570	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	08/04/2017	08/04/2017 09:00:36	08/04/2017 17:30:38	EO	0	0	0	540	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	09/04/2017			EO	0	0	0	0	Npunch user with grace in EO and EO duration
+npgraceEO	Npunch user with grace in EO and EO duration	10/04/2017	10/04/2017 09:00:38	10/04/2017 18:30:36	EO	0	0	0	540	Npunch user with grace in EO and EO duration
+NpofficialIn	N punch user for official In	01/04/2017	01/04/2017 11:00:43	01/04/2017 18:40:40	HO	0	0	4	520	N punch user for official In
+NpofficialIn	N punch user for official In	02/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	03/04/2017	03/04/2017 10:00:43	03/04/2017 18:30:38	HO	0	0	0	560	N punch user for official In
+NpofficialIn	N punch user for official In	04/04/2017	04/04/2017 09:00:39	04/04/2017 19:50:39	HO	0	0	80	650	N punch user for official In
+NpofficialIn	N punch user for official In	05/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	06/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	07/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	08/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	09/04/2017			HO	0	0	0	0	N punch user for official In
+NpofficialIn	N punch user for official In	10/04/2017			HO	0	0	0	0	N punch user for official In
+Npoutfromexit	Npunch user with out punch from exit reader	01/04/2017	01/04/2017 09:00:37	01/04/2017 19:00:39	HO	0	0	30	540	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	02/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	03/04/2017	03/04/2017 09:30:37	03/04/2017 18:40:36	HO	0	0	10	540	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	04/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	05/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	06/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	07/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	08/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	09/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+Npoutfromexit	Npunch user with out punch from exit reader	10/04/2017			HO	0	0	0	0	Npunch user with out punch from exit reader
+npshortleavein	n punch user for shortleave in	01/04/2017	01/04/2017 09:00:38	01/04/2017 18:30:38	HO	0	0	0	570	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	02/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	03/04/2017	03/04/2017 10:30:44	03/04/2017 18:30:38	HO	0	0	0	560	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	04/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	05/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	06/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	07/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	08/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	09/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleavein	n punch user for shortleave in	10/04/2017			HO	0	0	0	0	n punch user for shortleave in
+npshortleaveout	n punch user with short leave out	01/04/2017	01/04/2017 09:00:39	01/04/2017 18:30:39	HO	0	0	0	570	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	02/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	03/04/2017	03/04/2017 09:00:38	03/04/2017 18:30:38	HO	0	0	0	480	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	04/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	05/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	06/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	07/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	08/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	09/04/2017			HO	0	0	0	0	n punch user with short leave out
+npshortleaveout	n punch user with short leave out	10/04/2017			HO	0	0	0	0	n punch user with short leave out
+Npucnofficialou	N punch user with official out	01/04/2017	01/04/2017 09:00:40	01/04/2017 19:00:45	HO	0	0	30	600	N punch user with official out
+Npucnofficialou	N punch user with official out	02/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	03/04/2017	03/04/2017 09:00:39	03/04/2017 17:30:43	HO	0	0	0	540	N punch user with official out
+Npucnofficialou	N punch user with official out	04/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	05/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	06/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	07/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	08/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	09/04/2017			HO	0	0	0	0	N punch user with official out
+Npucnofficialou	N punch user with official out	10/04/2017			HO	0	0	0	0	N punch user with official out
+Npunchbeyond	Npunch user with deduction type as beyond	01/04/2017	01/04/2017 09:00:39	01/04/2017 18:50:38	HO	0	0	20	585	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	02/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	03/04/2017	03/04/2017 09:00:39	03/04/2017 19:00:38	HO	0	0	30	590	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	04/04/2017	04/04/2017 09:00:38	04/04/2017 18:45:38	HO	0	0	15	585	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	05/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	06/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	07/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	08/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	09/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+Npunchbeyond	Npunch user with deduction type as beyond	10/04/2017			HO	0	0	0	0	Npunch user with deduction type as beyond
+NpunchFlexible	Npunch user with type as flexible	01/04/2017	01/04/2017 09:00:09	01/04/2017 19:00:09	HO	0	0	30	540	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	02/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	03/04/2017	03/04/2017 08:30:08	03/04/2017 18:00:08	HO	0	0	30	540	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	04/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	05/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	06/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	07/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	08/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	09/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+NpunchFlexible	Npunch user with type as flexible	10/04/2017			HO	0	0	0	0	Npunch user with type as flexible
+Npunchgreater	N punch user with greater than deduction typr	01/04/2017	01/04/2017 09:00:40	01/04/2017 18:30:38	HO	0	0	0	570	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	02/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	03/04/2017	03/04/2017 09:00:43	03/04/2017 18:30:38	HO	0	0	0	540	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	04/04/2017	04/04/2017 09:00:38	04/04/2017 19:00:38	HO	0	0	30	540	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	05/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	06/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	07/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	08/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	09/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+Npunchgreater	N punch user with greater than deduction typr	10/04/2017			HO	0	0	0	0	N punch user with greater than deduction typr
+nPunchlatein	npunch user with 30min latein	01/04/2017	01/04/2017 09:12:27	01/04/2017 18:48:26	GS	2	0	8	296	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	02/04/2017			GS	0	0	0	0	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	03/04/2017	03/04/2017 09:25:25	03/04/2017 18:40:25	GS	0	0	40	460	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	04/04/2017	04/04/2017 09:00:38	04/04/2017 18:40:25	GS	0	0	10	490	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	05/04/2017	05/04/2017 09:40:25	05/04/2017 18:40:26	GS	0	0	40	340	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	06/04/2017	06/04/2017 09:30:25	06/04/2017 19:40:25	GS	0	0	90	390	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	07/04/2017	07/04/2017 08:40:25	07/04/2017 18:30:26	GS	0	0	19	570	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	08/04/2017	08/04/2017 09:30:26	08/04/2017 18:30:26	GS	0	0	30	370	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	09/04/2017			GS	0	0	0	0	npunch user with 30min latein
+nPunchlatein	npunch user with 30min latein	10/04/2017	10/04/2017 10:00:28	10/04/2017 19:10:25	GS	0	0	40	480	npunch user with 30min latein
+NpunchNightshif	N punch user with night shift	01/04/2017	01/04/2017 20:00:11	02/04/2017 06:30:29	NS	0	0	30	590	N punch user with night shift
+NpunchNightshif	N punch user with night shift	02/04/2017	02/04/2017 19:30:09	03/04/2017 05:00:08	NS	0	0	29	540	N punch user with night shift
+NpunchNightshif	N punch user with night shift	03/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	04/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	05/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	06/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	07/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	08/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	09/04/2017			NS	0	0	0	0	N punch user with night shift
+NpunchNightshif	N punch user with night shift	10/04/2017			NS	0	0	0	0	N punch user with night shift
+npunchnoearly	npunch user with no earlyout policy	01/04/2017	01/04/2017 09:00:23	01/04/2017 18:30:23	GS	0	0	30	280	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	02/04/2017	02/04/2017 05:30:09		GS	0	0	0	0	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	03/04/2017	03/04/2017 09:00:23	03/04/2017 18:30:23	GS	0	0	0	510	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	04/04/2017	04/04/2017 09:00:23	04/04/2017 18:29:23	GS	0	0	29	539	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	05/04/2017	05/04/2017 09:00:23	05/04/2017 17:59:24	GS	0	0	0	459	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	06/04/2017	06/04/2017 09:00:23	06/04/2017 17:30:23	GS	0	0	0	510	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	07/04/2017	07/04/2017 09:30:23	07/04/2017 18:30:24	GS	30	0	0	500	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	08/04/2017	08/04/2017 09:00:23	08/04/2017 18:20:24	GS	0	0	20	560	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	09/04/2017			GS	0	0	0	0	npunch user with no earlyout policy
+npunchnoearly	npunch user with no earlyout policy	10/04/2017	10/04/2017 09:20:24	10/04/2017 18:40:24	GS	0	0	10	500	npunch user with no earlyout policy
+npunchnolatein	Npunch user with no late in duration	01/04/2017	01/04/2017 09:30:08	01/04/2017 19:00:06	GS	0	0	60	600	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	02/04/2017			GS	0	0	0	0	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	03/04/2017	03/04/2017 09:15:06	03/04/2017 18:36:06	GS	0	0	36	555	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	04/04/2017	04/04/2017 10:38:01	04/04/2017 22:48:00	GS	0	0	180	698	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	05/04/2017	05/04/2017 09:01:11	05/04/2017 19:16:00	GS	0	0	76	600	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	06/04/2017	06/04/2017 09:00:02	06/04/2017 19:00:02	GS	0	0	30	540	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	07/04/2017	07/04/2017 08:00:02	07/04/2017 18:40:02	GS	0	0	69	600	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	08/04/2017			GS	0	0	0	0	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	09/04/2017			GS	0	0	0	0	Npunch user with no late in duration
+npunchnolatein	Npunch user with no late in duration	10/04/2017			GS	0	0	0	0	Npunch user with no late in duration
+npunchwithearly	npunch user with earlyout policy	01/04/2017	01/04/2017 09:00:29	01/04/2017 18:20:27	GS	0	10	0	540	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	02/04/2017			GS	0	0	0	0	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	03/04/2017	03/04/2017 09:20:25	03/04/2017 18:28:23	GS	10	0	28	528	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	04/04/2017	04/04/2017 09:00:23	04/04/2017 17:20:23	GS	0	0	0	520	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	05/04/2017	05/04/2017 08:20:24	05/04/2017 18:29:23	GS	0	0	69	599	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	06/04/2017	06/04/2017 09:00:23	06/04/2017 18:00:23	GS	0	0	0	480	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	07/04/2017	07/04/2017 09:30:24	07/04/2017 18:00:22	GS	0	0	0	510	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	08/04/2017	08/04/2017 09:10:24	08/04/2017 17:55:23	GS	0	0	0	475	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	09/04/2017			GS	0	0	0	0	npunch user with earlyout policy
+npunchwithearly	npunch user with earlyout policy	10/04/2017	10/04/2017 08:59:23	10/04/2017 17:59:27	GS	0	0	1	480	npunch user with earlyout policy
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	01/04/2017	01/04/2017 09:00:02		HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	02/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	03/04/2017	03/04/2017 09:00:02		HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	04/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	05/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	06/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	07/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	08/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	09/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+NpWithexitenabl	Npunchuser exit enabled bt punches frm entry	10/04/2017			HO	0	0	0	0	Npunchuser exit enabled bt punches frm entry
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	01/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	02/04/2017	02/04/2017 08:00:33	02/04/2017 18:30:33	HO	0	0	0	600	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	03/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	04/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	05/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	06/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	07/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	08/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	09/04/2017			HO	0	0	0	0	Cal on weekday bt wkday is nt checked for OT
+OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	10/04/2017	10/04/2017 09:00:34	10/04/2017 19:30:33	HO	0	0	0	600	Cal on weekday bt wkday is nt checked for OT
+OTCOFFBoth	Auto authorize OT COFF	01/04/2017	01/04/2017 09:00:23	01/04/2017 13:00:23	HO	0	0	540	540	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	02/04/2017	02/04/2017 08:30:43	02/04/2017 14:30:42	HO	0	0	600	690	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	03/04/2017	03/04/2017 08:00:43	03/04/2017 13:00:43	HO	0	0	600	660	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	04/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	05/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	06/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	07/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	08/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	09/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTCOFFBoth	Auto authorize OT COFF	10/04/2017			HO	0	0	0	0	Auto authorize OT COFF
+OTonWeekdays	Overtime consider  weekdays for WOPH	01/04/2017			HO	0	0	0	0	Overtime consider  weekdays for WOPH
+OTonWeekdays	Overtime consider  weekdays for WOPH	02/04/2017	02/04/2017 08:30:36	02/04/2017 18:30:32	HO	0	0	570	570	Overtime consider  weekdays for WOPH
+OTonWeekdays	Overtime consider  weekdays for WOPH	10/04/2017	10/04/2017 08:00:33	10/04/2017 19:00:33	HO	0	0	0	0	Overtime consider  weekdays for WOPH
+RestrictedDail1	Restricted OT cal for Daily1	01/04/2017	01/04/2017 08:01:00	01/04/2017 20:00:00	HO	0	0	449	689	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	02/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	03/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	04/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	05/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	06/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	07/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	08/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	09/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+RestrictedDail1	Restricted OT cal for Daily1	10/04/2017			HO	0	0	0	0	Restricted OT cal for Daily1
+Secondhalfleave	user with second half leave	01/04/2017	01/04/2017 09:00:48	01/04/2017 14:00:47	HO	0	0	0	270	user with second half leave
+Secondhalfleave	user with second half leave	02/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	03/04/2017	03/04/2017 09:00:46	03/04/2017 14:00:47	HO	0	0	0	270	user with second half leave
+Secondhalfleave	user with second half leave	04/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	05/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	06/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	07/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	08/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	09/04/2017			HO	0	0	0	0	user with second half leave
+Secondhalfleave	user with second half leave	10/04/2017			HO	0	0	0	0	user with second half leave
+seconhalfabsent	second half absent	01/04/2017	01/04/2017 09:00:20	01/04/2017 14:00:23	HO	0	0	0	540	second half absent
+seconhalfabsent	second half absent	02/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	03/04/2017	03/04/2017 09:00:21	03/04/2017 13:30:23	HO	0	0	0	570	second half absent
+seconhalfabsent	second half absent	04/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	05/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	06/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	07/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	08/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	09/04/2017			HO	0	0	0	0	second half absent
+seconhalfabsent	second half absent	10/04/2017			HO	0	0	0	0	second half absent
+SpecialOTearlyi	Special OT with earlyin defined component	01/04/2017	01/04/2017 14:00:36	01/04/2017 17:00:33	SO	0	0	240	900	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	02/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	03/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	04/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	05/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	06/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	07/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	08/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	09/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTearlyi	Special OT with earlyin defined component	10/04/2017			SO	0	0	0	0	Special OT with earlyin defined component
+SpecialOTwOearl	SpecialOTWithoutearlyIn	01/04/2017	01/04/2017 15:00:00	01/04/2017 17:00:00	SO	0	0	180	840	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	02/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	03/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	04/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	05/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	06/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	07/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	08/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	09/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOTwOearl	SpecialOTWithoutearlyIn	10/04/2017			SO	0	0	0	0	SpecialOTWithoutearlyIn
+SpecialOvertime	Special Overtime	01/04/2017	01/04/2017 15:01:00	01/04/2017 17:01:04	SO	0	0	300	840	Special Overtime
+SpecialOvertime	Special Overtime	02/04/2017		03/04/2017 05:00:33	SO	0	0	0	0	Special Overtime
+SpecialOvertime	Special Overtime	03/04/2017	03/04/2017 16:00:36	03/04/2017 17:00:33	SO	0	0	180	720	Special Overtime
+SpecialOvertime	Special Overtime	04/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	05/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	06/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	07/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	08/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	09/04/2017			SO					Special Overtime
+SpecialOvertime	Special Overtime	10/04/2017			SO	0	0	0	0	Special Overtime
+weekOffChange	weekOff	01/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	02/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	03/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	04/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	05/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	06/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	07/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	08/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	09/04/2017			GS	0	0	0	0	weekOff
+weekOffChange	weekOff	10/04/2017			GS	0	0	0	0	weekOff

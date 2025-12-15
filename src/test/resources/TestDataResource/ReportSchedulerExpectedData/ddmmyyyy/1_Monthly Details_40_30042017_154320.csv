@@ -1,0 +1,140 @@
+,,DADB,,,,,,,,,,,Page 1 of 1,
+,,Organization-Wise Monthly Details For APRIL-2017,,,,,,,,,,,,
+Run by:,,System Admin,,,,,,Date:  ,,,,,,
+User,,User Name,N,WO,PH,PL,UL,TR,PR,AB,SL,Net-,Auth,Loss
+ID,,,,,,,,,,,,Work,OT,Hours
+DADB,,,,,,,,,,,,,,
+chiag,chirag,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Chirag/Hourly,Chirag,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Club_rule,Club_rule,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+EOgraceexceed,Earlyout grace duration exceeds,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,18:19,00:00,00:00
+FB,OT for FB,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,09:00,00:00,00:00
+firsthalfabsent,First half absent,,24,5,1,1.0,0.0,21.5,1.5,0.0,2,09:30,00:00,00:00
+Firsthalfleave,User with first half leave,,24,5,1,3.5,0.0,19.5,1.0,0.0,0,09:00,00:00,00:00
+Flexible,flexibleuser,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,12:30,00:00,00:00
+FlexibleMonthly,FlexibleMonthly,,4,1,0,0.0,0.0,0.0,4.0,0.0,0,16:00,00:00,00:00
+FlexibleNone,FlexibleNone,,4,1,0,0.0,0.0,0.0,2.0,2.0,0,16:00,00:00,00:00
+FlexibleOT,OT for flexible user,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,16:00,00:00,00:00
+Fulldayleave,User with full day leave,,24,5,1,3.5,0.0,3.5,0.0,17.0,0,00:00,00:00,00:00
+hourlyPaidLeave,hourlyPaidLeave,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Inpunch,User with In pucnh only,,24,5,1,0.5,0.0,0.0,0.0,23.5,0,00:00,00:00,00:00
+Jpcdefaultenter,Job coseting user with default job of enterpr,,24,5,1,1.0,0.0,0.0,0.5,22.5,0,09:30,00:00,00:00
+JPCmergejob,JPC merged Job,,24,5,1,0.5,0.0,0.0,2.0,21.5,0,18:00,00:00,00:00
+l1,leave1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Lategraceexceed,User with exceed grace period,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,18:04,00:00,00:00
+Latein,user punches on latein only,,24,5,1,1.0,0.0,21.0,2.0,0.0,1,18:00,00:00,00:30
+Lateinduraexcee,Late in Duration exceed,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,18:30,00:00,00:00
+Lateingrace,User have pucnges on grace latein,,24,5,1,1.0,0.0,3.0,3.0,17.0,0,27:01,00:00,00:00
+leave_user2,leave_user2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+LeaveEncash,LeaveEncash,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+leavehpl,leavehpl,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Lessworkhours,Less work hours for daily limit,,24,5,1,1.0,0.0,19.0,4.0,0.0,0,35:20,00:00,00:00
+manualOT,User with Manual Overtime,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,24:30,00:00,00:00
+mitali,mitali,,29,1,0,0.0,0.0,3.5,2.5,0.0,1,26:08,00:00,00:20
+mixshift,mixshifts,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+mjr,mjr,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+mjr1,mjr1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+mjr2,mjr2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+NetworkHrs,Networkhours bt no OT Component,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,28:00,00:00,00:00
+new_user,new_user,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+new1,new1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+new2,new2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+NightShift,NightShift,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,18:00,00:00,00:00
+Normal,normal user,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,18:00,00:00,00:00
+npgraceEO,Npunch user with grace in EO and EO duration,,24,5,1,1.0,0.0,14.0,9.0,0.0,8,84:58,00:00,00:10
+NpofficialIn,N punch user for official In,,24,5,1,1.0,0.0,20.0,3.0,0.0,0,23:49,00:00,00:00
+Npoutfromexit,Npunch user with out punch from exit reader,,24,5,1,1.0,0.0,21.0,2.0,0.0,0,17:58,00:00,00:00
+npshortleavein,n punch user for shortleave in,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,15:48,00:00,00:00
+npshortleaveout,n punch user with short leave out,,24,5,1,1.0,0.0,21.5,1.5,0.0,1,15:59,00:00,00:00
+Npucnofficialou,N punch user with official out,,24,5,1,1.0,0.0,21.0,2.0,0.0,0,15:57,00:00,00:00
+Npunchbeyond,Npunch user with deduction type as beyond,,24,5,1,1.0,0.0,20.0,3.0,0.0,0,28:31,00:00,00:00
+NpunchFlexible,Npunch user with type as flexible,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,18:00,00:00,00:00
+Npunchgreater,N punch user with greater than deduction typr,,24,5,1,1.0,0.0,20.0,3.0,0.0,0,27:05,00:00,00:00
+nPunchlatein,npunch user with 30min latein,,24,5,1,1.0,0.0,16.5,4.5,2.0,4,54:28,00:00,00:02
+NpunchNightshif,N punch user with night shift,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,18:47,00:00,00:00
+npunchnoearly,npunch user with no earlyout policy,,24,5,1,1.0,0.0,12.5,10.5,0.0,4,96:56,00:00,00:30
+npunchnolatein,Npunch user with no late in duration,,24,5,1,1.0,0.0,17.0,6.0,0.0,3,56:27,00:00,00:00
+npunchwithearly,npunch user with earlyout policy,,24,5,1,1.0,0.0,14.0,9.0,0.0,3,83:35,00:00,00:20
+NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,24,5,1,1.0,0.0,22.0,0.0,1.0,0,00:00,00:00,00:00
+OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,00:00,00:00,00:00
+OTCOFFBoth,Auto authorize OT COFF,,24,5,1,1.0,0.0,4.5,1.5,17.0,0,31:30,00:00,00:00
+OTonWeekdays,Overtime consider  weekdays for WOPH,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,20:00,00:00,00:00
+RestrictedDail1,Restricted OT cal for Daily1,,25,5,0,2.0,0.0,0.0,2.0,21.0,0,41:00,00:00,00:00
+RI1,Reporting Incharge1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+RI12,Reporting incharge1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+RI2,Reporting Incharge2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Secondhalfleave,user with second half leave,,24,5,1,3.5,0.0,19.5,1.0,0.0,0,09:00,00:00,00:00
+seconhalfabsent,second half absent,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,09:00,00:00,00:00
+SpecialOTearlyi,Special OT with earlyin defined component,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,13:00,00:00,00:00
+SpecialOTwOearl,SpecialOTWithoutearlyIn,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,12:00,00:00,00:00
+test1,test1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Tour_user,Tour_user,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+w10,Worker10,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+W2,W2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+W5,W5,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+ORG2,,,,,,,,,,,,,,
+111,Mayank,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+12,dfddd,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+1234,test user,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+1515,AMIT-BLE,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+21,Shift allwnce,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+2breaklatein,2punch user with break latein,,24,5,1,1.0,0.0,3.0,3.0,17.0,0,25:30,00:00,00:00
+2pGraceinWH,2Punch user includes grace time in work hours,,24,5,1,1.0,0.0,15.0,8.0,0.0,5,80:20,00:00,00:05
+2pgracelatein,2punch user with grace and late in policy,,24,5,1,1.0,0.0,14.0,9.0,0.0,4,88:00,00:31,00:30
+2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,,24,5,1,1.0,0.0,11.0,12.0,0.0,10,112:23,00:00,00:10
+2pofficialin,2punch user with official in,,24,5,1,1.0,0.0,21.0,2.0,0.0,0,15:05,00:00,00:00
+2pOfficialout,2 punch user with official out,,24,5,1,1.0,0.0,21.0,2.0,0.0,0,13:30,00:00,00:00
+2poutfromexit,2Punch user with out punch from exit reader o,,24,5,1,1.0,0.0,20.0,3.0,0.0,0,27:00,00:00,00:00
+2pshortleaveout,2 Punch user for shortleave out,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,15:30,00:00,00:00
+2punchearlyout,2punchuserwith earlyout policy,,24,5,1,1.0,0.0,12.0,11.0,0.0,1,97:16,00:00,00:45
+2punchnoearly,2punch with no earlyout duration,,24,5,1,1.0,0.0,4.0,7.0,12.0,0,65:07,00:00,00:20
+2punchnolatein,2punch user with no late in duration applicab,,24,5,1,1.0,0.0,16.0,7.0,0.0,3,57:50,00:00,00:00
+2punchshortleav,Shortleave in for 2 punch,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,15:20,00:00,00:00
+2punchuser,2punch user with latein,,24,5,1,1.0,0.0,13.0,10.0,0.0,5,94:09,00:00,01:00
+2pwithexitreade,Exit reader enabled but punches from entry,,24,5,1,1.0,0.0,21.5,1.0,0.5,0,09:00,00:00,00:00
+4breaklatein,4 punch user with break latein AND earlyout,,24,5,1,1.0,0.0,13.0,9.5,0.5,3,112:40,00:00,00:21
+4PbreakEO,4 Punch user with break earlyout,,24,5,1,0.5,0.0,0.0,1.5,22.0,0,18:10,00:00,00:00
+4PBreakEOex,4P Break for earlyout exceeds,,24,5,1,0.5,0.0,0.0,1.0,22.5,0,17:00,00:00,00:00
+4PbreakEOgrace,4P user with break earlyout grace,,24,5,1,0.5,0.0,0.0,1.5,22.0,0,18:45,00:00,00:00
+4Pbreakingrace,4 punch user with break hours within grace,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,18:00,00:00,00:00
+4Pbreaklatein,4p user with break latein,,24,5,1,1.0,0.0,4.5,1.5,17.0,0,18:00,00:00,00:00
+4PBreakLIex,4P user exceeds break latein,,24,5,1,0.5,0.0,0.0,1.0,22.5,0,17:55,00:00,00:00
+4pgracebreakear,4 punch user with break early out and grace,,24,5,1,1.0,0.0,0.5,6.0,16.5,0,99:55,00:00,00:00
+4pgracebreaklat,4 punch user with grace for shift and breakla,,24,5,1,0.5,0.0,0.0,5.5,18.0,0,83:23,00:00,00:00
+4ptotallatein,4punch user for adding break latein in total,,24,5,1,1.0,0.0,19.5,3.5,0.0,2,44:30,00:00,00:30
+auto,auto,,16,0,0,0.0,0.0,8.5,5.0,2.5,0,45:30,00:00,00:00
+Autoshift,Auto shift user with shift schedule not proce,,8,0,0,1.0,0.0,1.5,3.5,2.0,0,29:31,00:00,00:00
+Autoshiftproces,Auto shift user whose shift has been processe,,24,5,1,1.0,0.0,18.0,5.0,0.0,0,42:30,00:00,00:00
+Awardandpenalty,award n penalty,,24,5,1,1.0,0.0,0.0,1.0,22.0,0,26:00,00:00,00:00
+BreakEOexceeds,Include Break early out in shift exceeds TD,,24,5,1,1.0,0.0,22.5,0.5,0.0,1,08:45,00:00,00:00
+BreakEOInTotal,Break earlyout in total early out,,24,5,1,1.0,0.0,21.5,1.5,0.0,3,27:30,00:00,00:00
+BreakLIexceeds,Exceeds break and total latein,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,18:36,00:00,00:22
+BreakLIinTotal,Break latein in total latein,,24,5,1,0.5,0.0,0.0,0.5,23.0,0,18:40,00:00,01:00
+CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,21:30,00:00,00:00
+club_rule_1,club_rule_1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+COFF,COFF,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,22:00,00:00,00:00
+D1,Dummy1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+daily1earlyin,Cal onWOPH as per weekday,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,23:30,00:00,00:00
+daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,00:00,00:00,00:00
+daily1weekends,daily1 weekends config in OT,,24,5,1,1.0,0.0,5.0,1.0,17.0,0,35:50,00:00,00:00
+daily1wkdys,daily1 wkdys and weekends not assigned,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,00:00,00:00,00:00
+earlyout,user punches on early out duration of 30mins,,24,5,1,1.0,0.0,21.0,2.0,0.0,1,18:00,00:00,00:30
+Earlyoutgrace,Earlyout user with punches on grace time,,24,5,1,1.0,0.0,4.0,2.0,17.0,0,18:00,00:00,00:00
+Eligiblehours,Eligible work hours,,24,5,1,0.5,0.0,0.0,6.5,17.0,2,66:00,00:00,00:00
+EOdurationexcee,EO duration exceeds,,24,5,1,1.0,0.0,21.0,2.0,0.0,2,18:00,00:00,00:00
+JPC,JPC user,,24,5,1,1.0,0.0,0.0,1.0,22.0,0,09:00,00:00,00:00
+JPCdefaultjob,JPC default job,,24,5,1,1.0,0.0,0.0,0.5,22.5,0,09:30,00:00,00:00
+Jpcdevicebased,JPC user with device based,,24,5,1,1.0,0.0,0.0,0.0,23.0,0,09:30,00:00,00:00
+JPCNEW,JPCNEW,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+JPCsitedefaultj,JPC user with sitewise default job,,24,5,1,1.0,0.0,0.0,0.5,22.5,0,09:30,00:00,00:00
+JPCSplitHO,JPC split timesheet normal shift,,24,5,1,1.0,0.0,0.0,1.0,22.0,0,09:00,00:00,00:00
+JPCSplitNS,JPC split timesheet night shift,,24,5,1,1.0,0.0,22.0,1.0,0.0,1,09:00,00:00,00:00
+mitali1,mitali1,,29,1,0,0.0,0.0,3.0,3.0,0.0,1,23:58,00:00,00:25
+new,new,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+new_user1,new_user1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+OT_COFF,OT_COFF,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+s1,s1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Test2,test2,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+Tour_user1,Tour_user1,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+W3,W3,,0,0,0,0.0,0.0,0.0,0.0,0.0,0,00:00,00:00,00:00
+"Legend: N: Normal, WO: Week-Off, PH: Public Holiday,PR: Present,AB: Absent,TR:Tour,SL:Short Leave,PL:Paid Leave, UL:Unpaid Leave",,,,,,,,,,,,,,

@@ -1,0 +1,22 @@
+,,DADB,,,,Page 1 of 1,
+,,Organization-Wise Late-IN From 2017/04/01 To 2017/04/10,,,,,
+Run by:,System Admin,,,Date:,,,
+Sr No, User ID,Name,Date,Shift,IN	,OUT,Late By
+Organization :,,DADB,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,2017/04/05,WH,09:15,18:30,00:05
+2,2pgracelatein,2punch user with grace and late in policy,2017/04/03,HO,10:00,19:30,00:30
+3,2punchearlyout,2punchuserwith earlyout policy,2017/04/07,GS,09:25,18:25,00:15
+4,2punchnoearly,2punch with no earlyout duration,2017/04/08,GS,09:30,18:29,00:20
+5,2punchuser,2punch user with latein,2017/04/03,GS,09:30,19:00,00:30
+6,4ptotallatein,4punch user for adding break latein in total,2017/04/03,LI,09:15,18:45,00:15
+7,4ptotallatein,4punch user for adding break latein in total,2017/04/05,LI,09:15,18:45,00:15
+8,BreakLIexceeds,Exceeds break and total latein,2017/04/01,BT,09:32,19:20,00:02
+9,BreakLIexceeds,Exceeds break and total latein,2017/04/03,BT,09:20,19:30,00:20
+10,BreakLIinTotal,Break latein in total latein,2017/04/01,BT,09:10,19:20,00:30
+11,BreakLIinTotal,Break latein in total latein,2017/04/03,BT,09:20,19:20,00:30
+12,Latein,user punches on latein only,2017/04/01,LI,09:30,19:00,00:30
+13,nPunchlatein,npunch user with 30min latein,2017/04/01,GS,09:12,18:48,00:02
+14,npunchnoearly,npunch user with no earlyout policy,2017/04/07,GS,09:30,18:30,00:30
+15,npunchwithearly,npunch user with earlyout policy,2017/04/03,GS,09:20,18:28,00:10
+Late By Group Total:,,,,,,,04:44
+Late By Grand Total:,,,,,,,04:44

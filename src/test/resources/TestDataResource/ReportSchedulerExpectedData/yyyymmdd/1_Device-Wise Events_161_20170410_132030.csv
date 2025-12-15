@@ -1,0 +1,1856 @@
+,,DADB,,,Page 1 of 1
+,,Device-Wise Events From 2017/04/01 To 2017/04/10,,,
+Run by:,System Admin,,,Date:,
+Sr No, Event Date-Time,Event Type,Event Name,User ID,Name
+Device : ARGO-Device-25,,,,,Site-1
+1,2017/04/05-11:28:12,System,Configuration Change,,
+2,2017/04/05-11:41:10,System,Credentials Deleted,,
+Device : Door V3-Device-2,,,,,Site-1
+1,2017/04/04-01:13:24,System,Power ON,,
+2,2017/04/04-01:13:24,System,Default System,,
+3,2017/04/04-01:14:46,System,Credentials Deleted,,
+4,2017/04/04-01:15:25,System,Credentials Deleted,,
+5,2017/04/04-01:15:29,System,Credentials Deleted,,
+6,2017/04/04-01:15:32,System,Credentials Deleted,,
+7,2017/04/04-01:15:35,System,Credentials Deleted,,
+8,2017/04/04-01:15:38,System,Credentials Deleted,,
+9,2017/04/04-01:15:41,System,Credentials Deleted,,
+10,2017/04/09-14:09:28,System,Power ON,,
+Device : NGT Direct Door-Device-1,,,,,Site-1
+1,2017/04/01-06:00:11,System,Configuration Change,,
+2,2017/04/01-06:00:14,User,Allowed,Eligiblehours,Eligible work hours
+3,2017/04/01-06:00:30,System,Configuration Change,,
+4,2017/04/01-07:00:56,System,Configuration Change,,
+5,2017/04/01-07:00:59,User,Allowed,daily1weekends,daily1 weekends config in OT
+6,2017/04/01-08:00:57,System,Configuration Change,,
+7,2017/04/01-08:00:58,System,Configuration Change,,
+8,2017/04/01-08:01:01,User,Allowed,RestrictedDail1,Restricted OT cal for Daily1
+9,2017/04/01-08:01:02,User,Allowed,manualOT,User with Manual Overtime
+10,2017/04/01-08:20:18,System,Configuration Change,,
+11,2017/04/01-08:25:18,System,Configuration Change,,
+12,2017/04/01-08:25:21,User,Allowed,EOdurationexcee,EO duration exceeds
+13,2017/04/01-08:30:14,System,Configuration Change,,
+14,2017/04/01-08:30:17,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+15,2017/04/01-08:30:18,System,Configuration Change,,
+16,2017/04/01-08:30:21,User,Allowed,earlyout,user punches on early out duration of 30mins
+17,2017/04/01-08:35:18,System,Configuration Change,,
+18,2017/04/01-08:35:21,User,Allowed,BreakEOexceeds,Include Break early out in shift exceeds TD
+19,2017/04/01-08:40:30,System,Configuration Change,,
+20,2017/04/01-08:40:33,User,Allowed,Lessworkhours,Less work hours for daily limit
+21,2017/04/01-08:45:18,System,Configuration Change,,
+22,2017/04/01-08:45:21,User,Allowed,EOgraceexceed,Earlyout grace duration exceeds
+23,2017/04/01-08:50:18,System,Configuration Change,,
+24,2017/04/01-08:50:22,User,Allowed,Earlyoutgrace,Earlyout user with punches on grace time
+25,2017/04/01-08:50:46,System,Configuration Change,,
+26,2017/04/01-08:50:50,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+27,2017/04/01-09:00:00,System,Configuration Change,,
+28,2017/04/01-09:00:01,System,Configuration Change,,
+29,2017/04/01-09:00:01,System,Configuration Change,,
+30,2017/04/01-09:00:01,System,Configuration Change,,
+31,2017/04/01-09:00:01,System,Configuration Change,,
+32,2017/04/01-09:00:02,User,Denied - Invalid Input,,
+33,2017/04/01-09:00:02,System,Denied - InvalidCard,,
+34,2017/04/01-09:00:02,User,Allowed,2pwithexitreade,Exit reader enabled but punches from entry
+35,2017/04/01-09:00:02,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+36,2017/04/01-09:00:03,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+37,2017/04/01-09:00:05,User,Allowed,Flexible,flexibleuser
+38,2017/04/01-09:00:06,System,Configuration Change,,
+39,2017/04/01-09:00:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+40,2017/04/01-09:00:14,System,Configuration Change,,
+41,2017/04/01-09:00:14,System,Configuration Change,,
+42,2017/04/01-09:00:14,System,Configuration Change,,
+43,2017/04/01-09:00:16,User,Allowed,4Pbreaklatein,4p user with break latein
+44,2017/04/01-09:00:17,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+45,2017/04/01-09:00:18,System,Configuration Change,,
+46,2017/04/01-09:00:18,System,Configuration Change,,
+47,2017/04/01-09:00:18,System,Configuration Change,,
+48,2017/04/01-09:00:18,System,Configuration Change,,
+49,2017/04/01-09:00:20,System,Configuration Change,,
+50,2017/04/01-09:00:20,System,Configuration Change,,
+51,2017/04/01-09:00:20,User,Allowed,Inpunch,User with In pucnh only
+52,2017/04/01-09:00:20,User,Allowed,seconhalfabsent,second half absent
+53,2017/04/01-09:00:21,System,Configuration Change,,
+54,2017/04/01-09:00:21,System,Configuration Change,,
+55,2017/04/01-09:00:21,System,Configuration Change,,
+56,2017/04/01-09:00:21,System,Configuration Change,,
+57,2017/04/01-09:00:21,System,Configuration Change,,
+58,2017/04/01-09:00:21,System,Configuration Change,,
+59,2017/04/01-09:00:21,User,Allowed,Normal,normal user
+60,2017/04/01-09:00:21,System,Enrollment,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+61,2017/04/01-09:00:23,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+62,2017/04/01-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+63,2017/04/01-09:00:23,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+64,2017/04/01-09:00:24,User,Allowed,2breaklatein,2punch user with break latein
+65,2017/04/01-09:00:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+66,2017/04/01-09:00:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+67,2017/04/01-09:00:26,User,Allowed,2punchnoearly,2punch with no earlyout duration
+68,2017/04/01-09:00:29,User,Allowed,npunchwithearly,npunch user with earlyout policy
+69,2017/04/01-09:00:30,System,Configuration Change,,
+70,2017/04/01-09:00:31,System,Configuration Change,,
+71,2017/04/01-09:00:31,System,Configuration Change,,
+72,2017/04/01-09:00:32,System,Configuration Change,,
+73,2017/04/01-09:00:33,User,Allowed,Lessworkhours,Less work hours for daily limit
+74,2017/04/01-09:00:34,System,Configuration Change,,
+75,2017/04/01-09:00:34,System,Configuration Change,,
+76,2017/04/01-09:00:34,System,Configuration Change,,
+77,2017/04/01-09:00:34,System,Configuration Change,,
+78,2017/04/01-09:00:34,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+79,2017/04/01-09:00:34,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+80,2017/04/01-09:00:35,System,Configuration Change,,
+81,2017/04/01-09:00:35,User,Allowed,COFF,COFF
+82,2017/04/01-09:00:36,System,Configuration Change,,
+83,2017/04/01-09:00:36,System,Configuration Change,,
+84,2017/04/01-09:00:36,System,Configuration Change,,
+85,2017/04/01-09:00:36,System,Configuration Change,,
+86,2017/04/01-09:00:36,System,Configuration Change,,
+87,2017/04/01-09:00:36,System,Configuration Change,,
+88,2017/04/01-09:00:36,System,Configuration Change,,
+89,2017/04/01-09:00:36,System,Configuration Change,,
+90,2017/04/01-09:00:36,System,Configuration Change,,
+91,2017/04/01-09:00:36,System,Configuration Change,,
+92,2017/04/01-09:00:37,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+93,2017/04/01-09:00:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+94,2017/04/01-09:00:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+95,2017/04/01-09:00:37,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+96,2017/04/01-09:00:38,System,Configuration Change,,
+97,2017/04/01-09:00:38,User,Allowed,2pOfficialout,2 punch user with official out
+98,2017/04/01-09:00:38,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+99,2017/04/01-09:00:38,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+100,2017/04/01-09:00:38,User,Allowed,npshortleavein,n punch user for shortleave in
+101,2017/04/01-09:00:39,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+102,2017/04/01-09:00:39,User,Allowed,npshortleaveout,n punch user with short leave out
+103,2017/04/01-09:00:39,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+104,2017/04/01-09:00:40,User,Allowed,Npucnofficialou,N punch user with official out
+105,2017/04/01-09:00:40,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+106,2017/04/01-09:00:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+107,2017/04/01-09:00:41,User,Allowed,JPCmergejob,JPC merged Job
+108,2017/04/01-09:00:44,System,Configuration Change,,
+109,2017/04/01-09:00:44,System,Configuration Change,,
+110,2017/04/01-09:00:46,System,Configuration Change,,
+111,2017/04/01-09:00:47,System,Configuration Change,,
+112,2017/04/01-09:00:48,User,Allowed,Secondhalfleave,user with second half leave
+113,2017/04/01-09:00:52,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+114,2017/04/01-09:00:56,System,Configuration Change,,
+115,2017/04/01-09:00:57,System,Configuration Change,,
+116,2017/04/01-09:00:59,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+117,2017/04/01-09:00:59,User,Allowed,daily1weekends,daily1 weekends config in OT
+118,2017/04/01-09:01:06,User,Allowed,FB,OT for FB
+119,2017/04/01-09:10:04,System,Configuration Change,,
+120,2017/04/01-09:10:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+121,2017/04/01-09:10:34,System,Configuration Change,,
+122,2017/04/01-09:10:37,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+123,2017/04/01-09:10:46,System,Configuration Change,,
+124,2017/04/01-09:10:50,User,Allowed,BreakLIinTotal,Break latein in total latein
+125,2017/04/01-09:12:23,System,Configuration Change,,
+126,2017/04/01-09:12:27,User,Allowed,nPunchlatein,npunch user with 30min latein
+127,2017/04/01-09:30:04,System,Configuration Change,,
+128,2017/04/01-09:30:08,User,Allowed,npunchnolatein,Npunch user with no late in duration
+129,2017/04/01-09:30:18,System,Configuration Change,,
+130,2017/04/01-09:30:18,System,Configuration Change,,
+131,2017/04/01-09:30:19,User,Allowed,Lateingrace,User have pucnges on grace latein
+132,2017/04/01-09:30:20,User,Allowed,Latein,user punches on latein only
+133,2017/04/01-09:30:21,System,Configuration Change,,
+134,2017/04/01-09:30:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+135,2017/04/01-09:31:18,System,Configuration Change,,
+136,2017/04/01-09:31:20,User,Allowed,Lategraceexceed,User with exceed grace period
+137,2017/04/01-09:32:46,System,Configuration Change,,
+138,2017/04/01-09:32:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+139,2017/04/01-10:00:18,System,Configuration Change,,
+140,2017/04/01-10:00:22,User,Allowed,Lateinduraexcee,Late in Duration exceed
+141,2017/04/01-10:00:23,System,Configuration Change,,
+142,2017/04/01-10:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+143,2017/04/01-10:00:48,System,Configuration Change,,
+144,2017/04/01-10:01:02,User,Allowed,2punchuser,2punch user with latein
+145,2017/04/01-10:30:36,System,Configuration Change,,
+146,2017/04/01-10:30:36,System,Configuration Change,,
+147,2017/04/01-10:30:36,System,Configuration Change,,
+148,2017/04/01-10:30:38,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+149,2017/04/01-10:30:42,User,Allowed,npshortleaveout,n punch user with short leave out
+150,2017/04/01-10:30:44,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+151,2017/04/01-10:45:36,System,Configuration Change,,
+152,2017/04/01-10:45:47,User,Allowed,2pofficialin,2punch user with official in
+153,2017/04/01-11:00:21,System,Configuration Change,,
+154,2017/04/01-11:00:23,System,Configuration Change,,
+155,2017/04/01-11:00:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+156,2017/04/01-11:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+157,2017/04/01-11:00:36,System,Configuration Change,,
+158,2017/04/01-11:00:36,System,Configuration Change,,
+159,2017/04/01-11:00:36,System,Configuration Change,,
+160,2017/04/01-11:00:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+161,2017/04/01-11:00:39,User,Allowed,npshortleavein,n punch user for shortleave in
+162,2017/04/01-11:00:43,User,Allowed,NpofficialIn,N punch user for official In
+163,2017/04/01-11:10:21,System,Configuration Change,,
+164,2017/04/01-11:10:25,User,Allowed,npunchwithearly,npunch user with earlyout policy
+165,2017/04/01-11:15:46,System,Configuration Change,,
+166,2017/04/01-11:15:50,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+167,2017/04/01-11:20:36,System,Configuration Change,,
+168,2017/04/01-11:20:39,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+169,2017/04/01-12:00:36,System,Configuration Change,,
+170,2017/04/01-12:00:36,System,Configuration Change,,
+171,2017/04/01-12:00:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+172,2017/04/01-12:00:40,User,Allowed,npshortleaveout,n punch user with short leave out
+173,2017/04/01-12:20:36,System,Configuration Change,,
+174,2017/04/01-12:20:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+175,2017/04/01-12:30:31,System,Configuration Change,,
+176,2017/04/01-12:30:34,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+177,2017/04/01-12:30:36,System,Configuration Change,,
+178,2017/04/01-12:30:39,User,Allowed,npshortleavein,n punch user for shortleave in
+179,2017/04/01-12:40:46,System,Configuration Change,,
+180,2017/04/01-12:40:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+181,2017/04/01-12:50:18,System,Configuration Change,,
+182,2017/04/01-12:50:22,User,Denied - Time Out,,
+183,2017/04/01-12:50:29,User,Allowed,BreakEOexceeds,Include Break early out in shift exceeds TD
+184,2017/04/01-12:50:31,System,Configuration Change,,
+185,2017/04/01-12:50:33,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+186,2017/04/01-12:50:34,System,Configuration Change,,
+187,2017/04/01-12:50:38,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+188,2017/04/01-13:00:01,System,Configuration Change,,
+189,2017/04/01-13:00:04,User,Allowed,Flexible,flexibleuser
+190,2017/04/01-13:00:06,System,Configuration Change,,
+191,2017/04/01-13:00:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+192,2017/04/01-13:00:14,System,Configuration Change,,
+193,2017/04/01-13:00:14,System,Configuration Change,,
+194,2017/04/01-13:00:14,System,Configuration Change,,
+195,2017/04/01-13:00:16,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+196,2017/04/01-13:00:17,User,Allowed,4Pbreaklatein,4p user with break latein
+197,2017/04/01-13:00:20,System,Configuration Change,,
+198,2017/04/01-13:00:21,System,Configuration Change,,
+199,2017/04/01-13:00:21,System,Configuration Change,,
+200,2017/04/01-13:00:21,System,Configuration Change,,
+201,2017/04/01-13:00:21,System,Configuration Change,,
+202,2017/04/01-13:00:23,System,Configuration Change,,
+203,2017/04/01-13:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+204,2017/04/01-13:00:23,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+205,2017/04/01-13:00:24,User,Allowed,2breaklatein,2punch user with break latein
+206,2017/04/01-13:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+207,2017/04/01-13:00:24,User,Allowed,nPunchlatein,npunch user with 30min latein
+208,2017/04/01-13:00:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+209,2017/04/01-13:00:36,System,Configuration Change,,
+210,2017/04/01-13:00:36,System,Configuration Change,,
+211,2017/04/01-13:00:37,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+212,2017/04/01-13:00:38,System,Configuration Change,,
+213,2017/04/01-13:00:40,User,Allowed,4PBreakLIex,4P user exceeds break latein
+214,2017/04/01-13:00:41,User,Allowed,NpofficialIn,N punch user for official In
+215,2017/04/01-13:00:46,System,Configuration Change,,
+216,2017/04/01-13:00:46,System,Configuration Change,,
+217,2017/04/01-13:00:47,System,Configuration Change,,
+218,2017/04/01-13:00:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+219,2017/04/01-13:00:50,User,Allowed,BreakLIinTotal,Break latein in total latein
+220,2017/04/01-13:00:57,System,Configuration Change,,
+221,2017/04/01-13:01:01,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+222,2017/04/01-13:10:46,System,Configuration Change,,
+223,2017/04/01-13:10:48,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+224,2017/04/01-13:15:46,System,Configuration Change,,
+225,2017/04/01-13:15:49,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+226,2017/04/01-13:25:34,System,Configuration Change,,
+227,2017/04/01-13:25:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+228,2017/04/01-13:30:06,System,Configuration Change,,
+229,2017/04/01-13:30:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+230,2017/04/01-13:30:18,System,Configuration Change,,
+231,2017/04/01-13:30:18,System,Configuration Change,,
+232,2017/04/01-13:30:20,User,Allowed,firsthalfabsent,First half absent
+233,2017/04/01-13:30:22,User,Allowed,BreakEOexceeds,Include Break early out in shift exceeds TD
+234,2017/04/01-13:30:31,System,Configuration Change,,
+235,2017/04/01-13:30:31,System,Configuration Change,,
+236,2017/04/01-13:30:34,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+237,2017/04/01-13:30:34,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+238,2017/04/01-13:32:46,System,Configuration Change,,
+239,2017/04/01-13:32:48,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+240,2017/04/01-13:40:14,System,Configuration Change,,
+241,2017/04/01-13:40:16,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+242,2017/04/01-13:50:14,System,Configuration Change,,
+243,2017/04/01-13:50:14,System,Configuration Change,,
+244,2017/04/01-13:50:17,User,Allowed,4Pbreaklatein,4p user with break latein
+245,2017/04/01-13:50:46,System,Configuration Change,,
+246,2017/04/01-13:50:50,User,Allowed,BreakLIinTotal,Break latein in total latein
+247,2017/04/01-14:00:18,System,Configuration Change,,
+248,2017/04/01-14:00:18,System,Configuration Change,,
+249,2017/04/01-14:00:20,System,Configuration Change,,
+250,2017/04/01-14:00:21,System,Configuration Change,,
+251,2017/04/01-14:00:23,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+252,2017/04/01-14:00:23,User,Allowed,seconhalfabsent,second half absent
+253,2017/04/01-14:00:25,User,Allowed,Firsthalfleave,User with first half leave
+254,2017/04/01-14:00:29,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+255,2017/04/01-14:00:30,System,Configuration Change,,
+256,2017/04/01-14:00:36,System,Configuration Change,,
+257,2017/04/01-14:00:36,System,Configuration Change,,
+258,2017/04/01-14:00:36,System,Configuration Change,,
+259,2017/04/01-14:00:36,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+260,2017/04/01-14:00:36,User,Allowed,SpecialOTearlyi,Special OT with earlyin defined component
+261,2017/04/01-14:00:39,User,Allowed,NpofficialIn,N punch user for official In
+262,2017/04/01-14:00:43,User,Allowed,Npucnofficialou,N punch user with official out
+263,2017/04/01-14:00:44,System,Configuration Change,,
+264,2017/04/01-14:00:47,User,Allowed,Secondhalfleave,user with second half leave
+265,2017/04/01-14:10:21,System,Configuration Change,,
+266,2017/04/01-14:10:21,System,Configuration Change,,
+267,2017/04/01-14:10:21,System,Configuration Change,,
+268,2017/04/01-14:10:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+269,2017/04/01-14:10:24,User,Allowed,2breaklatein,2punch user with break latein
+270,2017/04/01-14:10:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+271,2017/04/01-14:10:57,System,Configuration Change,,
+272,2017/04/01-14:10:59,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+273,2017/04/01-14:15:38,System,Configuration Change,,
+274,2017/04/01-14:15:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+275,2017/04/01-14:20:47,System,Configuration Change,,
+276,2017/04/01-15:00:01,System,Configuration Change,,
+277,2017/04/01-15:00:02,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+278,2017/04/01-15:00:23,System,Configuration Change,,
+279,2017/04/01-15:00:24,System,Configuration Change,,
+280,2017/04/01-15:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+281,2017/04/01-15:00:30,User,Allowed,SpecialOTwOearl,SpecialOTWithoutearlyIn
+282,2017/04/01-15:00:34,System,Configuration Change,,
+283,2017/04/01-15:00:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+284,2017/04/01-15:00:55,System,Configuration Change,,
+285,2017/04/01-15:01:00,User,Allowed,SpecialOvertime,Special Overtime
+286,2017/04/01-15:30:34,System,Configuration Change,,
+287,2017/04/01-15:30:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+288,2017/04/01-16:00:01,System,Configuration Change,,
+289,2017/04/01-16:00:02,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+290,2017/04/01-16:00:36,System,Configuration Change,,
+291,2017/04/01-16:00:39,User,Allowed,Npucnofficialou,N punch user with official out
+292,2017/04/01-16:10:21,System,Configuration Change,,
+293,2017/04/01-16:10:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+294,2017/04/01-16:20:21,System,Configuration Change,,
+295,2017/04/01-16:20:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+296,2017/04/01-16:30:36,System,Configuration Change,,
+297,2017/04/01-16:30:41,User,Allowed,2pOfficialout,2 punch user with official out
+298,2017/04/01-17:00:23,System,Configuration Change,,
+299,2017/04/01-17:00:24,System,Configuration Change,,
+300,2017/04/01-17:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+301,2017/04/01-17:00:28,User,Allowed,SpecialOTwOearl,SpecialOTWithoutearlyIn
+302,2017/04/01-17:00:30,System,Configuration Change,,
+303,2017/04/01-17:00:33,User,Allowed,SpecialOTearlyi,Special OT with earlyin defined component
+304,2017/04/01-17:00:36,System,Configuration Change,,
+305,2017/04/01-17:00:36,System,Configuration Change,,
+306,2017/04/01-17:00:38,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+307,2017/04/01-17:00:51,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+308,2017/04/01-17:00:55,System,Configuration Change,,
+309,2017/04/01-17:01:04,User,Allowed,SpecialOvertime,Special Overtime
+310,2017/04/01-17:30:06,System,Configuration Change,,
+311,2017/04/01-17:30:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+312,2017/04/01-17:55:18,System,Configuration Change,,
+313,2017/04/01-17:55:21,User,Allowed,EOdurationexcee,EO duration exceeds
+314,2017/04/01-18:00:00,System,Configuration Change,,
+315,2017/04/01-18:00:02,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+316,2017/04/01-18:00:06,System,Configuration Change,,
+317,2017/04/01-18:00:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+318,2017/04/01-18:00:18,System,Configuration Change,,
+319,2017/04/01-18:00:18,System,Configuration Change,,
+320,2017/04/01-18:00:20,User,Allowed,earlyout,user punches on early out duration of 30mins
+321,2017/04/01-18:00:21,System,Configuration Change,,
+322,2017/04/01-18:00:22,User,Allowed,BreakEOexceeds,Include Break early out in shift exceeds TD
+323,2017/04/01-18:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+324,2017/04/01-18:00:24,System,Configuration Change,,
+325,2017/04/01-18:00:24,System,Configuration Change,,
+326,2017/04/01-18:00:27,User,Allowed,SpecialOTwOearl,SpecialOTWithoutearlyIn
+327,2017/04/01-18:00:30,System,Configuration Change,,
+328,2017/04/01-18:00:35,User,Allowed,SpecialOTearlyi,Special OT with earlyin defined component
+329,2017/04/01-18:00:55,System,Configuration Change,,
+330,2017/04/01-18:00:58,User,Allowed,SpecialOvertime,Special Overtime
+331,2017/04/01-18:10:04,System,Configuration Change,,
+332,2017/04/01-18:10:10,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+333,2017/04/01-18:10:30,System,Configuration Change,,
+334,2017/04/01-18:10:33,User,Allowed,Lessworkhours,Less work hours for daily limit
+335,2017/04/01-18:10:34,System,Configuration Change,,
+336,2017/04/01-18:10:39,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+337,2017/04/01-18:19:18,System,Configuration Change,,
+338,2017/04/01-18:19:21,User,Allowed,EOgraceexceed,Earlyout grace duration exceeds
+339,2017/04/01-18:20:04,System,Configuration Change,,
+340,2017/04/01-18:20:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+341,2017/04/01-18:20:18,System,Configuration Change,,
+342,2017/04/01-18:20:20,User,Allowed,Earlyoutgrace,Earlyout user with punches on grace time
+343,2017/04/01-18:20:21,System,Configuration Change,,
+344,2017/04/01-18:20:21,System,Configuration Change,,
+345,2017/04/01-18:20:24,User,Allowed,2punchnoearly,2punch with no earlyout duration
+346,2017/04/01-18:20:27,User,Allowed,npunchwithearly,npunch user with earlyout policy
+347,2017/04/01-18:20:34,System,Configuration Change,,
+348,2017/04/01-18:20:34,System,Configuration Change,,
+349,2017/04/01-18:20:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+350,2017/04/01-18:20:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+351,2017/04/01-18:20:46,System,Configuration Change,,
+352,2017/04/01-18:20:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+353,2017/04/01-18:30:01,System,Configuration Change,,
+354,2017/04/01-18:30:02,User,Allowed,2pwithexitreade,Exit reader enabled but punches from entry
+355,2017/04/01-18:30:04,System,Configuration Change,,
+356,2017/04/01-18:30:08,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+357,2017/04/01-18:30:18,System,Configuration Change,,
+358,2017/04/01-18:30:18,System,Configuration Change,,
+359,2017/04/01-18:30:18,System,Configuration Change,,
+360,2017/04/01-18:30:18,System,Configuration Change,,
+361,2017/04/01-18:30:20,System,Configuration Change,,
+362,2017/04/01-18:30:20,User,Allowed,firsthalfabsent,First half absent
+363,2017/04/01-18:30:21,System,Configuration Change,,
+364,2017/04/01-18:30:21,System,Configuration Change,,
+365,2017/04/01-18:30:21,System,Configuration Change,,
+366,2017/04/01-18:30:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+367,2017/04/01-18:30:21,User,Allowed,Firsthalfleave,User with first half leave
+368,2017/04/01-18:30:21,User,Allowed,Normal,normal user
+369,2017/04/01-18:30:23,System,Configuration Change,,
+370,2017/04/01-18:30:23,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+371,2017/04/01-18:30:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+372,2017/04/01-18:30:23,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+373,2017/04/01-18:30:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+374,2017/04/01-18:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+375,2017/04/01-18:30:30,User,Allowed,2breaklatein,2punch user with break latein
+376,2017/04/01-18:30:34,System,Configuration Change,,
+377,2017/04/01-18:30:34,System,Configuration Change,,
+378,2017/04/01-18:30:36,System,Configuration Change,,
+379,2017/04/01-18:30:36,System,Configuration Change,,
+380,2017/04/01-18:30:36,System,Configuration Change,,
+381,2017/04/01-18:30:36,System,Configuration Change,,
+382,2017/04/01-18:30:36,System,Configuration Change,,
+383,2017/04/01-18:30:36,System,Configuration Change,,
+384,2017/04/01-18:30:36,System,Configuration Change,,
+385,2017/04/01-18:30:36,System,Configuration Change,,
+386,2017/04/01-18:30:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+387,2017/04/01-18:30:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+388,2017/04/01-18:30:38,User,Allowed,npshortleavein,n punch user for shortleave in
+389,2017/04/01-18:30:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+390,2017/04/01-18:30:39,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+391,2017/04/01-18:30:39,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+392,2017/04/01-18:30:39,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+393,2017/04/01-18:30:39,User,Allowed,npshortleaveout,n punch user with short leave out
+394,2017/04/01-18:30:40,User,Allowed,NpofficialIn,N punch user for official In
+395,2017/04/01-18:30:41,User,Allowed,2pofficialin,2punch user with official in
+396,2017/04/01-18:30:46,System,Configuration Change,,
+397,2017/04/01-18:30:49,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+398,2017/04/01-18:31:47,System,Configuration Change,,
+399,2017/04/01-18:34:36,System,Configuration Change,,
+400,2017/04/01-18:34:39,User,Allowed,NpofficialIn,N punch user for official In
+401,2017/04/01-18:38:23,System,Configuration Change,,
+402,2017/04/01-18:38:24,User,Allowed,nPunchlatein,npunch user with 30min latein
+403,2017/04/01-18:40:14,System,Configuration Change,,
+404,2017/04/01-18:40:16,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+405,2017/04/01-18:40:36,System,Configuration Change,,
+406,2017/04/01-18:40:40,User,Allowed,NpofficialIn,N punch user for official In
+407,2017/04/01-18:40:57,System,Configuration Change,,
+408,2017/04/01-18:41:00,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+409,2017/04/01-18:48:23,System,Configuration Change,,
+410,2017/04/01-18:48:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+411,2017/04/01-18:50:14,System,Configuration Change,,
+412,2017/04/01-18:50:14,System,Configuration Change,,
+413,2017/04/01-18:50:17,User,Allowed,4Pbreaklatein,4p user with break latein
+414,2017/04/01-18:50:36,System,Configuration Change,,
+415,2017/04/01-18:50:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+416,2017/04/01-18:56:38,System,Login to ACS,,
+417,2017/04/01-19:00:01,System,Configuration Change,,
+418,2017/04/01-19:00:02,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+419,2017/04/01-19:00:04,System,Configuration Change,,
+420,2017/04/01-19:00:06,System,Configuration Change,,
+421,2017/04/01-19:00:06,User,Allowed,npunchnolatein,Npunch user with no late in duration
+422,2017/04/01-19:00:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+423,2017/04/01-19:00:18,System,Configuration Change,,
+424,2017/04/01-19:00:18,System,Configuration Change,,
+425,2017/04/01-19:00:21,System,Configuration Change,,
+426,2017/04/01-19:00:21,User,Allowed,Lateingrace,User have pucnges on grace latein
+427,2017/04/01-19:00:22,User,Allowed,Latein,user punches on latein only
+428,2017/04/01-19:00:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+429,2017/04/01-19:00:31,System,Configuration Change,,
+430,2017/04/01-19:00:31,System,Configuration Change,,
+431,2017/04/01-19:00:32,System,Configuration Change,,
+432,2017/04/01-19:00:35,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+433,2017/04/01-19:00:36,System,Configuration Change,,
+434,2017/04/01-19:00:36,System,Configuration Change,,
+435,2017/04/01-19:00:36,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+436,2017/04/01-19:00:38,User,Allowed,COFF,COFF
+437,2017/04/01-19:00:39,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+438,2017/04/01-19:00:45,User,Allowed,Npucnofficialou,N punch user with official out
+439,2017/04/01-19:00:48,System,Configuration Change,,
+440,2017/04/01-19:00:51,User,Allowed,2punchuser,2punch user with latein
+441,2017/04/01-19:00:56,System,Configuration Change,,
+442,2017/04/01-19:00:58,User,Allowed,daily1weekends,daily1 weekends config in OT
+443,2017/04/01-19:05:18,System,Configuration Change,,
+444,2017/04/01-19:05:20,User,Allowed,Lategraceexceed,User with exceed grace period
+445,2017/04/01-19:05:48,System,Configuration Change,,
+446,2017/04/01-19:05:51,User,Allowed,2punchuser,2punch user with latein
+447,2017/04/01-19:10:38,System,Configuration Change,,
+448,2017/04/01-19:10:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+449,2017/04/01-19:20:46,System,Configuration Change,,
+450,2017/04/01-19:20:46,System,Configuration Change,,
+451,2017/04/01-19:20:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+452,2017/04/01-19:20:49,User,Allowed,BreakLIinTotal,Break latein in total latein
+453,2017/04/01-19:30:14,System,Configuration Change,,
+454,2017/04/01-19:30:17,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+455,2017/04/01-19:30:18,System,Configuration Change,,
+456,2017/04/01-19:30:20,User,Allowed,Lateinduraexcee,Late in Duration exceed
+457,2017/04/01-19:30:56,System,Configuration Change,,
+458,2017/04/01-19:30:59,User,Allowed,FB,OT for FB
+459,2017/04/01-19:41:16,System,Login to ACS,,
+460,2017/04/01-20:00:06,System,Configuration Change,,
+461,2017/04/01-20:00:06,System,Configuration Change,,
+462,2017/04/01-20:00:10,User,Denied - Time Out,,
+463,2017/04/01-20:00:11,User,Allowed,NpunchNightshif,N punch user with night shift
+464,2017/04/01-20:00:14,System,Configuration Change,,
+465,2017/04/01-20:00:14,System,Configuration Change,,
+466,2017/04/01-20:00:18,User,Allowed,NightShift,NightShift
+467,2017/04/01-20:00:31,User,Denied - Time Out,,
+468,2017/04/01-20:00:34,System,Configuration Change,,
+469,2017/04/01-20:00:36,System,Configuration Change,,
+470,2017/04/01-20:00:37,User,Allowed,RestrictedDail1,Restricted OT cal for Daily1
+471,2017/04/01-20:00:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+472,2017/04/01-20:00:57,System,Configuration Change,,
+473,2017/04/01-20:01:01,User,Allowed,manualOT,User with Manual Overtime
+474,2017/04/01-20:54:32,System,Credentials Deleted,,
+475,2017/04/01-20:56:04,System,Login to ACS,,
+476,2017/04/01-21:00:11,System,Configuration Change,,
+477,2017/04/01-21:00:14,User,Allowed,Eligiblehours,Eligible work hours
+478,2017/04/01-22:00:06,System,Configuration Change,,
+479,2017/04/01-22:00:10,User,Allowed,NpunchNightshif,N punch user with night shift
+480,2017/04/01-22:30:06,System,Configuration Change,,
+481,2017/04/01-22:30:09,User,Allowed,NpunchNightshif,N punch user with night shift
+482,2017/04/02-05:00:14,System,Configuration Change,,
+483,2017/04/02-05:00:17,User,Allowed,NightShift,NightShift
+484,2017/04/02-05:30:06,System,Configuration Change,,
+485,2017/04/02-05:30:09,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+486,2017/04/02-05:30:16,User,Allowed,NpunchNightshif,N punch user with night shift
+487,2017/04/02-05:40:06,System,Configuration Change,,
+488,2017/04/02-05:40:10,User,Allowed,NpunchNightshif,N punch user with night shift
+489,2017/04/02-06:00:14,System,Configuration Change,,
+490,2017/04/02-06:00:20,User,Allowed,NightShift,NightShift
+491,2017/04/02-06:00:24,System,Configuration Change,,
+492,2017/04/02-06:00:26,User,Allowed,SpecialOTwOearl,SpecialOTWithoutearlyIn
+493,2017/04/02-06:00:30,System,Configuration Change,,
+494,2017/04/02-06:00:32,User,Allowed,SpecialOTearlyi,Special OT with earlyin defined component
+495,2017/04/02-06:00:36,System,Configuration Change,,
+496,2017/04/02-06:00:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+497,2017/04/02-06:00:55,System,Configuration Change,,
+498,2017/04/02-06:00:57,User,Allowed,SpecialOvertime,Special Overtime
+499,2017/04/02-06:08:33,System,Credentials Deleted,,
+500,2017/04/02-06:30:06,System,Configuration Change,,
+501,2017/04/02-06:30:10,System,Configuration Change,,
+502,2017/04/02-06:30:14,User,Allowed,daily1earlyin,Cal onWOPH as per weekday
+503,2017/04/02-06:30:29,User,Allowed,NpunchNightshif,N punch user with night shift
+504,2017/04/02-06:38:59,System,Credentials Deleted,,
+505,2017/04/02-06:54:27,System,Login to ACS,,
+506,2017/04/02-07:00:06,System,Configuration Change,,
+507,2017/04/02-07:00:10,User,Allowed,FlexibleOT,OT for flexible user
+508,2017/04/02-07:00:56,System,Configuration Change,,
+509,2017/04/02-07:00:58,User,Allowed,daily1weekends,daily1 weekends config in OT
+510,2017/04/02-07:30:10,System,Configuration Change,,
+511,2017/04/02-07:30:10,System,Configuration Change,,
+512,2017/04/02-07:30:12,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+513,2017/04/02-07:30:13,User,Allowed,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend
+514,2017/04/02-07:30:30,System,Configuration Change,,
+515,2017/04/02-07:30:33,User,Allowed,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox
+516,2017/04/02-08:00:30,System,Configuration Change,,
+517,2017/04/02-08:00:30,System,Configuration Change,,
+518,2017/04/02-08:00:33,User,Allowed,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT
+519,2017/04/02-08:30:14,System,Configuration Change,,
+520,2017/04/02-08:30:17,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+521,2017/04/02-08:30:30,System,Configuration Change,,
+522,2017/04/02-08:30:36,User,Allowed,OTonWeekdays,Overtime consider  weekdays for WOPH
+523,2017/04/02-08:30:40,System,Configuration Change,,
+524,2017/04/02-08:30:43,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+525,2017/04/02-14:30:40,System,Configuration Change,,
+526,2017/04/02-14:30:42,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+527,2017/04/02-15:30:40,System,Configuration Change,,
+528,2017/04/02-15:30:42,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+529,2017/04/02-17:00:06,System,Configuration Change,,
+530,2017/04/02-17:00:09,User,Allowed,FlexibleOT,OT for flexible user
+531,2017/04/02-18:30:14,System,Configuration Change,,
+532,2017/04/02-18:30:17,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+533,2017/04/02-18:30:30,System,Configuration Change,,
+534,2017/04/02-18:30:30,System,Configuration Change,,
+535,2017/04/02-18:30:32,User,Allowed,OTonWeekdays,Overtime consider  weekdays for WOPH
+536,2017/04/02-18:30:33,User,Allowed,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT
+537,2017/04/02-19:00:56,System,Configuration Change,,
+538,2017/04/02-19:00:59,User,Allowed,daily1weekends,daily1 weekends config in OT
+539,2017/04/02-19:30:06,System,Configuration Change,,
+540,2017/04/02-19:30:09,User,Allowed,NpunchNightshif,N punch user with night shift
+541,2017/04/02-19:30:10,System,Configuration Change,,
+542,2017/04/02-19:30:10,System,Configuration Change,,
+543,2017/04/02-19:30:13,User,Allowed,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend
+544,2017/04/02-19:30:14,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+545,2017/04/02-20:30:30,System,Configuration Change,,
+546,2017/04/02-20:30:32,User,Allowed,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox
+547,2017/04/02-20:30:40,System,Configuration Change,,
+548,2017/04/02-20:30:42,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+549,2017/04/02-21:12:57,System,Login to ACS,,
+550,2017/04/02-21:30:10,System,Configuration Change,,
+551,2017/04/02-21:30:14,User,Allowed,daily1earlyin,Cal onWOPH as per weekday
+552,2017/04/02-23:30:06,System,Configuration Change,,
+553,2017/04/02-23:30:09,User,Allowed,NpunchNightshif,N punch user with night shift
+554,2017/04/03-00:00:06,System,Configuration Change,,
+555,2017/04/03-00:00:08,User,Allowed,NpunchNightshif,N punch user with night shift
+556,2017/04/03-05:00:06,System,Configuration Change,,
+557,2017/04/03-05:00:08,User,Allowed,NpunchNightshif,N punch user with night shift
+558,2017/04/03-05:00:31,System,Configuration Change,,
+559,2017/04/03-05:00:33,User,Allowed,SpecialOvertime,Special Overtime
+560,2017/04/03-06:00:14,System,Configuration Change,,
+561,2017/04/03-07:00:30,System,Configuration Change,,
+562,2017/04/03-07:00:33,User,Allowed,manualOT,User with Manual Overtime
+563,2017/04/03-08:00:32,System,Configuration Change,,
+564,2017/04/03-08:00:34,User,Allowed,COFF,COFF
+565,2017/04/03-08:00:40,System,Configuration Change,,
+566,2017/04/03-08:00:43,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+567,2017/04/03-08:15:18,System,Configuration Change,,
+568,2017/04/03-08:15:21,User,Allowed,EOdurationexcee,EO duration exceeds
+569,2017/04/03-08:30:06,System,Configuration Change,,
+570,2017/04/03-08:30:08,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+571,2017/04/03-08:30:18,System,Configuration Change,,
+572,2017/04/03-08:30:20,User,Allowed,EOgraceexceed,Earlyout grace duration exceeds
+573,2017/04/03-08:35:46,System,Configuration Change,,
+574,2017/04/03-08:35:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+575,2017/04/03-08:50:18,System,Configuration Change,,
+576,2017/04/03-08:50:21,User,Allowed,earlyout,user punches on early out duration of 30mins
+577,2017/04/03-08:55:18,System,Configuration Change,,
+578,2017/04/03-08:55:21,User,Allowed,Earlyoutgrace,Earlyout user with punches on grace time
+579,2017/04/03-09:00:00,System,Configuration Change,,
+580,2017/04/03-09:00:01,System,Configuration Change,,
+581,2017/04/03-09:00:01,System,Configuration Change,,
+582,2017/04/03-09:00:01,System,Configuration Change,,
+583,2017/04/03-09:00:01,User,Allowed,2pwithexitreade,Exit reader enabled but punches from entry
+584,2017/04/03-09:00:02,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+585,2017/04/03-09:00:02,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+586,2017/04/03-09:00:04,User,Allowed,Flexible,flexibleuser
+587,2017/04/03-09:00:11,System,Configuration Change,,
+588,2017/04/03-09:00:14,System,Configuration Change,,
+589,2017/04/03-09:00:14,System,Configuration Change,,
+590,2017/04/03-09:00:14,System,Configuration Change,,
+591,2017/04/03-09:00:15,User,Allowed,Eligiblehours,Eligible work hours
+592,2017/04/03-09:00:16,User,Allowed,4Pbreaklatein,4p user with break latein
+593,2017/04/03-09:00:18,System,Configuration Change,,
+594,2017/04/03-09:00:18,System,Configuration Change,,
+595,2017/04/03-09:00:18,System,Configuration Change,,
+596,2017/04/03-09:00:18,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+597,2017/04/03-09:00:20,User,Allowed,Inpunch,User with In pucnh only
+598,2017/04/03-09:00:21,System,Configuration Change,,
+599,2017/04/03-09:00:21,System,Configuration Change,,
+600,2017/04/03-09:00:21,System,Configuration Change,,
+601,2017/04/03-09:00:21,System,Configuration Change,,
+602,2017/04/03-09:00:21,User,Allowed,Normal,normal user
+603,2017/04/03-09:00:21,User,Allowed,seconhalfabsent,second half absent
+604,2017/04/03-09:00:23,User,Allowed,2breaklatein,2punch user with break latein
+605,2017/04/03-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+606,2017/04/03-09:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+607,2017/04/03-09:00:25,User,Allowed,2punchnoearly,2punch with no earlyout duration
+608,2017/04/03-09:00:30,System,Configuration Change,,
+609,2017/04/03-09:00:31,System,Configuration Change,,
+610,2017/04/03-09:00:31,System,Configuration Change,,
+611,2017/04/03-09:00:31,System,Configuration Change,,
+612,2017/04/03-09:00:32,User,Allowed,Lessworkhours,Less work hours for daily limit
+613,2017/04/03-09:00:34,System,Configuration Change,,
+614,2017/04/03-09:00:34,System,Configuration Change,,
+615,2017/04/03-09:00:34,System,Configuration Change,,
+616,2017/04/03-09:00:34,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+617,2017/04/03-09:00:35,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+618,2017/04/03-09:00:35,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+619,2017/04/03-09:00:36,System,Configuration Change,,
+620,2017/04/03-09:00:36,System,Configuration Change,,
+621,2017/04/03-09:00:36,System,Configuration Change,,
+622,2017/04/03-09:00:36,System,Configuration Change,,
+623,2017/04/03-09:00:36,System,Configuration Change,,
+624,2017/04/03-09:00:36,System,Configuration Change,,
+625,2017/04/03-09:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+626,2017/04/03-09:00:37,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+627,2017/04/03-09:00:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+628,2017/04/03-09:00:38,System,Configuration Change,,
+629,2017/04/03-09:00:38,User,Allowed,2pOfficialout,2 punch user with official out
+630,2017/04/03-09:00:38,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+631,2017/04/03-09:00:38,User,Allowed,npshortleaveout,n punch user with short leave out
+632,2017/04/03-09:00:39,User,Allowed,Npucnofficialou,N punch user with official out
+633,2017/04/03-09:00:39,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+634,2017/04/03-09:00:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+635,2017/04/03-09:00:43,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+636,2017/04/03-09:00:44,System,Configuration Change,,
+637,2017/04/03-09:00:46,System,Configuration Change,,
+638,2017/04/03-09:00:46,User,Allowed,Secondhalfleave,user with second half leave
+639,2017/04/03-09:00:49,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+640,2017/04/03-09:00:57,System,Configuration Change,,
+641,2017/04/03-09:01:00,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+642,2017/04/03-09:01:23,System,Credentials Deleted,,
+643,2017/04/03-09:05:34,System,Configuration Change,,
+644,2017/04/03-09:05:37,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+645,2017/04/03-09:10:18,System,Configuration Change,,
+646,2017/04/03-09:10:21,User,Allowed,Lateingrace,User have pucnges on grace latein
+647,2017/04/03-09:10:36,System,Configuration Change,,
+648,2017/04/03-09:10:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+649,2017/04/03-09:15:04,System,Configuration Change,,
+650,2017/04/03-09:15:06,User,Allowed,npunchnolatein,Npunch user with no late in duration
+651,2017/04/03-09:15:18,System,Configuration Change,,
+652,2017/04/03-09:15:18,System,Configuration Change,,
+653,2017/04/03-09:15:20,User,Allowed,Latein,user punches on latein only
+654,2017/04/03-09:15:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+655,2017/04/03-09:20:21,System,Configuration Change,,
+656,2017/04/03-09:20:25,User,Allowed,npunchwithearly,npunch user with earlyout policy
+657,2017/04/03-09:20:46,System,Configuration Change,,
+658,2017/04/03-09:20:46,System,Configuration Change,,
+659,2017/04/03-09:20:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+660,2017/04/03-09:20:49,User,Allowed,BreakLIinTotal,Break latein in total latein
+661,2017/04/03-09:25:23,System,Configuration Change,,
+662,2017/04/03-09:25:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+663,2017/04/03-09:30:17,System,Configuration Change,,
+664,2017/04/03-09:30:36,System,Configuration Change,,
+665,2017/04/03-09:30:37,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+666,2017/04/03-09:30:48,System,Configuration Change,,
+667,2017/04/03-09:30:50,User,Allowed,2punchuser,2punch user with latein
+668,2017/04/03-09:31:18,System,Configuration Change,,
+669,2017/04/03-09:31:21,User,Allowed,Lateinduraexcee,Late in Duration exceed
+670,2017/04/03-09:32:04,System,Configuration Change,,
+671,2017/04/03-09:32:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+672,2017/04/03-10:00:18,System,Configuration Change,,
+673,2017/04/03-10:00:20,User,Allowed,Lategraceexceed,User with exceed grace period
+674,2017/04/03-10:00:21,System,Configuration Change,,
+675,2017/04/03-10:00:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+676,2017/04/03-10:00:36,System,Configuration Change,,
+677,2017/04/03-10:00:36,System,Configuration Change,,
+678,2017/04/03-10:00:39,User,Allowed,npshortleaveout,n punch user with short leave out
+679,2017/04/03-10:00:43,User,Allowed,NpofficialIn,N punch user for official In
+680,2017/04/03-10:10:36,System,Configuration Change,,
+681,2017/04/03-10:10:36,System,Configuration Change,,
+682,2017/04/03-10:10:36,System,Configuration Change,,
+683,2017/04/03-10:10:38,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+684,2017/04/03-10:10:41,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+685,2017/04/03-10:10:42,User,Allowed,2pofficialin,2punch user with official in
+686,2017/04/03-10:13:05,System,Credentials Deleted,,
+687,2017/04/03-10:30:36,System,Configuration Change,,
+688,2017/04/03-10:30:44,User,Allowed,npshortleavein,n punch user for shortleave in
+689,2017/04/03-11:10:46,System,Configuration Change,,
+690,2017/04/03-11:10:52,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+691,2017/04/03-11:15:04,System,Configuration Change,,
+692,2017/04/03-11:15:07,User,Allowed,npunchnolatein,Npunch user with no late in duration
+693,2017/04/03-11:20:21,System,Configuration Change,,
+694,2017/04/03-11:20:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+695,2017/04/03-11:30:04,System,Configuration Change,,
+696,2017/04/03-11:30:06,User,Allowed,npunchnolatein,Npunch user with no late in duration
+697,2017/04/03-11:30:21,System,Configuration Change,,
+698,2017/04/03-11:30:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+699,2017/04/03-11:30:36,System,Configuration Change,,
+700,2017/04/03-11:30:36,System,Configuration Change,,
+701,2017/04/03-11:30:38,User,Allowed,npshortleaveout,n punch user with short leave out
+702,2017/04/03-11:30:42,User,Allowed,npshortleaveout,n punch user with short leave out
+703,2017/04/03-11:33:51,System,Credentials Deleted,,
+704,2017/04/03-12:00:36,System,Configuration Change,,
+705,2017/04/03-12:00:36,System,Configuration Change,,
+706,2017/04/03-12:00:36,System,Configuration Change,,
+707,2017/04/03-12:00:39,User,Allowed,npshortleavein,n punch user for shortleave in
+708,2017/04/03-12:00:39,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+709,2017/04/03-12:00:39,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+710,2017/04/03-12:10:36,System,Configuration Change,,
+711,2017/04/03-12:10:38,User,Allowed,npshortleavein,n punch user for shortleave in
+712,2017/04/03-12:20:34,System,Configuration Change,,
+713,2017/04/03-12:20:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+714,2017/04/03-12:25:36,System,Configuration Change,,
+715,2017/04/03-12:25:39,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+716,2017/04/03-12:30:36,System,Configuration Change,,
+717,2017/04/03-12:30:40,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+718,2017/04/03-12:40:31,System,Configuration Change,,
+719,2017/04/03-12:40:33,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+720,2017/04/03-12:55:31,System,Configuration Change,,
+721,2017/04/03-12:55:33,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+722,2017/04/03-12:55:46,System,Configuration Change,,
+723,2017/04/03-12:55:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+724,2017/04/03-13:00:06,System,Configuration Change,,
+725,2017/04/03-13:00:08,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+726,2017/04/03-13:00:14,System,Configuration Change,,
+727,2017/04/03-13:00:14,System,Configuration Change,,
+728,2017/04/03-13:00:14,System,Configuration Change,,
+729,2017/04/03-13:00:16,User,Allowed,4Pbreaklatein,4p user with break latein
+730,2017/04/03-13:00:17,System,Configuration Change,,
+731,2017/04/03-13:00:17,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+732,2017/04/03-13:00:21,System,Configuration Change,,
+733,2017/04/03-13:00:21,System,Configuration Change,,
+734,2017/04/03-13:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+735,2017/04/03-13:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+736,2017/04/03-13:00:36,System,Configuration Change,,
+737,2017/04/03-13:00:36,System,Configuration Change,,
+738,2017/04/03-13:00:38,System,Configuration Change,,
+739,2017/04/03-13:00:38,User,Allowed,NpofficialIn,N punch user for official In
+740,2017/04/03-13:00:38,User,Allowed,Npucnofficialou,N punch user with official out
+741,2017/04/03-13:00:40,System,Configuration Change,,
+742,2017/04/03-13:00:43,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+743,2017/04/03-13:00:45,User,Allowed,4PBreakLIex,4P user exceeds break latein
+744,2017/04/03-13:00:46,System,Configuration Change,,
+745,2017/04/03-13:00:46,System,Configuration Change,,
+746,2017/04/03-13:00:48,User,Allowed,BreakLIinTotal,Break latein in total latein
+747,2017/04/03-13:00:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+748,2017/04/03-13:00:57,System,Configuration Change,,
+749,2017/04/03-13:01:00,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+750,2017/04/03-13:10:36,System,Configuration Change,,
+751,2017/04/03-13:10:39,User,Allowed,NpofficialIn,N punch user for official In
+752,2017/04/03-13:10:46,System,Configuration Change,,
+753,2017/04/03-13:10:46,System,Configuration Change,,
+754,2017/04/03-13:10:49,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+755,2017/04/03-13:15:46,System,Configuration Change,,
+756,2017/04/03-13:15:48,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+757,2017/04/03-13:20:34,System,Configuration Change,,
+758,2017/04/03-13:20:38,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+759,2017/04/03-13:22:11,System,Credentials Deleted,,
+760,2017/04/03-13:30:06,System,Configuration Change,,
+761,2017/04/03-13:30:09,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+762,2017/04/03-13:30:18,System,Configuration Change,,
+763,2017/04/03-13:30:23,User,Allowed,seconhalfabsent,second half absent
+764,2017/04/03-13:30:31,System,Configuration Change,,
+765,2017/04/03-13:30:31,System,Configuration Change,,
+766,2017/04/03-13:30:33,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+767,2017/04/03-13:30:34,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+768,2017/04/03-13:30:36,System,Configuration Change,,
+769,2017/04/03-13:30:36,System,Configuration Change,,
+770,2017/04/03-13:30:37,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+771,2017/04/03-13:30:47,User,Allowed,Npucnofficialou,N punch user with official out
+772,2017/04/03-13:31:38,System,Credentials Deleted,,
+773,2017/04/03-13:35:14,System,Configuration Change,,
+774,2017/04/03-13:35:16,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+775,2017/04/03-13:40:36,System,Configuration Change,,
+776,2017/04/03-13:40:38,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+777,2017/04/03-13:40:46,System,Configuration Change,,
+778,2017/04/03-13:40:49,User,Allowed,BreakLIinTotal,Break latein in total latein
+779,2017/04/03-13:50:46,System,Configuration Change,,
+780,2017/04/03-13:50:49,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+781,2017/04/03-14:00:18,System,Configuration Change,,
+782,2017/04/03-14:00:18,System,Configuration Change,,
+783,2017/04/03-14:00:20,User,Allowed,firsthalfabsent,First half absent
+784,2017/04/03-14:00:21,System,Configuration Change,,
+785,2017/04/03-14:00:21,User,Allowed,Firsthalfleave,User with first half leave
+786,2017/04/03-14:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+787,2017/04/03-14:00:40,System,Configuration Change,,
+788,2017/04/03-14:00:40,System,Configuration Change,,
+789,2017/04/03-14:00:44,System,Configuration Change,,
+790,2017/04/03-14:00:47,User,Allowed,Secondhalfleave,user with second half leave
+791,2017/04/03-14:00:57,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+792,2017/04/03-14:01:17,System,Configuration Change,,
+793,2017/04/03-14:08:13,System,Credentials Deleted,,
+794,2017/04/03-14:08:44,User,Allowed,Fulldayleave,User with full day leave
+795,2017/04/03-14:10:14,System,Configuration Change,,
+796,2017/04/03-14:10:17,User,Allowed,4Pbreaklatein,4p user with break latein
+797,2017/04/03-14:15:14,System,Configuration Change,,
+798,2017/04/03-14:20:38,System,Configuration Change,,
+799,2017/04/03-14:20:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+800,2017/04/03-14:24:35,System,Credentials Deleted,,
+801,2017/04/03-14:30:21,System,Configuration Change,,
+802,2017/04/03-14:30:27,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+803,2017/04/03-14:30:50,System,Configuration Change,,
+804,2017/04/03-14:30:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+805,2017/04/03-15:00:01,System,Configuration Change,,
+806,2017/04/03-15:00:04,User,Allowed,Flexible,flexibleuser
+807,2017/04/03-15:00:23,System,Configuration Change,,
+808,2017/04/03-15:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+809,2017/04/03-15:08:34,System,Login to ACS,,
+810,2017/04/03-15:30:21,System,Configuration Change,,
+811,2017/04/03-15:30:21,System,Configuration Change,,
+812,2017/04/03-15:30:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+813,2017/04/03-15:40:21,System,Configuration Change,,
+814,2017/04/03-15:40:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+815,2017/04/03-16:00:23,System,Configuration Change,,
+816,2017/04/03-16:00:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+817,2017/04/03-16:00:31,System,Configuration Change,,
+818,2017/04/03-16:00:34,System,Configuration Change,,
+819,2017/04/03-16:00:36,System,Configuration Change,,
+820,2017/04/03-16:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+821,2017/04/03-16:00:36,User,Allowed,SpecialOvertime,Special Overtime
+822,2017/04/03-16:00:44,User,Allowed,2pOfficialout,2 punch user with official out
+823,2017/04/03-16:02:46,System,Credentials Deleted,,
+824,2017/04/03-16:20:34,System,Configuration Change,,
+825,2017/04/03-16:20:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+826,2017/04/03-17:00:23,System,Configuration Change,,
+827,2017/04/03-17:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+828,2017/04/03-17:00:31,System,Configuration Change,,
+829,2017/04/03-17:00:33,User,Allowed,SpecialOvertime,Special Overtime
+830,2017/04/03-17:30:04,System,Configuration Change,,
+831,2017/04/03-17:30:08,User,Allowed,npunchnolatein,Npunch user with no late in duration
+832,2017/04/03-17:30:36,System,Configuration Change,,
+833,2017/04/03-17:30:36,System,Configuration Change,,
+834,2017/04/03-17:30:36,System,Configuration Change,,
+835,2017/04/03-17:30:36,System,Configuration Change,,
+836,2017/04/03-17:30:40,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+837,2017/04/03-17:30:43,User,Allowed,Npucnofficialou,N punch user with official out
+838,2017/04/03-17:30:45,User,Allowed,2pshortleaveout,2 Punch user for shortleave out
+839,2017/04/03-17:34:01,System,Credentials Deleted,,
+840,2017/04/03-17:35:13,System,Credentials Deleted,,
+841,2017/04/03-17:36:04,System,Configuration Change,,
+842,2017/04/03-17:36:06,User,Allowed,npunchnolatein,Npunch user with no late in duration
+843,2017/04/03-17:45:18,System,Configuration Change,,
+844,2017/04/03-17:45:21,User,Allowed,EOdurationexcee,EO duration exceeds
+845,2017/04/03-17:46:31,System,Credentials Deleted,,
+846,2017/04/03-17:50:34,System,Configuration Change,,
+847,2017/04/03-17:50:34,System,Configuration Change,,
+848,2017/04/03-17:50:36,User,Allowed,2punchuser,2punch user with latein
+849,2017/04/03-17:50:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+850,2017/04/03-17:50:43,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+851,2017/04/03-17:59:00,System,Configuration Change,,
+852,2017/04/03-17:59:02,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+853,2017/04/03-18:00:06,System,Configuration Change,,
+854,2017/04/03-18:00:08,User,Allowed,NpunchFlexible,Npunch user with type as flexible
+855,2017/04/03-18:00:11,System,Configuration Change,,
+856,2017/04/03-18:00:14,User,Allowed,Eligiblehours,Eligible work hours
+857,2017/04/03-18:00:21,System,Configuration Change,,
+858,2017/04/03-18:00:23,System,Configuration Change,,
+859,2017/04/03-18:00:24,User,Allowed,2punchnoearly,2punch with no earlyout duration
+860,2017/04/03-18:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+861,2017/04/03-18:00:31,System,Configuration Change,,
+862,2017/04/03-18:00:35,User,Allowed,SpecialOvertime,Special Overtime
+863,2017/04/03-18:12:53,System,Login to ACS,,
+864,2017/04/03-18:15:18,System,Configuration Change,,
+865,2017/04/03-18:15:20,User,Allowed,EOgraceexceed,Earlyout grace duration exceeds
+866,2017/04/03-18:20:18,System,Configuration Change,,
+867,2017/04/03-18:20:21,User,Allowed,earlyout,user punches on early out duration of 30mins
+868,2017/04/03-18:20:30,System,Configuration Change,,
+869,2017/04/03-18:20:32,User,Allowed,Lessworkhours,Less work hours for daily limit
+870,2017/04/03-18:21:38,System,Credentials Deleted,,
+871,2017/04/03-18:22:26,System,Credentials Deleted,,
+872,2017/04/03-18:23:41,System,Credentials Deleted,,
+873,2017/04/03-18:25:18,System,Configuration Change,,
+874,2017/04/03-18:25:20,User,Allowed,Earlyoutgrace,Earlyout user with punches on grace time
+875,2017/04/03-18:25:46,System,Configuration Change,,
+876,2017/04/03-18:25:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+877,2017/04/03-18:26:46,System,Credentials Deleted,,
+878,2017/04/03-18:28:21,System,Configuration Change,,
+879,2017/04/03-18:28:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+880,2017/04/03-18:30:01,System,Configuration Change,,
+881,2017/04/03-18:30:02,User,Allowed,2pwithexitreade,Exit reader enabled but punches from entry
+882,2017/04/03-18:30:18,System,Configuration Change,,
+883,2017/04/03-18:30:18,System,Configuration Change,,
+884,2017/04/03-18:30:18,System,Configuration Change,,
+885,2017/04/03-18:30:20,User,Allowed,Normal,normal user
+886,2017/04/03-18:30:21,System,Configuration Change,,
+887,2017/04/03-18:30:21,System,Configuration Change,,
+888,2017/04/03-18:30:21,System,Configuration Change,,
+889,2017/04/03-18:30:21,User,Allowed,firsthalfabsent,First half absent
+890,2017/04/03-18:30:21,User,Allowed,Firsthalfleave,User with first half leave
+891,2017/04/03-18:30:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+892,2017/04/03-18:30:24,User,Allowed,2breaklatein,2punch user with break latein
+893,2017/04/03-18:30:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+894,2017/04/03-18:30:34,System,Configuration Change,,
+895,2017/04/03-18:30:34,System,Configuration Change,,
+896,2017/04/03-18:30:36,System,Configuration Change,,
+897,2017/04/03-18:30:36,System,Configuration Change,,
+898,2017/04/03-18:30:36,System,Configuration Change,,
+899,2017/04/03-18:30:36,System,Configuration Change,,
+900,2017/04/03-18:30:36,System,Configuration Change,,
+901,2017/04/03-18:30:36,System,Configuration Change,,
+902,2017/04/03-18:30:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+903,2017/04/03-18:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+904,2017/04/03-18:30:38,User,Allowed,2punchshortleav,Shortleave in for 2 punch
+905,2017/04/03-18:30:38,User,Allowed,NpofficialIn,N punch user for official In
+906,2017/04/03-18:30:38,User,Allowed,npshortleavein,n punch user for shortleave in
+907,2017/04/03-18:30:38,User,Allowed,npshortleaveout,n punch user with short leave out
+908,2017/04/03-18:30:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+909,2017/04/03-18:30:39,User,Allowed,2pofficialin,2punch user with official in
+910,2017/04/03-18:30:46,System,Configuration Change,,
+911,2017/04/03-18:30:48,User,Allowed,4PBreakEOex,4P Break for earlyout exceeds
+912,2017/04/03-18:31:34,System,Credentials Deleted,,
+913,2017/04/03-18:32:04,System,Configuration Change,,
+914,2017/04/03-18:32:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+915,2017/04/03-18:32:14,User,Denied - Invalid Input,,
+916,2017/04/03-18:32:14,System,Denied - InvalidCard,,
+917,2017/04/03-18:32:28,System,Credentials Deleted,,
+918,2017/04/03-18:32:36,System,Credentials Deleted,,
+919,2017/04/03-18:33:29,System,Credentials Deleted,,
+920,2017/04/03-18:33:44,User,Denied - Invalid Input,,
+921,2017/04/03-18:33:44,System,Denied - InvalidCard,,
+922,2017/04/03-18:35:14,System,Configuration Change,,
+923,2017/04/03-18:35:17,User,Allowed,4Pbreakingrace,4 punch user with break hours within grace
+924,2017/04/03-18:36:04,System,Configuration Change,,
+925,2017/04/03-18:36:06,User,Allowed,npunchnolatein,Npunch user with no late in duration
+926,2017/04/03-18:40:18,System,Configuration Change,,
+927,2017/04/03-18:40:18,System,Configuration Change,,
+928,2017/04/03-18:40:20,User,Allowed,Lateingrace,User have pucnges on grace latein
+929,2017/04/03-18:40:23,System,Configuration Change,,
+930,2017/04/03-18:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+931,2017/04/03-18:40:36,System,Configuration Change,,
+932,2017/04/03-18:40:36,System,Configuration Change,,
+933,2017/04/03-18:40:36,User,Allowed,Npoutfromexit,Npunch user with out punch from exit reader
+934,2017/04/03-18:40:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+935,2017/04/03-18:45:14,System,Configuration Change,,
+936,2017/04/03-18:45:18,System,Configuration Change,,
+937,2017/04/03-18:45:18,System,Configuration Change,,
+938,2017/04/03-18:45:23,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+939,2017/04/03-18:45:29,User,Allowed,Latein,user punches on latein only
+940,2017/04/03-18:46:31,System,Credentials Deleted,,
+941,2017/04/03-18:46:35,System,Credentials Deleted,,
+942,2017/04/03-18:47:09,System,Credentials Deleted,,
+943,2017/04/03-18:47:20,System,Credentials Deleted,,
+944,2017/04/03-18:48:55,System,Credentials Deleted,,
+945,2017/04/03-18:50:33,System,Credentials Deleted,,
+946,2017/04/03-19:00:01,System,Configuration Change,,
+947,2017/04/03-19:00:01,User,Allowed,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry
+948,2017/04/03-19:00:17,System,Configuration Change,,
+949,2017/04/03-19:00:31,System,Configuration Change,,
+950,2017/04/03-19:00:31,System,Configuration Change,,
+951,2017/04/03-19:00:33,User,Allowed,4PbreakEO,4 Punch user with break earlyout
+952,2017/04/03-19:00:35,User,Allowed,4PbreakEOgrace,4P user with break earlyout grace
+953,2017/04/03-19:00:36,System,Configuration Change,,
+954,2017/04/03-19:00:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+955,2017/04/03-19:00:48,System,Configuration Change,,
+956,2017/04/03-19:00:48,System,Configuration Change,,
+957,2017/04/03-19:00:50,System,Configuration Change,,
+958,2017/04/03-19:00:50,User,Allowed,2punchuser,2punch user with latein
+959,2017/04/03-19:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+960,2017/04/03-19:03:07,System,Credentials Deleted,,
+961,2017/04/03-19:07:40,System,Credentials Deleted,,
+962,2017/04/03-19:10:14,System,Configuration Change,,
+963,2017/04/03-19:10:17,User,Allowed,4Pbreaklatein,4p user with break latein
+964,2017/04/03-19:12:55,System,Credentials Deleted,,
+965,2017/04/03-19:20:38,System,Configuration Change,,
+966,2017/04/03-19:20:41,User,Allowed,4PBreakLIex,4P user exceeds break latein
+967,2017/04/03-19:20:46,System,Configuration Change,,
+968,2017/04/03-19:20:50,User,Allowed,BreakLIinTotal,Break latein in total latein
+969,2017/04/03-19:21:36,System,Login to ACS,,
+970,2017/04/03-19:22:19,System,Credentials Deleted,,
+971,2017/04/03-19:30:18,System,Configuration Change,,
+972,2017/04/03-19:30:20,User,Allowed,Lategraceexceed,User with exceed grace period
+973,2017/04/03-19:30:21,System,Configuration Change,,
+974,2017/04/03-19:30:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+975,2017/04/03-19:30:40,System,Configuration Change,,
+976,2017/04/03-19:30:42,User,Allowed,OTCOFFBoth,Auto authorize OT COFF
+977,2017/04/03-19:30:46,System,Configuration Change,,
+978,2017/04/03-19:30:48,User,Allowed,BreakLIexceeds,Exceeds break and total latein
+979,2017/04/03-19:31:18,System,Configuration Change,,
+980,2017/04/03-19:31:19,System,Credentials Deleted,,
+981,2017/04/03-19:31:20,User,Allowed,Lateinduraexcee,Late in Duration exceed
+982,2017/04/03-19:32:13,System,Credentials Deleted,,
+983,2017/04/03-19:39:32,System,Credentials Deleted,,
+984,2017/04/03-19:42:19,System,Power ON,,
+985,2017/04/03-20:00:14,System,Configuration Change,,
+986,2017/04/03-20:00:17,User,Allowed,NightShift,NightShift
+987,2017/04/03-20:00:36,System,Configuration Change,,
+988,2017/04/03-20:00:39,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+989,2017/04/03-20:11:54,System,Login to ACS,,
+990,2017/04/03-20:21:45,System,Credentials Deleted,,
+991,2017/04/03-20:21:49,System,Credentials Deleted,,
+992,2017/04/03-20:28:35,System,Credentials Deleted,,
+993,2017/04/03-20:31:21,System,Login to ACS,,
+994,2017/04/03-21:00:14,System,Configuration Change,,
+995,2017/04/03-21:00:19,User,Allowed,NightShift,NightShift
+996,2017/04/03-21:00:30,System,Configuration Change,,
+997,2017/04/03-21:00:32,System,Configuration Change,,
+998,2017/04/03-21:00:33,User,Allowed,manualOT,User with Manual Overtime
+999,2017/04/03-21:00:34,User,Allowed,COFF,COFF
+1000,2017/04/03-21:00:36,System,Configuration Change,,
+1001,2017/04/03-21:00:38,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1002,2017/04/03-22:02:34,System,Login to ACS,,
+1003,2017/04/03-22:10:18,System,Login to ACS,,
+1004,2017/04/03-22:39:21,System,Credentials Deleted,,
+1005,2017/04/03-22:57:33,System,Login to ACS,,
+1006,2017/04/04-05:00:31,System,Configuration Change,,
+1007,2017/04/04-05:00:33,User,Allowed,SpecialOvertime,Special Overtime
+1008,2017/04/04-05:00:36,System,Configuration Change,,
+1009,2017/04/04-05:00:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1010,2017/04/04-06:00:14,System,Configuration Change,,
+1011,2017/04/04-06:00:17,User,Allowed,NightShift,NightShift
+1012,2017/04/04-06:00:36,System,Configuration Change,,
+1013,2017/04/04-06:00:38,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1014,2017/04/04-06:23:50,System,Credentials Deleted,,
+1015,2017/04/04-08:00:01,System,Configuration Change,,
+1016,2017/04/04-08:00:04,User,Allowed,Flexible,flexibleuser
+1017,2017/04/04-08:00:11,System,Configuration Change,,
+1018,2017/04/04-08:00:11,System,Configuration Change,,
+1019,2017/04/04-08:00:14,User,Allowed,Eligiblehours,Eligible work hours
+1020,2017/04/04-08:35:46,System,Configuration Change,,
+1021,2017/04/04-08:35:54,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+1022,2017/04/04-09:00:00,System,Configuration Change,,
+1023,2017/04/04-09:00:03,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1024,2017/04/04-09:00:21,System,Configuration Change,,
+1025,2017/04/04-09:00:21,System,Configuration Change,,
+1026,2017/04/04-09:00:21,System,Configuration Change,,
+1027,2017/04/04-09:00:21,System,Configuration Change,,
+1028,2017/04/04-09:00:21,System,Configuration Change,,
+1029,2017/04/04-09:00:23,System,Configuration Change,,
+1030,2017/04/04-09:00:23,System,Configuration Change,,
+1031,2017/04/04-09:00:23,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1032,2017/04/04-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1033,2017/04/04-09:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1034,2017/04/04-09:00:24,User,Allowed,2breaklatein,2punch user with break latein
+1035,2017/04/04-09:00:24,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1036,2017/04/04-09:00:34,System,Configuration Change,,
+1037,2017/04/04-09:00:34,System,Configuration Change,,
+1038,2017/04/04-09:00:34,System,Configuration Change,,
+1039,2017/04/04-09:00:34,System,Configuration Change,,
+1040,2017/04/04-09:00:36,System,Configuration Change,,
+1041,2017/04/04-09:00:36,System,Configuration Change,,
+1042,2017/04/04-09:00:36,System,Configuration Change,,
+1043,2017/04/04-09:00:36,System,Configuration Change,,
+1044,2017/04/04-09:00:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1045,2017/04/04-09:00:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1046,2017/04/04-09:00:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1047,2017/04/04-09:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1048,2017/04/04-09:00:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+1049,2017/04/04-09:00:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+1050,2017/04/04-09:00:38,User,Allowed,nPunchlatein,npunch user with 30min latein
+1051,2017/04/04-09:00:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1052,2017/04/04-09:00:39,User,Allowed,NpofficialIn,N punch user for official In
+1053,2017/04/04-09:00:50,System,Configuration Change,,
+1054,2017/04/04-09:00:54,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1055,2017/04/04-09:01:04,System,Configuration Change,,
+1056,2017/04/04-09:01:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1057,2017/04/04-09:10:30,System,Configuration Change,,
+1058,2017/04/04-09:10:36,User,Allowed,Lessworkhours,Less work hours for daily limit
+1059,2017/04/04-09:29:18,System,Configuration Change,,
+1060,2017/04/04-09:29:20,User,Allowed,Lateingrace,User have pucnges on grace latein
+1061,2017/04/04-09:30:18,System,Configuration Change,,
+1062,2017/04/04-09:30:22,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1063,2017/04/04-09:30:36,System,Configuration Change,,
+1064,2017/04/04-09:30:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+1065,2017/04/04-09:31:21,System,Configuration Change,,
+1066,2017/04/04-09:31:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1067,2017/04/04-09:31:48,System,Configuration Change,,
+1068,2017/04/04-09:31:49,User,Allowed,2punchuser,2punch user with latein
+1069,2017/04/04-10:06:44,System,Login to ACS,,
+1070,2017/04/04-10:37:58,System,Configuration Change,,
+1071,2017/04/04-10:38:01,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1072,2017/04/04-10:49:16,System,Login to ACS,,
+1073,2017/04/04-11:00:21,System,Configuration Change,,
+1074,2017/04/04-11:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1075,2017/04/04-11:00:36,System,Configuration Change,,
+1076,2017/04/04-11:00:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+1077,2017/04/04-11:10:21,System,Configuration Change,,
+1078,2017/04/04-11:10:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1079,2017/04/04-11:15:36,System,Configuration Change,,
+1080,2017/04/04-11:15:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+1081,2017/04/04-12:00:01,System,Configuration Change,,
+1082,2017/04/04-12:00:04,User,Allowed,Flexible,flexibleuser
+1083,2017/04/04-12:00:21,System,Configuration Change,,
+1084,2017/04/04-12:00:24,User,Allowed,2breaklatein,2punch user with break latein
+1085,2017/04/04-12:00:34,System,Configuration Change,,
+1086,2017/04/04-12:00:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1087,2017/04/04-12:02:23,System,Credentials Deleted,,
+1088,2017/04/04-12:20:34,System,Configuration Change,,
+1089,2017/04/04-12:20:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1090,2017/04/04-12:30:34,System,Configuration Change,,
+1091,2017/04/04-12:30:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1092,2017/04/04-12:55:46,System,Configuration Change,,
+1093,2017/04/04-12:55:48,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+1094,2017/04/04-13:00:21,System,Configuration Change,,
+1095,2017/04/04-13:00:21,System,Configuration Change,,
+1096,2017/04/04-13:00:23,User,Allowed,2breaklatein,2punch user with break latein
+1097,2017/04/04-13:00:26,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1098,2017/04/04-13:00:34,System,Configuration Change,,
+1099,2017/04/04-13:00:36,System,Configuration Change,,
+1100,2017/04/04-13:00:36,System,Configuration Change,,
+1101,2017/04/04-13:00:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1102,2017/04/04-13:00:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+1103,2017/04/04-13:00:40,User,Allowed,NpofficialIn,N punch user for official In
+1104,2017/04/04-13:00:50,System,Configuration Change,,
+1105,2017/04/04-13:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1106,2017/04/04-13:30:21,System,Configuration Change,,
+1107,2017/04/04-13:30:22,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1108,2017/04/04-13:30:46,System,Configuration Change,,
+1109,2017/04/04-13:30:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+1110,2017/04/04-14:00:21,System,Configuration Change,,
+1111,2017/04/04-14:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1112,2017/04/04-14:00:36,System,Configuration Change,,
+1113,2017/04/04-14:00:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+1114,2017/04/04-14:10:21,System,Configuration Change,,
+1115,2017/04/04-14:10:26,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1116,2017/04/04-14:20:21,System,Configuration Change,,
+1117,2017/04/04-14:20:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1118,2017/04/04-14:31:21,System,Configuration Change,,
+1119,2017/04/04-14:31:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1120,2017/04/04-14:37:58,System,Configuration Change,,
+1121,2017/04/04-14:38:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1122,2017/04/04-14:45:50,System,Configuration Change,,
+1123,2017/04/04-14:45:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1124,2017/04/04-14:47:58,System,Configuration Change,,
+1125,2017/04/04-14:48:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1126,2017/04/04-14:50:36,System,Configuration Change,,
+1127,2017/04/04-14:50:41,User,Allowed,NpofficialIn,N punch user for official In
+1128,2017/04/04-15:00:23,System,Configuration Change,,
+1129,2017/04/04-15:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1130,2017/04/04-16:00:23,System,Configuration Change,,
+1131,2017/04/04-16:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1132,2017/04/04-17:20:21,System,Configuration Change,,
+1133,2017/04/04-17:20:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1134,2017/04/04-17:47:58,System,Configuration Change,,
+1135,2017/04/04-17:48:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1136,2017/04/04-18:00:11,System,Configuration Change,,
+1137,2017/04/04-18:00:14,User,Allowed,Eligiblehours,Eligible work hours
+1138,2017/04/04-18:00:23,System,Configuration Change,,
+1139,2017/04/04-18:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1140,2017/04/04-18:01:04,System,Configuration Change,,
+1141,2017/04/04-18:01:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1142,2017/04/04-18:05:46,System,Configuration Change,,
+1143,2017/04/04-18:05:49,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+1144,2017/04/04-18:07:16,System,Login to ACS,,
+1145,2017/04/04-18:10:18,System,Configuration Change,,
+1146,2017/04/04-18:10:21,User,Allowed,BreakEOInTotal,Break earlyout in total early out
+1147,2017/04/04-18:13:26,System,Credentials Deleted,,
+1148,2017/04/04-18:19:34,System,Configuration Change,,
+1149,2017/04/04-18:19:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1150,2017/04/04-18:20:34,System,Configuration Change,,
+1151,2017/04/04-18:20:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1152,2017/04/04-18:25:34,System,Configuration Change,,
+1153,2017/04/04-18:25:34,System,Configuration Change,,
+1154,2017/04/04-18:25:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1155,2017/04/04-18:25:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1156,2017/04/04-18:29:21,System,Configuration Change,,
+1157,2017/04/04-18:29:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1158,2017/04/04-18:30:21,System,Configuration Change,,
+1159,2017/04/04-18:30:21,System,Configuration Change,,
+1160,2017/04/04-18:30:23,System,Configuration Change,,
+1161,2017/04/04-18:30:23,System,Configuration Change,,
+1162,2017/04/04-18:30:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1163,2017/04/04-18:30:24,User,Allowed,2breaklatein,2punch user with break latein
+1164,2017/04/04-18:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1165,2017/04/04-18:30:30,System,Configuration Change,,
+1166,2017/04/04-18:30:32,User,Allowed,Lessworkhours,Less work hours for daily limit
+1167,2017/04/04-18:30:36,System,Configuration Change,,
+1168,2017/04/04-18:30:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1169,2017/04/04-18:31:21,System,Configuration Change,,
+1170,2017/04/04-18:31:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1171,2017/04/04-18:31:42,System,Credentials Deleted,,
+1172,2017/04/04-18:39:18,System,Configuration Change,,
+1173,2017/04/04-18:39:22,User,Allowed,Lateingrace,User have pucnges on grace latein
+1174,2017/04/04-18:40:00,System,Configuration Change,,
+1175,2017/04/04-18:40:13,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1176,2017/04/04-18:40:23,System,Configuration Change,,
+1177,2017/04/04-18:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1178,2017/04/04-18:45:36,System,Configuration Change,,
+1179,2017/04/04-18:45:38,User,Allowed,Npunchbeyond,Npunch user with deduction type as beyond
+1180,2017/04/04-18:47:31,System,Credentials Deleted,,
+1181,2017/04/04-19:00:18,System,Configuration Change,,
+1182,2017/04/04-19:00:18,System,Configuration Change,,
+1183,2017/04/04-19:00:20,User,Allowed,Lateingrace,User have pucnges on grace latein
+1184,2017/04/04-19:00:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1185,2017/04/04-19:00:36,System,Configuration Change,,
+1186,2017/04/04-19:00:36,System,Configuration Change,,
+1187,2017/04/04-19:00:37,User,Allowed,2poutfromexit,2Punch user with out punch from exit reader o
+1188,2017/04/04-19:00:38,User,Allowed,Npunchgreater,N punch user with greater than deduction typr
+1189,2017/04/04-19:01:21,System,Configuration Change,,
+1190,2017/04/04-19:01:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1191,2017/04/04-19:01:39,System,Credentials Deleted,,
+1192,2017/04/04-19:01:45,System,Credentials Deleted,,
+1193,2017/04/04-19:02:16,User,Denied - Invalid Input,,
+1194,2017/04/04-19:02:16,System,Denied - InvalidCard,,
+1195,2017/04/04-19:02:43,System,Enrollment,Npoutfromexit,Npunch user with out punch from exit reader
+1196,2017/04/04-19:11:03,System,Power ON,,
+1197,2017/04/04-19:30:50,System,Configuration Change,,
+1198,2017/04/04-19:30:57,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1199,2017/04/04-19:31:48,System,Configuration Change,,
+1200,2017/04/04-19:31:50,User,Allowed,2punchuser,2punch user with latein
+1201,2017/04/04-19:47:58,System,Configuration Change,,
+1202,2017/04/04-19:48:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1203,2017/04/04-19:50:36,System,Configuration Change,,
+1204,2017/04/04-19:50:39,User,Allowed,NpofficialIn,N punch user for official In
+1205,2017/04/04-19:51:44,System,Credentials Deleted,,
+1206,2017/04/04-20:00:36,System,Configuration Change,,
+1207,2017/04/04-20:00:36,System,Configuration Change,,
+1208,2017/04/04-20:00:38,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1209,2017/04/04-21:00:36,System,Configuration Change,,
+1210,2017/04/04-21:00:38,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1211,2017/04/04-22:00:36,System,Configuration Change,,
+1212,2017/04/04-22:00:39,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1213,2017/04/04-22:05:49,System,Credentials Deleted,,
+1214,2017/04/04-22:47:58,System,Configuration Change,,
+1215,2017/04/04-22:48:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1216,2017/04/05-05:00:36,System,Configuration Change,,
+1217,2017/04/05-05:00:38,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1218,2017/04/05-06:00:36,System,Configuration Change,,
+1219,2017/04/05-06:00:38,User,Allowed,Autoshift,Auto shift user with shift schedule not proce
+1220,2017/04/05-07:00:11,System,Configuration Change,,
+1221,2017/04/05-07:00:16,User,Allowed,Eligiblehours,Eligible work hours
+1222,2017/04/05-08:19:34,System,Configuration Change,,
+1223,2017/04/05-08:19:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1224,2017/04/05-08:20:21,System,Configuration Change,,
+1225,2017/04/05-08:20:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1226,2017/04/05-09:00:00,System,Configuration Change,,
+1227,2017/04/05-09:00:03,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1228,2017/04/05-09:00:04,System,Configuration Change,,
+1229,2017/04/05-09:00:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1230,2017/04/05-09:00:21,System,Configuration Change,,
+1231,2017/04/05-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1232,2017/04/05-09:00:34,System,Configuration Change,,
+1233,2017/04/05-09:00:34,System,Configuration Change,,
+1234,2017/04/05-09:00:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1235,2017/04/05-09:00:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1236,2017/04/05-09:00:50,System,Configuration Change,,
+1237,2017/04/05-09:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1238,2017/04/05-09:00:58,System,Configuration Change,,
+1239,2017/04/05-09:01:11,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1240,2017/04/05-09:05:00,System,Configuration Change,,
+1241,2017/04/05-09:05:01,User,Allowed,2punchuser,2punch user with latein
+1242,2017/04/05-09:10:21,System,Configuration Change,,
+1243,2017/04/05-09:10:25,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1244,2017/04/05-09:15:18,System,Configuration Change,,
+1245,2017/04/05-09:15:22,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1246,2017/04/05-09:15:30,System,Configuration Change,,
+1247,2017/04/05-09:15:34,System,Configuration Change,,
+1248,2017/04/05-09:15:34,User,Allowed,Lessworkhours,Less work hours for daily limit
+1249,2017/04/05-09:15:37,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1250,2017/04/05-09:30:21,System,Configuration Change,,
+1251,2017/04/05-09:30:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1252,2017/04/05-09:40:23,System,Configuration Change,,
+1253,2017/04/05-09:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1254,2017/04/05-10:01:21,System,Configuration Change,,
+1255,2017/04/05-10:01:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1256,2017/04/05-11:00:58,System,Configuration Change,,
+1257,2017/04/05-11:01:01,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1258,2017/04/05-11:15:58,System,Configuration Change,,
+1259,2017/04/05-11:16:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1260,2017/04/05-11:40:23,System,Configuration Change,,
+1261,2017/04/05-11:40:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1262,2017/04/05-12:15:34,System,Configuration Change,,
+1263,2017/04/05-12:15:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1264,2017/04/05-12:22:34,System,Configuration Change,,
+1265,2017/04/05-12:22:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1266,2017/04/05-13:00:18,System,Configuration Change,,
+1267,2017/04/05-13:00:21,System,Configuration Change,,
+1268,2017/04/05-13:00:21,System,Configuration Change,,
+1269,2017/04/05-13:00:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1270,2017/04/05-13:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1271,2017/04/05-13:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1272,2017/04/05-13:00:34,System,Configuration Change,,
+1273,2017/04/05-13:00:34,System,Configuration Change,,
+1274,2017/04/05-13:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1275,2017/04/05-13:00:38,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1276,2017/04/05-13:00:50,System,Configuration Change,,
+1277,2017/04/05-13:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1278,2017/04/05-13:20:21,System,Configuration Change,,
+1279,2017/04/05-13:20:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1280,2017/04/05-13:30:21,System,Configuration Change,,
+1281,2017/04/05-13:30:26,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1282,2017/04/05-13:30:50,System,Configuration Change,,
+1283,2017/04/05-13:30:53,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1284,2017/04/05-14:00:18,System,Configuration Change,,
+1285,2017/04/05-14:00:24,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1286,2017/04/05-14:20:21,System,Configuration Change,,
+1287,2017/04/05-14:20:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1288,2017/04/05-14:31:21,System,Configuration Change,,
+1289,2017/04/05-14:31:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1290,2017/04/05-15:40:23,System,Configuration Change,,
+1291,2017/04/05-15:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1292,2017/04/05-17:00:11,System,Configuration Change,,
+1293,2017/04/05-17:00:14,User,Allowed,Eligiblehours,Eligible work hours
+1294,2017/04/05-17:49:34,System,Configuration Change,,
+1295,2017/04/05-17:49:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1296,2017/04/05-17:59:21,System,Configuration Change,,
+1297,2017/04/05-17:59:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1298,2017/04/05-18:00:04,System,Configuration Change,,
+1299,2017/04/05-18:00:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1300,2017/04/05-18:00:21,System,Configuration Change,,
+1301,2017/04/05-18:00:24,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1302,2017/04/05-18:10:00,System,Configuration Change,,
+1303,2017/04/05-18:10:01,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1304,2017/04/05-18:19:34,System,Configuration Change,,
+1305,2017/04/05-18:19:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1306,2017/04/05-18:25:30,System,Configuration Change,,
+1307,2017/04/05-18:25:30,System,Configuration Change,,
+1308,2017/04/05-18:25:33,User,Allowed,Lessworkhours,Less work hours for daily limit
+1309,2017/04/05-18:29:21,System,Configuration Change,,
+1310,2017/04/05-18:29:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1311,2017/04/05-18:30:04,System,Configuration Change,,
+1312,2017/04/05-18:30:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1313,2017/04/05-18:30:34,System,Configuration Change,,
+1314,2017/04/05-18:30:34,System,Configuration Change,,
+1315,2017/04/05-18:30:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1316,2017/04/05-18:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1317,2017/04/05-18:30:50,System,Configuration Change,,
+1318,2017/04/05-18:30:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1319,2017/04/05-18:33:53,System,Credentials Deleted,,
+1320,2017/04/05-18:38:52,System,Configuration Change,,
+1321,2017/04/05-18:38:54,User,Allowed,2punchuser,2punch user with latein
+1322,2017/04/05-18:40:23,System,Configuration Change,,
+1323,2017/04/05-18:40:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1324,2017/04/05-18:45:18,System,Configuration Change,,
+1325,2017/04/05-18:45:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1326,2017/04/05-19:15:58,System,Configuration Change,,
+1327,2017/04/05-19:16:00,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1328,2017/04/05-19:20:21,System,Configuration Change,,
+1329,2017/04/05-19:20:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1330,2017/04/05-19:31:21,System,Configuration Change,,
+1331,2017/04/05-19:31:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1332,2017/04/05-21:00:36,System,Configuration Change,,
+1333,2017/04/05-21:00:38,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1334,2017/04/06-05:00:36,System,Configuration Change,,
+1335,2017/04/06-05:00:39,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1336,2017/04/06-07:00:11,System,Configuration Change,,
+1337,2017/04/06-07:00:13,User,Allowed,Eligiblehours,Eligible work hours
+1338,2017/04/06-08:50:34,System,Configuration Change,,
+1339,2017/04/06-08:50:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1340,2017/04/06-08:59:21,System,Configuration Change,,
+1341,2017/04/06-08:59:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1342,2017/04/06-09:00:00,System,Configuration Change,,
+1343,2017/04/06-09:00:00,System,Configuration Change,,
+1344,2017/04/06-09:00:02,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1345,2017/04/06-09:00:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1346,2017/04/06-09:00:18,System,Configuration Change,,
+1347,2017/04/06-09:00:21,System,Configuration Change,,
+1348,2017/04/06-09:00:21,System,Configuration Change,,
+1349,2017/04/06-09:00:21,System,Configuration Change,,
+1350,2017/04/06-09:00:21,System,Configuration Change,,
+1351,2017/04/06-09:00:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1352,2017/04/06-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1353,2017/04/06-09:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1354,2017/04/06-09:00:26,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1355,2017/04/06-09:00:34,System,Configuration Change,,
+1356,2017/04/06-09:00:34,System,Configuration Change,,
+1357,2017/04/06-09:00:36,System,Configuration Change,,
+1358,2017/04/06-09:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1359,2017/04/06-09:00:37,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1360,2017/04/06-09:00:39,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1361,2017/04/06-09:00:50,System,Configuration Change,,
+1362,2017/04/06-09:00:52,System,Configuration Change,,
+1363,2017/04/06-09:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1364,2017/04/06-09:00:54,User,Allowed,2punchuser,2punch user with latein
+1365,2017/04/06-09:15:21,System,Configuration Change,,
+1366,2017/04/06-09:15:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1367,2017/04/06-09:20:21,System,Configuration Change,,
+1368,2017/04/06-09:20:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1369,2017/04/06-09:20:34,System,Configuration Change,,
+1370,2017/04/06-09:20:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1371,2017/04/06-09:30:23,System,Configuration Change,,
+1372,2017/04/06-09:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1373,2017/04/06-10:00:04,System,Configuration Change,,
+1374,2017/04/06-10:00:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1375,2017/04/06-11:30:23,System,Configuration Change,,
+1376,2017/04/06-11:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1377,2017/04/06-12:00:21,System,Configuration Change,,
+1378,2017/04/06-12:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1379,2017/04/06-12:30:21,System,Configuration Change,,
+1380,2017/04/06-12:30:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1381,2017/04/06-12:30:34,System,Configuration Change,,
+1382,2017/04/06-12:30:38,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1383,2017/04/06-13:00:00,System,Configuration Change,,
+1384,2017/04/06-13:00:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1385,2017/04/06-13:00:18,System,Configuration Change,,
+1386,2017/04/06-13:00:20,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1387,2017/04/06-13:00:21,System,Configuration Change,,
+1388,2017/04/06-13:00:25,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1389,2017/04/06-13:00:50,System,Configuration Change,,
+1390,2017/04/06-13:00:54,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1391,2017/04/06-13:02:34,System,Configuration Change,,
+1392,2017/04/06-13:02:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1393,2017/04/06-13:20:21,System,Configuration Change,,
+1394,2017/04/06-13:20:23,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1395,2017/04/06-13:30:34,System,Configuration Change,,
+1396,2017/04/06-13:30:34,System,Configuration Change,,
+1397,2017/04/06-13:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1398,2017/04/06-13:30:38,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1399,2017/04/06-13:40:50,System,Configuration Change,,
+1400,2017/04/06-13:40:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1401,2017/04/06-13:45:18,System,Configuration Change,,
+1402,2017/04/06-13:45:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1403,2017/04/06-14:00:00,System,Configuration Change,,
+1404,2017/04/06-14:00:03,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1405,2017/04/06-14:00:21,System,Configuration Change,,
+1406,2017/04/06-14:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1407,2017/04/06-14:10:21,System,Configuration Change,,
+1408,2017/04/06-14:10:23,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1409,2017/04/06-15:00:11,System,Configuration Change,,
+1410,2017/04/06-15:00:14,User,Allowed,Eligiblehours,Eligible work hours
+1411,2017/04/06-15:30:23,System,Configuration Change,,
+1412,2017/04/06-15:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1413,2017/04/06-17:30:21,System,Configuration Change,,
+1414,2017/04/06-17:30:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1415,2017/04/06-17:49:34,System,Configuration Change,,
+1416,2017/04/06-17:49:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1417,2017/04/06-17:55:21,System,Configuration Change,,
+1418,2017/04/06-17:55:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1419,2017/04/06-17:59:21,System,Configuration Change,,
+1420,2017/04/06-17:59:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1421,2017/04/06-18:00:21,System,Configuration Change,,
+1422,2017/04/06-18:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1423,2017/04/06-18:00:34,System,Configuration Change,,
+1424,2017/04/06-18:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1425,2017/04/06-18:25:00,System,Configuration Change,,
+1426,2017/04/06-18:25:02,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1427,2017/04/06-18:30:23,System,Configuration Change,,
+1428,2017/04/06-18:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1429,2017/04/06-18:30:34,System,Configuration Change,,
+1430,2017/04/06-18:30:36,System,Configuration Change,,
+1431,2017/04/06-18:30:36,System,Configuration Change,,
+1432,2017/04/06-18:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1433,2017/04/06-18:30:38,User,Allowed,Autoshiftproces,Auto shift user whose shift has been processe
+1434,2017/04/06-18:30:52,System,Configuration Change,,
+1435,2017/04/06-18:30:54,User,Allowed,2punchuser,2punch user with latein
+1436,2017/04/06-18:33:54,System,Credentials Deleted,,
+1437,2017/04/06-18:40:23,System,Configuration Change,,
+1438,2017/04/06-18:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1439,2017/04/06-18:40:34,System,Configuration Change,,
+1440,2017/04/06-18:40:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1441,2017/04/06-18:40:50,System,Configuration Change,,
+1442,2017/04/06-18:40:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1443,2017/04/06-18:45:18,System,Configuration Change,,
+1444,2017/04/06-18:45:21,System,Configuration Change,,
+1445,2017/04/06-18:45:21,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1446,2017/04/06-18:45:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1447,2017/04/06-18:50:34,System,Configuration Change,,
+1448,2017/04/06-18:50:37,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1449,2017/04/06-19:00:00,System,Configuration Change,,
+1450,2017/04/06-19:00:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1451,2017/04/06-19:00:04,System,Configuration Change,,
+1452,2017/04/06-19:00:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1453,2017/04/06-19:10:21,System,Configuration Change,,
+1454,2017/04/06-19:10:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1455,2017/04/06-19:40:23,System,Configuration Change,,
+1456,2017/04/06-19:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1457,2017/04/07-08:00:00,System,Configuration Change,,
+1458,2017/04/07-08:00:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1459,2017/04/07-08:10:21,System,Configuration Change,,
+1460,2017/04/07-08:10:21,System,Configuration Change,,
+1461,2017/04/07-08:10:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1462,2017/04/07-08:30:04,System,Configuration Change,,
+1463,2017/04/07-08:30:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1464,2017/04/07-08:30:11,System,Configuration Change,,
+1465,2017/04/07-08:30:13,User,Allowed,Eligiblehours,Eligible work hours
+1466,2017/04/07-08:30:52,System,Configuration Change,,
+1467,2017/04/07-08:30:54,User,Allowed,2punchuser,2punch user with latein
+1468,2017/04/07-08:40:23,System,Configuration Change,,
+1469,2017/04/07-08:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1470,2017/04/07-08:40:34,System,Configuration Change,,
+1471,2017/04/07-08:40:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1472,2017/04/07-09:00:21,System,Configuration Change,,
+1473,2017/04/07-09:00:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1474,2017/04/07-09:00:34,System,Configuration Change,,
+1475,2017/04/07-09:00:34,System,Configuration Change,,
+1476,2017/04/07-09:00:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1477,2017/04/07-09:00:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1478,2017/04/07-09:00:50,System,Configuration Change,,
+1479,2017/04/07-09:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1480,2017/04/07-09:05:21,System,Configuration Change,,
+1481,2017/04/07-09:05:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1482,2017/04/07-09:15:18,System,Configuration Change,,
+1483,2017/04/07-09:16:06,User,Allowed,4ptotallatein,4punch user for adding break latein in total
+1484,2017/04/07-09:25:00,System,Configuration Change,,
+1485,2017/04/07-09:25:05,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1486,2017/04/07-09:30:21,System,Configuration Change,,
+1487,2017/04/07-09:30:21,System,Configuration Change,,
+1488,2017/04/07-09:30:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1489,2017/04/07-09:30:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1490,2017/04/07-09:36:43,System,Credentials Deleted,,
+1491,2017/04/07-09:40:34,System,Configuration Change,,
+1492,2017/04/07-09:40:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1493,2017/04/07-10:00:00,System,Configuration Change,,
+1494,2017/04/07-10:00:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1495,2017/04/07-10:20:00,System,Configuration Change,,
+1496,2017/04/07-10:20:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1497,2017/04/07-10:40:23,System,Configuration Change,,
+1498,2017/04/07-10:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1499,2017/04/07-10:50:23,System,Configuration Change,,
+1500,2017/04/07-10:50:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1501,2017/04/07-11:30:04,System,Configuration Change,,
+1502,2017/04/07-12:10:21,System,Configuration Change,,
+1503,2017/04/07-12:10:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1504,2017/04/07-12:40:34,System,Configuration Change,,
+1505,2017/04/07-12:40:38,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1506,2017/04/07-12:55:34,System,Configuration Change,,
+1507,2017/04/07-12:55:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1508,2017/04/07-13:00:34,System,Configuration Change,,
+1509,2017/04/07-13:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1510,2017/04/07-13:00:50,System,Configuration Change,,
+1511,2017/04/07-13:00:54,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1512,2017/04/07-13:20:00,System,Configuration Change,,
+1513,2017/04/07-13:20:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1514,2017/04/07-13:30:21,System,Configuration Change,,
+1515,2017/04/07-13:30:21,System,Configuration Change,,
+1516,2017/04/07-13:30:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1517,2017/04/07-13:30:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1518,2017/04/07-13:30:34,System,Configuration Change,,
+1519,2017/04/07-13:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1520,2017/04/07-13:40:00,System,Configuration Change,,
+1521,2017/04/07-13:40:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1522,2017/04/07-14:00:21,System,Configuration Change,,
+1523,2017/04/07-14:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1524,2017/04/07-14:00:50,System,Configuration Change,,
+1525,2017/04/07-14:00:53,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1526,2017/04/07-14:10:21,System,Configuration Change,,
+1527,2017/04/07-14:10:21,System,Configuration Change,,
+1528,2017/04/07-14:10:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1529,2017/04/07-14:10:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1530,2017/04/07-16:30:11,System,Configuration Change,,
+1531,2017/04/07-16:30:17,User,Allowed,Eligiblehours,Eligible work hours
+1532,2017/04/07-16:50:23,System,Configuration Change,,
+1533,2017/04/07-16:50:23,System,Configuration Change,,
+1534,2017/04/07-16:50:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1535,2017/04/07-17:00:23,System,Configuration Change,,
+1536,2017/04/07-17:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1537,2017/04/07-17:59:21,System,Configuration Change,,
+1538,2017/04/07-17:59:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1539,2017/04/07-18:00:21,System,Configuration Change,,
+1540,2017/04/07-18:00:22,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1541,2017/04/07-18:00:52,System,Configuration Change,,
+1542,2017/04/07-18:00:54,User,Allowed,2punchuser,2punch user with latein
+1543,2017/04/07-18:25:00,System,Configuration Change,,
+1544,2017/04/07-18:25:15,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1545,2017/04/07-18:25:34,System,Configuration Change,,
+1546,2017/04/07-18:25:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1547,2017/04/07-18:30:04,System,Configuration Change,,
+1548,2017/04/07-18:30:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1549,2017/04/07-18:30:21,System,Configuration Change,,
+1550,2017/04/07-18:30:23,System,Configuration Change,,
+1551,2017/04/07-18:30:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1552,2017/04/07-18:30:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1553,2017/04/07-18:30:34,System,Configuration Change,,
+1554,2017/04/07-18:30:34,System,Configuration Change,,
+1555,2017/04/07-18:30:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1556,2017/04/07-18:30:37,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1557,2017/04/07-18:35:21,System,Configuration Change,,
+1558,2017/04/07-18:35:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1559,2017/04/07-18:40:00,System,Configuration Change,,
+1560,2017/04/07-18:40:00,System,Configuration Change,,
+1561,2017/04/07-18:40:02,User,Allowed,npunchnolatein,Npunch user with no late in duration
+1562,2017/04/07-19:00:50,System,Configuration Change,,
+1563,2017/04/07-19:00:53,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1564,2017/04/07-19:00:57,System,Credentials Deleted,,
+1565,2017/04/07-19:10:34,System,Configuration Change,,
+1566,2017/04/07-19:10:38,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1567,2017/04/07-20:10:21,System,Configuration Change,,
+1568,2017/04/07-20:10:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1569,2017/04/08-08:30:11,System,Configuration Change,,
+1570,2017/04/08-08:30:13,User,Allowed,Eligiblehours,Eligible work hours
+1571,2017/04/08-08:40:34,System,Configuration Change,,
+1572,2017/04/08-08:40:34,System,Configuration Change,,
+1573,2017/04/08-08:40:37,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1574,2017/04/08-09:00:21,System,Configuration Change,,
+1575,2017/04/08-09:00:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1576,2017/04/08-09:00:34,System,Configuration Change,,
+1577,2017/04/08-09:00:34,System,Configuration Change,,
+1578,2017/04/08-09:00:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1579,2017/04/08-09:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1580,2017/04/08-09:10:00,System,Configuration Change,,
+1581,2017/04/08-09:10:05,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1582,2017/04/08-09:10:21,System,Configuration Change,,
+1583,2017/04/08-09:10:21,System,Configuration Change,,
+1584,2017/04/08-09:10:21,System,Configuration Change,,
+1585,2017/04/08-09:10:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1586,2017/04/08-09:10:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1587,2017/04/08-09:25:52,System,Configuration Change,,
+1588,2017/04/08-09:25:54,User,Allowed,2punchuser,2punch user with latein
+1589,2017/04/08-09:30:21,System,Configuration Change,,
+1590,2017/04/08-09:30:23,System,Configuration Change,,
+1591,2017/04/08-09:30:25,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1592,2017/04/08-09:30:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1593,2017/04/08-09:30:50,System,Configuration Change,,
+1594,2017/04/08-09:30:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1595,2017/04/08-09:45:34,System,Configuration Change,,
+1596,2017/04/08-09:45:37,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1597,2017/04/08-10:35:21,System,Configuration Change,,
+1598,2017/04/08-10:35:24,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1599,2017/04/08-11:30:04,System,Configuration Change,,
+1600,2017/04/08-11:30:06,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1601,2017/04/08-11:30:23,System,Configuration Change,,
+1602,2017/04/08-11:30:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1603,2017/04/08-11:40:23,System,Configuration Change,,
+1604,2017/04/08-11:40:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1605,2017/04/08-11:50:23,System,Configuration Change,,
+1606,2017/04/08-11:50:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1607,2017/04/08-12:30:21,System,Configuration Change,,
+1608,2017/04/08-12:30:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1609,2017/04/08-12:45:34,System,Configuration Change,,
+1610,2017/04/08-12:45:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1611,2017/04/08-13:00:34,System,Configuration Change,,
+1612,2017/04/08-13:00:34,System,Configuration Change,,
+1613,2017/04/08-13:00:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1614,2017/04/08-13:00:37,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1615,2017/04/08-13:00:50,System,Configuration Change,,
+1616,2017/04/08-13:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1617,2017/04/08-13:10:21,System,Configuration Change,,
+1618,2017/04/08-13:10:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1619,2017/04/08-13:30:34,System,Configuration Change,,
+1620,2017/04/08-13:30:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1621,2017/04/08-13:40:50,System,Configuration Change,,
+1622,2017/04/08-13:40:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1623,2017/04/08-14:00:21,System,Configuration Change,,
+1624,2017/04/08-14:00:21,System,Configuration Change,,
+1625,2017/04/08-14:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1626,2017/04/08-14:00:24,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1627,2017/04/08-15:00:23,System,Configuration Change,,
+1628,2017/04/08-15:00:35,User,Allowed,nPunchlatein,npunch user with 30min latein
+1629,2017/04/08-16:30:11,System,Configuration Change,,
+1630,2017/04/08-16:30:19,User,Allowed,Eligiblehours,Eligible work hours
+1631,2017/04/08-17:29:40,System,Credentials Deleted,,
+1632,2017/04/08-17:30:34,System,Configuration Change,,
+1633,2017/04/08-17:30:38,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1634,2017/04/08-17:40:34,System,Configuration Change,,
+1635,2017/04/08-17:40:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1636,2017/04/08-17:55:21,System,Configuration Change,,
+1637,2017/04/08-17:55:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1638,2017/04/08-18:20:21,System,Configuration Change,,
+1639,2017/04/08-18:20:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1640,2017/04/08-18:28:21,System,Configuration Change,,
+1641,2017/04/08-18:28:24,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1642,2017/04/08-18:29:21,System,Configuration Change,,
+1643,2017/04/08-18:29:24,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1644,2017/04/08-18:30:23,System,Configuration Change,,
+1645,2017/04/08-18:30:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1646,2017/04/08-18:30:34,System,Configuration Change,,
+1647,2017/04/08-18:30:43,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1648,2017/04/08-18:55:52,System,Configuration Change,,
+1649,2017/04/08-18:55:54,User,Allowed,2punchuser,2punch user with latein
+1650,2017/04/08-19:00:21,System,Configuration Change,,
+1651,2017/04/08-19:00:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1652,2017/04/08-19:00:50,System,Configuration Change,,
+1653,2017/04/08-19:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1654,2017/04/08-19:30:34,System,Configuration Change,,
+1655,2017/04/08-19:30:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1656,2017/04/08-19:35:21,System,Configuration Change,,
+1657,2017/04/08-19:35:23,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1658,2017/04/08-20:30:04,System,Configuration Change,,
+1659,2017/04/08-20:30:07,User,Allowed,2punchnolatein,2punch user with no late in duration applicab
+1660,2017/04/08-20:31:18,System,Credentials Deleted,,
+1661,2017/04/09-06:30:10,System,Configuration Change,,
+1662,2017/04/09-06:30:12,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+1663,2017/04/09-21:30:10,System,Configuration Change,,
+1664,2017/04/09-21:30:14,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+1665,2017/04/09-21:38:20,System,Credentials Deleted,,
+1666,2017/04/10-07:00:56,System,Configuration Change,,
+1667,2017/04/10-07:00:59,User,Allowed,daily1weekends,daily1 weekends config in OT
+1668,2017/04/10-07:30:10,System,Configuration Change,,
+1669,2017/04/10-07:30:12,User,Allowed,daily1earlyin,Cal onWOPH as per weekday
+1670,2017/04/10-08:00:30,System,Configuration Change,,
+1671,2017/04/10-08:00:33,User,Allowed,OTonWeekdays,Overtime consider  weekdays for WOPH
+1672,2017/04/10-08:59:21,System,Configuration Change,,
+1673,2017/04/10-08:59:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1674,2017/04/10-09:00:06,System,Configuration Change,,
+1675,2017/04/10-09:00:10,System,Configuration Change,,
+1676,2017/04/10-09:00:10,System,Configuration Change,,
+1677,2017/04/10-09:00:10,User,Allowed,FlexibleOT,OT for flexible user
+1678,2017/04/10-09:00:12,User,Allowed,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend
+1679,2017/04/10-09:00:12,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+1680,2017/04/10-09:00:14,System,Configuration Change,,
+1681,2017/04/10-09:00:16,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+1682,2017/04/10-09:00:21,System,Configuration Change,,
+1683,2017/04/10-09:00:21,System,Configuration Change,,
+1684,2017/04/10-09:00:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1685,2017/04/10-09:00:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1686,2017/04/10-09:00:30,System,Configuration Change,,
+1687,2017/04/10-09:00:34,System,Configuration Change,,
+1688,2017/04/10-09:00:34,System,Configuration Change,,
+1689,2017/04/10-09:00:34,System,Configuration Change,,
+1690,2017/04/10-09:00:34,User,Allowed,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT
+1691,2017/04/10-09:00:35,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1692,2017/04/10-09:00:37,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1693,2017/04/10-09:00:38,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1694,2017/04/10-09:00:59,System,Configuration Change,,
+1695,2017/04/10-09:01:14,User,Allowed,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox
+1696,2017/04/10-09:20:21,System,Configuration Change,,
+1697,2017/04/10-09:20:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1698,2017/04/10-09:20:34,System,Configuration Change,,
+1699,2017/04/10-09:20:38,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1700,2017/04/10-09:31:21,System,Configuration Change,,
+1701,2017/04/10-09:31:23,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1702,2017/04/10-09:45:52,System,Configuration Change,,
+1703,2017/04/10-09:45:54,User,Allowed,2punchuser,2punch user with latein
+1704,2017/04/10-09:45:57,System,Configuration Change,,
+1705,2017/04/10-09:45:59,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1706,2017/04/10-10:00:23,System,Configuration Change,,
+1707,2017/04/10-10:00:28,User,Allowed,nPunchlatein,npunch user with 30min latein
+1708,2017/04/10-10:00:50,System,Configuration Change,,
+1709,2017/04/10-10:00:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1710,2017/04/10-12:00:34,System,Configuration Change,,
+1711,2017/04/10-12:00:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1712,2017/04/10-12:30:34,System,Configuration Change,,
+1713,2017/04/10-12:30:35,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1714,2017/04/10-12:45:21,System,Configuration Change,,
+1715,2017/04/10-12:45:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1716,2017/04/10-12:49:34,System,Configuration Change,,
+1717,2017/04/10-12:49:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1718,2017/04/10-13:00:21,System,Configuration Change,,
+1719,2017/04/10-13:00:23,System,Configuration Change,,
+1720,2017/04/10-13:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1721,2017/04/10-13:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1722,2017/04/10-13:00:50,System,Configuration Change,,
+1723,2017/04/10-13:00:53,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1724,2017/04/10-13:20:21,System,Configuration Change,,
+1725,2017/04/10-13:20:21,System,Configuration Change,,
+1726,2017/04/10-13:20:25,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1727,2017/04/10-13:20:25,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1728,2017/04/10-13:20:34,System,Configuration Change,,
+1729,2017/04/10-13:20:41,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1730,2017/04/10-14:00:21,System,Configuration Change,,
+1731,2017/04/10-14:00:23,System,Configuration Change,,
+1732,2017/04/10-14:00:23,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1733,2017/04/10-14:00:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1734,2017/04/10-14:15:50,System,Configuration Change,,
+1735,2017/04/10-14:15:53,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1736,2017/04/10-14:20:21,System,Configuration Change,,
+1737,2017/04/10-14:20:23,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1738,2017/04/10-16:00:06,System,Configuration Change,,
+1739,2017/04/10-16:00:09,User,Allowed,FlexibleOT,OT for flexible user
+1740,2017/04/10-16:08:54,System,Credentials Deleted,,
+1741,2017/04/10-17:00:34,System,Configuration Change,,
+1742,2017/04/10-17:00:36,User,Allowed,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio
+1743,2017/04/10-17:30:21,System,Configuration Change,,
+1744,2017/04/10-17:30:23,User,Allowed,2punchearlyout,2punchuserwith earlyout policy
+1745,2017/04/10-17:55:34,System,Configuration Change,,
+1746,2017/04/10-17:55:36,User,Allowed,4pgracebreakear,4 punch user with break early out and grace
+1747,2017/04/10-17:59:21,System,Configuration Change,,
+1748,2017/04/10-17:59:27,User,Allowed,npunchwithearly,npunch user with earlyout policy
+1749,2017/04/10-18:00:23,System,Configuration Change,,
+1750,2017/04/10-18:00:26,User,Allowed,nPunchlatein,npunch user with 30min latein
+1751,2017/04/10-18:10:23,System,Configuration Change,,
+1752,2017/04/10-18:10:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1753,2017/04/10-18:20:21,System,Configuration Change,,
+1754,2017/04/10-18:20:21,System,Configuration Change,,
+1755,2017/04/10-18:20:24,User,Allowed,4breaklatein,4 punch user with break latein AND earlyout
+1756,2017/04/10-18:29:21,System,Configuration Change,,
+1757,2017/04/10-18:29:23,User,Allowed,2punchnoearly,2punch with no earlyout duration
+1758,2017/04/10-18:30:10,System,Configuration Change,,
+1759,2017/04/10-18:30:12,User,Allowed,daily1earlyin,Cal onWOPH as per weekday
+1760,2017/04/10-18:30:34,System,Configuration Change,,
+1761,2017/04/10-18:30:36,User,Allowed,npgraceEO,Npunch user with grace in EO and EO duration
+1762,2017/04/10-18:31:09,System,Credentials Deleted,,
+1763,2017/04/10-18:33:43,System,Credentials Deleted,,
+1764,2017/04/10-18:40:21,System,Configuration Change,,
+1765,2017/04/10-18:40:24,User,Allowed,npunchnoearly,npunch user with no earlyout policy
+1766,2017/04/10-18:40:34,System,Configuration Change,,
+1767,2017/04/10-18:40:36,User,Allowed,2pGraceinWH,2Punch user includes grace time in work hours
+1768,2017/04/10-19:00:10,System,Configuration Change,,
+1769,2017/04/10-19:00:10,System,Configuration Change,,
+1770,2017/04/10-19:00:12,User,Allowed,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend
+1771,2017/04/10-19:00:12,User,Allowed,daily1wkdys,daily1 wkdys and weekends not assigned
+1772,2017/04/10-19:00:14,System,Configuration Change,,
+1773,2017/04/10-19:00:17,User,Allowed,NetworkHrs,Networkhours bt no OT Component
+1774,2017/04/10-19:00:30,System,Configuration Change,,
+1775,2017/04/10-19:00:33,User,Allowed,OTonWeekdays,Overtime consider  weekdays for WOPH
+1776,2017/04/10-19:00:59,System,Configuration Change,,
+1777,2017/04/10-19:01:02,User,Allowed,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox
+1778,2017/04/10-19:05:04,System,Credentials Deleted,,
+1779,2017/04/10-19:10:23,System,Configuration Change,,
+1780,2017/04/10-19:10:25,User,Allowed,nPunchlatein,npunch user with 30min latein
+1781,2017/04/10-19:13:12,System,Credentials Deleted,,
+1782,2017/04/10-19:15:52,System,Configuration Change,,
+1783,2017/04/10-19:15:54,User,Allowed,2punchuser,2punch user with latein
+1784,2017/04/10-19:15:57,System,Configuration Change,,
+1785,2017/04/10-19:15:59,User,Allowed,2pgracelatein,2punch user with grace and late in policy
+1786,2017/04/10-19:18:09,System,Login to ACS,,
+1787,2017/04/10-19:18:35,System,Login to ACS,,
+1788,2017/04/10-19:21:38,System,Configuration Change,,
+1789,2017/04/10-19:28:20,System,Credentials Deleted,,
+1790,2017/04/10-19:30:30,System,Configuration Change,,
+1791,2017/04/10-19:30:33,User,Allowed,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT
+1792,2017/04/10-19:34:50,System,Configuration Change,,
+1793,2017/04/10-19:34:52,User,Allowed,4pgracebreaklat,4 punch user with grace for shift and breakla
+1794,2017/04/10-19:35:20,System,Login to ACS,,
+1795,2017/04/10-19:35:44,System,Credentials Deleted,,
+1796,2017/04/10-19:44:03,System,Login to ACS,,
+1797,2017/04/10-19:44:40,System,Login to ACS,,
+1798,2017/04/10-19:49:19,System,Credentials Deleted,,
+1799,2017/04/10-19:53:31,System,Credentials Deleted,,
+1800,2017/04/10-20:00:13,System,Login to ACS,,
+1801,2017/04/10-20:20:56,System,Configuration Change,,
+1802,2017/04/10-20:20:58,User,Allowed,daily1weekends,daily1 weekends config in OT
+1803,2017/04/10-20:26:11,System,Credentials Deleted,,
+Device : PVR Door-Device-3,,,,,Site-2
+1,2017/04/01-09:00:04,System,Configuration Change,,
+Device : Vega Controller-Device-9,,,,,Site-1
+1,2017/04/01-04:30:00,System,Configuration Change,,
+2,2017/04/01-04:30:00,System,Configuration Change,,
+3,2017/04/01-09:46:19,System,Power ON,,
+4,2017/04/01-09:46:45,System,Backup and Update,,
+5,2017/04/01-09:47:51,System,Credentials Deleted,,
+6,2017/04/01-09:50:20,System,Login to ACS,,
+7,2017/04/01-19:30:00,System,Configuration Change,,
+8,2017/04/01-19:30:00,System,Configuration Change,,
+9,2017/04/01-19:30:04,User,Denied - Disabled User,auto,auto
+10,2017/04/01-19:30:34,User,Allowed,auto,auto
+11,2017/04/01-19:30:36,System,Enrollment,auto,auto
+12,2017/04/02-04:30:00,System,Configuration Change,,
+13,2017/04/02-04:30:00,System,Configuration Change,,
+14,2017/04/02-04:30:04,User,Allowed,auto,auto
+15,2017/04/03-19:30:00,System,Configuration Change,,
+16,2017/04/03-19:30:00,System,Configuration Change,,
+17,2017/04/03-19:30:25,User,Allowed,auto,auto
+18,2017/04/04-04:30:00,System,Configuration Change,,
+19,2017/04/04-04:30:00,System,Configuration Change,,
+20,2017/04/04-04:30:00,System,Configuration Change,,
+21,2017/04/04-04:30:04,User,Allowed,auto,auto
+22,2017/04/05-09:30:00,System,Configuration Change,,
+23,2017/04/05-09:30:08,User,Allowed,auto,auto
+24,2017/04/06-04:30:00,System,Configuration Change,,
+25,2017/04/06-04:30:03,User,Allowed,auto,auto
+26,2017/04/08-19:30:00,System,Configuration Change,,
+27,2017/04/08-19:30:04,User,Allowed,auto,auto
+28,2017/04/09-04:30:00,System,Configuration Change,,
+29,2017/04/09-04:30:03,User,Allowed,auto,auto
+30,2017/04/10-19:30:00,System,Configuration Change,,
+31,2017/04/10-19:30:02,User,Allowed,auto,auto

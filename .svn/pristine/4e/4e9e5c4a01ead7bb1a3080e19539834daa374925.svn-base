@@ -1,0 +1,31 @@
+,,DADB,,,,,Page 1 of 1,
+,,Branch-Wise Total Head Count & Overtime From 01/04/2017 To 10/04/2017,,,,,,
+Run by:,System Admin,,,Date:,,,,
+Branch:,Branch-1,,Weekly Offs:,182,Absents:,166.0,Leaves:,270.5
+Department,,, Shift, Shift Name,,,Headcount ,Overtime 
+  ID:,1,,A1,autoshift1,,,4,02:00
+  Name:,Department-1,,,,,,,
+,,,A2,autoshift2,,,2,00:00
+,,,BE,Break earlyout,,,6,02:00
+,,,BT,Break latein in tota,,,4,03:30
+,,,ET,Breakearlyin Total,,,4,01:25
+,,,BR,Breaklatein,,,6,02:45
+,,,EO,Earlyout shift,,,20,03:31
+,,,EG,Earlyout with grace,,,4,01:00
+,,,FB,Field Break,,,0,00:00
+,,,WH,Garce in work hours,,,8,02:10
+,,,GS,General Shift,,,69,30:17
+,,,HO,Genetal shift HO,,,118,230:29
+,,,GY,Graveyard,,,5,04:00
+,,,LI,Latein,,,10,04:01
+,,,NS,Night shift,,,4,00:59
+,,,RD,Rest day,,,0,00:00
+,,,SO,Shift for special ov,,,5,15:00
+,,,DV,Shiftdeviation,,,7,12:00
+,,,,TOTAL ,,,276.0,315:07
+Department,,, Shift, Shift Name,,,Headcount ,Overtime 
+  ID:,2,,FB,Field Break,,,0,00:00
+  Name:,Dept2,,,,,,,
+,,,GS,General Shift,,,8,05:54
+,,,RD,Rest day,,,0,00:00
+,,,,TOTAL ,,,8.0,05:54

@@ -1,0 +1,18 @@
+UserID,UserName,EventDateTime,EntryExitType,MasterControllerID,DoorControllerID
+new,new,2022/02/02 15:33:07,0,18,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 09:20:23,0,17,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 10:05:16,0,17,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 10:05:24,0,17,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 10:05:33,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:42:02,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:42:07,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:42:19,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:42:25,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:46:57,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 11:58:44,0,17,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 12:02:15,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 12:03:12,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/01/21 12:06:49,0,17,1
+2punchnolatein,2punch user with no late in duration applicab,2022/01/21 14:40:02,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/02/02 13:57:15,0,17,1
+nPunchlatein,npunch user with 30min latein,2022/02/02 13:59:17,0,17,1

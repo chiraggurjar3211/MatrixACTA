@@ -1,0 +1,7 @@
+,,DADB,,,,,Page 1 of 1
+,,Access Denied From 01/04/2017 To 10/04/2017,,,,,
+Run by:,System Admin,,,,,, Date:
+Sr No, User ID,Name,Enterprise group,Credential,Time,IN/OUT,Reason
+01/04/2017,,,,,,,
+Vega Controller-Device-9,,,,,,,
+1,auto,auto,ORG2,Finger,19:30,IN,Denied - Disabled User

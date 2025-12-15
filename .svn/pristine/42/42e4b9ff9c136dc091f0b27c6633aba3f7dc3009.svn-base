@@ -1,0 +1,311 @@
+,,DADB,,,,,,,,,,,,,,Page 1 of 1,,
+,,Organization-Wise Salary Data For APRIL-2017,,,,,,,,,,,,,,,,
+Run by:,System Admin,,,,,,,,,,,Date:,,,,,,
+Sr No, User,Name/Designation,,,PR,WO,PH,PL,TR,AB,Not ,UL,LO,Shift,Pay,Auth,Total ,Total 
+, ID,,,,,,,,,,Reported ,,,ALW,Days,OT,WorkTime,C-OFF
+DADB,,,,,,,,,,,,,,,,,,
+1,EOgraceexceed,Earlyout grace duration exceeds,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:19,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+2,FB,OT for FB,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,09:59,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+3,firsthalfabsent,First half absent,,,1.5,5,1,1.0,0.0,21.5,22.0,0.0,0.0,0,8.0,00:00,09:30,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+4,Firsthalfleave,User with first half leave,,,1.0,5,1,3.5,0.0,19.5,22.0,0.0,0.0,0,10.0,00:00,09:00,00:00
+,,Designation-1,,,PL:3.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+5,Flexible,flexibleuser,,,0.0,5,1,1.0,0.0,23.0,21.0,0.0,0.0,0,7.0,00:00,12:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+6,FlexibleOT,OT for flexible user,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,16:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+7,Fulldayleave,User with full day leave,,,0.0,5,1,3.5,0.0,20.5,22.0,0.0,0.0,0,10.0,00:00,00:00,00:00
+,,Designation-1,,,PL:3.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+8,Inpunch,User with In pucnh only,,,0.0,5,1,0.5,0.0,23.5,22.0,0.0,0.0,0,6.0,00:00,00:00,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+9,Jpcdefaultenter,Job coseting user with default job of enterpr,,,0.5,5,1,1.0,0.0,22.5,23.0,0.0,0.0,0,8.0,00:00,09:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+10,JPCmergejob,JPC merged Job,,,2.0,5,1,0.5,0.0,21.5,21.0,0.0,0.0,0,8.0,00:00,21:00,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+11,Lategraceexceed,User with exceed grace period,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:04,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+12,Latein,user punches on latein only,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+13,Lateinduraexcee,Late in Duration exceed,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+14,Lateingrace,User have pucnges on grace latein,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,27:01,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+15,Lessworkhours,Less work hours for daily limit,,,4.0,5,1,1.0,0.0,19.0,20.0,0.0,0.0,0,11.0,00:00,35:20,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+16,manualOT,User with Manual Overtime,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,02:00,25:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+17,mitali,mitali,,,2.5,1,0,0.0,3.5,0.0,3.0,0.0,0.0,0,7.0,00:00,28:08,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+18,mixshift,mixshifts,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+19,NetworkHrs,Networkhours bt no OT Component,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,29:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+20,NightShift,NightShift,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+21,Normal,normal user,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+22,npgraceEO,Npunch user with grace in EO and EO duration,,,9.0,5,1,1.0,0.0,14.0,15.0,0.0,0.0,0,16.0,00:00,84:58,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+23,NpofficialIn,N punch user for official In,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,28:50,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+24,Npoutfromexit,Npunch user with out punch from exit reader,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+25,npshortleavein,n punch user for shortleave in,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:50,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+26,npshortleaveout,n punch user with short leave out,,,1.5,5,1,1.0,0.0,21.5,22.0,0.0,0.0,0,8.0,00:00,17:30,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+27,Npucnofficialou,N punch user with official out,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,19:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+28,Npunchbeyond,Npunch user with deduction type as beyond,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,29:20,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+29,NpunchFlexible,Npunch user with type as flexible,,,0.0,5,1,1.0,0.0,23.0,22.0,0.0,0.0,0,7.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+30,Npunchgreater,N punch user with greater than deduction typr,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,27:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+31,nPunchlatein,npunch user with 30min latein,,,5.0,5,1,1.0,0.0,18.0,17.0,0.0,0.0,0,12.0,00:00,54:41,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+32,NpunchNightshif,N punch user with night shift,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,18:50,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+33,npunchnoearly,npunch user with no earlyout policy,,,10.5,5,1,1.0,0.0,12.5,13.0,0.0,0.0,0,18.0,00:00,96:58,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+34,npunchnolatein,Npunch user with no late in duration,,,6.0,5,1,1.0,0.0,17.0,18.0,0.0,0.0,0,13.0,00:00,57:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+35,npunchwithearly,npunch user with earlyout policy,,,9.0,5,1,1.0,0.0,14.0,15.0,0.0,0.0,0,16.0,00:00,83:37,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+36,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,,0.0,5,1,1.0,0.0,23.0,22.0,0.0,0.0,0,7.0,00:00,00:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+37,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,20:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+38,OTCOFFBoth,Auto authorize OT COFF,,,1.5,5,1,1.0,0.0,21.5,22.0,0.0,0.0,0,8.0,00:00,31:30,29:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+39,OTonWeekdays,Overtime consider  weekdays for WOPH,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,20:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+40,RestrictedDail1,Restricted OT cal for Daily1,,,2.0,5,0,2.0,0.0,21.0,21.0,0.0,0.0,0,9.0,00:00,45:59,00:00
+,,Designation-1,,,RH:2 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+41,RI1,Reporting Incharge1,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+42,RI12,Reporting incharge1,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+43,RI2,Reporting Incharge2,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+44,Secondhalfleave,user with second half leave,,,1.0,5,1,3.5,0.0,19.5,22.0,0.0,0.0,0,10.0,00:00,09:00,00:00
+,,Designation-1,,,PL:3.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+45,seconhalfabsent,second half absent,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,09:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+46,SpecialOTearlyi,Special OT with earlyin defined component,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,15:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+47,SpecialOTwOearl,SpecialOTWithoutearlyIn,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,14:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+ORG2,,,,,,,,,,,,,,,,,,
+1,111,Mayank,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+2,12,dfddd,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+3,1234,test user,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+4,1515,AMIT-BLE,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+5,2breaklatein,2punch user with break latein,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,25:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+6,2pGraceinWH,2Punch user includes grace time in work hours,,,8.0,5,1,1.0,0.0,15.0,16.0,0.0,0.0,0,15.0,00:00,80:20,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+7,2pgracelatein,2punch user with grace and late in policy,,,9.0,5,1,1.0,0.0,14.0,15.0,0.0,0.0,0,16.0,00:31,88:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+8,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,,,12.0,5,1,1.0,0.0,11.0,12.0,0.0,0.0,0,19.0,00:00,112:23,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+9,2pofficialin,2punch user with official in,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+10,2pOfficialout,2 punch user with official out,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+11,2poutfromexit,2Punch user with out punch from exit reader o,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,27:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+12,2pshortleaveout,2 Punch user for shortleave out,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+13,2punchearlyout,2punchuserwith earlyout policy,,,11.0,5,1,1.0,0.0,12.0,13.0,0.0,0.0,0,18.0,00:00,97:16,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+14,2punchnoearly,2punch with no earlyout duration,,,7.0,5,1,1.0,0.0,16.0,17.0,0.0,0.0,0,14.0,00:00,65:07,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+15,2punchnolatein,2punch user with no late in duration applicab,,,7.0,5,1,1.0,0.0,16.0,17.0,0.0,0.0,0,14.0,00:00,58:20,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+16,2punchshortleav,Shortleave in for 2 punch,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+17,2punchuser,2punch user with latein,,,10.0,5,1,1.0,0.0,13.0,14.0,0.0,0.0,0,17.0,00:00,94:09,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+18,2pwithexitreade,Exit reader enabled but punches from entry,,,1.0,5,1,1.0,0.0,22.0,22.0,0.0,0.0,0,8.0,00:00,09:00,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+19,4breaklatein,4 punch user with break latein AND earlyout,,,5.0,5,1,1.0,0.0,18.0,12.0,0.0,0.0,0,12.0,00:00,112:50,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+20,4PbreakEO,4 Punch user with break earlyout,,,1.5,5,1,0.5,0.0,22.0,22.0,0.0,0.0,0,8.0,00:00,18:10,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+21,4PBreakEOex,4P Break for earlyout exceeds,,,1.0,5,1,0.5,0.0,22.5,21.0,0.0,0.0,0,8.0,00:00,15:00,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+22,4PbreakEOgrace,4P user with break earlyout grace,,,1.5,5,1,0.5,0.0,22.0,22.0,0.0,0.0,0,8.0,00:00,18:45,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+23,4Pbreakingrace,4 punch user with break hours within grace,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+24,4Pbreaklatein,4p user with break latein,,,1.5,5,1,1.0,0.0,21.5,22.0,0.0,0.0,0,8.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1.0 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+25,4PBreakLIex,4P user exceeds break latein,,,1.0,5,1,0.5,0.0,22.5,22.0,0.0,0.0,0,8.0,00:00,17:55,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+26,4pgracebreakear,4 punch user with break early out and grace,,,7.0,5,1,1.0,0.0,16.0,14.0,0.0,0.0,0,14.0,00:00,99:55,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+27,4pgracebreaklat,4 punch user with grace for shift and breakla,,,5.5,5,1,0.5,0.0,18.0,16.0,0.0,0.0,0,12.0,00:00,83:23,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+28,4ptotallatein,4punch user for adding break latein in total,,,3.5,5,1,1.0,0.0,19.5,18.0,0.0,0.0,0,10.0,00:00,44:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+29,auto,auto,,,5.0,0,0,0.0,0.0,9.0,7.0,0.0,0.0,0,5.0,00:00,45:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+30,Autoshift,Auto shift user with shift schedule not proce,,,3.5,0,0,1.0,0.0,1.5,2.0,0.0,0.0,0,4.0,00:00,35:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+31,Autoshiftproces,Auto shift user whose shift has been processe,,,5.0,5,1,1.0,0.0,18.0,19.0,0.0,0.0,0,12.0,00:00,42:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+32,Awardandpenalty,award n penalty,,,1.0,5,1,1.0,0.0,22.0,21.0,0.0,0.0,0,8.0,00:00,30:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+33,BreakEOexceeds,Include Break early out in shift exceeds TD,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,08:45,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+34,BreakEOInTotal,Break earlyout in total early out,,,3.0,5,1,1.0,0.0,20.0,21.0,0.0,0.0,0,10.0,00:00,27:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+35,BreakLIexceeds,Exceeds break and total latein,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:36,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+36,BreakLIinTotal,Break latein in total latein,,,0.5,5,1,0.5,0.0,23.0,22.0,0.0,0.0,0,7.0,00:00,18:40,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+37,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,22:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+38,COFF,COFF,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,22:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+39,daily1earlyin,Cal onWOPH as per weekday,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,25:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+40,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,21:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+41,daily1weekends,daily1 weekends config in OT,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,35:50,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+42,daily1wkdys,daily1 wkdys and weekends not assigned,,,0.0,5,1,1.0,0.0,23.0,24.0,0.0,0.0,0,7.0,00:00,35:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+43,earlyout,user punches on early out duration of 30mins,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+44,Earlyoutgrace,Earlyout user with punches on grace time,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+45,Eligiblehours,Eligible work hours,,,6.5,5,1,0.5,0.0,17.0,17.0,0.0,0.0,0,13.0,00:00,71:00,00:00
+,,Designation-1,,,PL:0.5 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+46,EOdurationexcee,EO duration exceeds,,,2.0,5,1,1.0,0.0,21.0,22.0,0.0,0.0,0,9.0,00:00,18:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+47,JPC,JPC user,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,09:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+48,JPCdefaultjob,JPC default job,,,0.5,5,1,1.0,0.0,22.5,23.0,0.0,0.0,0,8.0,00:00,09:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+49,Jpcdevicebased,JPC user with device based,,,0.0,5,1,1.0,0.0,23.0,23.0,0.0,0.0,0,7.0,00:00,09:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+50,JPCsitedefaultj,JPC user with sitewise default job,,,0.5,5,1,1.0,0.0,22.5,23.0,0.0,0.0,0,8.0,00:00,09:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+51,JPCSplitHO,JPC split timesheet normal shift,,,1.0,5,1,1.0,0.0,22.0,22.0,0.0,0.0,0,8.0,00:00,13:30,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+52,JPCSplitNS,JPC split timesheet night shift,,,1.0,5,1,1.0,0.0,22.0,23.0,0.0,0.0,0,8.0,00:00,09:00,00:00
+,,Designation-1,,,PL:1 ,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+53,mitali1,mitali1,,,0.0,1,0,0.0,1.0,5.0,6.0,0.0,0.0,0,2.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+54,new,new,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,00:00,00:00,00:00
+,,Designation-1,,,,,,,,,,,,,,,,
+,Previous Adjustment :,,Adj Days,0.0,Overtime    ,,,00:00,WorkTime,,00:00,,Shift Allowance,,,0,,
+"Legend: PR-Present, WO-Week-Off, PH-Public Holiday, TR-Tour, PL-Paid Leave, AB-Absent, UL-Unpaid Leave, LO-Lay Off, OT-Overtime",,,,,,,,,,,,,,,,,,

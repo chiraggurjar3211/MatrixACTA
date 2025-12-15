@@ -1,0 +1,15 @@
+,,,DADB,,,,,,Page 1 of 1,
+,,,Sales From 2022/02/01 To 2022/02/10,,,,,,,
+Run by:,,System Admin,,,,,,Date:,,
+DADB,,,,,,,,,,
+Date:,,2022/02/02,Total Sales Amount: ,,70.00,Total Discount:,0.00,,,
+Sr No,Item ID, Name,Total Quantity,Unit Price,Total Sales,Discount @,,,,
+,,,,,,Level 1,Level 2,Level 3,,Level 4
+1,1,I1,7,10.00,70.00,0.00,0.00,0.00,,0.00
+,,,,Total Amount: ,70.00,0.00,0.00,0.00,,0.00
+ORG2,,,,,,,,,,
+Date:,,2022/02/02,Total Sales Amount: ,,70.00,Total Discount:,0.00,,,
+Sr No,Item ID, Name,Total Quantity,Unit Price,Total Sales,Discount @,,,,
+,,,,,,Level 1,Level 2,Level 3,,Level 4
+1,1,I1,7,10.00,70.00,0.00,0.00,0.00,,0.00
+,,,,Total Amount: ,70.00,0.00,0.00,0.00,,0.00

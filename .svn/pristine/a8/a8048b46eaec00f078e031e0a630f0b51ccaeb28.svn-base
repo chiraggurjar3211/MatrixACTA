@@ -1,0 +1,15 @@
+,,DADB,,,Page 1 of 1,
+,,Out Time From 04/01/2017 To 04/10/2017,,,,
+Run by:,System Admin,,Date:,,,
+Sr No, Date,OUT Door,IN Door,OUT Time,IN Time,Duration
+Npoutfromexit - Npunch user with out punch from exit reader,,,,,,
+1,04/01/2017,NGT Direct Door-Device-1,NGT Direct Door-Device-1,13:00,14:00,01:00
+2,04/03/2017,NGT Direct Door-Device-1,NGT Direct Door-Device-1,13:30,13:40,00:10
+,,Total OUT Time ,,,, 01:10 
+npshortleaveout - n punch user with short leave out,,,,,,
+1,04/01/2017,NGT Direct Door-Device-1,NGT Direct Door-Device-1,10:30,12:00,01:30
+2,04/03/2017,NGT Direct Door-Device-1,NGT Direct Door-Device-1,11:30,18:30,07:00
+,,Total OUT Time ,,,, 08:30 
+Npucnofficialou - N punch user with official out,,,,,,
+1,04/01/2017,NGT Direct Door-Device-1,NGT Direct Door-Device-1,14:00,16:00,02:00
+,,Total OUT Time ,,,, 02:00 

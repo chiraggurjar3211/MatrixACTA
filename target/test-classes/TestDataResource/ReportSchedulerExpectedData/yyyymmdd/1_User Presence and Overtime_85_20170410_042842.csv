@@ -1,0 +1,102 @@
+,,,DADB,,,,Page 1 of 1,
+,,,Site-Wise User Presence & Overtime From 2017/04/01 To 2017/04/10,,,,,
+Run by:,System Admin,,,,,Date:,,
+Sr No,User ID, Name,,Organization,Branch,Department,Present Days,Overtime
+Site-1,,,,,,,,
+1,2breaklatein,2punch user with break latein,,DADB,Branch-1,Department-1,3.0,00:00
+2,2pGraceinWH,2Punch user includes grace time in work hours,,DADB,Branch-1,Department-1,7.0,02:10
+3,2pgracelatein,2punch user with grace and late in policy,,DADB,Branch-1,Department-1,7.0,05:12
+4,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,,DADB,Branch-1,Department-1,7.0,00:30
+5,2pofficialin,2punch user with official in,,DADB,Branch-1,Department-1,2.0,00:00
+6,2pOfficialout,2 punch user with official out,,DADB,Branch-1,Department-1,2.0,00:00
+7,2poutfromexit,2Punch user with out punch from exit reader o,,DADB,Branch-1,Department-1,3.0,00:40
+8,2pshortleaveout,2 Punch user for shortleave out,,DADB,Branch-1,Department-1,2.0,00:00
+9,2punchearlyout,2punchuserwith earlyout policy,,DADB,Branch-1,Department-1,7.0,01:38
+10,2punchnoearly,2punch with no earlyout duration,,DADB,Branch-1,Department-1,7.0,00:50
+11,2punchnolatein,2punch user with no late in duration applicab,,DADB,Branch-1,Department-1,7.0,05:33
+12,2punchshortleav,Shortleave in for 2 punch,,DADB,Branch-1,Department-1,2.0,00:00
+13,2pwithexitreade,Exit reader enabled but punches from entry,,DADB,Branch-1,Department-1,1.0,00:00
+14,4breaklatein,4 punch user with break latein AND earlyout,,DADB,Branch-1,Department-1,6.5,07:01
+15,4PbreakEO,4 Punch user with break earlyout,,DADB,Branch-1,Department-1,1.5,01:00
+16,4PBreakEOex,4P Break for earlyout exceeds,,DADB,Branch-1,Department-1,1.0,00:00
+17,4PbreakEOgrace,4P user with break earlyout grace,,DADB,Branch-1,Department-1,1.5,01:00
+18,4Pbreakingrace,4 punch user with break hours within grace,,DADB,Branch-1,Department-1,2.0,00:15
+19,4Pbreaklatein,4p user with break latein,,DADB,Branch-1,Department-1,1.5,01:00
+20,4PBreakLIex,4P user exceeds break latein,,DADB,Branch-1,Department-1,1.0,01:30
+21,4pgracebreakear,4 punch user with break early out and grace,,DADB,Branch-1,Department-1,4.5,00:10
+22,4pgracebreaklat,4 punch user with grace for shift and breakla,,DADB,Branch-1,Department-1,5.5,03:55
+23,4ptotallatein,4punch user for adding break latein in total,,DADB,Branch-1,Department-1,3.5,01:15
+24,auto,auto,,DADB,Branch-1,Department-1,4.0,02:00
+25,Autoshift,Auto shift user with shift schedule not proce,,DADB,Branch-1,Department-1,3.5,07:30
+26,Autoshiftproces,Auto shift user whose shift has been processe,,DADB,Branch-1,Department-1,5.0,02:00
+27,Awardandpenalty,award n penalty,,DADB,Branch-1,Department-1,0.0,00:00
+28,BreakEOexceeds,Include Break early out in shift exceeds TD,,DADB,Branch-1,Department-1,0.5,00:25
+29,BreakEOInTotal,Break earlyout in total early out,,DADB,Branch-1,Department-1,1.5,01:00
+30,BreakLIexceeds,Exceeds break and total latein,,DADB,Branch-1,Department-1,2.0,01:50
+31,BreakLIinTotal,Break latein in total latein,,DADB,Branch-1,Department-1,0.5,01:40
+32,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,,DADB,Branch-1,Department-1,0.0,19:30
+33,COFF,COFF,,DADB,Branch-1,Department-1,2.0,19:30
+34,daily1earlyin,Cal onWOPH as per weekday,,DADB,Branch-1,Department-1,0.0,21:30
+35,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,,DADB,Branch-1,Department-1,0.0,00:00
+36,daily1weekends,daily1 weekends config in OT,,DADB,Branch-1,Department-1,1.0,24:20
+37,daily1wkdys,daily1 wkdys and weekends not assigned,,DADB,Branch-1,Department-1,0.0,34:00
+38,earlyout,user punches on early out duration of 30mins,,DADB,Branch-1,Department-1,2.0,00:40
+39,Earlyoutgrace,Earlyout user with punches on grace time,,DADB,Branch-1,Department-1,2.0,00:15
+40,Eligiblehours,Eligible work hours,,DADB,Branch-1,Department-1,6.5,12:00
+41,EOdurationexcee,EO duration exceeds,,DADB,Branch-1,Department-1,2.0,01:20
+42,EOgraceexceed,Earlyout grace duration exceeds,,DADB,Branch-1,Department-1,2.0,00:45
+43,FB,OT for FB,,DADB,Branch-1,Department-1,1.0,09:59
+44,firsthalfabsent,First half absent,,DADB,Branch-1,Department-1,1.5,00:00
+45,Firsthalfleave,User with first half leave,,DADB,Branch-1,Department-1,1.0,00:00
+46,Flexible,flexibleuser,,DADB,Branch-1,Department-1,0.0,01:00
+47,FlexibleMonthly,FlexibleMonthly,,DADB,Branch-1,Department-1,4.0,00:00
+48,FlexibleNone,FlexibleNone,,DADB,Branch-1,Department-1,2.0,00:00
+49,FlexibleOT,OT for flexible user,,DADB,Branch-1,Department-1,0.0,16:00
+50,Fulldayleave,User with full day leave,,DADB,Branch-1,Department-1,0.0,00:00
+51,Inpunch,User with In pucnh only,,DADB,Branch-1,Department-1,0.0,00:00
+52,JPC,JPC user,,DADB,Branch-1,Department-1,0.0,00:00
+53,Jpcdefaultenter,Job coseting user with default job of enterpr,,DADB,Branch-1,Department-1,0.0,00:00
+54,JPCdefaultjob,JPC default job,,DADB,Branch-1,Department-1,0.0,00:00
+55,Jpcdevicebased,JPC user with device based,,DADB,Branch-1,Department-1,0.0,00:00
+56,JPCmergejob,JPC merged Job,,DADB,Branch-1,Department-1,0.0,00:00
+57,JPCsitedefaultj,JPC user with sitewise default job,,DADB,Branch-1,Department-1,0.0,00:00
+58,JPCSplitHO,JPC split timesheet normal shift,,DADB,Branch-1,Department-1,0.0,00:00
+59,JPCSplitNS,JPC split timesheet night shift,,DADB,Branch-1,Department-1,0.0,00:00
+60,Lategraceexceed,User with exceed grace period,,DADB,Branch-1,Department-1,2.0,01:35
+61,Latein,user punches on latein only,,DADB,Branch-1,Department-1,2.0,00:45
+62,Lateinduraexcee,Late in Duration exceed,,DADB,Branch-1,Department-1,2.0,02:01
+63,Lateingrace,User have pucnges on grace latein,,DADB,Branch-1,Department-1,3.0,01:10
+64,Lessworkhours,Less work hours for daily limit,,DADB,Branch-1,Department-1,4.0,00:20
+65,manualOT,User with Manual Overtime,,DADB,Branch-1,Department-1,2.0,07:00
+66,mitali,mitali,,DADB,Branch-1,Department-1,0.0,00:00
+67,NetworkHrs,Networkhours bt no OT Component,,DADB,Branch-1,Department-1,1.0,08:00
+68,NightShift,NightShift,,DADB,Branch-1,Department-1,2.0,00:00
+69,Normal,normal user,,DADB,Branch-1,Department-1,2.0,00:00
+70,npgraceEO,Npunch user with grace in EO and EO duration,,DADB,Branch-1,Department-1,7.0,01:01
+71,NpofficialIn,N punch user for official In,,DADB,Branch-1,Department-1,3.0,01:24
+72,Npoutfromexit,Npunch user with out punch from exit reader,,DADB,Branch-1,Department-1,2.0,00:40
+73,npshortleavein,n punch user for shortleave in,,DADB,Branch-1,Department-1,2.0,00:00
+74,npshortleaveout,n punch user with short leave out,,DADB,Branch-1,Department-1,1.5,00:00
+75,Npucnofficialou,N punch user with official out,,DADB,Branch-1,Department-1,2.0,00:30
+76,Npunchbeyond,Npunch user with deduction type as beyond,,DADB,Branch-1,Department-1,3.0,01:05
+77,NpunchFlexible,Npunch user with type as flexible,,DADB,Branch-1,Department-1,0.0,01:00
+78,Npunchgreater,N punch user with greater than deduction typr,,DADB,Branch-1,Department-1,3.0,00:30
+79,nPunchlatein,npunch user with 30min latein,,DADB,Branch-1,Department-1,4.5,04:37
+80,NpunchNightshif,N punch user with night shift,,DADB,Branch-1,Department-1,1.0,00:59
+81,npunchnoearly,npunch user with no earlyout policy,,DADB,Branch-1,Department-1,6.5,01:29
+82,npunchnolatein,Npunch user with no late in duration,,DADB,Branch-1,Department-1,6.0,07:31
+83,npunchwithearly,npunch user with earlyout policy,,DADB,Branch-1,Department-1,7.0,01:38
+84,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,DADB,Branch-1,Department-1,0.0,00:00
+85,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,,DADB,Branch-1,Department-1,0.0,00:00
+86,OTCOFFBoth,Auto authorize OT COFF,,DADB,Branch-1,Department-1,1.5,29:00
+87,OTonWeekdays,Overtime consider  weekdays for WOPH,,DADB,Branch-1,Department-1,0.0,09:30
+88,RestrictedDail1,Restricted OT cal for Daily1,,DADB,Branch-1,Department-1,1.0,07:29
+89,Secondhalfleave,user with second half leave,,DADB,Branch-1,Department-1,1.0,00:00
+90,seconhalfabsent,second half absent,,DADB,Branch-1,Department-1,2.0,00:00
+91,SpecialOTearlyi,Special OT with earlyin defined component,,DADB,Branch-1,Department-1,1.0,04:00
+92,SpecialOTwOearl,SpecialOTWithoutearlyIn,,DADB,Branch-1,Department-1,1.0,03:00
+93,SpecialOvertime,Special Overtime,,DADB,Branch-1,Department-1,2.0,08:00
+94,weekOffChange,weekOff,,DADB,Branch-1,Department-1,0.0,00:00
+Site-1,,,,,,,,
+1,2punchuser,2punch user with latein,,DADB,Branch-1,Dept2,7.0,05:54
+2,mitali1,mitali1,,ORG2,Branch-1,Dept2,0.0,00:00

@@ -1,0 +1,62 @@
+IndexNo	UserID	UserName	EventDateTime	EntryExitType	MasterControllerID	DoorControllerID	SpecialFunctionID	LeaveDT	IDateTime	FullName
+16	2punchuser	2punch user with latein	10/04/2017 09:45:54	0	1	1	0		18/04/2017 10:19:27	2punch user with latein
+17	2punchuser	2punch user with latein	10/04/2017 19:15:54	0	1	1	0		18/04/2017 10:19:35	2punch user with latein
+77	nPunchlatein	npunch user with 30min latein	10/04/2017 10:00:28	0	1	1	0		19/04/2017 07:50:31	npunch user with 30min latein
+78	nPunchlatein	npunch user with 30min latein	10/04/2017 13:00:25	0	1	1	0		19/04/2017 07:50:41	npunch user with 30min latein
+79	nPunchlatein	npunch user with 30min latein	10/04/2017 14:00:25	0	1	1	0		19/04/2017 07:50:47	npunch user with 30min latein
+80	nPunchlatein	npunch user with 30min latein	10/04/2017 18:00:26	0	1	1	0		19/04/2017 07:50:57	npunch user with 30min latein
+81	nPunchlatein	npunch user with 30min latein	10/04/2017 18:10:25	0	1	1	0		19/04/2017 07:51:40	npunch user with 30min latein
+82	nPunchlatein	npunch user with 30min latein	10/04/2017 19:10:25	0	1	1	0		19/04/2017 07:52:37	npunch user with 30min latein
+142	2punchearlyout	2punchuserwith earlyout policy	10/04/2017 09:31:23	0	1	1	0		20/04/2017 01:52:21	2punchuserwith earlyout policy
+143	2punchearlyout	2punchuserwith earlyout policy	10/04/2017 17:30:23	0	1	1	0		20/04/2017 01:52:32	2punchuserwith earlyout policy
+184	npunchwithearly	npunch user with earlyout policy	10/04/2017 08:59:23	0	1	1	0		20/04/2017 02:51:12	npunch user with earlyout policy
+185	npunchwithearly	npunch user with earlyout policy	10/04/2017 13:00:23	0	1	1	0		20/04/2017 02:51:20	npunch user with earlyout policy
+186	npunchwithearly	npunch user with earlyout policy	10/04/2017 14:00:23	0	1	1	0		20/04/2017 02:51:27	npunch user with earlyout policy
+187	npunchwithearly	npunch user with earlyout policy	10/04/2017 17:59:27	0	1	1	0		20/04/2017 02:51:39	npunch user with earlyout policy
+212	2punchnoearly	2punch with no earlyout duration	10/04/2017 09:00:23	0	1	1	0		20/04/2017 03:15:09	2punch with no earlyout duration
+213	2punchnoearly	2punch with no earlyout duration	10/04/2017 18:29:23	0	1	1	0		20/04/2017 03:15:18	2punch with no earlyout duration
+240	npunchnoearly	npunch user with no earlyout policy	10/04/2017 09:20:24	0	1	1	0		20/04/2017 03:34:34	npunch user with no earlyout policy
+241	npunchnoearly	npunch user with no earlyout policy	10/04/2017 13:20:25	0	1	1	0		20/04/2017 03:34:49	npunch user with no earlyout policy
+242	npunchnoearly	npunch user with no earlyout policy	10/04/2017 14:20:23	0	1	1	0		20/04/2017 03:34:56	npunch user with no earlyout policy
+243	npunchnoearly	npunch user with no earlyout policy	10/04/2017 18:40:24	0	1	1	0		20/04/2017 03:35:07	npunch user with no earlyout policy
+301	4breaklatein	4 punch user with break latein AND earlyout	10/04/2017 09:00:25	0	1	1	0		20/04/2017 04:23:32	4 punch user with break latein AND earlyout
+302	4breaklatein	4 punch user with break latein AND earlyout	10/04/2017 12:45:25	0	1	1	0		20/04/2017 04:24:33	4 punch user with break latein AND earlyout
+303	4breaklatein	4 punch user with break latein AND earlyout	10/04/2017 13:20:25	0	1	1	0		20/04/2017 04:24:45	4 punch user with break latein AND earlyout
+304	4breaklatein	4 punch user with break latein AND earlyout	10/04/2017 18:20:24	0	1	1	0		20/04/2017 04:24:56	4 punch user with break latein AND earlyout
+339	2pgracelatein	2punch user with grace and late in policy	10/04/2017 09:45:59	0	1	1	0		20/04/2017 05:06:45	2punch user with grace and late in policy
+340	2pgracelatein	2punch user with grace and late in policy	10/04/2017 19:15:59	0	1	1	0		20/04/2017 05:06:58	2punch user with grace and late in policy
+373	4pgracebreaklat	4 punch user with grace for shift and breakla	10/04/2017 10:00:52	0	1	1	0		20/04/2017 05:24:38	4 punch user with grace for shift and breakla
+374	4pgracebreaklat	4 punch user with grace for shift and breakla	10/04/2017 13:00:53	0	1	1	0		20/04/2017 05:24:47	4 punch user with grace for shift and breakla
+375	4pgracebreaklat	4 punch user with grace for shift and breakla	10/04/2017 14:15:53	0	1	1	0		20/04/2017 05:24:57	4 punch user with grace for shift and breakla
+376	4pgracebreaklat	4 punch user with grace for shift and breakla	10/04/2017 19:34:52	0	1	1	0		20/04/2017 05:25:10	4 punch user with grace for shift and breakla
+409	4pgracebreakear	4 punch user with break early out and grace	10/04/2017 09:00:37	0	1	1	0		21/04/2017 03:14:53	4 punch user with break early out and grace
+410	4pgracebreakear	4 punch user with break early out and grace	10/04/2017 12:49:36	0	1	1	0		21/04/2017 03:15:06	4 punch user with break early out and grace
+411	4pgracebreakear	4 punch user with break early out and grace	10/04/2017 13:20:41	0	1	1	0		21/04/2017 03:15:19	4 punch user with break early out and grace
+412	4pgracebreakear	4 punch user with break early out and grace	10/04/2017 17:55:36	0	1	1	0		21/04/2017 03:15:34	4 punch user with break early out and grace
+440	2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	10/04/2017 09:00:35	0	1	1	0		21/04/2017 03:28:07	2punch user for EO Shift grace and EO duratio
+441	2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	10/04/2017 17:00:36	0	1	1	0		21/04/2017 03:28:14	2punch user for EO Shift grace and EO duratio
+472	npgraceEO	Npunch user with grace in EO and EO duration	10/04/2017 09:00:38	0	1	1	0		21/04/2017 03:36:54	Npunch user with grace in EO and EO duration
+473	npgraceEO	Npunch user with grace in EO and EO duration	10/04/2017 12:00:36	0	1	1	0		21/04/2017 03:37:01	Npunch user with grace in EO and EO duration
+474	npgraceEO	Npunch user with grace in EO and EO duration	10/04/2017 12:30:35	0	1	1	0		21/04/2017 03:37:08	Npunch user with grace in EO and EO duration
+475	npgraceEO	Npunch user with grace in EO and EO duration	10/04/2017 18:30:36	0	1	1	0		21/04/2017 03:37:15	Npunch user with grace in EO and EO duration
+500	2pGraceinWH	2Punch user includes grace time in work hours	10/04/2017 09:20:38	0	1	1	0		21/04/2017 04:14:51	2Punch user includes grace time in work hours
+501	2pGraceinWH	2Punch user includes grace time in work hours	10/04/2017 18:40:36	0	1	1	0		21/04/2017 04:15:06	2Punch user includes grace time in work hours
+872	OTonWeekdays	Overtime consider  weekdays for WOPH	10/04/2017 08:00:33	0	1	1	0	08/06/2022	26/04/2017 01:42:08	Overtime consider  weekdays for WOPH
+873	OTonWeekdays	Overtime consider  weekdays for WOPH	10/04/2017 19:00:33	0	1	1	0	08/06/2022	26/04/2017 01:42:19	Overtime consider  weekdays for WOPH
+876	OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	10/04/2017 09:00:34	0	1	1	0		26/04/2017 01:48:31	Cal on weekday bt wkday is nt checked for OT
+877	OTcalWkdyntchk	Cal on weekday bt wkday is nt checked for OT	10/04/2017 19:30:33	0	1	1	0		26/04/2017 01:48:40	Cal on weekday bt wkday is nt checked for OT
+880	CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	10/04/2017 09:01:14	0	1	1	0		26/04/2017 02:39:08	Cal of OT on Wkday and WeekOff as per chkbox
+881	CalcWkdaynwkoff	Cal of OT on Wkday and WeekOff as per chkbox	10/04/2017 19:01:02	0	1	1	0		26/04/2017 02:39:23	Cal of OT on Wkday and WeekOff as per chkbox
+886	NetworkHrs	Networkhours bt no OT Component	10/04/2017 09:00:16	0	1	1	0		26/04/2017 03:41:22	Networkhours bt no OT Component
+887	NetworkHrs	Networkhours bt no OT Component	10/04/2017 19:00:17	0	1	1	0		26/04/2017 03:41:29	Networkhours bt no OT Component
+890	daily1earlyin	Cal onWOPH as per weekday	10/04/2017 07:30:12	0	1	1	0		26/04/2017 04:01:53	Cal onWOPH as per weekday
+891	daily1earlyin	Cal onWOPH as per weekday	10/04/2017 18:30:12	0	1	1	0		26/04/2017 04:02:04	Cal onWOPH as per weekday
+894	daily1wkdys	daily1 wkdys and weekends not assigned	10/04/2017 09:00:12	0	1	1	0		26/04/2017 04:07:28	daily1 wkdys and weekends not assigned
+895	daily1wkdys	daily1 wkdys and weekends not assigned	10/04/2017 19:00:12	0	1	1	0		26/04/2017 04:07:36	daily1 wkdys and weekends not assigned
+900	daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	10/04/2017 09:00:12	0	1	1	0		26/04/2017 04:22:06	Daily1 OT Not configured for Wkdays n weekend
+901	daily1OTNtconfi	Daily1 OT Not configured for Wkdays n weekend	10/04/2017 19:00:12	0	1	1	0		26/04/2017 04:22:14	Daily1 OT Not configured for Wkdays n weekend
+906	daily1weekends	daily1 weekends config in OT	10/04/2017 07:00:59	0	1	1	0		26/04/2017 05:12:22	daily1 weekends config in OT
+907	daily1weekends	daily1 weekends config in OT	10/04/2017 20:20:58	0	1	1	0		26/04/2017 05:12:33	daily1 weekends config in OT
+913	FlexibleOT	OT for flexible user	10/04/2017 09:00:10	0	1	1	0		26/04/2017 07:04:03	OT for flexible user
+914	FlexibleOT	OT for flexible user	10/04/2017 16:00:09	0	1	1	0		26/04/2017 07:04:17	OT for flexible user
+11095	auto	auto	10/04/2017 19:30:02	0	9	1	0		30/04/2017 10:10:15	auto

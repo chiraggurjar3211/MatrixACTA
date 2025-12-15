@@ -1,0 +1,871 @@
+,,DADB,,Page 1 of 1,
+,,Doors Accessed By User From 04/01/2017 To 04/10/2017,,,
+Run by:,System Admin,,Date:,,
+Sr No, User ID,Name,Department,Time,I/O Type
+04/01/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2breaklatein,2punch user with break latein,Department-1,09:00,IN
+2,2breaklatein,2punch user with break latein,Department-1,13:00,IN
+3,2breaklatein,2punch user with break latein,Department-1,14:10,IN
+4,2breaklatein,2punch user with break latein,Department-1,18:30,IN
+5,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:10,IN
+6,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:10,IN
+7,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:30,IN
+8,2pgracelatein,2punch user with grace and late in policy,Department-1,09:30,IN
+9,2pgracelatein,2punch user with grace and late in policy,Department-1,19:00,IN
+10,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+11,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,18:20,IN
+12,2pofficialin,2punch user with official in,Department-1,10:45,IN
+13,2pofficialin,2punch user with official in,Department-1,18:30,IN
+14,2pOfficialout,2 punch user with official out,Department-1,09:00,IN
+15,2pOfficialout,2 punch user with official out,Department-1,16:30,OUT
+16,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,09:00,IN
+17,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,18:30,OUT
+18,2pshortleaveout,2 Punch user for shortleave out,Department-1,09:00,IN
+19,2pshortleaveout,2 Punch user for shortleave out,Department-1,17:00,IN
+20,2pshortleaveout,2 Punch user for shortleave out,Department-1,17:00,OUT
+21,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:00,IN
+22,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:00,IN
+23,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+24,2punchnoearly,2punch with no earlyout duration,Department-1,18:20,IN
+25,2punchnolatein,2punch user with no late in duration applicab,Department-1,09:10,IN
+26,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:10,IN
+27,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:20,IN
+28,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:30,IN
+29,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:30,IN
+30,2punchshortleav,Shortleave in for 2 punch,Department-1,10:30,IN
+31,2punchshortleav,Shortleave in for 2 punch,Department-1,10:30,IN
+32,2punchshortleav,Shortleave in for 2 punch,Department-1,18:30,IN
+33,2punchuser,2punch user with latein,Dept2,10:01,IN
+34,2punchuser,2punch user with latein,Dept2,19:00,IN
+35,2punchuser,2punch user with latein,Dept2,19:05,IN
+36,2pwithexitreade,Exit reader enabled but punches from entry,Department-1,09:00,IN
+37,2pwithexitreade,Exit reader enabled but punches from entry,Department-1,18:30,OUT
+38,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:00,IN
+39,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:00,IN
+40,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:10,IN
+41,4breaklatein,4 punch user with break latein AND earlyout,Department-1,18:30,IN
+42,4PbreakEO,4 Punch user with break earlyout,Department-1,09:00,IN
+43,4PbreakEO,4 Punch user with break earlyout,Department-1,12:30,IN
+44,4PbreakEO,4 Punch user with break earlyout,Department-1,13:30,IN
+45,4PbreakEO,4 Punch user with break earlyout,Department-1,19:00,IN
+46,4PBreakEOex,4P Break for earlyout exceeds,Department-1,09:00,IN
+47,4PBreakEOex,4P Break for earlyout exceeds,Department-1,11:15,IN
+48,4PBreakEOex,4P Break for earlyout exceeds,Department-1,13:15,IN
+49,4PBreakEOex,4P Break for earlyout exceeds,Department-1,18:30,IN
+50,4PbreakEOgrace,4P user with break earlyout grace,Department-1,09:00,IN
+51,4PbreakEOgrace,4P user with break earlyout grace,Department-1,12:50,IN
+52,4PbreakEOgrace,4P user with break earlyout grace,Department-1,13:30,IN
+53,4PbreakEOgrace,4P user with break earlyout grace,Department-1,19:00,IN
+54,4Pbreakingrace,4 punch user with break hours within grace,Department-1,09:00,IN
+55,4Pbreakingrace,4 punch user with break hours within grace,Department-1,13:00,IN
+56,4Pbreakingrace,4 punch user with break hours within grace,Department-1,13:40,IN
+57,4Pbreakingrace,4 punch user with break hours within grace,Department-1,18:40,IN
+58,4Pbreaklatein,4p user with break latein,Department-1,09:00,IN
+59,4Pbreaklatein,4p user with break latein,Department-1,13:00,IN
+60,4Pbreaklatein,4p user with break latein,Department-1,13:50,IN
+61,4Pbreaklatein,4p user with break latein,Department-1,18:50,IN
+62,4PBreakLIex,4P user exceeds break latein,Department-1,09:00,IN
+63,4PBreakLIex,4P user exceeds break latein,Department-1,13:00,IN
+64,4PBreakLIex,4P user exceeds break latein,Department-1,14:15,IN
+65,4PBreakLIex,4P user exceeds break latein,Department-1,19:10,IN
+66,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+67,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:50,IN
+68,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:25,IN
+69,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+70,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:00,IN
+71,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:01,IN
+72,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,14:10,IN
+73,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,18:41,IN
+74,4ptotallatein,4punch user for adding break latein in total,Department-1,09:00,IN
+75,4ptotallatein,4punch user for adding break latein in total,Department-1,18:30,IN
+76,Autoshift,Auto shift user with shift schedule not proce,Department-1,20:00,IN
+77,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,09:00,IN
+78,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,18:30,IN
+79,BreakEOexceeds,Include Break early out in shift exceeds TD,Department-1,08:35,IN
+80,BreakEOexceeds,Include Break early out in shift exceeds TD,Department-1,12:50,IN
+81,BreakEOexceeds,Include Break early out in shift exceeds TD,Department-1,13:30,IN
+82,BreakEOexceeds,Include Break early out in shift exceeds TD,Department-1,18:00,IN
+83,BreakEOInTotal,Break earlyout in total early out,Department-1,08:50,IN
+84,BreakEOInTotal,Break earlyout in total early out,Department-1,12:40,IN
+85,BreakEOInTotal,Break earlyout in total early out,Department-1,13:10,IN
+86,BreakEOInTotal,Break earlyout in total early out,Department-1,18:20,IN
+87,BreakLIexceeds,Exceeds break and total latein,Department-1,09:32,IN
+88,BreakLIexceeds,Exceeds break and total latein,Department-1,13:00,IN
+89,BreakLIexceeds,Exceeds break and total latein,Department-1,13:32,IN
+90,BreakLIexceeds,Exceeds break and total latein,Department-1,19:20,IN
+91,BreakLIinTotal,Break latein in total latein,Department-1,09:10,IN
+92,BreakLIinTotal,Break latein in total latein,Department-1,13:00,IN
+93,BreakLIinTotal,Break latein in total latein,Department-1,13:50,IN
+94,BreakLIinTotal,Break latein in total latein,Department-1,19:20,IN
+95,COFF,COFF,Department-1,09:00,IN
+96,COFF,COFF,Department-1,19:00,IN
+97,daily1weekends,daily1 weekends config in OT,Department-1,07:00,IN
+98,daily1weekends,daily1 weekends config in OT,Department-1,09:00,IN
+99,daily1weekends,daily1 weekends config in OT,Department-1,19:00,IN
+100,earlyout,user punches on early out duration of 30mins,Department-1,08:30,IN
+101,earlyout,user punches on early out duration of 30mins,Department-1,18:00,IN
+102,Earlyoutgrace,Earlyout user with punches on grace time,Department-1,08:50,IN
+103,Earlyoutgrace,Earlyout user with punches on grace time,Department-1,18:20,IN
+104,Eligiblehours,Eligible work hours,Department-1,06:00,IN
+105,Eligiblehours,Eligible work hours,Department-1,21:00,IN
+106,EOdurationexcee,EO duration exceeds,Department-1,08:25,IN
+107,EOdurationexcee,EO duration exceeds,Department-1,17:55,IN
+108,EOgraceexceed,Earlyout grace duration exceeds,Department-1,08:45,IN
+109,EOgraceexceed,Earlyout grace duration exceeds,Department-1,18:19,IN
+110,FB,OT for FB,Department-1,09:01,IN
+111,FB,OT for FB,Department-1,19:30,IN
+112,firsthalfabsent,First half absent,Department-1,13:30,IN
+113,firsthalfabsent,First half absent,Department-1,18:30,IN
+114,Firsthalfleave,User with first half leave,Department-1,14:00,IN
+115,Firsthalfleave,User with first half leave,Department-1,18:30,IN
+116,Flexible,flexibleuser,Department-1,09:00,IN
+117,Flexible,flexibleuser,Department-1,13:00,IN
+118,Inpunch,User with In pucnh only,Department-1,09:00,IN
+119,JPCmergejob,JPC merged Job,Department-1,09:00,IN
+120,Lategraceexceed,User with exceed grace period,Department-1,09:31,IN
+121,Lategraceexceed,User with exceed grace period,Department-1,19:05,IN
+122,Latein,user punches on latein only,Department-1,09:30,IN
+123,Latein,user punches on latein only,Department-1,19:00,IN
+124,Lateinduraexcee,Late in Duration exceed,Department-1,10:00,IN
+125,Lateinduraexcee,Late in Duration exceed,Department-1,19:30,IN
+126,Lateingrace,User have pucnges on grace latein,Department-1,09:30,IN
+127,Lateingrace,User have pucnges on grace latein,Department-1,19:00,IN
+128,Lessworkhours,Less work hours for daily limit,Department-1,08:40,IN
+129,Lessworkhours,Less work hours for daily limit,Department-1,09:00,IN
+130,Lessworkhours,Less work hours for daily limit,Department-1,18:10,IN
+131,manualOT,User with Manual Overtime,Department-1,08:01,IN
+132,manualOT,User with Manual Overtime,Department-1,20:01,IN
+133,NetworkHrs,Networkhours bt no OT Component,Department-1,08:30,IN
+134,NetworkHrs,Networkhours bt no OT Component,Department-1,19:30,IN
+135,NightShift,NightShift,Department-1,20:00,IN
+136,Normal,normal user,Department-1,09:00,IN
+137,Normal,normal user,Department-1,18:30,IN
+138,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+139,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,15:00,IN
+140,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,15:30,IN
+141,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,18:20,IN
+142,NpofficialIn,N punch user for official In,Department-1,11:00,IN
+143,NpofficialIn,N punch user for official In,Department-1,13:00,IN
+144,NpofficialIn,N punch user for official In,Department-1,14:00,IN
+145,NpofficialIn,N punch user for official In,Department-1,18:30,IN
+146,NpofficialIn,N punch user for official In,Department-1,18:34,IN
+147,NpofficialIn,N punch user for official In,Department-1,18:40,IN
+148,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,09:00,IN
+149,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,13:00,OUT
+150,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,14:00,IN
+151,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,19:00,OUT
+152,npshortleavein,n punch user for shortleave in,Department-1,09:00,IN
+153,npshortleavein,n punch user for shortleave in,Department-1,11:00,IN
+154,npshortleavein,n punch user for shortleave in,Department-1,12:30,IN
+155,npshortleavein,n punch user for shortleave in,Department-1,18:30,IN
+156,npshortleaveout,n punch user with short leave out,Department-1,09:00,IN
+157,npshortleaveout,n punch user with short leave out,Department-1,10:30,OUT
+158,npshortleaveout,n punch user with short leave out,Department-1,12:00,IN
+159,npshortleaveout,n punch user with short leave out,Department-1,18:30,IN
+160,Npucnofficialou,N punch user with official out,Department-1,09:00,IN
+161,Npucnofficialou,N punch user with official out,Department-1,14:00,OUT
+162,Npucnofficialou,N punch user with official out,Department-1,16:00,IN
+163,Npucnofficialou,N punch user with official out,Department-1,19:00,IN
+164,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,09:00,IN
+165,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,11:00,IN
+166,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,11:20,IN
+167,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,18:50,IN
+168,NpunchFlexible,Npunch user with type as flexible,Department-1,09:00,IN
+169,NpunchFlexible,Npunch user with type as flexible,Department-1,13:00,IN
+170,NpunchFlexible,Npunch user with type as flexible,Department-1,13:30,IN
+171,NpunchFlexible,Npunch user with type as flexible,Department-1,17:30,IN
+172,NpunchFlexible,Npunch user with type as flexible,Department-1,18:00,IN
+173,NpunchFlexible,Npunch user with type as flexible,Department-1,19:00,IN
+174,Npunchgreater,N punch user with greater than deduction typr,Department-1,09:00,IN
+175,Npunchgreater,N punch user with greater than deduction typr,Department-1,12:00,IN
+176,Npunchgreater,N punch user with greater than deduction typr,Department-1,12:20,IN
+177,Npunchgreater,N punch user with greater than deduction typr,Department-1,18:30,IN
+178,nPunchlatein,npunch user with 30min latein,Department-1,09:12,IN
+179,nPunchlatein,npunch user with 30min latein,Department-1,10:00,IN
+180,nPunchlatein,npunch user with 30min latein,Department-1,11:00,IN
+181,nPunchlatein,npunch user with 30min latein,Department-1,13:00,IN
+182,nPunchlatein,npunch user with 30min latein,Department-1,15:00,IN
+183,nPunchlatein,npunch user with 30min latein,Department-1,17:00,IN
+184,nPunchlatein,npunch user with 30min latein,Department-1,18:30,IN
+185,nPunchlatein,npunch user with 30min latein,Department-1,18:38,IN
+186,nPunchlatein,npunch user with 30min latein,Department-1,18:48,IN
+187,NpunchNightshif,N punch user with night shift,Department-1,20:00,IN
+188,NpunchNightshif,N punch user with night shift,Department-1,22:00,IN
+189,NpunchNightshif,N punch user with night shift,Department-1,22:30,IN
+190,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+191,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+192,npunchnoearly,npunch user with no earlyout policy,Department-1,13:00,IN
+193,npunchnoearly,npunch user with no earlyout policy,Department-1,13:00,IN
+194,npunchnoearly,npunch user with no earlyout policy,Department-1,14:00,IN
+195,npunchnoearly,npunch user with no earlyout policy,Department-1,14:10,IN
+196,npunchnoearly,npunch user with no earlyout policy,Department-1,18:00,IN
+197,npunchnoearly,npunch user with no earlyout policy,Department-1,18:30,IN
+198,npunchnolatein,Npunch user with no late in duration,Department-1,09:30,IN
+199,npunchnolatein,Npunch user with no late in duration,Department-1,19:00,IN
+200,npunchwithearly,npunch user with earlyout policy,Department-1,09:00,IN
+201,npunchwithearly,npunch user with earlyout policy,Department-1,11:00,IN
+202,npunchwithearly,npunch user with earlyout policy,Department-1,11:10,IN
+203,npunchwithearly,npunch user with earlyout policy,Department-1,16:10,IN
+204,npunchwithearly,npunch user with earlyout policy,Department-1,16:20,IN
+205,npunchwithearly,npunch user with earlyout policy,Department-1,18:20,IN
+206,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,09:00,IN
+207,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,15:00,IN
+208,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,16:00,IN
+209,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,19:00,IN
+210,OTCOFFBoth,Auto authorize OT COFF,Department-1,09:00,IN
+211,OTCOFFBoth,Auto authorize OT COFF,Department-1,13:00,IN
+212,OTCOFFBoth,Auto authorize OT COFF,Department-1,14:00,IN
+213,OTCOFFBoth,Auto authorize OT COFF,Department-1,18:30,IN
+214,RestrictedDail1,Restricted OT cal for Daily1,Department-1,08:01,IN
+215,RestrictedDail1,Restricted OT cal for Daily1,Department-1,20:00,IN
+216,Secondhalfleave,user with second half leave,Department-1,09:00,IN
+217,Secondhalfleave,user with second half leave,Department-1,14:00,IN
+218,seconhalfabsent,second half absent,Department-1,09:00,IN
+219,seconhalfabsent,second half absent,Department-1,14:00,IN
+220,SpecialOTearlyi,Special OT with earlyin defined component,Department-1,14:00,IN
+221,SpecialOTearlyi,Special OT with earlyin defined component,Department-1,17:00,IN
+222,SpecialOTearlyi,Special OT with earlyin defined component,Department-1,18:00,IN
+223,SpecialOTwOearl,SpecialOTWithoutearlyIn,Department-1,15:00,IN
+224,SpecialOTwOearl,SpecialOTWithoutearlyIn,Department-1,17:00,IN
+225,SpecialOTwOearl,SpecialOTWithoutearlyIn,Department-1,18:00,IN
+226,SpecialOvertime,Special Overtime,Department-1,15:01,IN
+227,SpecialOvertime,Special Overtime,Department-1,17:01,IN
+228,SpecialOvertime,Special Overtime,Department-1,18:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,19:30,IN
+04/02/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,Autoshift,Auto shift user with shift schedule not proce,Department-1,06:00,IN
+2,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,Department-1,07:30,IN
+3,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,Department-1,20:30,IN
+4,daily1earlyin,Cal onWOPH as per weekday,Department-1,06:30,IN
+5,daily1earlyin,Cal onWOPH as per weekday,Department-1,21:30,IN
+6,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,Department-1,07:30,IN
+7,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,Department-1,19:30,IN
+8,daily1weekends,daily1 weekends config in OT,Department-1,07:00,IN
+9,daily1weekends,daily1 weekends config in OT,Department-1,19:00,IN
+10,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,07:30,IN
+11,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,19:30,IN
+12,FlexibleOT,OT for flexible user,Department-1,07:00,IN
+13,FlexibleOT,OT for flexible user,Department-1,17:00,IN
+14,NetworkHrs,Networkhours bt no OT Component,Department-1,08:30,IN
+15,NetworkHrs,Networkhours bt no OT Component,Department-1,18:30,IN
+16,NightShift,NightShift,Department-1,05:00,IN
+17,NightShift,NightShift,Department-1,06:00,IN
+18,NpunchNightshif,N punch user with night shift,Department-1,05:30,IN
+19,NpunchNightshif,N punch user with night shift,Department-1,05:40,IN
+20,NpunchNightshif,N punch user with night shift,Department-1,06:30,IN
+21,NpunchNightshif,N punch user with night shift,Department-1,19:30,IN
+22,NpunchNightshif,N punch user with night shift,Department-1,23:30,IN
+23,npunchnoearly,npunch user with no earlyout policy,Department-1,05:30,IN
+24,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,Department-1,08:00,IN
+25,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,Department-1,18:30,IN
+26,OTCOFFBoth,Auto authorize OT COFF,Department-1,08:30,IN
+27,OTCOFFBoth,Auto authorize OT COFF,Department-1,14:30,IN
+28,OTCOFFBoth,Auto authorize OT COFF,Department-1,15:30,IN
+29,OTCOFFBoth,Auto authorize OT COFF,Department-1,20:30,IN
+30,OTonWeekdays,Overtime consider  weekdays for WOPH,Department-1,08:30,IN
+31,OTonWeekdays,Overtime consider  weekdays for WOPH,Department-1,18:30,IN
+32,SpecialOTearlyi,Special OT with earlyin defined component,Department-1,06:00,IN
+33,SpecialOTwOearl,SpecialOTWithoutearlyIn,Department-1,06:00,IN
+34,SpecialOvertime,Special Overtime,Department-1,06:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,04:30,IN
+04/03/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2breaklatein,2punch user with break latein,Department-1,09:00,IN
+2,2breaklatein,2punch user with break latein,Department-1,18:30,IN
+3,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:05,IN
+4,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:30,IN
+5,2pgracelatein,2punch user with grace and late in policy,Department-1,10:00,IN
+6,2pgracelatein,2punch user with grace and late in policy,Department-1,19:30,IN
+7,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+8,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,17:50,IN
+9,2pofficialin,2punch user with official in,Department-1,10:10,IN
+10,2pofficialin,2punch user with official in,Department-1,18:30,IN
+11,2pOfficialout,2 punch user with official out,Department-1,09:00,IN
+12,2pOfficialout,2 punch user with official out,Department-1,16:00,OUT
+13,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,09:10,IN
+14,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,18:40,OUT
+15,2pshortleaveout,2 Punch user for shortleave out,Department-1,09:00,IN
+16,2pshortleaveout,2 Punch user for shortleave out,Department-1,17:30,IN
+17,2pshortleaveout,2 Punch user for shortleave out,Department-1,17:30,OUT
+18,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:00,IN
+19,2punchearlyout,2punchuserwith earlyout policy,Department-1,17:59,IN
+20,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+21,2punchnoearly,2punch with no earlyout duration,Department-1,18:00,IN
+22,2punchnolatein,2punch user with no late in duration applicab,Department-1,09:32,IN
+23,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:32,IN
+24,2punchshortleav,Shortleave in for 2 punch,Department-1,10:10,IN
+25,2punchshortleav,Shortleave in for 2 punch,Department-1,10:10,IN
+26,2punchshortleav,Shortleave in for 2 punch,Department-1,18:30,IN
+27,2punchuser,2punch user with latein,Dept2,09:30,IN
+28,2punchuser,2punch user with latein,Dept2,17:50,IN
+29,2punchuser,2punch user with latein,Dept2,19:00,IN
+30,2pwithexitreade,Exit reader enabled but punches from entry,Department-1,09:00,IN
+31,2pwithexitreade,Exit reader enabled but punches from entry,Department-1,18:30,IN
+32,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:00,IN
+33,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:00,IN
+34,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:30,IN
+35,4breaklatein,4 punch user with break latein AND earlyout,Department-1,18:30,IN
+36,4PbreakEO,4 Punch user with break earlyout,Department-1,09:00,IN
+37,4PbreakEO,4 Punch user with break earlyout,Department-1,09:00,IN
+38,4PbreakEO,4 Punch user with break earlyout,Department-1,12:40,IN
+39,4PbreakEO,4 Punch user with break earlyout,Department-1,13:30,IN
+40,4PbreakEO,4 Punch user with break earlyout,Department-1,19:00,IN
+41,4PBreakEOex,4P Break for earlyout exceeds,Department-1,09:00,IN
+42,4PBreakEOex,4P Break for earlyout exceeds,Department-1,11:10,IN
+43,4PBreakEOex,4P Break for earlyout exceeds,Department-1,13:10,IN
+44,4PBreakEOex,4P Break for earlyout exceeds,Department-1,18:30,IN
+45,4PbreakEOgrace,4P user with break earlyout grace,Department-1,09:00,IN
+46,4PbreakEOgrace,4P user with break earlyout grace,Department-1,12:55,IN
+47,4PbreakEOgrace,4P user with break earlyout grace,Department-1,13:30,IN
+48,4PbreakEOgrace,4P user with break earlyout grace,Department-1,19:00,IN
+49,4Pbreakingrace,4 punch user with break hours within grace,Department-1,09:00,IN
+50,4Pbreakingrace,4 punch user with break hours within grace,Department-1,13:00,IN
+51,4Pbreakingrace,4 punch user with break hours within grace,Department-1,13:35,IN
+52,4Pbreakingrace,4 punch user with break hours within grace,Department-1,18:35,IN
+53,4Pbreaklatein,4p user with break latein,Department-1,09:00,IN
+54,4Pbreaklatein,4p user with break latein,Department-1,13:00,IN
+55,4Pbreaklatein,4p user with break latein,Department-1,14:10,IN
+56,4Pbreaklatein,4p user with break latein,Department-1,19:10,IN
+57,4PBreakLIex,4P user exceeds break latein,Department-1,09:00,IN
+58,4PBreakLIex,4P user exceeds break latein,Department-1,13:00,IN
+59,4PBreakLIex,4P user exceeds break latein,Department-1,14:20,IN
+60,4PBreakLIex,4P user exceeds break latein,Department-1,19:20,IN
+61,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+62,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:20,IN
+63,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:20,IN
+64,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+65,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:01,IN
+66,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:01,IN
+67,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,14:30,IN
+68,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,19:00,IN
+69,4ptotallatein,4punch user for adding break latein in total,Department-1,09:15,IN
+70,4ptotallatein,4punch user for adding break latein in total,Department-1,18:45,IN
+71,Autoshift,Auto shift user with shift schedule not proce,Department-1,21:00,IN
+72,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,20:00,IN
+73,BreakEOInTotal,Break earlyout in total early out,Department-1,08:35,IN
+74,BreakEOInTotal,Break earlyout in total early out,Department-1,12:55,IN
+75,BreakEOInTotal,Break earlyout in total early out,Department-1,13:15,IN
+76,BreakEOInTotal,Break earlyout in total early out,Department-1,18:25,IN
+77,BreakLIexceeds,Exceeds break and total latein,Department-1,09:20,IN
+78,BreakLIexceeds,Exceeds break and total latein,Department-1,13:00,IN
+79,BreakLIexceeds,Exceeds break and total latein,Department-1,13:50,IN
+80,BreakLIexceeds,Exceeds break and total latein,Department-1,19:30,IN
+81,BreakLIinTotal,Break latein in total latein,Department-1,09:20,IN
+82,BreakLIinTotal,Break latein in total latein,Department-1,13:00,IN
+83,BreakLIinTotal,Break latein in total latein,Department-1,13:40,IN
+84,BreakLIinTotal,Break latein in total latein,Department-1,19:20,IN
+85,COFF,COFF,Department-1,08:00,IN
+86,COFF,COFF,Department-1,21:00,IN
+87,earlyout,user punches on early out duration of 30mins,Department-1,08:50,IN
+88,earlyout,user punches on early out duration of 30mins,Department-1,18:20,IN
+89,Earlyoutgrace,Earlyout user with punches on grace time,Department-1,08:55,IN
+90,Earlyoutgrace,Earlyout user with punches on grace time,Department-1,18:25,IN
+91,Eligiblehours,Eligible work hours,Department-1,09:00,IN
+92,Eligiblehours,Eligible work hours,Department-1,18:00,IN
+93,EOdurationexcee,EO duration exceeds,Department-1,08:15,IN
+94,EOdurationexcee,EO duration exceeds,Department-1,17:45,IN
+95,EOgraceexceed,Earlyout grace duration exceeds,Department-1,08:30,IN
+96,EOgraceexceed,Earlyout grace duration exceeds,Department-1,18:15,IN
+97,firsthalfabsent,First half absent,Department-1,14:00,IN
+98,firsthalfabsent,First half absent,Department-1,18:30,IN
+99,Firsthalfleave,User with first half leave,Department-1,14:00,IN
+100,Firsthalfleave,User with first half leave,Department-1,18:30,IN
+101,Flexible,flexibleuser,Department-1,09:00,IN
+102,Flexible,flexibleuser,Department-1,15:00,IN
+103,Fulldayleave,User with full day leave,Department-1,14:08,IN
+104,Inpunch,User with In pucnh only,Department-1,09:00,IN
+105,Lategraceexceed,User with exceed grace period,Department-1,10:00,IN
+106,Lategraceexceed,User with exceed grace period,Department-1,19:30,IN
+107,Latein,user punches on latein only,Department-1,09:15,IN
+108,Latein,user punches on latein only,Department-1,18:45,IN
+109,Lateinduraexcee,Late in Duration exceed,Department-1,09:31,IN
+110,Lateinduraexcee,Late in Duration exceed,Department-1,19:31,IN
+111,Lateingrace,User have pucnges on grace latein,Department-1,09:10,IN
+112,Lateingrace,User have pucnges on grace latein,Department-1,18:40,IN
+113,Lessworkhours,Less work hours for daily limit,Department-1,09:00,IN
+114,Lessworkhours,Less work hours for daily limit,Department-1,18:20,IN
+115,manualOT,User with Manual Overtime,Department-1,07:00,IN
+116,manualOT,User with Manual Overtime,Department-1,21:00,IN
+117,NightShift,NightShift,Department-1,20:00,IN
+118,NightShift,NightShift,Department-1,21:00,IN
+119,Normal,normal user,Department-1,09:00,IN
+120,Normal,normal user,Department-1,18:30,IN
+121,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+122,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,16:00,IN
+123,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,16:20,IN
+124,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,17:50,IN
+125,NpofficialIn,N punch user for official In,Department-1,10:00,IN
+126,NpofficialIn,N punch user for official In,Department-1,13:00,IN
+127,NpofficialIn,N punch user for official In,Department-1,13:10,IN
+128,NpofficialIn,N punch user for official In,Department-1,18:30,IN
+129,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,09:30,IN
+130,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,13:30,OUT
+131,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,13:40,IN
+132,Npoutfromexit,Npunch user with out punch from exit reader,Department-1,18:40,OUT
+133,npshortleavein,n punch user for shortleave in,Department-1,10:30,IN
+134,npshortleavein,n punch user for shortleave in,Department-1,12:00,IN
+135,npshortleavein,n punch user for shortleave in,Department-1,12:10,IN
+136,npshortleavein,n punch user for shortleave in,Department-1,18:30,IN
+137,npshortleaveout,n punch user with short leave out,Department-1,09:00,IN
+138,npshortleaveout,n punch user with short leave out,Department-1,10:00,IN
+139,npshortleaveout,n punch user with short leave out,Department-1,11:30,IN
+140,npshortleaveout,n punch user with short leave out,Department-1,11:30,OUT
+141,npshortleaveout,n punch user with short leave out,Department-1,18:30,IN
+142,Npucnofficialou,N punch user with official out,Department-1,09:00,IN
+143,Npucnofficialou,N punch user with official out,Department-1,13:00,IN
+144,Npucnofficialou,N punch user with official out,Department-1,13:30,IN
+145,Npucnofficialou,N punch user with official out,Department-1,17:30,OUT
+146,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,09:00,IN
+147,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,12:00,IN
+148,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,12:25,IN
+149,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,19:00,IN
+150,NpunchFlexible,Npunch user with type as flexible,Department-1,08:30,IN
+151,NpunchFlexible,Npunch user with type as flexible,Department-1,13:00,IN
+152,NpunchFlexible,Npunch user with type as flexible,Department-1,13:30,IN
+153,NpunchFlexible,Npunch user with type as flexible,Department-1,18:00,IN
+154,Npunchgreater,N punch user with greater than deduction typr,Department-1,09:00,IN
+155,Npunchgreater,N punch user with greater than deduction typr,Department-1,12:00,IN
+156,Npunchgreater,N punch user with greater than deduction typr,Department-1,12:30,IN
+157,Npunchgreater,N punch user with greater than deduction typr,Department-1,18:30,IN
+158,nPunchlatein,npunch user with 30min latein,Department-1,09:25,IN
+159,nPunchlatein,npunch user with 30min latein,Department-1,15:00,IN
+160,nPunchlatein,npunch user with 30min latein,Department-1,16:00,IN
+161,nPunchlatein,npunch user with 30min latein,Department-1,17:00,IN
+162,nPunchlatein,npunch user with 30min latein,Department-1,18:00,IN
+163,nPunchlatein,npunch user with 30min latein,Department-1,18:40,IN
+164,NpunchNightshif,N punch user with night shift,Department-1,00:00,IN
+165,NpunchNightshif,N punch user with night shift,Department-1,05:00,IN
+166,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+167,npunchnoearly,npunch user with no earlyout policy,Department-1,13:00,IN
+168,npunchnoearly,npunch user with no earlyout policy,Department-1,14:00,IN
+169,npunchnoearly,npunch user with no earlyout policy,Department-1,18:30,IN
+170,npunchnolatein,Npunch user with no late in duration,Department-1,09:15,IN
+171,npunchnolatein,Npunch user with no late in duration,Department-1,11:15,IN
+172,npunchnolatein,Npunch user with no late in duration,Department-1,11:30,IN
+173,npunchnolatein,Npunch user with no late in duration,Department-1,17:30,IN
+174,npunchnolatein,Npunch user with no late in duration,Department-1,17:36,IN
+175,npunchnolatein,Npunch user with no late in duration,Department-1,18:36,IN
+176,npunchwithearly,npunch user with earlyout policy,Department-1,09:20,IN
+177,npunchwithearly,npunch user with earlyout policy,Department-1,11:20,IN
+178,npunchwithearly,npunch user with earlyout policy,Department-1,11:30,IN
+179,npunchwithearly,npunch user with earlyout policy,Department-1,15:30,IN
+180,npunchwithearly,npunch user with earlyout policy,Department-1,15:40,IN
+181,npunchwithearly,npunch user with earlyout policy,Department-1,18:28,IN
+182,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,09:00,IN
+183,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,Department-1,19:00,IN
+184,OTCOFFBoth,Auto authorize OT COFF,Department-1,08:00,IN
+185,OTCOFFBoth,Auto authorize OT COFF,Department-1,13:00,IN
+186,OTCOFFBoth,Auto authorize OT COFF,Department-1,14:00,IN
+187,OTCOFFBoth,Auto authorize OT COFF,Department-1,19:30,IN
+188,Secondhalfleave,user with second half leave,Department-1,09:00,IN
+189,Secondhalfleave,user with second half leave,Department-1,14:00,IN
+190,seconhalfabsent,second half absent,Department-1,09:00,IN
+191,seconhalfabsent,second half absent,Department-1,13:30,IN
+192,SpecialOvertime,Special Overtime,Department-1,05:00,IN
+193,SpecialOvertime,Special Overtime,Department-1,16:00,IN
+194,SpecialOvertime,Special Overtime,Department-1,17:00,IN
+195,SpecialOvertime,Special Overtime,Department-1,18:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,19:30,IN
+04/04/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2breaklatein,2punch user with break latein,Department-1,09:00,IN
+2,2breaklatein,2punch user with break latein,Department-1,12:00,IN
+3,2breaklatein,2punch user with break latein,Department-1,13:00,IN
+4,2breaklatein,2punch user with break latein,Department-1,18:30,IN
+5,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:00,IN
+6,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:25,IN
+7,2pgracelatein,2punch user with grace and late in policy,Department-1,09:31,IN
+8,2pgracelatein,2punch user with grace and late in policy,Department-1,19:01,IN
+9,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+10,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,18:25,IN
+11,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,09:30,IN
+12,2poutfromexit,2Punch user with out punch from exit reader o,Department-1,19:00,OUT
+13,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:00,IN
+14,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:40,IN
+15,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+16,2punchnoearly,2punch with no earlyout duration,Department-1,18:30,IN
+17,2punchnolatein,2punch user with no late in duration applicab,Department-1,09:01,IN
+18,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:01,IN
+19,2punchuser,2punch user with latein,Dept2,09:31,IN
+20,2punchuser,2punch user with latein,Dept2,19:31,IN
+21,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:00,IN
+22,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:00,IN
+23,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:31,IN
+24,4breaklatein,4 punch user with break latein AND earlyout,Department-1,18:31,IN
+25,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+26,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:20,IN
+27,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:00,IN
+28,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:20,IN
+29,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:00,IN
+30,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+31,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,14:45,IN
+32,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,19:30,IN
+33,4ptotallatein,4punch user for adding break latein in total,Department-1,09:30,IN
+34,4ptotallatein,4punch user for adding break latein in total,Department-1,19:00,IN
+35,Autoshift,Auto shift user with shift schedule not proce,Department-1,05:00,IN
+36,Autoshift,Auto shift user with shift schedule not proce,Department-1,09:00,IN
+37,Autoshift,Auto shift user with shift schedule not proce,Department-1,18:30,IN
+38,Autoshift,Auto shift user with shift schedule not proce,Department-1,20:00,IN
+39,Autoshift,Auto shift user with shift schedule not proce,Department-1,22:00,IN
+40,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,06:00,IN
+41,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,21:00,IN
+42,BreakEOInTotal,Break earlyout in total early out,Department-1,08:35,IN
+43,BreakEOInTotal,Break earlyout in total early out,Department-1,12:55,IN
+44,BreakEOInTotal,Break earlyout in total early out,Department-1,13:30,IN
+45,BreakEOInTotal,Break earlyout in total early out,Department-1,18:05,IN
+46,BreakEOInTotal,Break earlyout in total early out,Department-1,18:10,IN
+47,Eligiblehours,Eligible work hours,Department-1,08:00,IN
+48,Eligiblehours,Eligible work hours,Department-1,18:00,IN
+49,Flexible,flexibleuser,Department-1,08:00,IN
+50,Flexible,flexibleuser,Department-1,12:00,IN
+51,Lateingrace,User have pucnges on grace latein,Department-1,09:29,IN
+52,Lateingrace,User have pucnges on grace latein,Department-1,18:39,IN
+53,Lateingrace,User have pucnges on grace latein,Department-1,19:00,IN
+54,Lessworkhours,Less work hours for daily limit,Department-1,09:10,IN
+55,Lessworkhours,Less work hours for daily limit,Department-1,18:30,IN
+56,NightShift,NightShift,Department-1,06:00,IN
+57,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+58,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:00,IN
+59,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:30,IN
+60,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,18:19,IN
+61,NpofficialIn,N punch user for official In,Department-1,09:00,IN
+62,NpofficialIn,N punch user for official In,Department-1,13:00,IN
+63,NpofficialIn,N punch user for official In,Department-1,14:50,IN
+64,NpofficialIn,N punch user for official In,Department-1,19:50,IN
+65,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,09:00,IN
+66,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,11:00,IN
+67,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,11:15,IN
+68,Npunchbeyond,Npunch user with deduction type as beyond,Department-1,18:45,IN
+69,Npunchgreater,N punch user with greater than deduction typr,Department-1,09:00,IN
+70,Npunchgreater,N punch user with greater than deduction typr,Department-1,13:00,IN
+71,Npunchgreater,N punch user with greater than deduction typr,Department-1,14:00,IN
+72,Npunchgreater,N punch user with greater than deduction typr,Department-1,19:00,IN
+73,nPunchlatein,npunch user with 30min latein,Department-1,09:00,IN
+74,nPunchlatein,npunch user with 30min latein,Department-1,15:00,IN
+75,nPunchlatein,npunch user with 30min latein,Department-1,16:00,IN
+76,nPunchlatein,npunch user with 30min latein,Department-1,18:00,IN
+77,nPunchlatein,npunch user with 30min latein,Department-1,18:30,IN
+78,nPunchlatein,npunch user with 30min latein,Department-1,18:40,IN
+79,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+80,npunchnoearly,npunch user with no earlyout policy,Department-1,13:30,IN
+81,npunchnoearly,npunch user with no earlyout policy,Department-1,14:00,IN
+82,npunchnoearly,npunch user with no earlyout policy,Department-1,18:29,IN
+83,npunchnolatein,Npunch user with no late in duration,Department-1,10:38,IN
+84,npunchnolatein,Npunch user with no late in duration,Department-1,14:38,IN
+85,npunchnolatein,Npunch user with no late in duration,Department-1,14:48,IN
+86,npunchnolatein,Npunch user with no late in duration,Department-1,17:48,IN
+87,npunchnolatein,Npunch user with no late in duration,Department-1,19:48,IN
+88,npunchnolatein,Npunch user with no late in duration,Department-1,22:48,IN
+89,npunchwithearly,npunch user with earlyout policy,Department-1,09:00,IN
+90,npunchwithearly,npunch user with earlyout policy,Department-1,11:00,IN
+91,npunchwithearly,npunch user with earlyout policy,Department-1,11:10,IN
+92,npunchwithearly,npunch user with earlyout policy,Department-1,14:10,IN
+93,npunchwithearly,npunch user with earlyout policy,Department-1,14:20,IN
+94,npunchwithearly,npunch user with earlyout policy,Department-1,17:20,IN
+95,SpecialOvertime,Special Overtime,Department-1,05:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,04:30,IN
+04/05/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:15,IN
+2,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:30,IN
+3,2pgracelatein,2punch user with grace and late in policy,Department-1,10:01,IN
+4,2pgracelatein,2punch user with grace and late in policy,Department-1,19:31,IN
+5,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+6,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,18:19,IN
+7,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:00,IN
+8,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:10,IN
+9,2punchnoearly,2punch with no earlyout duration,Department-1,09:10,IN
+10,2punchnoearly,2punch with no earlyout duration,Department-1,18:00,IN
+11,2punchnolatein,2punch user with no late in duration applicab,Department-1,09:00,IN
+12,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:00,IN
+13,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:30,IN
+14,2punchuser,2punch user with latein,Dept2,09:05,IN
+15,2punchuser,2punch user with latein,Dept2,18:38,IN
+16,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:30,IN
+17,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:00,IN
+18,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:31,IN
+19,4breaklatein,4 punch user with break latein AND earlyout,Department-1,19:20,IN
+20,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+21,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:15,IN
+22,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:00,IN
+23,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+24,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:00,IN
+25,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+26,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:30,IN
+27,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,18:30,IN
+28,4ptotallatein,4punch user for adding break latein in total,Department-1,09:15,IN
+29,4ptotallatein,4punch user for adding break latein in total,Department-1,13:00,IN
+30,4ptotallatein,4punch user for adding break latein in total,Department-1,14:00,IN
+31,4ptotallatein,4punch user for adding break latein in total,Department-1,18:45,IN
+32,Autoshift,Auto shift user with shift schedule not proce,Department-1,06:00,IN
+33,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,05:00,IN
+34,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,21:00,IN
+35,Eligiblehours,Eligible work hours,Department-1,07:00,IN
+36,Eligiblehours,Eligible work hours,Department-1,17:00,IN
+37,Lessworkhours,Less work hours for daily limit,Department-1,09:15,IN
+38,Lessworkhours,Less work hours for daily limit,Department-1,18:25,IN
+39,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,08:19,IN
+40,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:22,IN
+41,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:00,IN
+42,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,17:49,IN
+43,nPunchlatein,npunch user with 30min latein,Department-1,09:40,IN
+44,nPunchlatein,npunch user with 30min latein,Department-1,11:40,IN
+45,nPunchlatein,npunch user with 30min latein,Department-1,15:40,IN
+46,nPunchlatein,npunch user with 30min latein,Department-1,18:40,IN
+47,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+48,npunchnoearly,npunch user with no earlyout policy,Department-1,13:00,IN
+49,npunchnoearly,npunch user with no earlyout policy,Department-1,14:20,IN
+50,npunchnoearly,npunch user with no earlyout policy,Department-1,17:59,IN
+51,npunchnolatein,Npunch user with no late in duration,Department-1,09:01,IN
+52,npunchnolatein,Npunch user with no late in duration,Department-1,11:01,IN
+53,npunchnolatein,Npunch user with no late in duration,Department-1,11:16,IN
+54,npunchnolatein,Npunch user with no late in duration,Department-1,19:16,IN
+55,npunchwithearly,npunch user with earlyout policy,Department-1,08:20,IN
+56,npunchwithearly,npunch user with earlyout policy,Department-1,13:20,IN
+57,npunchwithearly,npunch user with earlyout policy,Department-1,13:30,IN
+58,npunchwithearly,npunch user with earlyout policy,Department-1,18:29,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,09:30,IN
+04/06/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:20,IN
+2,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:40,IN
+3,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:50,IN
+4,2pgracelatein,2punch user with grace and late in policy,Department-1,09:15,IN
+5,2pgracelatein,2punch user with grace and late in policy,Department-1,18:45,IN
+6,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+7,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,17:49,IN
+8,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:00,IN
+9,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:25,IN
+10,2punchnoearly,2punch with no earlyout duration,Department-1,08:59,IN
+11,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+12,2punchnoearly,2punch with no earlyout duration,Department-1,17:55,IN
+13,2punchnoearly,2punch with no earlyout duration,Department-1,17:59,IN
+14,2punchnolatein,2punch user with no late in duration applicab,Department-1,10:00,IN
+15,2punchnolatein,2punch user with no late in duration applicab,Department-1,19:00,IN
+16,2punchuser,2punch user with latein,Dept2,09:00,IN
+17,2punchuser,2punch user with latein,Dept2,18:30,IN
+18,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:20,IN
+19,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:20,IN
+20,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:10,IN
+21,4breaklatein,4 punch user with break latein AND earlyout,Department-1,19:10,IN
+22,4pgracebreakear,4 punch user with break early out and grace,Department-1,08:50,IN
+23,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:30,IN
+24,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:30,IN
+25,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+26,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:00,IN
+27,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+28,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:40,IN
+29,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,18:40,IN
+30,4ptotallatein,4punch user for adding break latein in total,Department-1,09:00,IN
+31,4ptotallatein,4punch user for adding break latein in total,Department-1,13:00,IN
+32,4ptotallatein,4punch user for adding break latein in total,Department-1,13:45,IN
+33,4ptotallatein,4punch user for adding break latein in total,Department-1,18:45,IN
+34,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,05:00,IN
+35,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,09:00,IN
+36,Autoshiftproces,Auto shift user whose shift has been processe,Department-1,18:30,IN
+37,Eligiblehours,Eligible work hours,Department-1,07:00,IN
+38,Eligiblehours,Eligible work hours,Department-1,15:00,IN
+39,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+40,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:02,IN
+41,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:30,IN
+42,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,18:00,IN
+43,nPunchlatein,npunch user with 30min latein,Department-1,09:30,IN
+44,nPunchlatein,npunch user with 30min latein,Department-1,11:30,IN
+45,nPunchlatein,npunch user with 30min latein,Department-1,15:30,IN
+46,nPunchlatein,npunch user with 30min latein,Department-1,18:30,IN
+47,nPunchlatein,npunch user with 30min latein,Department-1,18:40,IN
+48,nPunchlatein,npunch user with 30min latein,Department-1,19:40,IN
+49,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+50,npunchnoearly,npunch user with no earlyout policy,Department-1,12:00,IN
+51,npunchnoearly,npunch user with no earlyout policy,Department-1,12:30,IN
+52,npunchnoearly,npunch user with no earlyout policy,Department-1,17:30,IN
+53,npunchnolatein,Npunch user with no late in duration,Department-1,09:00,IN
+54,npunchnolatein,Npunch user with no late in duration,Department-1,13:00,IN
+55,npunchnolatein,Npunch user with no late in duration,Department-1,14:00,IN
+56,npunchnolatein,Npunch user with no late in duration,Department-1,19:00,IN
+57,npunchwithearly,npunch user with earlyout policy,Department-1,09:00,IN
+58,npunchwithearly,npunch user with earlyout policy,Department-1,13:00,IN
+59,npunchwithearly,npunch user with earlyout policy,Department-1,14:00,IN
+60,npunchwithearly,npunch user with earlyout policy,Department-1,18:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,04:30,IN
+04/07/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:40,IN
+2,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,19:10,IN
+3,2pgracelatein,2punch user with grace and late in policy,Department-1,09:05,IN
+4,2pgracelatein,2punch user with grace and late in policy,Department-1,18:35,IN
+5,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+6,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,18:30,IN
+7,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:25,IN
+8,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:25,IN
+9,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+10,2punchnoearly,2punch with no earlyout duration,Department-1,17:59,IN
+11,2punchnolatein,2punch user with no late in duration applicab,Department-1,08:30,IN
+12,2punchnolatein,2punch user with no late in duration applicab,Department-1,18:30,IN
+13,2punchuser,2punch user with latein,Dept2,08:30,IN
+14,2punchuser,2punch user with latein,Dept2,18:00,IN
+15,4breaklatein,4 punch user with break latein AND earlyout,Department-1,08:10,IN
+16,4breaklatein,4 punch user with break latein AND earlyout,Department-1,12:10,IN
+17,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:10,IN
+18,4breaklatein,4 punch user with break latein AND earlyout,Department-1,20:10,IN
+19,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+20,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:55,IN
+21,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:30,IN
+22,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+23,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:00,IN
+24,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+25,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,14:00,IN
+26,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,19:00,IN
+27,4ptotallatein,4punch user for adding break latein in total,Department-1,09:16,IN
+28,Eligiblehours,Eligible work hours,Department-1,08:30,IN
+29,Eligiblehours,Eligible work hours,Department-1,16:30,IN
+30,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,08:40,IN
+31,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:40,IN
+32,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:00,IN
+33,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,18:25,IN
+34,nPunchlatein,npunch user with 30min latein,Department-1,08:40,IN
+35,nPunchlatein,npunch user with 30min latein,Department-1,10:40,IN
+36,nPunchlatein,npunch user with 30min latein,Department-1,10:50,IN
+37,nPunchlatein,npunch user with 30min latein,Department-1,16:50,IN
+38,nPunchlatein,npunch user with 30min latein,Department-1,17:00,IN
+39,nPunchlatein,npunch user with 30min latein,Department-1,18:30,IN
+40,npunchnoearly,npunch user with no earlyout policy,Department-1,09:30,IN
+41,npunchnoearly,npunch user with no earlyout policy,Department-1,13:30,IN
+42,npunchnoearly,npunch user with no earlyout policy,Department-1,14:10,IN
+43,npunchnoearly,npunch user with no earlyout policy,Department-1,18:30,IN
+44,npunchnolatein,Npunch user with no late in duration,Department-1,08:00,IN
+45,npunchnolatein,Npunch user with no late in duration,Department-1,10:00,IN
+46,npunchnolatein,Npunch user with no late in duration,Department-1,10:20,IN
+47,npunchnolatein,Npunch user with no late in duration,Department-1,13:20,IN
+48,npunchnolatein,Npunch user with no late in duration,Department-1,13:40,IN
+49,npunchnolatein,Npunch user with no late in duration,Department-1,18:40,IN
+50,npunchwithearly,npunch user with earlyout policy,Department-1,09:30,IN
+51,npunchwithearly,npunch user with earlyout policy,Department-1,13:30,IN
+52,npunchwithearly,npunch user with earlyout policy,Department-1,14:00,IN
+53,npunchwithearly,npunch user with earlyout policy,Department-1,18:00,IN
+04/08/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:45,IN
+2,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,19:30,IN
+3,2pgracelatein,2punch user with grace and late in policy,Department-1,10:35,IN
+4,2pgracelatein,2punch user with grace and late in policy,Department-1,19:35,IN
+5,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,08:40,IN
+6,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,17:40,IN
+7,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:10,IN
+8,2punchearlyout,2punchuserwith earlyout policy,Department-1,18:28,IN
+9,2punchnoearly,2punch with no earlyout duration,Department-1,09:30,IN
+10,2punchnoearly,2punch with no earlyout duration,Department-1,18:29,IN
+11,2punchnolatein,2punch user with no late in duration applicab,Department-1,11:30,IN
+12,2punchnolatein,2punch user with no late in duration applicab,Department-1,20:30,IN
+13,2punchuser,2punch user with latein,Dept2,09:25,IN
+14,2punchuser,2punch user with latein,Dept2,18:55,IN
+15,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:10,IN
+16,4breaklatein,4 punch user with break latein AND earlyout,Department-1,12:30,IN
+17,4breaklatein,4 punch user with break latein AND earlyout,Department-1,14:00,IN
+18,4breaklatein,4 punch user with break latein AND earlyout,Department-1,19:00,IN
+19,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+20,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:45,IN
+21,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:00,IN
+22,4pgracebreakear,4 punch user with break early out and grace,Department-1,18:30,IN
+23,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,09:30,IN
+24,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+25,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:40,IN
+26,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,19:00,IN
+27,Eligiblehours,Eligible work hours,Department-1,08:30,IN
+28,Eligiblehours,Eligible work hours,Department-1,16:30,OUT
+29,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+30,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:00,IN
+31,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,13:30,IN
+32,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,17:30,IN
+33,nPunchlatein,npunch user with 30min latein,Department-1,09:30,IN
+34,nPunchlatein,npunch user with 30min latein,Department-1,11:30,IN
+35,nPunchlatein,npunch user with 30min latein,Department-1,11:40,IN
+36,nPunchlatein,npunch user with 30min latein,Department-1,11:50,IN
+37,nPunchlatein,npunch user with 30min latein,Department-1,15:00,IN
+38,nPunchlatein,npunch user with 30min latein,Department-1,18:30,IN
+39,npunchnoearly,npunch user with no earlyout policy,Department-1,09:00,IN
+40,npunchnoearly,npunch user with no earlyout policy,Department-1,18:20,IN
+41,npunchwithearly,npunch user with earlyout policy,Department-1,09:10,IN
+42,npunchwithearly,npunch user with earlyout policy,Department-1,13:10,IN
+43,npunchwithearly,npunch user with earlyout policy,Department-1,14:00,IN
+44,npunchwithearly,npunch user with earlyout policy,Department-1,17:55,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,19:30,IN
+04/09/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,06:30,IN
+2,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,21:30,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,04:30,IN
+04/10/2017,,,,,
+NGT Direct Door-Device-1,,,,,
+1,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,09:20,IN
+2,2pGraceinWH,2Punch user includes grace time in work hours,Department-1,18:40,IN
+3,2pgracelatein,2punch user with grace and late in policy,Department-1,09:45,IN
+4,2pgracelatein,2punch user with grace and late in policy,Department-1,19:15,IN
+5,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,09:00,IN
+6,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,Department-1,17:00,IN
+7,2punchearlyout,2punchuserwith earlyout policy,Department-1,09:31,IN
+8,2punchearlyout,2punchuserwith earlyout policy,Department-1,17:30,IN
+9,2punchnoearly,2punch with no earlyout duration,Department-1,09:00,IN
+10,2punchnoearly,2punch with no earlyout duration,Department-1,18:29,IN
+11,2punchuser,2punch user with latein,Dept2,09:45,IN
+12,2punchuser,2punch user with latein,Dept2,19:15,IN
+13,4breaklatein,4 punch user with break latein AND earlyout,Department-1,09:00,IN
+14,4breaklatein,4 punch user with break latein AND earlyout,Department-1,12:45,IN
+15,4breaklatein,4 punch user with break latein AND earlyout,Department-1,13:20,IN
+16,4breaklatein,4 punch user with break latein AND earlyout,Department-1,18:20,IN
+17,4pgracebreakear,4 punch user with break early out and grace,Department-1,09:00,IN
+18,4pgracebreakear,4 punch user with break early out and grace,Department-1,12:49,IN
+19,4pgracebreakear,4 punch user with break early out and grace,Department-1,13:20,IN
+20,4pgracebreakear,4 punch user with break early out and grace,Department-1,17:55,IN
+21,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,10:00,IN
+22,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,13:00,IN
+23,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,14:15,IN
+24,4pgracebreaklat,4 punch user with grace for shift and breakla,Department-1,19:34,IN
+25,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,Department-1,09:01,IN
+26,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,Department-1,19:01,IN
+27,daily1earlyin,Cal onWOPH as per weekday,Department-1,07:30,IN
+28,daily1earlyin,Cal onWOPH as per weekday,Department-1,18:30,IN
+29,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,Department-1,09:00,IN
+30,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,Department-1,19:00,IN
+31,daily1weekends,daily1 weekends config in OT,Department-1,07:00,IN
+32,daily1weekends,daily1 weekends config in OT,Department-1,20:20,IN
+33,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,09:00,IN
+34,daily1wkdys,daily1 wkdys and weekends not assigned,Department-1,19:00,IN
+35,FlexibleOT,OT for flexible user,Department-1,09:00,IN
+36,FlexibleOT,OT for flexible user,Department-1,16:00,IN
+37,NetworkHrs,Networkhours bt no OT Component,Department-1,09:00,IN
+38,NetworkHrs,Networkhours bt no OT Component,Department-1,19:00,IN
+39,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,09:00,IN
+40,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:00,IN
+41,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,12:30,IN
+42,npgraceEO,Npunch user with grace in EO and EO duration,Department-1,18:30,IN
+43,nPunchlatein,npunch user with 30min latein,Department-1,10:00,IN
+44,nPunchlatein,npunch user with 30min latein,Department-1,13:00,IN
+45,nPunchlatein,npunch user with 30min latein,Department-1,14:00,IN
+46,nPunchlatein,npunch user with 30min latein,Department-1,18:00,IN
+47,nPunchlatein,npunch user with 30min latein,Department-1,18:10,IN
+48,nPunchlatein,npunch user with 30min latein,Department-1,19:10,IN
+49,npunchnoearly,npunch user with no earlyout policy,Department-1,09:20,IN
+50,npunchnoearly,npunch user with no earlyout policy,Department-1,13:20,IN
+51,npunchnoearly,npunch user with no earlyout policy,Department-1,14:20,IN
+52,npunchnoearly,npunch user with no earlyout policy,Department-1,18:40,IN
+53,npunchwithearly,npunch user with earlyout policy,Department-1,08:59,IN
+54,npunchwithearly,npunch user with earlyout policy,Department-1,13:00,IN
+55,npunchwithearly,npunch user with earlyout policy,Department-1,14:00,IN
+56,npunchwithearly,npunch user with earlyout policy,Department-1,17:59,IN
+57,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,Department-1,09:00,IN
+58,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,Department-1,19:30,IN
+59,OTonWeekdays,Overtime consider  weekdays for WOPH,Department-1,08:00,IN
+60,OTonWeekdays,Overtime consider  weekdays for WOPH,Department-1,19:00,IN
+Vega Controller-Device-9,,,,,
+1,auto,auto,Department-1,19:30,IN

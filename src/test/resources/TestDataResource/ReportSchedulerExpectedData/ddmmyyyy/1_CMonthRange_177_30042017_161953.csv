@@ -1,0 +1,100 @@
+UserID,Name,CreationDate
+12,dfddd,27/04/2017 04:12:38 AM
+2breaklatein,2punch user with break latein,20/04/2017 03:55:55 AM
+2pGraceinWH,2Punch user includes grace time in work hours,21/04/2017 03:53:40 AM
+2pgracelatein,2punch user with grace and late in policy,20/04/2017 05:00:40 AM
+2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,21/04/2017 03:22:51 AM
+2pofficialin,2punch user with official in,24/04/2017 03:58:16 AM
+2pOfficialout,2 punch user with official out,24/04/2017 04:16:26 AM
+2poutfromexit,2Punch user with out punch from exit reader o,24/04/2017 05:21:58 AM
+2pshortleaveout,2 Punch user for shortleave out,24/04/2017 03:28:48 AM
+2punchearlyout,2punchuserwith earlyout policy,19/04/2017 11:09:00 AM
+2punchnoearly,2punch with no earlyout duration,20/04/2017 03:04:00 AM
+2punchnolatein,2punch user with no late in duration applicab,19/04/2017 08:10:31 AM
+2punchshortleav,Shortleave in for 2 punch,24/04/2017 02:39:37 AM
+2punchuser,2punch user with latein,18/04/2017 09:53:32 AM
+2pwithexitreade,Exit reader enabled but punches from entry,24/04/2017 07:19:41 AM
+4breaklatein,4 punch user with break latein AND earlyout,20/04/2017 04:02:32 AM
+4PbreakEO,4 Punch user with break earlyout,24/04/2017 11:20:40 AM
+4PBreakEOex,4P Break for earlyout exceeds,25/04/2017 04:10:27 AM
+4PbreakEOgrace,4P user with break earlyout grace,24/04/2017 11:36:18 AM
+4Pbreakingrace,4 punch user with break hours within grace,24/04/2017 10:04:30 AM
+4Pbreaklatein,4p user with break latein,24/04/2017 10:00:04 AM
+4PBreakLIex,4P user exceeds break latein,24/04/2017 10:21:03 AM
+4pgracebreakear,4 punch user with break early out and grace,21/04/2017 02:42:26 AM
+4pgracebreaklat,4 punch user with grace for shift and breakla,20/04/2017 05:12:43 AM
+4ptotallatein,4punch user for adding break latein in total,21/04/2017 08:14:29 AM
+auto,auto,30/04/2017 10:03:37 AM
+Autoshift,Auto shift user with shift schedule not proce,24/04/2017 04:39:17 AM
+Autoshiftproces,Auto shift user whose shift has been processe,24/04/2017 04:51:44 AM
+Awardandpenalty,award n penalty,27/04/2017 03:14:12 AM
+BreakEOexceeds,Include Break early out in shift exceeds TD,25/04/2017 04:50:50 AM
+BreakEOInTotal,Break earlyout in total early out,25/04/2017 04:40:44 AM
+BreakLIexceeds,Exceeds break and total latein,25/04/2017 04:29:17 AM
+BreakLIinTotal,Break latein in total latein,25/04/2017 04:25:09 AM
+CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,26/04/2017 01:53:49 AM
+COFF,COFF,27/04/2017 05:08:24 AM
+daily1earlyin,Cal onWOPH as per weekday,26/04/2017 03:54:23 AM
+daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,26/04/2017 04:17:29 AM
+daily1weekends,daily1 weekends config in OT,26/04/2017 05:11:18 AM
+daily1wkdys,daily1 wkdys and weekends not assigned,26/04/2017 04:05:34 AM
+earlyout,user punches on early out duration of 30mins,21/04/2017 11:16:04 AM
+Earlyoutgrace,Earlyout user with punches on grace time,21/04/2017 11:19:22 AM
+Eligiblehours,Eligible work hours,26/04/2017 08:00:16 AM
+EOdurationexcee,EO duration exceeds,21/04/2017 11:29:42 AM
+EOgraceexceed,Earlyout grace duration exceeds,21/04/2017 11:32:09 AM
+FB,OT for FB,26/04/2017 05:17:46 AM
+firsthalfabsent,First half absent,21/04/2017 11:06:32 AM
+Firsthalfleave,User with first half leave,21/04/2017 11:41:27 AM
+Flexible,flexibleuser,24/04/2017 08:03:34 AM
+FlexibleMonthly,FlexibleMonthly,05/04/2017 11:04:24 AM
+FlexibleNone,FlexibleNone,05/04/2017 11:01:56 AM
+FlexibleOT,OT for flexible user,26/04/2017 06:47:47 AM
+Fulldayleave,User with full day leave,24/04/2017 02:23:16 AM
+Inpunch,User with In pucnh only,21/04/2017 11:01:33 AM
+Intercom,Intercom,05/04/2017 11:41:01 AM
+JPC,JPC user,24/04/2017 08:07:18 AM
+Jpcdefaultenter,Job coseting user with default job of enterpr,24/04/2017 09:45:30 AM
+JPCdefaultjob,JPC default job,24/04/2017 08:27:04 AM
+Jpcdevicebased,JPC user with device based,24/04/2017 08:20:01 AM
+JPCmergejob,JPC merged Job,27/04/2017 07:00:00 AM
+JPCsitedefaultj,JPC user with sitewise default job,24/04/2017 08:58:38 AM
+JPCSplitHO,JPC split timesheet normal shift,27/04/2017 08:35:43 AM
+JPCSplitNS,JPC split timesheet night shift,27/04/2017 09:03:50 AM
+Lategraceexceed,User with exceed grace period,21/04/2017 11:22:16 AM
+Latein,user punches on latein only,21/04/2017 11:13:05 AM
+Lateinduraexcee,Late in Duration exceed,21/04/2017 11:26:09 AM
+Lateingrace,User have pucnges on grace latein,21/04/2017 11:09:47 AM
+Lessworkhours,Less work hours for daily limit,26/04/2017 01:12:21 AM
+manualOT,User with Manual Overtime,27/04/2017 02:54:24 AM
+mixshift,mixshifts,26/04/2017 09:49:58 AM
+NetworkHrs,Networkhours bt no OT Component,26/04/2017 03:31:50 AM
+NightShift,NightShift,25/04/2017 06:31:02 AM
+Normal,normal user,21/04/2017 10:58:18 AM
+npgraceEO,Npunch user with grace in EO and EO duration,21/04/2017 03:29:38 AM
+NpofficialIn,N punch user for official In,24/04/2017 04:19:28 AM
+Npoutfromexit,Npunch user with out punch from exit reader,24/04/2017 05:26:48 AM
+npshortleavein,n punch user for shortleave in,24/04/2017 03:34:26 AM
+npshortleaveout,n punch user with short leave out,24/04/2017 03:50:46 AM
+Npucnofficialou,N punch user with official out,24/04/2017 04:33:21 AM
+Npunchbeyond,Npunch user with deduction type as beyond,24/04/2017 04:59:21 AM
+NpunchFlexible,Npunch user with type as flexible,26/04/2017 07:31:13 AM
+Npunchgreater,N punch user with greater than deduction typr,24/04/2017 05:03:57 AM
+nPunchlatein,npunch user with 30min latein,19/04/2017 06:46:45 AM
+NpunchNightshif,N punch user with night shift,26/04/2017 07:13:00 AM
+npunchnoearly,npunch user with no earlyout policy,20/04/2017 03:17:00 AM
+npunchnolatein,Npunch user with no late in duration,19/04/2017 08:52:13 AM
+npunchwithearly,npunch user with earlyout policy,20/04/2017 01:56:41 AM
+NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,24/04/2017 07:50:09 AM
+OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,26/04/2017 01:46:47 AM
+OTCOFFBoth,Auto authorize OT COFF,27/04/2017 10:27:30 AM
+OTonWeekdays,Overtime consider  weekdays for WOPH,26/04/2017 01:29:45 AM
+RestrictedDail1,Restricted OT cal for Daily1,28/04/2017 07:03:36 AM
+RI1,Reporting Incharge1,27/04/2017 01:57:30 AM
+RI12,Reporting incharge1,27/04/2017 02:51:41 AM
+RI2,Reporting Incharge2,27/04/2017 02:00:14 AM
+Secondhalfleave,user with second half leave,24/04/2017 02:14:05 AM
+seconhalfabsent,second half absent,21/04/2017 11:03:07 AM
+SpecialOTearlyi,Special OT with earlyin defined component,26/04/2017 01:02:29 AM
+SpecialOTwOearl,SpecialOTWithoutearlyIn,25/04/2017 11:11:36 AM
+SpecialOvertime,Special Overtime,25/04/2017 08:30:58 AM

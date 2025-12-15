@@ -1,0 +1,29 @@
+DADB			Page 1 of 1			
+Organization-Wise Early-OUT From 2017/04/01 To 2017/04/10			
+Run by:	System Admin		Date:		
+Sr No	User ID	Name	Date	Shift	IN	OUT	Early-OUT	
+
+Organization :		DADB						
+1.0	2pgraceshiftEO	2punch user for EO Shift grace and EO duratio	Sat Apr 01 00:00:00 IST 2017	EO	Sat Apr 01 08:50:00 IST 2017	Sat Apr 01 18:20:00 IST 2017	00:10	
+		
+2.0	2punchearlyout	2punchuserwith earlyout policy	Sat Apr 01 00:00:00 IST 2017	GS	Sat Apr 01 09:00:03 IST 2017	Sat Apr 01 18:00:02 IST 2017	00:30	
+	
+3.0	2punchuser	2punch user with latein	Fri Apr 07 00:00:00 IST 2017	GS	Fri Apr 07 08:30:54 IST 2017	Fri Apr 07 18:00:54 IST 2017	00:30	
+4.0	BreakEOexceeds	Include Break early out in shift exceeds TD	Sat Apr 01 00:00:00 IST 2017	ET	Sat Apr 01 08:35:21 IST 2017	Sat Apr 01 18:00:22 IST 2017	00:10	
+		
+5.0	BreakEOInTotal	Break earlyout in total early out	Sat Apr 01 00:00:00 IST 2017	ET	Sat Apr 01 08:50:50 IST 2017	Sat Apr 01 18:20:49 IST 2017	00:20	
+		
+6.0	BreakEOInTotal	Break earlyout in total early out	Mon Apr 03 00:00:00 IST 2017	ET	Mon Apr 03 08:35:49 IST 2017	Mon Apr 03 18:25:49 IST 2017	00:05	
+		
+7.0	BreakEOInTotal	Break earlyout in total early out	Tue Apr 04 00:00:00 IST 2017	ET	Tue Apr 04 08:35:54 IST 2017	Tue Apr 04 18:10:21 IST 2017	00:05	
+		
+8.0	earlyout	user punches on early out duration of 30mins	Sat Apr 01 00:00:00 IST 2017	EO	Sat Apr 01 08:30:21 IST 2017	Sat Apr 01 18:00:20 IST 2017	00:30	
+	
+9.0	npgraceEO	Npunch user with grace in EO and EO duration	Sat Apr 01 00:00:00 IST 2017	EO	Sat Apr 01 09:00:37 IST 2017	Sat Apr 01 18:20:37 IST 2017	00:10	
+	
+10.0	npunchwithearly	npunch user with earlyout policy	Sat Apr 01 00:00:00 IST 2017	GS	Sat Apr 01 09:00:29 IST 2017	Sat Apr 01 18:20:27 IST 2017	00:10	
+	
+
+Early-OUT Group Total:							02:40	
+
+Early-OUT Grand Total:							02:40	

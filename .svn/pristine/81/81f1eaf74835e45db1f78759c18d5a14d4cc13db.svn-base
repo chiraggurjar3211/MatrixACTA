@@ -1,0 +1,5 @@
+browser=edge
+weburl=http://192.168.27.1/cosec/login
+deviceurl=http://191.168.11.65
+database=MSSQL
+toMail=test@matrixrd.org

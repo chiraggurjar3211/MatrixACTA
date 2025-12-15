@@ -1,0 +1,13 @@
+,,DADB,,,Page 1 of 1,,
+,,Organization-Wise Early-OUT From 04/01/2017 To 04/10/2017,,,,,
+Run by:,System Admin,,Date:,,,,
+Sr No,User ID,Name,Date,Shift,IN,OUT,Early-OUT
+Organization :,,DADB,,,,,
+1,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,04/01/2017,EO,08:50,18:20,00:10
+2,2punchearlyout,2punchuserwith earlyout policy,04/01/2017,GS,09:00,18:00,00:30
+3,2punchuser,2punch user with latein,04/07/2017,GS,08:30,18:00,00:30
+4,earlyout,user punches on early out duration of 30mins,04/01/2017,EO,08:30,18:00,00:30
+5,npgraceEO,Npunch user with grace in EO and EO duration,04/01/2017,EO,09:00,18:20,00:10
+6,npunchwithearly,npunch user with earlyout policy,04/01/2017,GS,09:00,18:20,00:10
+Early-OUT Group Total:,,,,,,,02:00
+Early-OUT Grand Total:,,,,,,,02:00

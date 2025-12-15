@@ -1,0 +1,237 @@
+,,,,IN/OUT Punch Posting Report,,,,,,,,,,
+,,,Department - Wise  Details  From ,,,[FromDate],,To,[ToDate],,,,,
+,,,,,,,,,,,,,Page 1 of 1,
+Run By :       ,SYSTEM,,,,,,,,,,,,,
+Sr. No.,User ID,User Name,,,Designation,Event Date,Event Time,,,Event Delay,Entry/Exit,Event Source,,Site Name
+1,Department-1,,,,,,,,,,,,,
+1,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,09:12,,,429:37,IN,Device:NGT Direct Door-Device-1,,Site-1
+2,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,10:00,,,428:50,IN,Device:NGT Direct Door-Device-1,,Site-1
+3,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,11:00,,,427:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+4,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,13:00,,,425:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+5,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,15:00,,,423:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+6,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,17:00,,,421:54,IN,Device:NGT Direct Door-Device-1,,Site-1
+7,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,18:30,,,420:24,IN,Device:NGT Direct Door-Device-1,,Site-1
+8,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,18:38,,,420:17,IN,Device:NGT Direct Door-Device-1,,Site-1
+9,nPunchlatein,npunch user with 30min latein,,,Designation-1,01/04/2017,18:48,,,420:07,IN,Device:NGT Direct Door-Device-1,,Site-1
+10,2punchnolatein,2punch user with no late in duration applicab,,,Designation-1,01/04/2017,09:10,,,431:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+11,2punchnolatein,2punch user with no late in duration applicab,,,Designation-1,01/04/2017,18:10,,,422:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+12,2punchnolatein,2punch user with no late in duration applicab,,,Designation-1,01/04/2017,18:20,,,422:07,IN,Device:NGT Direct Door-Device-1,,Site-1
+13,2punchnolatein,2punch user with no late in duration applicab,,,Designation-1,01/04/2017,18:30,,,421:57,IN,Device:NGT Direct Door-Device-1,,Site-1
+14,npunchnolatein,Npunch user with no late in duration,,,Designation-1,01/04/2017,09:30,,,431:22,IN,Device:NGT Direct Door-Device-1,,Site-1
+15,npunchnolatein,Npunch user with no late in duration,,,Designation-1,01/04/2017,19:00,,,421:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+16,2punchearlyout,2punchuserwith earlyout policy,,,Designation-1,01/04/2017,09:00,,,434:09,IN,Device:NGT Direct Door-Device-1,,Site-1
+17,2punchearlyout,2punchuserwith earlyout policy,,,Designation-1,01/04/2017,18:00,,,425:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+18,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,09:00,,,448:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+19,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,11:00,,,446:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+20,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,11:10,,,446:48,IN,Device:NGT Direct Door-Device-1,,Site-1
+21,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,16:10,,,441:49,IN,Device:NGT Direct Door-Device-1,,Site-1
+22,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,16:20,,,441:39,IN,Device:NGT Direct Door-Device-1,,Site-1
+23,npunchwithearly,npunch user with earlyout policy,,,Designation-1,01/04/2017,18:20,,,439:39,IN,Device:NGT Direct Door-Device-1,,Site-1
+24,2punchnoearly,2punch with no earlyout duration,,,Designation-1,01/04/2017,09:00,,,450:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+25,2punchnoearly,2punch with no earlyout duration,,,Designation-1,01/04/2017,18:20,,,440:45,IN,Device:NGT Direct Door-Device-1,,Site-1
+26,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,09:00,,,450:17,IN,Device:NGT Direct Door-Device-1,,Site-1
+27,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,13:00,,,446:17,IN,Device:NGT Direct Door-Device-1,,Site-1
+28,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,14:00,,,445:17,IN,Device:NGT Direct Door-Device-1,,Site-1
+29,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,18:00,,,441:18,IN,Device:NGT Direct Door-Device-1,,Site-1
+30,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,09:00,,,450:57,IN,Device:NGT Direct Door-Device-1,,Site-1
+31,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,13:00,,,446:57,IN,Device:NGT Direct Door-Device-1,,Site-1
+32,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,14:10,,,445:47,IN,Device:NGT Direct Door-Device-1,,Site-1
+33,npunchnoearly,npunch user with no earlyout policy,,,Designation-1,01/04/2017,18:30,,,441:27,IN,Device:NGT Direct Door-Device-1,,Site-1
+34,2breaklatein,2punch user with break latein,,,Designation-1,01/04/2017,09:00,,,450:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+35,2breaklatein,2punch user with break latein,,,Designation-1,01/04/2017,13:00,,,446:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+36,2breaklatein,2punch user with break latein,,,Designation-1,01/04/2017,14:10,,,445:48,IN,Device:NGT Direct Door-Device-1,,Site-1
+37,2punchnolatein,2punch user with no late in duration applicab,,,Designation-1,01/04/2017,18:30,,,441:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+38,2breaklatein,2punch user with break latein,,,Designation-1,01/04/2017,18:30,,,441:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+39,4breaklatein,4 punch user with break latein AND earlyout,,,Designation-1,01/04/2017,09:00,,,451:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+40,4breaklatein,4 punch user with break latein AND earlyout,,,Designation-1,01/04/2017,13:00,,,447:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+41,4breaklatein,4 punch user with break latein AND earlyout,,,Designation-1,01/04/2017,14:10,,,445:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+42,4breaklatein,4 punch user with break latein AND earlyout,,,Designation-1,01/04/2017,18:30,,,441:33,IN,Device:NGT Direct Door-Device-1,,Site-1
+43,2pgracelatein,2punch user with grace and late in policy,,,Designation-1,01/04/2017,09:30,,,451:31,IN,Device:NGT Direct Door-Device-1,,Site-1
+44,2pgracelatein,2punch user with grace and late in policy,,,Designation-1,01/04/2017,19:00,,,442:01,IN,Device:NGT Direct Door-Device-1,,Site-1
+45,4pgracebreaklat,4 punch user with grace for shift and breakla,,,Designation-1,01/04/2017,09:00,,,452:13,IN,Device:NGT Direct Door-Device-1,,Site-1
+46,4pgracebreaklat,4 punch user with grace for shift and breakla,,,Designation-1,01/04/2017,13:01,,,448:12,IN,Device:NGT Direct Door-Device-1,,Site-1
+47,4pgracebreaklat,4 punch user with grace for shift and breakla,,,Designation-1,01/04/2017,14:10,,,447:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+48,4pgracebreaklat,4 punch user with grace for shift and breakla,,,Designation-1,01/04/2017,18:41,,,442:32,IN,Device:NGT Direct Door-Device-1,,Site-1
+49,4pgracebreakear,4 punch user with break early out and grace,,,Designation-1,01/04/2017,09:00,,,473:44,IN,Device:NGT Direct Door-Device-1,,Site-1
+50,4pgracebreakear,4 punch user with break early out and grace,,,Designation-1,01/04/2017,12:50,,,470:14,IN,Device:NGT Direct Door-Device-1,,Site-1
+51,4pgracebreakear,4 punch user with break early out and grace,,,Designation-1,01/04/2017,13:25,,,469:39,IN,Device:NGT Direct Door-Device-1,,Site-1
+52,4pgracebreakear,4 punch user with break early out and grace,,,Designation-1,01/04/2017,18:30,,,464:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+53,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,,,Designation-1,01/04/2017,09:00,,,474:23,IN,Device:NGT Direct Door-Device-1,,Site-1
+54,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,,,Designation-1,01/04/2017,18:20,,,465:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+55,npgraceEO,Npunch user with grace in EO and EO duration,,,Designation-1,01/04/2017,09:00,,,474:30,IN,Device:NGT Direct Door-Device-1,,Site-1
+56,npgraceEO,Npunch user with grace in EO and EO duration,,,Designation-1,01/04/2017,15:00,,,468:30,IN,Device:NGT Direct Door-Device-1,,Site-1
+57,npgraceEO,Npunch user with grace in EO and EO duration,,,Designation-1,01/04/2017,15:30,,,468:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+58,npgraceEO,Npunch user with grace in EO and EO duration,,,Designation-1,01/04/2017,18:20,,,465:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+59,2pGraceinWH,2Punch user includes grace time in work hours,,,Designation-1,01/04/2017,09:10,,,474:45,IN,Device:NGT Direct Door-Device-1,,Site-1
+60,2pGraceinWH,2Punch user includes grace time in work hours,,,Designation-1,01/04/2017,18:10,,,465:47,IN,Device:NGT Direct Door-Device-1,,Site-1
+61,2pGraceinWH,2Punch user includes grace time in work hours,,,Designation-1,01/04/2017,18:30,,,465:36,IN,Device:NGT Direct Door-Device-1,,Site-1
+62,4ptotallatein,4punch user for adding break latein in total,,,Designation-1,01/04/2017,09:00,,,480:08,IN,Device:NGT Direct Door-Device-1,,Site-1
+63,4ptotallatein,4punch user for adding break latein in total,,,Designation-1,01/04/2017,18:30,,,470:38,IN,Device:NGT Direct Door-Device-1,,Site-1
+64,Normal,normal user,,,Designation-1,01/04/2017,09:00,,,481:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+65,Normal,normal user,,,Designation-1,01/04/2017,18:30,,,472:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+66,Inpunch,User with In pucnh only,,,Designation-1,01/04/2017,09:00,,,482:01,IN,Device:NGT Direct Door-Device-1,,Site-1
+67,seconhalfabsent,second half absent,,,Designation-1,01/04/2017,09:00,,,482:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+68,seconhalfabsent,second half absent,,,Designation-1,01/04/2017,14:00,,,477:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+69,firsthalfabsent,First half absent,,,Designation-1,01/04/2017,13:30,,,477:36,IN,Device:NGT Direct Door-Device-1,,Site-1
+70,firsthalfabsent,First half absent,,,Designation-1,01/04/2017,18:30,,,472:37,IN,Device:NGT Direct Door-Device-1,,Site-1
+71,Lateingrace,User have pucnges on grace latein,,,Designation-1,01/04/2017,09:30,,,481:40,IN,Device:NGT Direct Door-Device-1,,Site-1
+72,Lateingrace,User have pucnges on grace latein,,,Designation-1,01/04/2017,19:00,,,472:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+73,Latein,user punches on latein only,,,Designation-1,01/04/2017,09:30,,,481:43,IN,Device:NGT Direct Door-Device-1,,Site-1
+74,Latein,user punches on latein only,,,Designation-1,01/04/2017,19:00,,,472:13,IN,Device:NGT Direct Door-Device-1,,Site-1
+75,earlyout,user punches on early out duration of 30mins,,,Designation-1,01/04/2017,08:30,,,482:46,IN,Device:NGT Direct Door-Device-1,,Site-1
+76,earlyout,user punches on early out duration of 30mins,,,Designation-1,01/04/2017,18:00,,,473:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+77,Earlyoutgrace,Earlyout user with punches on grace time,,,Designation-1,01/04/2017,08:50,,,482:29,IN,Device:NGT Direct Door-Device-1,,Site-1
+78,Earlyoutgrace,Earlyout user with punches on grace time,,,Designation-1,01/04/2017,18:20,,,472:59,IN,Device:NGT Direct Door-Device-1,,Site-1
+79,Lategraceexceed,User with exceed grace period,,,Designation-1,01/04/2017,09:31,,,481:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+80,Lategraceexceed,User with exceed grace period,,,Designation-1,01/04/2017,19:05,,,472:19,IN,Device:NGT Direct Door-Device-1,,Site-1
+81,Lateinduraexcee,Late in Duration exceed,,,Designation-1,01/04/2017,10:00,,,481:27,IN,Device:NGT Direct Door-Device-1,,Site-1
+82,Lateinduraexcee,Late in Duration exceed,,,Designation-1,01/04/2017,19:30,,,471:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+83,EOdurationexcee,EO duration exceeds,,,Designation-1,01/04/2017,08:25,,,483:05,IN,Device:NGT Direct Door-Device-1,,Site-1
+84,EOdurationexcee,EO duration exceeds,,,Designation-1,01/04/2017,17:55,,,473:35,IN,Device:NGT Direct Door-Device-1,,Site-1
+85,EOgraceexceed,Earlyout grace duration exceeds,,,Designation-1,01/04/2017,08:45,,,482:48,IN,Device:NGT Direct Door-Device-1,,Site-1
+86,EOgraceexceed,Earlyout grace duration exceeds,,,Designation-1,01/04/2017,18:19,,,473:14,IN,Device:NGT Direct Door-Device-1,,Site-1
+87,Firsthalfleave,User with first half leave,,,Designation-1,01/04/2017,14:00,,,477:42,IN,Device:NGT Direct Door-Device-1,,Site-1
+88,Firsthalfleave,User with first half leave,,,Designation-1,01/04/2017,18:30,,,473:13,IN,Device:NGT Direct Door-Device-1,,Site-1
+89,Secondhalfleave,user with second half leave,,,Designation-1,01/04/2017,09:00,,,545:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+90,Secondhalfleave,user with second half leave,,,Designation-1,01/04/2017,14:00,,,540:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+91,2punchshortleav,Shortleave in for 2 punch,,,Designation-1,01/04/2017,10:30,,,544:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+92,2punchshortleav,Shortleave in for 2 punch,,,Designation-1,01/04/2017,18:30,,,536:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+93,2pshortleaveout,2 Punch user for shortleave out,,,Designation-1,01/04/2017,09:00,,,546:29,IN,Device:NGT Direct Door-Device-1,,Site-1
+94,2pshortleaveout,2 Punch user for shortleave out,,,Designation-1,01/04/2017,17:00,,,538:29,IN,Device:NGT Direct Door-Device-1,,Site-1
+95,npshortleavein,n punch user for shortleave in,,,Designation-1,01/04/2017,09:00,,,546:39,IN,Device:NGT Direct Door-Device-1,,Site-1
+96,npshortleavein,n punch user for shortleave in,,,Designation-1,01/04/2017,11:00,,,544:39,IN,Device:NGT Direct Door-Device-1,,Site-1
+97,npshortleavein,n punch user for shortleave in,,,Designation-1,01/04/2017,12:30,,,543:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+98,npshortleavein,n punch user for shortleave in,,,Designation-1,01/04/2017,18:30,,,537:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+99,2pshortleaveout,2 Punch user for shortleave out,,,Designation-1,01/04/2017,17:00,,,538:46,OUT,Device:NGT Direct Door-Device-1,,Site-1
+100,2punchshortleav,Shortleave in for 2 punch,,,Designation-1,01/04/2017,10:30,,,545:18,IN,Device:NGT Direct Door-Device-1,,Site-1
+101,npshortleaveout,n punch user with short leave out,,,Designation-1,01/04/2017,09:00,,,546:51,IN,Device:NGT Direct Door-Device-1,,Site-1
+102,npshortleaveout,n punch user with short leave out,,,Designation-1,01/04/2017,10:30,,,545:22,OUT,Device:NGT Direct Door-Device-1,,Site-1
+103,npshortleaveout,n punch user with short leave out,,,Designation-1,01/04/2017,12:00,,,543:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+104,npshortleaveout,n punch user with short leave out,,,Designation-1,01/04/2017,18:30,,,537:22,IN,Device:NGT Direct Door-Device-1,,Site-1
+105,2pofficialin,2punch user with official in,,,Designation-1,01/04/2017,10:45,,,545:29,IN,Device:NGT Direct Door-Device-1,,Site-1
+106,2pofficialin,2punch user with official in,,,Designation-1,01/04/2017,18:30,,,537:44,IN,Device:NGT Direct Door-Device-1,,Site-1
+107,2pOfficialout,2 punch user with official out,,,Designation-1,01/04/2017,09:00,,,547:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+108,2pOfficialout,2 punch user with official out,,,Designation-1,01/04/2017,16:30,,,539:47,OUT,Device:NGT Direct Door-Device-1,,Site-1
+109,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,11:00,,,545:20,IN,Device:NGT Direct Door-Device-1,,Site-1
+110,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,13:00,,,543:24,IN,Device:NGT Direct Door-Device-1,,Site-1
+111,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,14:00,,,542:24,IN,Device:NGT Direct Door-Device-1,,Site-1
+112,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,18:30,,,537:54,IN,Device:NGT Direct Door-Device-1,,Site-1
+113,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,18:34,,,537:51,IN,Device:NGT Direct Door-Device-1,,Site-1
+114,NpofficialIn,N punch user for official In,,,Designation-1,01/04/2017,18:40,,,537:48,IN,Device:NGT Direct Door-Device-1,,Site-1
+115,Npucnofficialou,N punch user with official out,,,Designation-1,01/04/2017,09:00,,,547:33,IN,Device:NGT Direct Door-Device-1,,Site-1
+116,Npucnofficialou,N punch user with official out,,,Designation-1,01/04/2017,14:00,,,542:34,OUT,Device:NGT Direct Door-Device-1,,Site-1
+117,Npucnofficialou,N punch user with official out,,,Designation-1,01/04/2017,16:00,,,540:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+118,Npucnofficialou,N punch user with official out,,,Designation-1,01/04/2017,19:00,,,537:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+119,Autoshift,Auto shift user with shift schedule not proce,,,Designation-1,01/04/2017,20:00,,,536:40,IN,Device:NGT Direct Door-Device-1,,Site-1
+120,Autoshiftproces,Auto shift user whose shift has been processe,,,Designation-1,01/04/2017,09:00,,,547:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+121,Autoshiftproces,Auto shift user whose shift has been processe,,,Designation-1,01/04/2017,18:30,,,538:22,IN,Device:NGT Direct Door-Device-1,,Site-1
+122,Npunchbeyond,Npunch user with deduction type as beyond,,,Designation-1,01/04/2017,09:00,,,547:59,IN,Device:NGT Direct Door-Device-1,,Site-1
+123,Npunchbeyond,Npunch user with deduction type as beyond,,,Designation-1,01/04/2017,11:00,,,546:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+124,Npunchbeyond,Npunch user with deduction type as beyond,,,Designation-1,01/04/2017,11:20,,,545:40,IN,Device:NGT Direct Door-Device-1,,Site-1
+125,Npunchbeyond,Npunch user with deduction type as beyond,,,Designation-1,01/04/2017,18:50,,,538:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+126,Npunchgreater,N punch user with greater than deduction typr,,,Designation-1,01/04/2017,09:00,,,548:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+127,Npunchgreater,N punch user with greater than deduction typr,,,Designation-1,01/04/2017,12:00,,,545:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+128,Npunchgreater,N punch user with greater than deduction typr,,,Designation-1,01/04/2017,12:20,,,544:44,IN,Device:NGT Direct Door-Device-1,,Site-1
+129,Npunchgreater,N punch user with greater than deduction typr,,,Designation-1,01/04/2017,18:30,,,538:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+130,2poutfromexit,2Punch user with out punch from exit reader o,,,Designation-1,01/04/2017,09:00,,,548:23,IN,Device:NGT Direct Door-Device-1,,Site-1
+131,2poutfromexit,2Punch user with out punch from exit reader o,,,Designation-1,01/04/2017,18:30,,,538:54,OUT,Device:NGT Direct Door-Device-1,,Site-1
+132,Npoutfromexit,Npunch user with out punch from exit reader,,,Designation-1,01/04/2017,09:00,,,548:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+133,Npoutfromexit,Npunch user with out punch from exit reader,,,Designation-1,01/04/2017,13:00,,,544:28,OUT,Device:NGT Direct Door-Device-1,,Site-1
+134,Npoutfromexit,Npunch user with out punch from exit reader,,,Designation-1,01/04/2017,14:00,,,543:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+135,Npoutfromexit,Npunch user with out punch from exit reader,,,Designation-1,01/04/2017,19:00,,,538:28,OUT,Device:NGT Direct Door-Device-1,,Site-1
+136,2pwithexitreade,Exit reader enabled but punches from entry,,,Designation-1,01/04/2017,09:00,,,550:28,IN,Device:NGT Direct Door-Device-1,,Site-1
+137,2pwithexitreade,Exit reader enabled but punches from entry,,,Designation-1,01/04/2017,18:30,,,541:02,OUT,Device:NGT Direct Door-Device-1,,Site-1
+138,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,,Designation-1,01/04/2017,09:00,,,550:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+139,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,,Designation-1,01/04/2017,15:00,,,544:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+140,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,,Designation-1,01/04/2017,16:00,,,543:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+141,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,,,Designation-1,01/04/2017,19:00,,,540:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+142,Flexible,flexibleuser,,,Designation-1,01/04/2017,09:00,,,551:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+143,Flexible,flexibleuser,,,Designation-1,01/04/2017,13:00,,,547:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+144,4Pbreaklatein,4p user with break latein,,,Designation-1,01/04/2017,09:00,,,553:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+145,4Pbreaklatein,4p user with break latein,,,Designation-1,01/04/2017,13:00,,,549:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+146,4Pbreaklatein,4p user with break latein,,,Designation-1,01/04/2017,13:50,,,548:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+147,4Pbreaklatein,4p user with break latein,,,Designation-1,01/04/2017,18:50,,,543:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+148,4Pbreakingrace,4 punch user with break hours within grace,,,Designation-1,01/04/2017,09:00,,,553:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+149,4Pbreakingrace,4 punch user with break hours within grace,,,Designation-1,01/04/2017,13:00,,,549:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+150,4Pbreakingrace,4 punch user with break hours within grace,,,Designation-1,01/04/2017,13:40,,,548:25,IN,Device:NGT Direct Door-Device-1,,Site-1
+151,4Pbreakingrace,4 punch user with break hours within grace,,,Designation-1,01/04/2017,18:40,,,543:25,IN,Device:NGT Direct Door-Device-1,,Site-1
+152,4PBreakLIex,4P user exceeds break latein,,,Designation-1,01/04/2017,09:00,,,553:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+153,4PBreakLIex,4P user exceeds break latein,,,Designation-1,01/04/2017,13:00,,,549:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+154,4PBreakLIex,4P user exceeds break latein,,,Designation-1,01/04/2017,14:15,,,548:37,IN,Device:NGT Direct Door-Device-1,,Site-1
+155,4PBreakLIex,4P user exceeds break latein,,,Designation-1,01/04/2017,19:10,,,543:42,IN,Device:NGT Direct Door-Device-1,,Site-1
+156,4PbreakEO,4 Punch user with break earlyout,,,Designation-1,01/04/2017,09:00,,,554:29,IN,Device:NGT Direct Door-Device-1,,Site-1
+157,4PbreakEO,4 Punch user with break earlyout,,,Designation-1,01/04/2017,12:30,,,551:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+158,4PbreakEO,4 Punch user with break earlyout,,,Designation-1,01/04/2017,13:30,,,550:00,IN,Device:NGT Direct Door-Device-1,,Site-1
+159,4PbreakEO,4 Punch user with break earlyout,,,Designation-1,01/04/2017,19:00,,,544:30,IN,Device:NGT Direct Door-Device-1,,Site-1
+160,4PbreakEOgrace,4P user with break earlyout grace,,,Designation-1,01/04/2017,09:00,,,554:50,IN,Device:NGT Direct Door-Device-1,,Site-1
+161,4PbreakEOgrace,4P user with break earlyout grace,,,Designation-1,01/04/2017,12:50,,,551:01,IN,Device:NGT Direct Door-Device-1,,Site-1
+162,4PbreakEOgrace,4P user with break earlyout grace,,,Designation-1,01/04/2017,13:30,,,550:21,IN,Device:NGT Direct Door-Device-1,,Site-1
+163,4PbreakEOgrace,4P user with break earlyout grace,,,Designation-1,01/04/2017,19:00,,,544:51,IN,Device:NGT Direct Door-Device-1,,Site-1
+164,4PBreakEOex,4P Break for earlyout exceeds,,,Designation-1,01/04/2017,09:00,,,571:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+165,4PBreakEOex,4P Break for earlyout exceeds,,,Designation-1,01/04/2017,11:15,,,568:56,IN,Device:NGT Direct Door-Device-1,,Site-1
+166,4PBreakEOex,4P Break for earlyout exceeds,,,Designation-1,01/04/2017,13:15,,,566:57,IN,Device:NGT Direct Door-Device-1,,Site-1
+167,4PBreakEOex,4P Break for earlyout exceeds,,,Designation-1,01/04/2017,18:30,,,561:42,IN,Device:NGT Direct Door-Device-1,,Site-1
+168,BreakLIinTotal,Break latein in total latein,,,Designation-1,01/04/2017,09:10,,,571:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+169,BreakLIinTotal,Break latein in total latein,,,Designation-1,01/04/2017,13:00,,,567:26,IN,Device:NGT Direct Door-Device-1,,Site-1
+170,BreakLIinTotal,Break latein in total latein,,,Designation-1,01/04/2017,13:50,,,566:36,IN,Device:NGT Direct Door-Device-1,,Site-1
+171,BreakLIinTotal,Break latein in total latein,,,Designation-1,01/04/2017,19:20,,,561:06,IN,Device:NGT Direct Door-Device-1,,Site-1
+172,BreakLIexceeds,Exceeds break and total latein,,,Designation-1,01/04/2017,09:32,,,570:57,IN,Device:NGT Direct Door-Device-1,,Site-1
+173,BreakLIexceeds,Exceeds break and total latein,,,Designation-1,01/04/2017,13:00,,,567:30,IN,Device:NGT Direct Door-Device-1,,Site-1
+174,BreakLIexceeds,Exceeds break and total latein,,,Designation-1,01/04/2017,13:32,,,566:58,IN,Device:NGT Direct Door-Device-1,,Site-1
+175,BreakLIexceeds,Exceeds break and total latein,,,Designation-1,01/04/2017,19:20,,,561:10,IN,Device:NGT Direct Door-Device-1,,Site-1
+176,BreakEOInTotal,Break earlyout in total early out,,,Designation-1,01/04/2017,08:50,,,571:52,IN,Device:NGT Direct Door-Device-1,,Site-1
+177,BreakEOInTotal,Break earlyout in total early out,,,Designation-1,01/04/2017,12:40,,,568:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+178,BreakEOInTotal,Break earlyout in total early out,,,Designation-1,01/04/2017,13:10,,,567:33,IN,Device:NGT Direct Door-Device-1,,Site-1
+179,BreakEOInTotal,Break earlyout in total early out,,,Designation-1,01/04/2017,18:20,,,562:23,IN,Device:NGT Direct Door-Device-1,,Site-1
+180,BreakEOexceeds,Include Break early out in shift exceeds TD,,,Designation-1,01/04/2017,08:35,,,572:18,IN,Device:NGT Direct Door-Device-1,,Site-1
+181,BreakEOexceeds,Include Break early out in shift exceeds TD,,,Designation-1,01/04/2017,12:50,,,568:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+182,BreakEOexceeds,Include Break early out in shift exceeds TD,,,Designation-1,01/04/2017,13:30,,,567:24,IN,Device:NGT Direct Door-Device-1,,Site-1
+183,BreakEOexceeds,Include Break early out in shift exceeds TD,,,Designation-1,01/04/2017,18:00,,,562:54,IN,Device:NGT Direct Door-Device-1,,Site-1
+184,NightShift,NightShift,,,Designation-1,01/04/2017,20:00,,,562:32,IN,Device:NGT Direct Door-Device-1,,Site-1
+185,SpecialOvertime,Special Overtime,,,Designation-1,01/04/2017,15:01,,,569:51,IN,Device:NGT Direct Door-Device-1,,Site-1
+186,SpecialOvertime,Special Overtime,,,Designation-1,01/04/2017,17:01,,,567:51,IN,Device:NGT Direct Door-Device-1,,Site-1
+187,SpecialOvertime,Special Overtime,,,Designation-1,01/04/2017,18:00,,,566:53,IN,Device:NGT Direct Door-Device-1,,Site-1
+188,SpecialOTwOearl,SpecialOTWithoutearlyIn,,,Designation-1,01/04/2017,15:00,,,572:46,IN,Device:NGT Direct Door-Device-1,,Site-1
+189,SpecialOTwOearl,SpecialOTWithoutearlyIn,,,Designation-1,01/04/2017,17:00,,,570:47,IN,Device:NGT Direct Door-Device-1,,Site-1
+190,SpecialOTwOearl,SpecialOTWithoutearlyIn,,,Designation-1,01/04/2017,18:00,,,569:48,IN,Device:NGT Direct Door-Device-1,,Site-1
+191,SpecialOTearlyi,Special OT with earlyin defined component,,,Designation-1,01/04/2017,14:00,,,587:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+192,SpecialOTearlyi,Special OT with earlyin defined component,,,Designation-1,01/04/2017,17:00,,,584:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+193,SpecialOTearlyi,Special OT with earlyin defined component,,,Designation-1,01/04/2017,18:00,,,583:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+194,Lessworkhours,Less work hours for daily limit,,,Designation-1,01/04/2017,09:00,,,592:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+195,Lessworkhours,Less work hours for daily limit,,,Designation-1,01/04/2017,18:10,,,583:06,IN,Device:NGT Direct Door-Device-1,,Site-1
+196,Lessworkhours,Less work hours for daily limit,,,Designation-1,01/04/2017,08:40,,,592:37,IN,Device:NGT Direct Door-Device-1,,Site-1
+197,NetworkHrs,Networkhours bt no OT Component,,,Designation-1,01/04/2017,08:30,,,595:09,IN,Device:NGT Direct Door-Device-1,,Site-1
+198,NetworkHrs,Networkhours bt no OT Component,,,Designation-1,01/04/2017,19:30,,,584:09,IN,Device:NGT Direct Door-Device-1,,Site-1
+199,daily1weekends,daily1 weekends config in OT,,,Designation-1,01/04/2017,07:00,,,598:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+200,daily1weekends,daily1 weekends config in OT,,,Designation-1,01/04/2017,19:00,,,586:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+201,daily1weekends,daily1 weekends config in OT,,,Designation-1,01/04/2017,09:00,,,596:23,IN,Device:NGT Direct Door-Device-1,,Site-1
+202,FB,OT for FB,,,Designation-1,01/04/2017,09:01,,,596:23,IN,Device:NGT Direct Door-Device-1,,Site-1
+203,FB,OT for FB,,,Designation-1,01/04/2017,19:30,,,585:54,IN,Device:NGT Direct Door-Device-1,,Site-1
+204,NpunchNightshif,N punch user with night shift,,,Designation-1,01/04/2017,20:00,,,587:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+205,NpunchNightshif,N punch user with night shift,,,Designation-1,01/04/2017,22:00,,,585:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+206,NpunchNightshif,N punch user with night shift,,,Designation-1,01/04/2017,22:30,,,584:47,IN,Device:NGT Direct Door-Device-1,,Site-1
+207,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,09:00,,,598:33,IN,Device:NGT Direct Door-Device-1,,Site-1
+208,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,13:00,,,594:33,IN,Device:NGT Direct Door-Device-1,,Site-1
+209,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,13:30,,,594:03,IN,Device:NGT Direct Door-Device-1,,Site-1
+210,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,17:30,,,590:04,IN,Device:NGT Direct Door-Device-1,,Site-1
+211,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,18:00,,,589:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+212,NpunchFlexible,Npunch user with type as flexible,,,Designation-1,01/04/2017,19:00,,,588:34,IN,Device:NGT Direct Door-Device-1,,Site-1
+213,Eligiblehours,Eligible work hours,,,Designation-1,01/04/2017,06:00,,,602:07,IN,Device:NGT Direct Door-Device-1,,Site-1
+214,Eligiblehours,Eligible work hours,,,Designation-1,01/04/2017,21:00,,,587:07,IN,Device:NGT Direct Door-Device-1,,Site-1
+215,manualOT,User with Manual Overtime,,,Designation-1,01/04/2017,08:01,,,619:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+216,manualOT,User with Manual Overtime,,,Designation-1,01/04/2017,20:01,,,607:17,IN,Device:NGT Direct Door-Device-1,,Site-1
+217,COFF,COFF,,,Designation-1,01/04/2017,09:00,,,620:15,IN,Device:NGT Direct Door-Device-1,,Site-1
+218,COFF,COFF,,,Designation-1,01/04/2017,19:00,,,610:16,IN,Device:NGT Direct Door-Device-1,,Site-1
+219,JPCmergejob,JPC merged Job,,,Designation-1,01/04/2017,09:00,,,622:18,IN,Device:NGT Direct Door-Device-1,,Site-1
+220,OTCOFFBoth,Auto authorize OT COFF,,,Designation-1,01/04/2017,09:00,,,625:49,IN,Device:NGT Direct Door-Device-1,,Site-1
+221,OTCOFFBoth,Auto authorize OT COFF,,,Designation-1,01/04/2017,13:00,,,621:49,IN,Device:NGT Direct Door-Device-1,,Site-1
+222,OTCOFFBoth,Auto authorize OT COFF,,,Designation-1,01/04/2017,14:00,,,620:50,IN,Device:NGT Direct Door-Device-1,,Site-1
+223,OTCOFFBoth,Auto authorize OT COFF,,,Designation-1,01/04/2017,18:30,,,616:20,IN,Device:NGT Direct Door-Device-1,,Site-1
+224,RestrictedDail1,Restricted OT cal for Daily1,,,Designation-1,01/04/2017,08:01,,,647:11,IN,Device:NGT Direct Door-Device-1,,Site-1
+225,RestrictedDail1,Restricted OT cal for Daily1,,,Designation-1,01/04/2017,20:00,,,635:12,IN,Device:NGT Direct Door-Device-1,,Site-1
+226,auto,auto,,,Designation-1,01/04/2017,19:30,,,686:35,IN,Device:Vega Controller-Device-9,,Site-1
+227,auto,auto,,,Designation-1,01/04/2017,19:30,,,686:35,IN,Device:Vega Controller-Device-9,,Site-1
+2,Dept2,,,,,,,,,,,,,
+228,2punchuser,2punch user with latein,,,Designation-1,01/04/2017,10:01,,,408:13,IN,Device:NGT Direct Door-Device-1,,Site-1
+229,2punchuser,2punch user with latein,,,Designation-1,01/04/2017,19:00,,,399:14,IN,Device:NGT Direct Door-Device-1,,Site-1
+230,2punchuser,2punch user with latein,,,Designation-1,01/04/2017,19:05,,,399:09,IN,Device:NGT Direct Door-Device-1,,Site-1

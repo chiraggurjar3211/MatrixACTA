@@ -1,0 +1,5 @@
+Attendance Summary From 10/04/2017 to 10/04/2017
+ORGID,BRCID,DPTID,SECID,ORGName,BRCName,DPTName,SECName,CtgID1,CtgNm1,CtgCnt1,CtgPR1,CtgLv1,CtgPer1,TotPR,TotLv,TotCnt,TotPer
+1,1,1,1,DADB,Branch-1,Department-1,Section-1,1,Category-1,93,1.0,0.0,1.08,1.0,0.0,93,1.08
+1,1,2,1,DADB,Branch-1,Dept2,Section-1,1,Category-1,1,,0.0,,0,0.0,1,0
+2,1,2,1,ORG2,Branch-1,Dept2,Section-1,1,Category-1,1,,0.0,,0,0.0,1,0

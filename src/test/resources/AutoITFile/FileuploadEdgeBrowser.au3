@@ -1,0 +1,5 @@
+ControlFocus("Open","","Edit1")
+ControlSetText("Open","","Edit1",@WorkingDir & "\src\test\resources\AutoITFile\uploadImage.jpg")
+Sleep(1000)
+ControlClick("Open", "", "Button2")
+Sleep(1000)

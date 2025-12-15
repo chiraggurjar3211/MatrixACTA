@@ -1,0 +1,1002 @@
+IndexNo,UserID,UserName,EventDateTime,EntryExitType,MasterControllerID,DoorControllerID,SpecialFunctionID,LeaveDT,IDateTime,FullName
+1,2punchuser,2punch user with latein,01/04/2017 10:01:02,0,1,1,0,,18/04/2017 10:14:13,2punch user with latein
+2,2punchuser,2punch user with latein,01/04/2017 19:00:51,0,1,1,0,,18/04/2017 10:14:22,2punch user with latein
+3,2punchuser,2punch user with latein,01/04/2017 19:05:51,0,1,1,0,,18/04/2017 10:14:45,2punch user with latein
+4,2punchuser,2punch user with latein,03/04/2017 09:30:50,0,1,1,0,,18/04/2017 10:15:08,2punch user with latein
+5,2punchuser,2punch user with latein,03/04/2017 19:00:50,0,1,1,0,,18/04/2017 10:15:25,2punch user with latein
+6,2punchuser,2punch user with latein,04/04/2017 09:31:49,0,1,1,0,,18/04/2017 10:15:43,2punch user with latein
+7,2punchuser,2punch user with latein,04/04/2017 19:31:50,0,1,1,0,,18/04/2017 10:15:51,2punch user with latein
+8,2punchuser,2punch user with latein,05/04/2017 09:05:01,0,1,1,0,,18/04/2017 10:16:07,2punch user with latein
+9,2punchuser,2punch user with latein,05/04/2017 18:38:54,0,1,1,0,,18/04/2017 10:16:17,2punch user with latein
+10,2punchuser,2punch user with latein,06/04/2017 09:00:54,0,1,1,0,,18/04/2017 10:17:25,2punch user with latein
+11,2punchuser,2punch user with latein,06/04/2017 18:30:54,0,1,1,0,,18/04/2017 10:17:34,2punch user with latein
+12,2punchuser,2punch user with latein,07/04/2017 08:30:54,0,1,1,0,,18/04/2017 10:17:52,2punch user with latein
+13,2punchuser,2punch user with latein,07/04/2017 18:00:54,0,1,1,0,,18/04/2017 10:18:00,2punch user with latein
+14,2punchuser,2punch user with latein,08/04/2017 09:25:54,0,1,1,0,,18/04/2017 10:18:49,2punch user with latein
+15,2punchuser,2punch user with latein,08/04/2017 18:55:54,0,1,1,0,,18/04/2017 10:19:03,2punch user with latein
+16,2punchuser,2punch user with latein,10/04/2017 09:45:54,0,1,1,0,,18/04/2017 10:19:27,2punch user with latein
+17,2punchuser,2punch user with latein,10/04/2017 19:15:54,0,1,1,0,,18/04/2017 10:19:35,2punch user with latein
+18,2punchuser,2punch user with latein,11/04/2017 09:15:54,0,1,1,0,,18/04/2017 10:19:56,2punch user with latein
+19,2punchuser,2punch user with latein,11/04/2017 19:15:54,0,1,1,0,,18/04/2017 10:20:03,2punch user with latein
+20,2punchuser,2punch user with latein,12/04/2017 09:28:54,0,1,1,0,,18/04/2017 10:21:02,2punch user with latein
+21,2punchuser,2punch user with latein,12/04/2017 19:00:54,0,1,1,0,,18/04/2017 10:21:16,2punch user with latein
+22,2punchuser,2punch user with latein,13/04/2017 09:00:36,0,1,1,0,,19/04/2017 03:52:06,2punch user with latein
+23,2punchuser,2punch user with latein,13/04/2017 13:00:35,0,1,1,0,,19/04/2017 03:52:28,2punch user with latein
+24,2punchuser,2punch user with latein,13/04/2017 14:10:35,0,1,1,0,,19/04/2017 03:52:40,2punch user with latein
+25,2punchuser,2punch user with latein,13/04/2017 18:30:35,0,1,1,0,,19/04/2017 03:52:55,2punch user with latein
+34,nPunchlatein,npunch user with 30min latein,01/04/2017 09:12:27,0,1,1,0,,19/04/2017 06:49:51,npunch user with 30min latein
+35,nPunchlatein,npunch user with 30min latein,01/04/2017 10:00:25,0,1,1,0,,19/04/2017 06:50:01,npunch user with 30min latein
+36,nPunchlatein,npunch user with 30min latein,01/04/2017 11:00:25,0,1,1,0,,19/04/2017 06:53:05,npunch user with 30min latein
+37,nPunchlatein,npunch user with 30min latein,01/04/2017 13:00:24,0,1,1,0,,19/04/2017 06:53:12,npunch user with 30min latein
+38,nPunchlatein,npunch user with 30min latein,01/04/2017 15:00:25,0,1,1,0,,19/04/2017 06:53:18,npunch user with 30min latein
+39,nPunchlatein,npunch user with 30min latein,01/04/2017 17:00:25,0,1,1,0,,19/04/2017 06:54:06,npunch user with 30min latein
+40,nPunchlatein,npunch user with 30min latein,01/04/2017 18:30:25,0,1,1,0,,19/04/2017 06:54:22,npunch user with 30min latein
+41,nPunchlatein,npunch user with 30min latein,01/04/2017 18:38:24,0,1,1,0,,19/04/2017 06:55:13,npunch user with 30min latein
+42,nPunchlatein,npunch user with 30min latein,01/04/2017 18:48:26,0,1,1,0,,19/04/2017 06:55:19,npunch user with 30min latein
+43,nPunchlatein,npunch user with 30min latein,03/04/2017 09:25:25,0,1,1,0,,19/04/2017 06:56:39,npunch user with 30min latein
+44,nPunchlatein,npunch user with 30min latein,03/04/2017 15:00:25,0,1,1,0,,19/04/2017 06:56:48,npunch user with 30min latein
+45,nPunchlatein,npunch user with 30min latein,03/04/2017 16:00:26,0,1,1,0,,19/04/2017 06:56:56,npunch user with 30min latein
+46,nPunchlatein,npunch user with 30min latein,03/04/2017 17:00:25,0,1,1,0,,19/04/2017 06:57:22,npunch user with 30min latein
+47,nPunchlatein,npunch user with 30min latein,03/04/2017 18:00:25,0,1,1,0,,19/04/2017 06:57:40,npunch user with 30min latein
+48,nPunchlatein,npunch user with 30min latein,03/04/2017 18:40:25,0,1,1,0,,19/04/2017 06:57:49,npunch user with 30min latein
+49,nPunchlatein,npunch user with 30min latein,04/04/2017 09:00:38,0,1,1,0,,19/04/2017 06:59:10,npunch user with 30min latein
+50,nPunchlatein,npunch user with 30min latein,04/04/2017 15:00:25,0,1,1,0,,19/04/2017 06:59:34,npunch user with 30min latein
+51,nPunchlatein,npunch user with 30min latein,04/04/2017 16:00:25,0,1,1,0,,19/04/2017 06:59:41,npunch user with 30min latein
+52,nPunchlatein,npunch user with 30min latein,04/04/2017 18:00:25,0,1,1,0,,19/04/2017 06:59:47,npunch user with 30min latein
+53,nPunchlatein,npunch user with 30min latein,04/04/2017 18:30:25,0,1,1,0,,19/04/2017 06:59:55,npunch user with 30min latein
+54,nPunchlatein,npunch user with 30min latein,04/04/2017 18:40:25,0,1,1,0,,19/04/2017 07:00:16,npunch user with 30min latein
+55,nPunchlatein,npunch user with 30min latein,05/04/2017 09:40:25,0,1,1,0,,19/04/2017 07:00:53,npunch user with 30min latein
+56,nPunchlatein,npunch user with 30min latein,05/04/2017 11:40:26,0,1,1,0,,19/04/2017 07:01:38,npunch user with 30min latein
+57,nPunchlatein,npunch user with 30min latein,05/04/2017 15:40:25,0,1,1,0,,19/04/2017 07:01:45,npunch user with 30min latein
+58,nPunchlatein,npunch user with 30min latein,05/04/2017 18:40:26,0,1,1,0,,19/04/2017 07:02:16,npunch user with 30min latein
+59,nPunchlatein,npunch user with 30min latein,06/04/2017 09:30:25,0,1,1,0,,19/04/2017 07:08:46,npunch user with 30min latein
+60,nPunchlatein,npunch user with 30min latein,06/04/2017 11:30:25,0,1,1,0,,19/04/2017 07:08:55,npunch user with 30min latein
+61,nPunchlatein,npunch user with 30min latein,06/04/2017 15:30:25,0,1,1,0,,19/04/2017 07:09:02,npunch user with 30min latein
+62,nPunchlatein,npunch user with 30min latein,06/04/2017 18:30:25,0,1,1,0,,19/04/2017 07:09:09,npunch user with 30min latein
+63,nPunchlatein,npunch user with 30min latein,06/04/2017 18:40:25,0,1,1,0,,19/04/2017 07:09:52,npunch user with 30min latein
+64,nPunchlatein,npunch user with 30min latein,06/04/2017 19:40:25,0,1,1,0,,19/04/2017 07:09:58,npunch user with 30min latein
+65,nPunchlatein,npunch user with 30min latein,07/04/2017 08:40:25,0,1,1,0,,19/04/2017 07:12:57,npunch user with 30min latein
+66,nPunchlatein,npunch user with 30min latein,07/04/2017 10:40:25,0,1,1,0,,19/04/2017 07:13:08,npunch user with 30min latein
+67,nPunchlatein,npunch user with 30min latein,07/04/2017 10:50:25,0,1,1,0,,19/04/2017 07:23:27,npunch user with 30min latein
+68,nPunchlatein,npunch user with 30min latein,07/04/2017 16:50:26,0,1,1,0,,19/04/2017 07:23:43,npunch user with 30min latein
+69,nPunchlatein,npunch user with 30min latein,07/04/2017 17:00:25,0,1,1,0,,19/04/2017 07:25:10,npunch user with 30min latein
+70,nPunchlatein,npunch user with 30min latein,07/04/2017 18:30:26,0,1,1,0,,19/04/2017 07:25:23,npunch user with 30min latein
+71,nPunchlatein,npunch user with 30min latein,08/04/2017 09:30:26,0,1,1,0,,19/04/2017 07:30:51,npunch user with 30min latein
+72,nPunchlatein,npunch user with 30min latein,08/04/2017 11:30:25,0,1,1,0,,19/04/2017 07:30:58,npunch user with 30min latein
+73,nPunchlatein,npunch user with 30min latein,08/04/2017 11:40:25,0,1,1,0,,19/04/2017 07:31:09,npunch user with 30min latein
+74,nPunchlatein,npunch user with 30min latein,08/04/2017 11:50:25,0,1,1,0,,19/04/2017 07:31:40,npunch user with 30min latein
+75,nPunchlatein,npunch user with 30min latein,08/04/2017 15:00:35,0,1,1,0,,19/04/2017 07:32:17,npunch user with 30min latein
+76,nPunchlatein,npunch user with 30min latein,08/04/2017 18:30:26,0,1,1,0,,19/04/2017 07:35:43,npunch user with 30min latein
+77,nPunchlatein,npunch user with 30min latein,10/04/2017 10:00:28,0,1,1,0,,19/04/2017 07:50:31,npunch user with 30min latein
+78,nPunchlatein,npunch user with 30min latein,10/04/2017 13:00:25,0,1,1,0,,19/04/2017 07:50:41,npunch user with 30min latein
+79,nPunchlatein,npunch user with 30min latein,10/04/2017 14:00:25,0,1,1,0,,19/04/2017 07:50:47,npunch user with 30min latein
+80,nPunchlatein,npunch user with 30min latein,10/04/2017 18:00:26,0,1,1,0,,19/04/2017 07:50:57,npunch user with 30min latein
+81,nPunchlatein,npunch user with 30min latein,10/04/2017 18:10:25,0,1,1,0,,19/04/2017 07:51:40,npunch user with 30min latein
+82,nPunchlatein,npunch user with 30min latein,10/04/2017 19:10:25,0,1,1,0,,19/04/2017 07:52:37,npunch user with 30min latein
+83,2punchnolatein,2punch user with no late in duration applicab,01/04/2017 09:10:07,0,1,1,0,,19/04/2017 08:26:29,2punch user with no late in duration applicab
+84,2punchnolatein,2punch user with no late in duration applicab,01/04/2017 18:10:10,0,1,1,0,,19/04/2017 08:26:43,2punch user with no late in duration applicab
+85,2punchnolatein,2punch user with no late in duration applicab,01/04/2017 18:20:06,0,1,1,0,,19/04/2017 08:27:43,2punch user with no late in duration applicab
+86,2punchnolatein,2punch user with no late in duration applicab,01/04/2017 18:30:08,0,1,1,0,,19/04/2017 08:27:55,2punch user with no late in duration applicab
+87,2punchnolatein,2punch user with no late in duration applicab,03/04/2017 09:32:06,0,1,1,0,,19/04/2017 08:35:31,2punch user with no late in duration applicab
+88,2punchnolatein,2punch user with no late in duration applicab,03/04/2017 18:32:06,0,1,1,0,,19/04/2017 08:35:41,2punch user with no late in duration applicab
+89,2punchnolatein,2punch user with no late in duration applicab,04/04/2017 09:01:07,0,1,1,0,,19/04/2017 08:38:32,2punch user with no late in duration applicab
+90,2punchnolatein,2punch user with no late in duration applicab,04/04/2017 18:01:06,0,1,1,0,,19/04/2017 08:38:40,2punch user with no late in duration applicab
+91,2punchnolatein,2punch user with no late in duration applicab,05/04/2017 09:00:07,0,1,1,0,,19/04/2017 08:48:49,2punch user with no late in duration applicab
+92,2punchnolatein,2punch user with no late in duration applicab,05/04/2017 18:00:07,0,1,1,0,,19/04/2017 08:49:01,2punch user with no late in duration applicab
+93,2punchnolatein,2punch user with no late in duration applicab,05/04/2017 18:30:06,0,1,1,0,,19/04/2017 08:49:16,2punch user with no late in duration applicab
+94,2punchnolatein,2punch user with no late in duration applicab,06/04/2017 10:00:06,0,1,1,0,,19/04/2017 08:49:40,2punch user with no late in duration applicab
+95,2punchnolatein,2punch user with no late in duration applicab,06/04/2017 19:00:06,0,1,1,0,,19/04/2017 08:49:49,2punch user with no late in duration applicab
+96,2punchnolatein,2punch user with no late in duration applicab,07/04/2017 08:30:07,0,1,1,0,,19/04/2017 08:50:21,2punch user with no late in duration applicab
+97,2punchnolatein,2punch user with no late in duration applicab,07/04/2017 18:30:06,0,1,1,0,,19/04/2017 08:50:28,2punch user with no late in duration applicab
+98,2punchnolatein,2punch user with no late in duration applicab,08/04/2017 11:30:06,0,1,1,0,,19/04/2017 08:50:54,2punch user with no late in duration applicab
+99,2punchnolatein,2punch user with no late in duration applicab,08/04/2017 20:30:07,0,1,1,0,,19/04/2017 08:51:03,2punch user with no late in duration applicab
+100,npunchnolatein,Npunch user with no late in duration,01/04/2017 09:30:08,0,1,1,0,,19/04/2017 08:52:44,Npunch user with no late in duration
+101,npunchnolatein,Npunch user with no late in duration,01/04/2017 19:00:06,0,1,1,0,,19/04/2017 08:52:52,Npunch user with no late in duration
+102,npunchnolatein,Npunch user with no late in duration,03/04/2017 09:15:06,0,1,1,0,,19/04/2017 08:59:12,Npunch user with no late in duration
+103,npunchnolatein,Npunch user with no late in duration,03/04/2017 11:15:07,0,1,1,0,,19/04/2017 08:59:21,Npunch user with no late in duration
+104,npunchnolatein,Npunch user with no late in duration,03/04/2017 11:30:06,0,1,1,0,,19/04/2017 08:59:35,Npunch user with no late in duration
+105,npunchnolatein,Npunch user with no late in duration,03/04/2017 17:30:08,0,1,1,0,,19/04/2017 09:00:01,Npunch user with no late in duration
+106,npunchnolatein,Npunch user with no late in duration,03/04/2017 17:36:06,0,1,1,0,,19/04/2017 09:00:27,Npunch user with no late in duration
+107,npunchnolatein,Npunch user with no late in duration,03/04/2017 18:36:06,0,1,1,0,,19/04/2017 09:00:34,Npunch user with no late in duration
+108,npunchnolatein,Npunch user with no late in duration,04/04/2017 10:38:01,0,1,1,0,,19/04/2017 10:38:09,Npunch user with no late in duration
+109,npunchnolatein,Npunch user with no late in duration,04/04/2017 14:38:00,0,1,1,0,,19/04/2017 10:38:16,Npunch user with no late in duration
+110,npunchnolatein,Npunch user with no late in duration,04/04/2017 14:48:00,0,1,1,0,,19/04/2017 10:38:25,Npunch user with no late in duration
+111,npunchnolatein,Npunch user with no late in duration,04/04/2017 17:48:00,0,1,1,0,,19/04/2017 10:38:51,Npunch user with no late in duration
+112,npunchnolatein,Npunch user with no late in duration,04/04/2017 19:48:00,0,1,1,0,,19/04/2017 10:38:59,Npunch user with no late in duration
+113,npunchnolatein,Npunch user with no late in duration,04/04/2017 22:48:00,0,1,1,0,,19/04/2017 10:40:20,Npunch user with no late in duration
+114,npunchnolatein,Npunch user with no late in duration,05/04/2017 09:01:11,0,1,1,0,,19/04/2017 10:44:09,Npunch user with no late in duration
+115,npunchnolatein,Npunch user with no late in duration,05/04/2017 11:01:01,0,1,1,0,,19/04/2017 10:44:20,Npunch user with no late in duration
+116,npunchnolatein,Npunch user with no late in duration,05/04/2017 11:16:00,0,1,1,0,,19/04/2017 10:44:32,Npunch user with no late in duration
+117,npunchnolatein,Npunch user with no late in duration,05/04/2017 19:16:00,0,1,1,0,,19/04/2017 10:44:49,Npunch user with no late in duration
+118,npunchnolatein,Npunch user with no late in duration,06/04/2017 09:00:02,0,1,1,0,,19/04/2017 10:45:25,Npunch user with no late in duration
+119,npunchnolatein,Npunch user with no late in duration,06/04/2017 13:00:02,0,1,1,0,,19/04/2017 10:45:32,Npunch user with no late in duration
+120,npunchnolatein,Npunch user with no late in duration,06/04/2017 14:00:03,0,1,1,0,,19/04/2017 10:45:40,Npunch user with no late in duration
+121,npunchnolatein,Npunch user with no late in duration,06/04/2017 19:00:02,0,1,1,0,,19/04/2017 10:45:46,Npunch user with no late in duration
+122,npunchnolatein,Npunch user with no late in duration,07/04/2017 08:00:02,0,1,1,0,,19/04/2017 10:46:07,Npunch user with no late in duration
+123,npunchnolatein,Npunch user with no late in duration,07/04/2017 10:00:02,0,1,1,0,,19/04/2017 10:46:17,Npunch user with no late in duration
+124,npunchnolatein,Npunch user with no late in duration,07/04/2017 10:20:02,0,1,1,0,,19/04/2017 10:46:28,Npunch user with no late in duration
+125,npunchnolatein,Npunch user with no late in duration,07/04/2017 13:20:02,0,1,1,0,,19/04/2017 10:47:09,Npunch user with no late in duration
+126,npunchnolatein,Npunch user with no late in duration,07/04/2017 13:40:02,0,1,1,0,,19/04/2017 10:47:58,Npunch user with no late in duration
+127,npunchnolatein,Npunch user with no late in duration,07/04/2017 18:40:02,0,1,1,0,,19/04/2017 10:48:05,Npunch user with no late in duration
+128,2punchearlyout,2punchuserwith earlyout policy,01/04/2017 09:00:03,0,1,1,0,,19/04/2017 11:09:55,2punchuserwith earlyout policy
+129,2punchearlyout,2punchuserwith earlyout policy,01/04/2017 18:00:02,0,1,1,0,,19/04/2017 11:10:05,2punchuserwith earlyout policy
+130,2punchearlyout,2punchuserwith earlyout policy,03/04/2017 09:00:02,0,1,1,0,,19/04/2017 11:11:32,2punchuserwith earlyout policy
+131,2punchearlyout,2punchuserwith earlyout policy,03/04/2017 17:59:02,0,1,1,0,,19/04/2017 11:11:44,2punchuserwith earlyout policy
+132,2punchearlyout,2punchuserwith earlyout policy,04/04/2017 09:00:03,0,1,1,0,,19/04/2017 11:32:04,2punchuserwith earlyout policy
+133,2punchearlyout,2punchuserwith earlyout policy,04/04/2017 18:40:13,0,1,1,0,,19/04/2017 11:32:26,2punchuserwith earlyout policy
+134,2punchearlyout,2punchuserwith earlyout policy,05/04/2017 09:00:03,0,1,1,0,,19/04/2017 11:32:58,2punchuserwith earlyout policy
+135,2punchearlyout,2punchuserwith earlyout policy,05/04/2017 18:10:01,0,1,1,0,,19/04/2017 11:33:07,2punchuserwith earlyout policy
+136,2punchearlyout,2punchuserwith earlyout policy,06/04/2017 09:00:02,0,1,1,0,,19/04/2017 11:33:24,2punchuserwith earlyout policy
+137,2punchearlyout,2punchuserwith earlyout policy,06/04/2017 18:25:02,0,1,1,0,,19/04/2017 11:33:36,2punchuserwith earlyout policy
+138,2punchearlyout,2punchuserwith earlyout policy,07/04/2017 09:25:05,0,1,1,0,,19/04/2017 11:34:58,2punchuserwith earlyout policy
+139,2punchearlyout,2punchuserwith earlyout policy,07/04/2017 18:25:15,0,1,1,0,,19/04/2017 11:35:19,2punchuserwith earlyout policy
+140,2punchearlyout,2punchuserwith earlyout policy,08/04/2017 09:10:05,0,1,1,0,,19/04/2017 11:36:08,2punchuserwith earlyout policy
+141,2punchearlyout,2punchuserwith earlyout policy,08/04/2017 18:28:24,0,1,1,0,,20/04/2017 01:51:47,2punchuserwith earlyout policy
+142,2punchearlyout,2punchuserwith earlyout policy,10/04/2017 09:31:23,0,1,1,0,,20/04/2017 01:52:21,2punchuserwith earlyout policy
+143,2punchearlyout,2punchuserwith earlyout policy,10/04/2017 17:30:23,0,1,1,0,,20/04/2017 01:52:32,2punchuserwith earlyout policy
+144,2punchearlyout,2punchuserwith earlyout policy,11/04/2017 10:00:23,0,1,1,0,,20/04/2017 01:53:29,2punchuserwith earlyout policy
+145,2punchearlyout,2punchuserwith earlyout policy,11/04/2017 17:00:23,0,1,1,0,,20/04/2017 01:53:38,2punchuserwith earlyout policy
+146,2punchearlyout,2punchuserwith earlyout policy,11/04/2017 09:00:23,0,1,1,0,,20/04/2017 01:53:52,2punchuserwith earlyout policy
+147,2punchearlyout,2punchuserwith earlyout policy,11/04/2017 17:45:23,0,1,1,0,,20/04/2017 01:54:02,2punchuserwith earlyout policy
+148,2punchearlyout,2punchuserwith earlyout policy,12/04/2017 08:45:23,0,1,1,0,,20/04/2017 01:54:27,2punchuserwith earlyout policy
+149,2punchearlyout,2punchuserwith earlyout policy,12/04/2017 17:55:32,0,1,1,0,,20/04/2017 01:54:47,2punchuserwith earlyout policy
+150,npunchwithearly,npunch user with earlyout policy,01/04/2017 09:00:29,0,1,1,0,,20/04/2017 01:58:38,npunch user with earlyout policy
+151,npunchwithearly,npunch user with earlyout policy,01/04/2017 11:00:24,0,1,1,0,,20/04/2017 01:58:45,npunch user with earlyout policy
+152,npunchwithearly,npunch user with earlyout policy,01/04/2017 11:10:25,0,1,1,0,,20/04/2017 01:58:55,npunch user with earlyout policy
+153,npunchwithearly,npunch user with earlyout policy,01/04/2017 16:10:24,0,1,1,0,,20/04/2017 01:59:04,npunch user with earlyout policy
+154,npunchwithearly,npunch user with earlyout policy,01/04/2017 16:20:23,0,1,1,0,,20/04/2017 01:59:13,npunch user with earlyout policy
+155,npunchwithearly,npunch user with earlyout policy,01/04/2017 18:20:27,0,1,1,0,,20/04/2017 01:59:28,npunch user with earlyout policy
+156,npunchwithearly,npunch user with earlyout policy,03/04/2017 09:20:25,0,1,1,0,,20/04/2017 02:26:42,npunch user with earlyout policy
+157,npunchwithearly,npunch user with earlyout policy,03/04/2017 11:20:24,0,1,1,0,,20/04/2017 02:26:51,npunch user with earlyout policy
+158,npunchwithearly,npunch user with earlyout policy,03/04/2017 11:30:23,0,1,1,0,,20/04/2017 02:27:00,npunch user with earlyout policy
+159,npunchwithearly,npunch user with earlyout policy,03/04/2017 15:30:23,0,1,1,0,,20/04/2017 02:27:57,npunch user with earlyout policy
+160,npunchwithearly,npunch user with earlyout policy,03/04/2017 15:40:23,0,1,1,0,,20/04/2017 02:28:19,npunch user with earlyout policy
+161,npunchwithearly,npunch user with earlyout policy,03/04/2017 18:28:23,0,1,1,0,,20/04/2017 02:31:10,npunch user with earlyout policy
+162,npunchwithearly,npunch user with earlyout policy,04/04/2017 09:00:23,0,1,1,0,,20/04/2017 02:34:38,npunch user with earlyout policy
+163,npunchwithearly,npunch user with earlyout policy,04/04/2017 11:00:23,0,1,1,0,,20/04/2017 02:34:44,npunch user with earlyout policy
+164,npunchwithearly,npunch user with earlyout policy,04/04/2017 11:10:24,0,1,1,0,,20/04/2017 02:34:58,npunch user with earlyout policy
+165,npunchwithearly,npunch user with earlyout policy,04/04/2017 14:10:26,0,1,1,0,,20/04/2017 02:35:09,npunch user with earlyout policy
+166,npunchwithearly,npunch user with earlyout policy,04/04/2017 14:20:23,0,1,1,0,,20/04/2017 02:35:32,npunch user with earlyout policy
+167,npunchwithearly,npunch user with earlyout policy,04/04/2017 17:20:23,0,1,1,0,,20/04/2017 02:36:03,npunch user with earlyout policy
+168,npunchwithearly,npunch user with earlyout policy,05/04/2017 08:20:24,0,1,1,0,,20/04/2017 02:37:12,npunch user with earlyout policy
+169,npunchwithearly,npunch user with earlyout policy,05/04/2017 13:20:24,0,1,1,0,,20/04/2017 02:38:27,npunch user with earlyout policy
+170,npunchwithearly,npunch user with earlyout policy,05/04/2017 13:30:26,0,1,1,0,,20/04/2017 02:38:37,npunch user with earlyout policy
+171,npunchwithearly,npunch user with earlyout policy,05/04/2017 18:29:23,0,1,1,0,,20/04/2017 02:38:49,npunch user with earlyout policy
+172,npunchwithearly,npunch user with earlyout policy,06/04/2017 09:00:23,0,1,1,0,,20/04/2017 02:39:30,npunch user with earlyout policy
+173,npunchwithearly,npunch user with earlyout policy,06/04/2017 13:00:25,0,1,1,0,,20/04/2017 02:40:02,npunch user with earlyout policy
+174,npunchwithearly,npunch user with earlyout policy,06/04/2017 14:00:23,0,1,1,0,,20/04/2017 02:40:09,npunch user with earlyout policy
+175,npunchwithearly,npunch user with earlyout policy,06/04/2017 18:00:23,0,1,1,0,,20/04/2017 02:40:16,npunch user with earlyout policy
+176,npunchwithearly,npunch user with earlyout policy,07/04/2017 09:30:24,0,1,1,0,,20/04/2017 02:40:44,npunch user with earlyout policy
+177,npunchwithearly,npunch user with earlyout policy,07/04/2017 13:30:23,0,1,1,0,,20/04/2017 02:40:51,npunch user with earlyout policy
+178,npunchwithearly,npunch user with earlyout policy,07/04/2017 14:00:23,0,1,1,0,,20/04/2017 02:40:58,npunch user with earlyout policy
+179,npunchwithearly,npunch user with earlyout policy,07/04/2017 18:00:22,0,1,1,0,,20/04/2017 02:41:05,npunch user with earlyout policy
+180,npunchwithearly,npunch user with earlyout policy,08/04/2017 09:10:24,0,1,1,0,,20/04/2017 02:50:04,npunch user with earlyout policy
+181,npunchwithearly,npunch user with earlyout policy,08/04/2017 13:10:23,0,1,1,0,,20/04/2017 02:50:14,npunch user with earlyout policy
+182,npunchwithearly,npunch user with earlyout policy,08/04/2017 14:00:24,0,1,1,0,,20/04/2017 02:50:23,npunch user with earlyout policy
+183,npunchwithearly,npunch user with earlyout policy,08/04/2017 17:55:23,0,1,1,0,,20/04/2017 02:50:39,npunch user with earlyout policy
+184,npunchwithearly,npunch user with earlyout policy,10/04/2017 08:59:23,0,1,1,0,,20/04/2017 02:51:12,npunch user with earlyout policy
+185,npunchwithearly,npunch user with earlyout policy,10/04/2017 13:00:23,0,1,1,0,,20/04/2017 02:51:20,npunch user with earlyout policy
+186,npunchwithearly,npunch user with earlyout policy,10/04/2017 14:00:23,0,1,1,0,,20/04/2017 02:51:27,npunch user with earlyout policy
+187,npunchwithearly,npunch user with earlyout policy,10/04/2017 17:59:27,0,1,1,0,,20/04/2017 02:51:39,npunch user with earlyout policy
+188,npunchwithearly,npunch user with earlyout policy,11/04/2017 09:59:23,0,1,1,0,,20/04/2017 02:59:51,npunch user with earlyout policy
+189,npunchwithearly,npunch user with earlyout policy,11/04/2017 13:00:24,0,1,1,0,,20/04/2017 03:00:00,npunch user with earlyout policy
+190,npunchwithearly,npunch user with earlyout policy,11/04/2017 13:30:23,0,1,1,0,,20/04/2017 03:00:08,npunch user with earlyout policy
+191,npunchwithearly,npunch user with earlyout policy,11/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:00:16,npunch user with earlyout policy
+192,npunchwithearly,npunch user with earlyout policy,12/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:00:48,npunch user with earlyout policy
+193,npunchwithearly,npunch user with earlyout policy,12/04/2017 13:00:23,0,1,1,0,,20/04/2017 03:00:55,npunch user with earlyout policy
+194,npunchwithearly,npunch user with earlyout policy,12/04/2017 14:00:23,0,1,1,0,,20/04/2017 03:01:01,npunch user with earlyout policy
+195,npunchwithearly,npunch user with earlyout policy,12/04/2017 17:54:23,0,1,1,0,,20/04/2017 03:01:22,npunch user with earlyout policy
+196,2punchnoearly,2punch with no earlyout duration,01/04/2017 09:00:26,0,1,1,0,,20/04/2017 03:04:32,2punch with no earlyout duration
+197,2punchnoearly,2punch with no earlyout duration,01/04/2017 18:20:24,0,1,1,0,,20/04/2017 03:05:08,2punch with no earlyout duration
+198,2punchnoearly,2punch with no earlyout duration,03/04/2017 09:00:25,0,1,1,0,,20/04/2017 03:05:22,2punch with no earlyout duration
+199,2punchnoearly,2punch with no earlyout duration,03/04/2017 18:00:24,0,1,1,0,,20/04/2017 03:05:35,2punch with no earlyout duration
+200,2punchnoearly,2punch with no earlyout duration,04/04/2017 09:00:24,0,1,1,0,,20/04/2017 03:05:48,2punch with no earlyout duration
+201,2punchnoearly,2punch with no earlyout duration,04/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:05:56,2punch with no earlyout duration
+202,2punchnoearly,2punch with no earlyout duration,05/04/2017 09:10:25,0,1,1,0,,20/04/2017 03:06:10,2punch with no earlyout duration
+203,2punchnoearly,2punch with no earlyout duration,05/04/2017 18:00:24,0,1,1,0,,20/04/2017 03:06:20,2punch with no earlyout duration
+204,2punchnoearly,2punch with no earlyout duration,06/04/2017 09:00:26,0,1,1,0,,20/04/2017 03:12:28,2punch with no earlyout duration
+205,2punchnoearly,2punch with no earlyout duration,06/04/2017 17:59:23,0,1,1,0,,20/04/2017 03:13:00,2punch with no earlyout duration
+206,2punchnoearly,2punch with no earlyout duration,06/04/2017 08:59:23,0,1,1,0,,20/04/2017 03:13:21,2punch with no earlyout duration
+207,2punchnoearly,2punch with no earlyout duration,06/04/2017 17:55:23,0,1,1,0,,20/04/2017 03:13:30,2punch with no earlyout duration
+208,2punchnoearly,2punch with no earlyout duration,07/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:13:55,2punch with no earlyout duration
+209,2punchnoearly,2punch with no earlyout duration,07/04/2017 17:59:23,0,1,1,0,,20/04/2017 03:14:05,2punch with no earlyout duration
+210,2punchnoearly,2punch with no earlyout duration,08/04/2017 09:30:25,0,1,1,0,,20/04/2017 03:14:40,2punch with no earlyout duration
+211,2punchnoearly,2punch with no earlyout duration,08/04/2017 18:29:24,0,1,1,0,,20/04/2017 03:14:55,2punch with no earlyout duration
+212,2punchnoearly,2punch with no earlyout duration,10/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:15:09,2punch with no earlyout duration
+213,2punchnoearly,2punch with no earlyout duration,10/04/2017 18:29:23,0,1,1,0,,20/04/2017 03:15:18,2punch with no earlyout duration
+214,npunchnoearly,npunch user with no earlyout policy,01/04/2017 09:00:24,0,1,1,0,,20/04/2017 03:17:38,npunch user with no earlyout policy
+215,npunchnoearly,npunch user with no earlyout policy,01/04/2017 13:00:24,0,1,1,0,,20/04/2017 03:17:45,npunch user with no earlyout policy
+216,npunchnoearly,npunch user with no earlyout policy,01/04/2017 14:00:29,0,1,1,0,,20/04/2017 03:17:57,npunch user with no earlyout policy
+217,npunchnoearly,npunch user with no earlyout policy,01/04/2017 18:00:23,0,1,1,0,,20/04/2017 03:18:18,npunch user with no earlyout policy
+218,npunchnoearly,npunch user with no earlyout policy,03/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:18:27,npunch user with no earlyout policy
+219,npunchnoearly,npunch user with no earlyout policy,03/04/2017 13:00:23,0,1,1,0,,20/04/2017 03:18:33,npunch user with no earlyout policy
+220,npunchnoearly,npunch user with no earlyout policy,03/04/2017 14:00:23,0,1,1,0,,20/04/2017 03:18:39,npunch user with no earlyout policy
+221,npunchnoearly,npunch user with no earlyout policy,03/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:18:52,npunch user with no earlyout policy
+222,npunchnoearly,npunch user with no earlyout policy,04/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:19:02,npunch user with no earlyout policy
+223,npunchnoearly,npunch user with no earlyout policy,04/04/2017 13:30:22,0,1,1,0,,20/04/2017 03:19:10,npunch user with no earlyout policy
+224,npunchnoearly,npunch user with no earlyout policy,04/04/2017 14:00:23,0,1,1,0,,20/04/2017 03:19:17,npunch user with no earlyout policy
+225,npunchnoearly,npunch user with no earlyout policy,04/04/2017 18:29:23,0,1,1,0,,20/04/2017 03:19:27,npunch user with no earlyout policy
+226,npunchnoearly,npunch user with no earlyout policy,05/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:19:56,npunch user with no earlyout policy
+227,npunchnoearly,npunch user with no earlyout policy,05/04/2017 13:00:23,0,1,1,0,,20/04/2017 03:20:03,npunch user with no earlyout policy
+228,npunchnoearly,npunch user with no earlyout policy,05/04/2017 14:20:23,0,1,1,0,,20/04/2017 03:20:12,npunch user with no earlyout policy
+229,npunchnoearly,npunch user with no earlyout policy,05/04/2017 17:59:24,0,1,1,0,,20/04/2017 03:20:21,npunch user with no earlyout policy
+230,npunchnoearly,npunch user with no earlyout policy,06/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:20:46,npunch user with no earlyout policy
+231,npunchnoearly,npunch user with no earlyout policy,06/04/2017 12:00:23,0,1,1,0,,20/04/2017 03:20:55,npunch user with no earlyout policy
+232,npunchnoearly,npunch user with no earlyout policy,06/04/2017 12:30:23,0,1,1,0,,20/04/2017 03:21:01,npunch user with no earlyout policy
+233,npunchnoearly,npunch user with no earlyout policy,06/04/2017 17:30:23,0,1,1,0,,20/04/2017 03:21:09,npunch user with no earlyout policy
+234,npunchnoearly,npunch user with no earlyout policy,07/04/2017 09:30:23,0,1,1,0,,20/04/2017 03:21:18,npunch user with no earlyout policy
+235,npunchnoearly,npunch user with no earlyout policy,07/04/2017 13:30:24,0,1,1,0,,20/04/2017 03:21:24,npunch user with no earlyout policy
+236,npunchnoearly,npunch user with no earlyout policy,07/04/2017 14:10:23,0,1,1,0,,20/04/2017 03:21:34,npunch user with no earlyout policy
+237,npunchnoearly,npunch user with no earlyout policy,07/04/2017 18:30:24,0,1,1,0,,20/04/2017 03:21:44,npunch user with no earlyout policy
+238,npunchnoearly,npunch user with no earlyout policy,08/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:21:57,npunch user with no earlyout policy
+239,npunchnoearly,npunch user with no earlyout policy,08/04/2017 18:20:24,0,1,1,0,,20/04/2017 03:22:08,npunch user with no earlyout policy
+240,npunchnoearly,npunch user with no earlyout policy,10/04/2017 09:20:24,0,1,1,0,,20/04/2017 03:34:34,npunch user with no earlyout policy
+241,npunchnoearly,npunch user with no earlyout policy,10/04/2017 13:20:25,0,1,1,0,,20/04/2017 03:34:49,npunch user with no earlyout policy
+242,npunchnoearly,npunch user with no earlyout policy,10/04/2017 14:20:23,0,1,1,0,,20/04/2017 03:34:56,npunch user with no earlyout policy
+243,npunchnoearly,npunch user with no earlyout policy,10/04/2017 18:40:24,0,1,1,0,,20/04/2017 03:35:07,npunch user with no earlyout policy
+244,npunchnoearly,npunch user with no earlyout policy,11/04/2017 08:40:25,0,1,1,0,,20/04/2017 03:42:52,npunch user with no earlyout policy
+245,npunchnoearly,npunch user with no earlyout policy,11/04/2017 13:10:23,0,1,1,0,,20/04/2017 03:43:02,npunch user with no earlyout policy
+246,npunchnoearly,npunch user with no earlyout policy,11/04/2017 14:00:23,0,1,1,0,,20/04/2017 03:43:13,npunch user with no earlyout policy
+247,npunchnoearly,npunch user with no earlyout policy,11/04/2017 18:00:23,0,1,1,0,,20/04/2017 03:43:21,npunch user with no earlyout policy
+248,npunchnoearly,npunch user with no earlyout policy,12/04/2017 10:00:23,0,1,1,0,,20/04/2017 03:43:47,npunch user with no earlyout policy
+249,npunchnoearly,npunch user with no earlyout policy,12/04/2017 14:00:24,0,1,1,0,,20/04/2017 03:43:55,npunch user with no earlyout policy
+250,npunchnoearly,npunch user with no earlyout policy,12/04/2017 14:30:23,0,1,1,0,,20/04/2017 03:44:05,npunch user with no earlyout policy
+251,npunchnoearly,npunch user with no earlyout policy,12/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:44:14,npunch user with no earlyout policy
+252,npunchnoearly,npunch user with no earlyout policy,13/04/2017 10:00:23,0,1,1,0,,20/04/2017 03:44:35,npunch user with no earlyout policy
+253,npunchnoearly,npunch user with no earlyout policy,13/04/2017 14:00:23,0,1,1,0,,20/04/2017 03:44:41,npunch user with no earlyout policy
+254,npunchnoearly,npunch user with no earlyout policy,13/04/2017 14:20:25,0,1,1,0,,20/04/2017 03:47:08,npunch user with no earlyout policy
+255,npunchnoearly,npunch user with no earlyout policy,13/04/2017 18:00:23,0,1,1,0,,20/04/2017 03:49:33,npunch user with no earlyout policy
+256,npunchnoearly,npunch user with no earlyout policy,14/04/2017 09:20:23,0,1,1,0,,20/04/2017 03:52:17,npunch user with no earlyout policy
+257,npunchnoearly,npunch user with no earlyout policy,14/04/2017 18:20:23,0,1,1,0,,20/04/2017 03:53:01,npunch user with no earlyout policy
+258,npunchnoearly,npunch user with no earlyout policy,01/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:57:14,npunch user with no earlyout policy
+259,npunchnoearly,npunch user with no earlyout policy,01/04/2017 13:00:23,0,1,1,0,,20/04/2017 03:57:23,npunch user with no earlyout policy
+260,npunchnoearly,npunch user with no earlyout policy,01/04/2017 14:10:23,0,1,1,0,,20/04/2017 03:57:34,npunch user with no earlyout policy
+261,npunchnoearly,npunch user with no earlyout policy,01/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:57:42,npunch user with no earlyout policy
+262,2breaklatein,2punch user with break latein,01/04/2017 09:00:24,0,1,1,0,,20/04/2017 03:58:16,2punch user with break latein
+263,2breaklatein,2punch user with break latein,01/04/2017 13:00:24,0,1,1,0,,20/04/2017 03:58:27,2punch user with break latein
+264,2breaklatein,2punch user with break latein,01/04/2017 14:10:24,0,1,1,0,,20/04/2017 03:58:37,2punch user with break latein
+265,2punchnolatein,2punch user with no late in duration applicab,01/04/2017 18:30:23,0,1,1,0,,20/04/2017 03:58:45,2punch user with no late in duration applicab
+266,2breaklatein,2punch user with break latein,01/04/2017 18:30:30,0,1,1,0,,20/04/2017 03:58:52,2punch user with break latein
+267,2breaklatein,2punch user with break latein,03/04/2017 09:00:23,0,1,1,0,,20/04/2017 03:59:58,2punch user with break latein
+268,2breaklatein,2punch user with break latein,03/04/2017 18:30:24,0,1,1,0,,20/04/2017 04:00:06,2punch user with break latein
+269,2breaklatein,2punch user with break latein,04/04/2017 09:00:24,0,1,1,0,,20/04/2017 04:00:48,2punch user with break latein
+270,2breaklatein,2punch user with break latein,04/04/2017 12:00:24,0,1,1,0,,20/04/2017 04:00:55,2punch user with break latein
+271,2breaklatein,2punch user with break latein,04/04/2017 13:00:23,0,1,1,0,,20/04/2017 04:01:04,2punch user with break latein
+272,2breaklatein,2punch user with break latein,04/04/2017 18:30:24,0,1,1,0,,20/04/2017 04:01:15,2punch user with break latein
+273,4breaklatein,4 punch user with break latein AND earlyout,01/04/2017 09:00:25,0,1,1,0,,20/04/2017 04:03:04,4 punch user with break latein AND earlyout
+274,4breaklatein,4 punch user with break latein AND earlyout,01/04/2017 13:00:24,0,1,1,0,,20/04/2017 04:03:11,4 punch user with break latein AND earlyout
+275,4breaklatein,4 punch user with break latein AND earlyout,01/04/2017 14:10:24,0,1,1,0,,20/04/2017 04:03:21,4 punch user with break latein AND earlyout
+276,4breaklatein,4 punch user with break latein AND earlyout,01/04/2017 18:30:25,0,1,1,0,,20/04/2017 04:03:40,4 punch user with break latein AND earlyout
+277,4breaklatein,4 punch user with break latein AND earlyout,03/04/2017 09:00:24,0,1,1,0,,20/04/2017 04:04:22,4 punch user with break latein AND earlyout
+278,4breaklatein,4 punch user with break latein AND earlyout,03/04/2017 13:00:24,0,1,1,0,,20/04/2017 04:04:29,4 punch user with break latein AND earlyout
+279,4breaklatein,4 punch user with break latein AND earlyout,03/04/2017 14:30:27,0,1,1,0,,20/04/2017 04:04:42,4 punch user with break latein AND earlyout
+280,4breaklatein,4 punch user with break latein AND earlyout,03/04/2017 18:30:24,0,1,1,0,,20/04/2017 04:04:52,4 punch user with break latein AND earlyout
+281,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017 09:00:23,0,1,1,0,,20/04/2017 04:05:11,4 punch user with break latein AND earlyout
+282,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017 13:00:26,0,1,1,0,,20/04/2017 04:05:21,4 punch user with break latein AND earlyout
+283,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017 14:31:24,0,1,1,0,,20/04/2017 04:05:30,4 punch user with break latein AND earlyout
+284,4breaklatein,4 punch user with break latein AND earlyout,04/04/2017 18:31:24,0,1,1,0,,20/04/2017 04:05:40,4 punch user with break latein AND earlyout
+285,4breaklatein,4 punch user with break latein AND earlyout,05/04/2017 09:30:24,0,1,1,0,,20/04/2017 04:07:35,4 punch user with break latein AND earlyout
+286,4breaklatein,4 punch user with break latein AND earlyout,05/04/2017 13:00:24,0,1,1,0,,20/04/2017 04:07:49,4 punch user with break latein AND earlyout
+287,4breaklatein,4 punch user with break latein AND earlyout,05/04/2017 14:31:24,0,1,1,0,,20/04/2017 04:08:00,4 punch user with break latein AND earlyout
+288,4breaklatein,4 punch user with break latein AND earlyout,05/04/2017 19:20:25,0,1,1,0,,20/04/2017 04:08:14,4 punch user with break latein AND earlyout
+289,4breaklatein,4 punch user with break latein AND earlyout,06/04/2017 09:20:24,0,1,1,0,,20/04/2017 04:09:06,4 punch user with break latein AND earlyout
+290,4breaklatein,4 punch user with break latein AND earlyout,06/04/2017 13:20:23,0,1,1,0,,20/04/2017 04:09:13,4 punch user with break latein AND earlyout
+291,4breaklatein,4 punch user with break latein AND earlyout,06/04/2017 14:10:23,0,1,1,0,,20/04/2017 04:09:24,4 punch user with break latein AND earlyout
+292,4breaklatein,4 punch user with break latein AND earlyout,06/04/2017 19:10:24,0,1,1,0,,20/04/2017 04:09:32,4 punch user with break latein AND earlyout
+293,4breaklatein,4 punch user with break latein AND earlyout,07/04/2017 08:10:25,0,1,1,0,,20/04/2017 04:15:40,4 punch user with break latein AND earlyout
+294,4breaklatein,4 punch user with break latein AND earlyout,07/04/2017 12:10:25,0,1,1,0,,20/04/2017 04:15:50,4 punch user with break latein AND earlyout
+295,4breaklatein,4 punch user with break latein AND earlyout,07/04/2017 14:10:24,0,1,1,0,,20/04/2017 04:15:58,4 punch user with break latein AND earlyout
+296,4breaklatein,4 punch user with break latein AND earlyout,07/04/2017 20:10:24,0,1,1,0,,20/04/2017 04:16:08,4 punch user with break latein AND earlyout
+297,4breaklatein,4 punch user with break latein AND earlyout,08/04/2017 09:10:24,0,1,1,0,,20/04/2017 04:22:26,4 punch user with break latein AND earlyout
+298,4breaklatein,4 punch user with break latein AND earlyout,08/04/2017 12:30:24,0,1,1,0,,20/04/2017 04:22:39,4 punch user with break latein AND earlyout
+299,4breaklatein,4 punch user with break latein AND earlyout,08/04/2017 14:00:24,0,1,1,0,,20/04/2017 04:22:50,4 punch user with break latein AND earlyout
+300,4breaklatein,4 punch user with break latein AND earlyout,08/04/2017 19:00:24,0,1,1,0,,20/04/2017 04:22:59,4 punch user with break latein AND earlyout
+301,4breaklatein,4 punch user with break latein AND earlyout,10/04/2017 09:00:25,0,1,1,0,,20/04/2017 04:23:32,4 punch user with break latein AND earlyout
+302,4breaklatein,4 punch user with break latein AND earlyout,10/04/2017 12:45:25,0,1,1,0,,20/04/2017 04:24:33,4 punch user with break latein AND earlyout
+303,4breaklatein,4 punch user with break latein AND earlyout,10/04/2017 13:20:25,0,1,1,0,,20/04/2017 04:24:45,4 punch user with break latein AND earlyout
+304,4breaklatein,4 punch user with break latein AND earlyout,10/04/2017 18:20:24,0,1,1,0,,20/04/2017 04:24:56,4 punch user with break latein AND earlyout
+305,4breaklatein,4 punch user with break latein AND earlyout,11/04/2017 09:00:25,0,1,1,0,,20/04/2017 04:46:40,4 punch user with break latein AND earlyout
+306,4breaklatein,4 punch user with break latein AND earlyout,11/04/2017 12:25:23,0,1,1,0,,20/04/2017 04:47:59,4 punch user with break latein AND earlyout
+307,4breaklatein,4 punch user with break latein AND earlyout,11/04/2017 13:25:24,0,1,1,0,,20/04/2017 04:48:08,4 punch user with break latein AND earlyout
+308,4breaklatein,4 punch user with break latein AND earlyout,11/04/2017 18:00:23,0,1,1,0,,20/04/2017 04:48:21,4 punch user with break latein AND earlyout
+309,4breaklatein,4 punch user with break latein AND earlyout,12/04/2017 09:00:23,0,1,1,0,,20/04/2017 04:49:36,4 punch user with break latein AND earlyout
+310,4breaklatein,4 punch user with break latein AND earlyout,12/04/2017 12:30:25,0,1,1,0,,20/04/2017 04:49:50,4 punch user with break latein AND earlyout
+311,4breaklatein,4 punch user with break latein AND earlyout,12/04/2017 13:30:24,0,1,1,0,,20/04/2017 04:49:58,4 punch user with break latein AND earlyout
+312,4breaklatein,4 punch user with break latein AND earlyout,12/04/2017 18:00:24,0,1,1,0,,20/04/2017 04:50:08,4 punch user with break latein AND earlyout
+313,4breaklatein,4 punch user with break latein AND earlyout,13/04/2017 09:30:24,0,1,1,0,,20/04/2017 04:50:45,4 punch user with break latein AND earlyout
+314,4breaklatein,4 punch user with break latein AND earlyout,13/04/2017 13:00:23,0,1,1,0,,20/04/2017 04:50:56,4 punch user with break latein AND earlyout
+315,4breaklatein,4 punch user with break latein AND earlyout,13/04/2017 14:30:24,0,1,1,0,,20/04/2017 04:51:04,4 punch user with break latein AND earlyout
+316,4breaklatein,4 punch user with break latein AND earlyout,13/04/2017 19:00:26,0,1,1,0,,20/04/2017 04:51:19,4 punch user with break latein AND earlyout
+317,4breaklatein,4 punch user with break latein AND earlyout,14/04/2017 09:31:23,0,1,1,0,,20/04/2017 04:54:07,4 punch user with break latein AND earlyout
+318,4breaklatein,4 punch user with break latein AND earlyout,14/04/2017 13:00:25,0,1,1,0,,20/04/2017 04:54:15,4 punch user with break latein AND earlyout
+319,4breaklatein,4 punch user with break latein AND earlyout,14/04/2017 14:31:23,0,1,1,0,,20/04/2017 04:54:25,4 punch user with break latein AND earlyout
+320,4breaklatein,4 punch user with break latein AND earlyout,14/04/2017 19:31:24,0,1,1,0,,20/04/2017 04:54:32,4 punch user with break latein AND earlyout
+321,4breaklatein,4 punch user with break latein AND earlyout,15/04/2017 09:00:23,0,1,1,0,,20/04/2017 04:55:48,4 punch user with break latein AND earlyout
+322,4breaklatein,4 punch user with break latein AND earlyout,15/04/2017 12:29:23,0,1,1,0,,20/04/2017 04:56:00,4 punch user with break latein AND earlyout
+323,4breaklatein,4 punch user with break latein AND earlyout,15/04/2017 13:00:24,0,1,1,0,,20/04/2017 04:56:08,4 punch user with break latein AND earlyout
+324,4breaklatein,4 punch user with break latein AND earlyout,15/04/2017 17:59:32,0,1,1,0,,20/04/2017 04:56:33,4 punch user with break latein AND earlyout
+325,2pgracelatein,2punch user with grace and late in policy,01/04/2017 09:30:24,0,1,1,0,,20/04/2017 05:01:13,2punch user with grace and late in policy
+326,2pgracelatein,2punch user with grace and late in policy,01/04/2017 19:00:24,0,1,1,0,,20/04/2017 05:01:24,2punch user with grace and late in policy
+327,2pgracelatein,2punch user with grace and late in policy,03/04/2017 10:00:23,0,1,1,0,,20/04/2017 05:02:03,2punch user with grace and late in policy
+328,2pgracelatein,2punch user with grace and late in policy,03/04/2017 19:30:23,0,1,1,0,,20/04/2017 05:02:18,2punch user with grace and late in policy
+329,2pgracelatein,2punch user with grace and late in policy,04/04/2017 09:31:23,0,1,1,0,,20/04/2017 05:02:57,2punch user with grace and late in policy
+330,2pgracelatein,2punch user with grace and late in policy,04/04/2017 19:01:23,0,1,1,0,,20/04/2017 05:03:10,2punch user with grace and late in policy
+331,2pgracelatein,2punch user with grace and late in policy,05/04/2017 10:01:24,0,1,1,0,,20/04/2017 05:03:36,2punch user with grace and late in policy
+332,2pgracelatein,2punch user with grace and late in policy,05/04/2017 19:31:23,0,1,1,0,,20/04/2017 05:03:46,2punch user with grace and late in policy
+333,2pgracelatein,2punch user with grace and late in policy,06/04/2017 09:15:24,0,1,1,0,,20/04/2017 05:04:50,2punch user with grace and late in policy
+334,2pgracelatein,2punch user with grace and late in policy,06/04/2017 18:45:23,0,1,1,0,,20/04/2017 05:04:59,2punch user with grace and late in policy
+335,2pgracelatein,2punch user with grace and late in policy,07/04/2017 09:05:24,0,1,1,0,,20/04/2017 05:05:11,2punch user with grace and late in policy
+336,2pgracelatein,2punch user with grace and late in policy,07/04/2017 18:35:23,0,1,1,0,,20/04/2017 05:05:21,2punch user with grace and late in policy
+337,2pgracelatein,2punch user with grace and late in policy,08/04/2017 10:35:24,0,1,1,0,,20/04/2017 05:06:14,2punch user with grace and late in policy
+338,2pgracelatein,2punch user with grace and late in policy,08/04/2017 19:35:23,0,1,1,0,,20/04/2017 05:06:21,2punch user with grace and late in policy
+339,2pgracelatein,2punch user with grace and late in policy,10/04/2017 09:45:59,0,1,1,0,,20/04/2017 05:06:45,2punch user with grace and late in policy
+340,2pgracelatein,2punch user with grace and late in policy,10/04/2017 19:15:59,0,1,1,0,,20/04/2017 05:06:58,2punch user with grace and late in policy
+341,2pgracelatein,2punch user with grace and late in policy,11/04/2017 09:00:59,0,1,1,0,,20/04/2017 05:08:06,2punch user with grace and late in policy
+342,2pgracelatein,2punch user with grace and late in policy,11/04/2017 18:30:59,0,1,1,0,,20/04/2017 05:08:15,2punch user with grace and late in policy
+343,2pgracelatein,2punch user with grace and late in policy,12/04/2017 11:00:59,0,1,1,0,,20/04/2017 05:08:49,2punch user with grace and late in policy
+344,2pgracelatein,2punch user with grace and late in policy,12/04/2017 19:00:59,0,1,1,0,,20/04/2017 05:09:08,2punch user with grace and late in policy
+345,4pgracebreaklat,4 punch user with grace for shift and breakla,01/04/2017 09:00:59,0,1,1,0,,20/04/2017 05:13:04,4 punch user with grace for shift and breakla
+346,4pgracebreaklat,4 punch user with grace for shift and breakla,01/04/2017 13:01:01,0,1,1,0,,20/04/2017 05:13:15,4 punch user with grace for shift and breakla
+347,4pgracebreaklat,4 punch user with grace for shift and breakla,01/04/2017 14:10:59,0,1,1,0,,20/04/2017 05:13:23,4 punch user with grace for shift and breakla
+348,4pgracebreaklat,4 punch user with grace for shift and breakla,01/04/2017 18:41:00,0,1,1,0,,20/04/2017 05:13:33,4 punch user with grace for shift and breakla
+349,4pgracebreaklat,4 punch user with grace for shift and breakla,03/04/2017 09:01:00,0,1,1,0,,20/04/2017 05:14:10,4 punch user with grace for shift and breakla
+350,4pgracebreaklat,4 punch user with grace for shift and breakla,03/04/2017 13:01:00,0,1,1,0,,20/04/2017 05:14:17,4 punch user with grace for shift and breakla
+351,4pgracebreaklat,4 punch user with grace for shift and breakla,03/04/2017 14:30:52,0,1,1,0,,20/04/2017 05:14:30,4 punch user with grace for shift and breakla
+352,4pgracebreaklat,4 punch user with grace for shift and breakla,03/04/2017 19:00:52,0,1,1,0,,20/04/2017 05:14:45,4 punch user with grace for shift and breakla
+353,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017 09:00:54,0,1,1,0,,20/04/2017 05:17:31,4 punch user with grace for shift and breakla
+354,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017 13:00:52,0,1,1,0,,20/04/2017 05:17:38,4 punch user with grace for shift and breakla
+355,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017 14:45:52,0,1,1,0,,20/04/2017 05:17:59,4 punch user with grace for shift and breakla
+356,4pgracebreaklat,4 punch user with grace for shift and breakla,04/04/2017 19:30:57,0,1,1,0,,20/04/2017 05:18:11,4 punch user with grace for shift and breakla
+357,4pgracebreaklat,4 punch user with grace for shift and breakla,05/04/2017 09:00:52,0,1,1,0,,20/04/2017 05:21:13,4 punch user with grace for shift and breakla
+358,4pgracebreaklat,4 punch user with grace for shift and breakla,05/04/2017 13:00:52,0,1,1,0,,20/04/2017 05:21:22,4 punch user with grace for shift and breakla
+359,4pgracebreaklat,4 punch user with grace for shift and breakla,05/04/2017 13:30:53,0,1,1,0,,20/04/2017 05:21:30,4 punch user with grace for shift and breakla
+360,4pgracebreaklat,4 punch user with grace for shift and breakla,05/04/2017 18:30:52,0,1,1,0,,20/04/2017 05:21:36,4 punch user with grace for shift and breakla
+361,4pgracebreaklat,4 punch user with grace for shift and breakla,06/04/2017 09:00:52,0,1,1,0,,20/04/2017 05:21:47,4 punch user with grace for shift and breakla
+362,4pgracebreaklat,4 punch user with grace for shift and breakla,06/04/2017 13:00:54,0,1,1,0,,20/04/2017 05:21:55,4 punch user with grace for shift and breakla
+363,4pgracebreaklat,4 punch user with grace for shift and breakla,06/04/2017 13:40:52,0,1,1,0,,20/04/2017 05:22:03,4 punch user with grace for shift and breakla
+364,4pgracebreaklat,4 punch user with grace for shift and breakla,06/04/2017 18:40:52,0,1,1,0,,20/04/2017 05:22:11,4 punch user with grace for shift and breakla
+365,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017 09:00:52,0,1,1,0,,20/04/2017 05:22:19,4 punch user with grace for shift and breakla
+366,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017 13:00:54,0,1,1,0,,20/04/2017 05:22:27,4 punch user with grace for shift and breakla
+367,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017 14:00:53,0,1,1,0,,20/04/2017 05:22:43,4 punch user with grace for shift and breakla
+368,4pgracebreaklat,4 punch user with grace for shift and breakla,07/04/2017 19:00:53,0,1,1,0,,20/04/2017 05:22:49,4 punch user with grace for shift and breakla
+369,4pgracebreaklat,4 punch user with grace for shift and breakla,08/04/2017 09:30:52,0,1,1,0,,20/04/2017 05:23:56,4 punch user with grace for shift and breakla
+370,4pgracebreaklat,4 punch user with grace for shift and breakla,08/04/2017 13:00:52,0,1,1,0,,20/04/2017 05:24:03,4 punch user with grace for shift and breakla
+371,4pgracebreaklat,4 punch user with grace for shift and breakla,08/04/2017 13:40:52,0,1,1,0,,20/04/2017 05:24:10,4 punch user with grace for shift and breakla
+372,4pgracebreaklat,4 punch user with grace for shift and breakla,08/04/2017 19:00:52,0,1,1,0,,20/04/2017 05:24:17,4 punch user with grace for shift and breakla
+373,4pgracebreaklat,4 punch user with grace for shift and breakla,10/04/2017 10:00:52,0,1,1,0,,20/04/2017 05:24:38,4 punch user with grace for shift and breakla
+374,4pgracebreaklat,4 punch user with grace for shift and breakla,10/04/2017 13:00:53,0,1,1,0,,20/04/2017 05:24:47,4 punch user with grace for shift and breakla
+375,4pgracebreaklat,4 punch user with grace for shift and breakla,10/04/2017 14:15:53,0,1,1,0,,20/04/2017 05:24:57,4 punch user with grace for shift and breakla
+376,4pgracebreaklat,4 punch user with grace for shift and breakla,10/04/2017 19:34:52,0,1,1,0,,20/04/2017 05:25:10,4 punch user with grace for shift and breakla
+377,4pgracebreaklat,4 punch user with grace for shift and breakla,11/04/2017 10:01:52,0,1,1,0,,20/04/2017 05:25:59,4 punch user with grace for shift and breakla
+378,4pgracebreaklat,4 punch user with grace for shift and breakla,11/04/2017 13:00:51,0,1,1,0,,20/04/2017 05:26:06,4 punch user with grace for shift and breakla
+379,4pgracebreaklat,4 punch user with grace for shift and breakla,11/04/2017 14:11:52,0,1,1,0,,20/04/2017 05:26:16,4 punch user with grace for shift and breakla
+380,4pgracebreaklat,4 punch user with grace for shift and breakla,11/04/2017 19:30:53,0,1,1,0,,20/04/2017 05:26:26,4 punch user with grace for shift and breakla
+381,4pgracebreakear,4 punch user with break early out and grace,01/04/2017 09:00:38,0,1,1,0,,21/04/2017 02:44:47,4 punch user with break early out and grace
+382,4pgracebreakear,4 punch user with break early out and grace,01/04/2017 12:50:38,0,1,1,0,,21/04/2017 03:04:24,4 punch user with break early out and grace
+383,4pgracebreakear,4 punch user with break early out and grace,01/04/2017 13:25:36,0,1,1,0,,21/04/2017 03:04:35,4 punch user with break early out and grace
+384,4pgracebreakear,4 punch user with break early out and grace,01/04/2017 18:30:37,0,1,1,0,,21/04/2017 03:04:48,4 punch user with break early out and grace
+385,4pgracebreakear,4 punch user with break early out and grace,03/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:07:02,4 punch user with break early out and grace
+386,4pgracebreakear,4 punch user with break early out and grace,03/04/2017 12:20:37,0,1,1,0,,21/04/2017 03:07:19,4 punch user with break early out and grace
+387,4pgracebreakear,4 punch user with break early out and grace,03/04/2017 13:20:38,0,1,1,0,,21/04/2017 03:07:27,4 punch user with break early out and grace
+388,4pgracebreakear,4 punch user with break early out and grace,03/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:07:41,4 punch user with break early out and grace
+389,4pgracebreakear,4 punch user with break early out and grace,04/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:08:15,4 punch user with break early out and grace
+390,4pgracebreakear,4 punch user with break early out and grace,04/04/2017 12:20:37,0,1,1,0,,21/04/2017 03:08:26,4 punch user with break early out and grace
+391,4pgracebreakear,4 punch user with break early out and grace,04/04/2017 13:00:37,0,1,1,0,,21/04/2017 03:08:37,4 punch user with break early out and grace
+392,4pgracebreakear,4 punch user with break early out and grace,04/04/2017 18:20:36,0,1,1,0,,21/04/2017 03:08:49,4 punch user with break early out and grace
+393,4pgracebreakear,4 punch user with break early out and grace,05/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:10:23,4 punch user with break early out and grace
+394,4pgracebreakear,4 punch user with break early out and grace,05/04/2017 12:15:36,0,1,1,0,,21/04/2017 03:10:36,4 punch user with break early out and grace
+395,4pgracebreakear,4 punch user with break early out and grace,05/04/2017 13:00:38,0,1,1,0,,21/04/2017 03:10:46,4 punch user with break early out and grace
+396,4pgracebreakear,4 punch user with break early out and grace,05/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:10:55,4 punch user with break early out and grace
+397,4pgracebreakear,4 punch user with break early out and grace,06/04/2017 08:50:37,0,1,1,0,,21/04/2017 03:11:42,4 punch user with break early out and grace
+398,4pgracebreakear,4 punch user with break early out and grace,06/04/2017 12:30:38,0,1,1,0,,21/04/2017 03:11:53,4 punch user with break early out and grace
+399,4pgracebreakear,4 punch user with break early out and grace,06/04/2017 13:30:36,0,1,1,0,,21/04/2017 03:12:00,4 punch user with break early out and grace
+400,4pgracebreakear,4 punch user with break early out and grace,06/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:12:08,4 punch user with break early out and grace
+401,4pgracebreakear,4 punch user with break early out and grace,07/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:12:42,4 punch user with break early out and grace
+402,4pgracebreakear,4 punch user with break early out and grace,07/04/2017 12:55:36,0,1,1,0,,21/04/2017 03:12:49,4 punch user with break early out and grace
+403,4pgracebreakear,4 punch user with break early out and grace,07/04/2017 13:30:36,0,1,1,0,,21/04/2017 03:12:57,4 punch user with break early out and grace
+404,4pgracebreakear,4 punch user with break early out and grace,07/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:13:04,4 punch user with break early out and grace
+405,4pgracebreakear,4 punch user with break early out and grace,08/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:13:27,4 punch user with break early out and grace
+406,4pgracebreakear,4 punch user with break early out and grace,08/04/2017 12:45:36,0,1,1,0,,21/04/2017 03:13:36,4 punch user with break early out and grace
+407,4pgracebreakear,4 punch user with break early out and grace,08/04/2017 13:00:36,0,1,1,0,,21/04/2017 03:13:43,4 punch user with break early out and grace
+408,4pgracebreakear,4 punch user with break early out and grace,08/04/2017 18:30:43,0,1,1,0,,21/04/2017 03:13:58,4 punch user with break early out and grace
+409,4pgracebreakear,4 punch user with break early out and grace,10/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:14:53,4 punch user with break early out and grace
+410,4pgracebreakear,4 punch user with break early out and grace,10/04/2017 12:49:36,0,1,1,0,,21/04/2017 03:15:06,4 punch user with break early out and grace
+411,4pgracebreakear,4 punch user with break early out and grace,10/04/2017 13:20:41,0,1,1,0,,21/04/2017 03:15:19,4 punch user with break early out and grace
+412,4pgracebreakear,4 punch user with break early out and grace,10/04/2017 17:55:36,0,1,1,0,,21/04/2017 03:15:34,4 punch user with break early out and grace
+413,4pgracebreakear,4 punch user with break early out and grace,11/04/2017 08:55:36,0,1,1,0,,21/04/2017 03:16:30,4 punch user with break early out and grace
+414,4pgracebreakear,4 punch user with break early out and grace,11/04/2017 12:00:36,0,1,1,0,,21/04/2017 03:16:40,4 punch user with break early out and grace
+415,4pgracebreakear,4 punch user with break early out and grace,11/04/2017 13:00:36,0,1,1,0,,21/04/2017 03:16:47,4 punch user with break early out and grace
+416,4pgracebreakear,4 punch user with break early out and grace,11/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:16:56,4 punch user with break early out and grace
+417,4pgracebreakear,4 punch user with break early out and grace,12/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:17:14,4 punch user with break early out and grace
+418,4pgracebreakear,4 punch user with break early out and grace,12/04/2017 12:19:36,0,1,1,0,,21/04/2017 03:17:28,4 punch user with break early out and grace
+419,4pgracebreakear,4 punch user with break early out and grace,12/04/2017 13:19:36,0,1,1,0,,21/04/2017 03:17:34,4 punch user with break early out and grace
+420,4pgracebreakear,4 punch user with break early out and grace,12/04/2017 18:30:37,0,1,1,0,,21/04/2017 03:17:44,4 punch user with break early out and grace
+421,4pgracebreakear,4 punch user with break early out and grace,13/04/2017 08:00:38,0,1,1,0,,21/04/2017 03:18:07,4 punch user with break early out and grace
+422,4pgracebreakear,4 punch user with break early out and grace,13/04/2017 11:55:36,0,1,1,0,,21/04/2017 03:18:25,4 punch user with break early out and grace
+423,4pgracebreakear,4 punch user with break early out and grace,13/04/2017 12:55:36,0,1,1,0,,21/04/2017 03:18:33,4 punch user with break early out and grace
+424,4pgracebreakear,4 punch user with break early out and grace,13/04/2017 18:55:36,0,1,1,0,,21/04/2017 03:18:40,4 punch user with break early out and grace
+425,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,01/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:23:23,2punch user for EO Shift grace and EO duratio
+426,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,01/04/2017 18:20:36,0,1,1,0,,21/04/2017 03:23:48,2punch user for EO Shift grace and EO duratio
+427,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,03/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:24:21,2punch user for EO Shift grace and EO duratio
+428,2punchuser,2punch user with latein,03/04/2017 17:50:36,0,1,1,0,,21/04/2017 03:24:34,2punch user with latein
+429,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,03/04/2017 17:50:43,0,1,1,0,,21/04/2017 03:24:41,2punch user for EO Shift grace and EO duratio
+430,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,04/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:25:08,2punch user for EO Shift grace and EO duratio
+431,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,04/04/2017 18:25:36,0,1,1,0,,21/04/2017 03:25:16,2punch user for EO Shift grace and EO duratio
+432,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,05/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:25:47,2punch user for EO Shift grace and EO duratio
+433,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,05/04/2017 18:19:36,0,1,1,0,,21/04/2017 03:26:02,2punch user for EO Shift grace and EO duratio
+434,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,06/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:26:15,2punch user for EO Shift grace and EO duratio
+435,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,06/04/2017 17:49:36,0,1,1,0,,21/04/2017 03:26:26,2punch user for EO Shift grace and EO duratio
+436,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,07/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:26:59,2punch user for EO Shift grace and EO duratio
+437,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,07/04/2017 18:30:37,0,1,1,0,,21/04/2017 03:27:07,2punch user for EO Shift grace and EO duratio
+438,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,08/04/2017 08:40:37,0,1,1,0,,21/04/2017 03:27:25,2punch user for EO Shift grace and EO duratio
+439,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,08/04/2017 17:40:36,0,1,1,0,,21/04/2017 03:27:32,2punch user for EO Shift grace and EO duratio
+440,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,10/04/2017 09:00:35,0,1,1,0,,21/04/2017 03:28:07,2punch user for EO Shift grace and EO duratio
+441,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,10/04/2017 17:00:36,0,1,1,0,,21/04/2017 03:28:14,2punch user for EO Shift grace and EO duratio
+442,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,11/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:28:24,2punch user for EO Shift grace and EO duratio
+443,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,11/04/2017 17:30:36,0,1,1,0,,21/04/2017 03:28:32,2punch user for EO Shift grace and EO duratio
+444,npgraceEO,Npunch user with grace in EO and EO duration,01/04/2017 09:00:37,0,1,1,0,,21/04/2017 03:30:14,Npunch user with grace in EO and EO duration
+445,npgraceEO,Npunch user with grace in EO and EO duration,01/04/2017 15:00:37,0,1,1,0,,21/04/2017 03:30:24,Npunch user with grace in EO and EO duration
+446,npgraceEO,Npunch user with grace in EO and EO duration,01/04/2017 15:30:36,0,1,1,0,,21/04/2017 03:30:32,Npunch user with grace in EO and EO duration
+447,npgraceEO,Npunch user with grace in EO and EO duration,01/04/2017 18:20:37,0,1,1,0,,21/04/2017 03:30:42,Npunch user with grace in EO and EO duration
+448,npgraceEO,Npunch user with grace in EO and EO duration,03/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:31:04,Npunch user with grace in EO and EO duration
+449,npgraceEO,Npunch user with grace in EO and EO duration,03/04/2017 16:00:36,0,1,1,0,,21/04/2017 03:31:10,Npunch user with grace in EO and EO duration
+450,npgraceEO,Npunch user with grace in EO and EO duration,03/04/2017 16:20:36,0,1,1,0,,21/04/2017 03:31:17,Npunch user with grace in EO and EO duration
+451,npgraceEO,Npunch user with grace in EO and EO duration,03/04/2017 17:50:36,0,1,1,0,,21/04/2017 03:31:33,Npunch user with grace in EO and EO duration
+452,npgraceEO,Npunch user with grace in EO and EO duration,04/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:31:48,Npunch user with grace in EO and EO duration
+453,npgraceEO,Npunch user with grace in EO and EO duration,04/04/2017 12:00:37,0,1,1,0,,21/04/2017 03:31:54,Npunch user with grace in EO and EO duration
+454,npgraceEO,Npunch user with grace in EO and EO duration,04/04/2017 12:30:37,0,1,1,0,,21/04/2017 03:32:01,Npunch user with grace in EO and EO duration
+455,npgraceEO,Npunch user with grace in EO and EO duration,04/04/2017 18:19:36,0,1,1,0,,21/04/2017 03:32:13,Npunch user with grace in EO and EO duration
+456,npgraceEO,Npunch user with grace in EO and EO duration,05/04/2017 08:19:36,0,1,1,0,,21/04/2017 03:32:22,Npunch user with grace in EO and EO duration
+457,npgraceEO,Npunch user with grace in EO and EO duration,05/04/2017 12:22:36,0,1,1,0,,21/04/2017 03:32:28,Npunch user with grace in EO and EO duration
+458,npgraceEO,Npunch user with grace in EO and EO duration,05/04/2017 13:00:36,0,1,1,0,,21/04/2017 03:32:36,Npunch user with grace in EO and EO duration
+459,npgraceEO,Npunch user with grace in EO and EO duration,05/04/2017 17:49:36,0,1,1,0,,21/04/2017 03:32:45,Npunch user with grace in EO and EO duration
+460,npgraceEO,Npunch user with grace in EO and EO duration,06/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:33:18,Npunch user with grace in EO and EO duration
+461,npgraceEO,Npunch user with grace in EO and EO duration,06/04/2017 13:02:37,0,1,1,0,,21/04/2017 03:33:27,Npunch user with grace in EO and EO duration
+462,npgraceEO,Npunch user with grace in EO and EO duration,06/04/2017 13:30:38,0,1,1,0,,21/04/2017 03:33:36,Npunch user with grace in EO and EO duration
+463,npgraceEO,Npunch user with grace in EO and EO duration,06/04/2017 18:00:36,0,1,1,0,,21/04/2017 03:34:02,Npunch user with grace in EO and EO duration
+464,npgraceEO,Npunch user with grace in EO and EO duration,07/04/2017 08:40:36,0,1,1,0,,21/04/2017 03:34:27,Npunch user with grace in EO and EO duration
+465,npgraceEO,Npunch user with grace in EO and EO duration,07/04/2017 12:40:38,0,1,1,0,,21/04/2017 03:34:34,Npunch user with grace in EO and EO duration
+466,npgraceEO,Npunch user with grace in EO and EO duration,07/04/2017 13:00:36,0,1,1,0,,21/04/2017 03:34:42,Npunch user with grace in EO and EO duration
+467,npgraceEO,Npunch user with grace in EO and EO duration,07/04/2017 18:25:36,0,1,1,0,,21/04/2017 03:34:51,Npunch user with grace in EO and EO duration
+468,npgraceEO,Npunch user with grace in EO and EO duration,08/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:35:09,Npunch user with grace in EO and EO duration
+469,npgraceEO,Npunch user with grace in EO and EO duration,08/04/2017 13:00:37,0,1,1,0,,21/04/2017 03:35:17,Npunch user with grace in EO and EO duration
+470,npgraceEO,Npunch user with grace in EO and EO duration,08/04/2017 13:30:36,0,1,1,0,,21/04/2017 03:35:24,Npunch user with grace in EO and EO duration
+471,npgraceEO,Npunch user with grace in EO and EO duration,08/04/2017 17:30:38,0,1,1,0,,21/04/2017 03:36:35,Npunch user with grace in EO and EO duration
+472,npgraceEO,Npunch user with grace in EO and EO duration,10/04/2017 09:00:38,0,1,1,0,,21/04/2017 03:36:54,Npunch user with grace in EO and EO duration
+473,npgraceEO,Npunch user with grace in EO and EO duration,10/04/2017 12:00:36,0,1,1,0,,21/04/2017 03:37:01,Npunch user with grace in EO and EO duration
+474,npgraceEO,Npunch user with grace in EO and EO duration,10/04/2017 12:30:35,0,1,1,0,,21/04/2017 03:37:08,Npunch user with grace in EO and EO duration
+475,npgraceEO,Npunch user with grace in EO and EO duration,10/04/2017 18:30:36,0,1,1,0,,21/04/2017 03:37:15,Npunch user with grace in EO and EO duration
+476,npgraceEO,Npunch user with grace in EO and EO duration,11/04/2017 08:30:37,0,1,1,0,,21/04/2017 03:37:45,Npunch user with grace in EO and EO duration
+477,npgraceEO,Npunch user with grace in EO and EO duration,11/04/2017 12:30:36,0,1,1,0,,21/04/2017 03:37:51,Npunch user with grace in EO and EO duration
+478,npgraceEO,Npunch user with grace in EO and EO duration,11/04/2017 13:00:36,0,1,1,0,,21/04/2017 03:37:58,Npunch user with grace in EO and EO duration
+479,npgraceEO,Npunch user with grace in EO and EO duration,11/04/2017 17:00:38,0,1,1,0,,21/04/2017 03:38:07,Npunch user with grace in EO and EO duration
+480,npgraceEO,Npunch user with grace in EO and EO duration,12/04/2017 09:00:36,0,1,1,0,,21/04/2017 03:38:20,Npunch user with grace in EO and EO duration
+481,npgraceEO,Npunch user with grace in EO and EO duration,12/04/2017 13:00:37,0,1,1,0,,21/04/2017 03:38:27,Npunch user with grace in EO and EO duration
+482,npgraceEO,Npunch user with grace in EO and EO duration,12/04/2017 13:30:36,0,1,1,0,,21/04/2017 03:38:34,Npunch user with grace in EO and EO duration
+483,npgraceEO,Npunch user with grace in EO and EO duration,12/04/2017 16:30:36,0,1,1,0,,21/04/2017 03:38:42,Npunch user with grace in EO and EO duration
+484,2pGraceinWH,2Punch user includes grace time in work hours,01/04/2017 09:10:37,0,1,1,0,,21/04/2017 03:55:33,2Punch user includes grace time in work hours
+485,2pGraceinWH,2Punch user includes grace time in work hours,01/04/2017 18:10:39,0,1,1,0,,21/04/2017 03:57:14,2Punch user includes grace time in work hours
+486,2pGraceinWH,2Punch user includes grace time in work hours,01/04/2017 18:30:39,0,1,1,0,,21/04/2017 04:06:35,2Punch user includes grace time in work hours
+487,2pGraceinWH,2Punch user includes grace time in work hours,03/04/2017 09:05:37,0,1,1,0,,21/04/2017 04:07:06,2Punch user includes grace time in work hours
+488,2pGraceinWH,2Punch user includes grace time in work hours,03/04/2017 18:30:36,0,1,1,0,,21/04/2017 04:07:16,2Punch user includes grace time in work hours
+489,2pGraceinWH,2Punch user includes grace time in work hours,04/04/2017 09:00:36,0,1,1,0,,21/04/2017 04:07:28,2Punch user includes grace time in work hours
+490,2pGraceinWH,2Punch user includes grace time in work hours,04/04/2017 18:25:36,0,1,1,0,,21/04/2017 04:07:39,2Punch user includes grace time in work hours
+491,2pGraceinWH,2Punch user includes grace time in work hours,05/04/2017 09:15:37,0,1,1,0,,21/04/2017 04:08:33,2Punch user includes grace time in work hours
+492,2pGraceinWH,2Punch user includes grace time in work hours,05/04/2017 18:30:36,0,1,1,0,,21/04/2017 04:08:41,2Punch user includes grace time in work hours
+493,2pGraceinWH,2Punch user includes grace time in work hours,06/04/2017 09:20:36,0,1,1,0,,21/04/2017 04:11:01,2Punch user includes grace time in work hours
+494,2pGraceinWH,2Punch user includes grace time in work hours,06/04/2017 18:40:36,0,1,1,0,,21/04/2017 04:11:12,2Punch user includes grace time in work hours
+495,2pGraceinWH,2Punch user includes grace time in work hours,06/04/2017 18:50:37,0,1,1,0,,21/04/2017 04:11:32,2Punch user includes grace time in work hours
+496,2pGraceinWH,2Punch user includes grace time in work hours,07/04/2017 09:40:36,0,1,1,0,,21/04/2017 04:12:37,2Punch user includes grace time in work hours
+497,2pGraceinWH,2Punch user includes grace time in work hours,07/04/2017 19:10:38,0,1,1,0,,21/04/2017 04:13:08,2Punch user includes grace time in work hours
+498,2pGraceinWH,2Punch user includes grace time in work hours,08/04/2017 09:45:37,0,1,1,0,,21/04/2017 04:13:29,2Punch user includes grace time in work hours
+499,2pGraceinWH,2Punch user includes grace time in work hours,08/04/2017 19:30:36,0,1,1,0,,21/04/2017 04:13:38,2Punch user includes grace time in work hours
+500,2pGraceinWH,2Punch user includes grace time in work hours,10/04/2017 09:20:38,0,1,1,0,,21/04/2017 04:14:51,2Punch user includes grace time in work hours
+501,2pGraceinWH,2Punch user includes grace time in work hours,10/04/2017 18:40:36,0,1,1,0,,21/04/2017 04:15:06,2Punch user includes grace time in work hours
+502,2pGraceinWH,2Punch user includes grace time in work hours,11/04/2017 09:15:40,0,1,1,0,,21/04/2017 05:05:24,2Punch user includes grace time in work hours
+503,2pGraceinWH,2Punch user includes grace time in work hours,11/04/2017 18:35:42,0,1,1,0,,21/04/2017 05:05:35,2Punch user includes grace time in work hours
+504,2punchearlyout,2punchuserwith earlyout policy,13/04/2017 08:30:38,0,1,1,0,,21/04/2017 07:15:50,2punchuserwith earlyout policy
+505,2punchearlyout,2punchuserwith earlyout policy,13/04/2017 18:00:36,0,1,1,0,,21/04/2017 07:16:00,2punchuserwith earlyout policy
+506,2punchearlyout,2punchuserwith earlyout policy,14/04/2017 08:40:36,0,1,1,0,,21/04/2017 07:19:17,2punchuserwith earlyout policy
+507,2punchearlyout,2punchuserwith earlyout policy,14/04/2017 18:00:36,0,1,1,0,,21/04/2017 07:19:28,2punchuserwith earlyout policy
+508,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,12/04/2017 08:40:40,0,1,1,0,,21/04/2017 08:06:47,2punch user for EO Shift grace and EO duratio
+509,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,12/04/2017 18:10:38,0,1,1,0,,21/04/2017 08:07:12,2punch user for EO Shift grace and EO duratio
+510,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,13/04/2017 08:30:37,0,1,1,0,,21/04/2017 08:07:53,2punch user for EO Shift grace and EO duratio
+511,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,13/04/2017 18:00:38,0,1,1,0,,21/04/2017 08:08:01,2punch user for EO Shift grace and EO duratio
+512,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,14/04/2017 08:20:38,0,1,1,0,,21/04/2017 08:08:42,2punch user for EO Shift grace and EO duratio
+513,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,14/04/2017 17:50:38,0,1,1,0,,21/04/2017 08:08:54,2punch user for EO Shift grace and EO duratio
+514,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,15/04/2017 08:15:37,0,1,1,0,,21/04/2017 08:09:19,2punch user for EO Shift grace and EO duratio
+515,2pgraceshiftEO,2punch user for EO Shift grace and EO duratio,15/04/2017 17:45:37,0,1,1,0,,21/04/2017 08:09:27,2punch user for EO Shift grace and EO duratio
+516,4ptotallatein,4punch user for adding break latein in total,01/04/2017 09:00:23,0,1,1,0,,21/04/2017 09:08:26,4punch user for adding break latein in total
+517,4ptotallatein,4punch user for adding break latein in total,01/04/2017 18:30:21,0,1,1,0,,21/04/2017 09:08:40,4punch user for adding break latein in total
+518,4ptotallatein,4punch user for adding break latein in total,03/04/2017 09:15:21,0,1,1,0,,21/04/2017 09:08:57,4punch user for adding break latein in total
+519,4ptotallatein,4punch user for adding break latein in total,03/04/2017 18:45:23,0,1,1,0,,21/04/2017 09:09:11,4punch user for adding break latein in total
+520,4ptotallatein,4punch user for adding break latein in total,04/04/2017 09:30:22,0,1,1,0,,21/04/2017 09:10:51,4punch user for adding break latein in total
+521,4ptotallatein,4punch user for adding break latein in total,04/04/2017 19:00:21,0,1,1,0,,21/04/2017 10:30:06,4punch user for adding break latein in total
+522,4ptotallatein,4punch user for adding break latein in total,05/04/2017 09:15:22,0,1,1,0,,21/04/2017 10:33:32,4punch user for adding break latein in total
+523,4ptotallatein,4punch user for adding break latein in total,05/04/2017 13:00:21,0,1,1,0,,21/04/2017 10:34:23,4punch user for adding break latein in total
+524,4ptotallatein,4punch user for adding break latein in total,05/04/2017 14:00:24,0,1,1,0,,21/04/2017 10:34:35,4punch user for adding break latein in total
+525,4ptotallatein,4punch user for adding break latein in total,05/04/2017 18:45:21,0,1,1,0,,21/04/2017 10:34:46,4punch user for adding break latein in total
+526,4ptotallatein,4punch user for adding break latein in total,06/04/2017 09:00:21,0,1,1,0,,21/04/2017 10:36:05,4punch user for adding break latein in total
+527,4ptotallatein,4punch user for adding break latein in total,06/04/2017 13:00:20,0,1,1,0,,21/04/2017 10:36:11,4punch user for adding break latein in total
+528,4ptotallatein,4punch user for adding break latein in total,06/04/2017 13:45:21,0,1,1,0,,21/04/2017 10:36:19,4punch user for adding break latein in total
+529,4ptotallatein,4punch user for adding break latein in total,06/04/2017 18:45:21,0,1,1,0,,21/04/2017 10:36:27,4punch user for adding break latein in total
+530,4ptotallatein,4punch user for adding break latein in total,07/04/2017 09:16:06,0,1,1,0,,21/04/2017 10:37:44,4punch user for adding break latein in total
+531,Normal,normal user,01/04/2017 09:00:21,0,1,1,0,,21/04/2017 10:58:45,normal user
+532,Normal,normal user,01/04/2017 18:30:21,0,1,1,0,,21/04/2017 10:58:54,normal user
+533,Normal,normal user,03/04/2017 09:00:21,0,1,1,0,,21/04/2017 10:59:11,normal user
+534,Normal,normal user,03/04/2017 18:30:20,0,1,1,0,,21/04/2017 10:59:19,normal user
+535,Inpunch,User with In pucnh only,01/04/2017 09:00:20,0,1,1,0,,21/04/2017 11:01:58,User with In pucnh only
+536,Inpunch,User with In pucnh only,03/04/2017 09:00:20,0,1,1,0,,21/04/2017 11:02:09,User with In pucnh only
+537,seconhalfabsent,second half absent,01/04/2017 09:00:20,0,1,1,0,,21/04/2017 11:03:27,second half absent
+538,seconhalfabsent,second half absent,01/04/2017 14:00:23,0,1,1,0,,21/04/2017 11:03:52,second half absent
+539,seconhalfabsent,second half absent,03/04/2017 09:00:21,0,1,1,0,,21/04/2017 11:04:59,second half absent
+540,seconhalfabsent,second half absent,03/04/2017 13:30:23,0,1,1,0,,21/04/2017 11:05:17,second half absent
+541,firsthalfabsent,First half absent,01/04/2017 13:30:20,0,1,1,0,,21/04/2017 11:06:57,First half absent
+542,firsthalfabsent,First half absent,01/04/2017 18:30:20,0,1,1,0,,21/04/2017 11:07:04,First half absent
+543,firsthalfabsent,First half absent,03/04/2017 14:00:20,0,1,1,0,,21/04/2017 11:07:33,First half absent
+544,firsthalfabsent,First half absent,03/04/2017 18:30:21,0,1,1,0,,21/04/2017 11:07:41,First half absent
+545,Lateingrace,User have pucnges on grace latein,01/04/2017 09:30:19,0,1,1,0,,21/04/2017 11:10:07,User have pucnges on grace latein
+546,Lateingrace,User have pucnges on grace latein,01/04/2017 19:00:21,0,1,1,0,,21/04/2017 11:10:19,User have pucnges on grace latein
+547,Lateingrace,User have pucnges on grace latein,03/04/2017 09:10:21,0,1,1,0,,21/04/2017 11:10:43,User have pucnges on grace latein
+548,Lateingrace,User have pucnges on grace latein,03/04/2017 18:40:20,0,1,1,0,,21/04/2017 11:10:57,User have pucnges on grace latein
+549,Lateingrace,User have pucnges on grace latein,04/04/2017 09:29:20,0,1,1,0,,21/04/2017 11:11:10,User have pucnges on grace latein
+550,Lateingrace,User have pucnges on grace latein,04/04/2017 18:39:22,0,1,1,0,,21/04/2017 11:11:21,User have pucnges on grace latein
+551,Lateingrace,User have pucnges on grace latein,04/04/2017 19:00:20,0,1,1,0,,21/04/2017 11:11:42,User have pucnges on grace latein
+552,Latein,user punches on latein only,01/04/2017 09:30:20,0,1,1,0,,21/04/2017 11:13:46,user punches on latein only
+553,Latein,user punches on latein only,01/04/2017 19:00:22,0,1,1,0,,21/04/2017 11:13:55,user punches on latein only
+554,Latein,user punches on latein only,03/04/2017 09:15:20,0,1,1,0,,21/04/2017 11:14:10,user punches on latein only
+555,Latein,user punches on latein only,03/04/2017 18:45:29,0,1,1,0,,21/04/2017 11:14:26,user punches on latein only
+556,earlyout,user punches on early out duration of 30mins,01/04/2017 08:30:21,0,1,1,0,,21/04/2017 11:16:28,user punches on early out duration of 30mins
+557,earlyout,user punches on early out duration of 30mins,01/04/2017 18:00:20,0,1,1,0,,21/04/2017 11:16:40,user punches on early out duration of 30mins
+558,earlyout,user punches on early out duration of 30mins,03/04/2017 08:50:21,0,1,1,0,,21/04/2017 11:17:08,user punches on early out duration of 30mins
+559,earlyout,user punches on early out duration of 30mins,03/04/2017 18:20:21,0,1,1,0,,21/04/2017 11:17:19,user punches on early out duration of 30mins
+560,Earlyoutgrace,Earlyout user with punches on grace time,01/04/2017 08:50:22,0,1,1,0,,21/04/2017 11:19:50,Earlyout user with punches on grace time
+561,Earlyoutgrace,Earlyout user with punches on grace time,01/04/2017 18:20:20,0,1,1,0,,21/04/2017 11:19:58,Earlyout user with punches on grace time
+562,Earlyoutgrace,Earlyout user with punches on grace time,03/04/2017 08:55:21,0,1,1,0,,21/04/2017 11:20:42,Earlyout user with punches on grace time
+563,Earlyoutgrace,Earlyout user with punches on grace time,03/04/2017 18:25:20,0,1,1,0,,21/04/2017 11:20:52,Earlyout user with punches on grace time
+564,Lategraceexceed,User with exceed grace period,01/04/2017 09:31:20,0,1,1,0,,21/04/2017 11:23:35,User with exceed grace period
+565,Lategraceexceed,User with exceed grace period,01/04/2017 19:05:20,0,1,1,0,,21/04/2017 11:24:29,User with exceed grace period
+566,Lategraceexceed,User with exceed grace period,03/04/2017 10:00:20,0,1,1,0,,21/04/2017 11:25:02,User with exceed grace period
+567,Lategraceexceed,User with exceed grace period,03/04/2017 19:30:20,0,1,1,0,,21/04/2017 11:25:12,User with exceed grace period
+568,Lateinduraexcee,Late in Duration exceed,01/04/2017 10:00:22,0,1,1,0,,21/04/2017 11:27:16,Late in Duration exceed
+569,Lateinduraexcee,Late in Duration exceed,01/04/2017 19:30:20,0,1,1,0,,21/04/2017 11:28:26,Late in Duration exceed
+570,Lateinduraexcee,Late in Duration exceed,03/04/2017 09:31:21,0,1,1,0,,21/04/2017 11:28:43,Late in Duration exceed
+571,Lateinduraexcee,Late in Duration exceed,03/04/2017 19:31:20,0,1,1,0,,21/04/2017 11:28:51,Late in Duration exceed
+572,EOdurationexcee,EO duration exceeds,01/04/2017 08:25:21,0,1,1,0,,21/04/2017 11:30:08,EO duration exceeds
+573,EOdurationexcee,EO duration exceeds,01/04/2017 17:55:21,0,1,1,0,,21/04/2017 11:30:19,EO duration exceeds
+574,EOdurationexcee,EO duration exceeds,03/04/2017 08:15:21,0,1,1,0,,21/04/2017 11:30:38,EO duration exceeds
+575,EOdurationexcee,EO duration exceeds,03/04/2017 17:45:21,0,1,1,0,,21/04/2017 11:31:01,EO duration exceeds
+576,EOgraceexceed,Earlyout grace duration exceeds,01/04/2017 08:45:21,0,1,1,0,,21/04/2017 11:33:25,Earlyout grace duration exceeds
+577,EOgraceexceed,Earlyout grace duration exceeds,01/04/2017 18:19:21,0,1,1,0,,21/04/2017 11:33:44,Earlyout grace duration exceeds
+578,EOgraceexceed,Earlyout grace duration exceeds,03/04/2017 08:30:20,0,1,1,0,,21/04/2017 11:35:02,Earlyout grace duration exceeds
+579,EOgraceexceed,Earlyout grace duration exceeds,03/04/2017 18:15:20,0,1,1,0,,21/04/2017 11:35:11,Earlyout grace duration exceeds
+580,Firsthalfleave,User with first half leave,01/04/2017 14:00:25,0,1,1,0,,21/04/2017 11:42:54,User with first half leave
+581,Firsthalfleave,User with first half leave,01/04/2017 18:30:21,0,1,1,0,,21/04/2017 11:43:04,User with first half leave
+582,Firsthalfleave,User with first half leave,03/04/2017 14:00:21,0,1,1,0,,21/04/2017 11:43:22,User with first half leave
+583,Firsthalfleave,User with first half leave,03/04/2017 18:30:21,0,1,1,0,,21/04/2017 11:43:31,User with first half leave
+584,Secondhalfleave,user with second half leave,01/04/2017 09:00:48,0,1,1,0,,24/04/2017 02:15:13,user with second half leave
+585,Secondhalfleave,user with second half leave,01/04/2017 14:00:47,0,1,1,0,,24/04/2017 02:15:28,user with second half leave
+586,Secondhalfleave,user with second half leave,03/04/2017 09:00:46,0,1,1,0,,24/04/2017 02:15:41,user with second half leave
+587,Secondhalfleave,user with second half leave,03/04/2017 14:00:47,0,1,1,0,,24/04/2017 02:15:51,user with second half leave
+588,Fulldayleave,User with full day leave,03/04/2017 14:08:44,0,1,1,0,,24/04/2017 02:23:49,User with full day leave
+589,2punchshortleav,Shortleave in for 2 punch,01/04/2017 10:30:38,0,1,1,0,,24/04/2017 03:23:49,Shortleave in for 2 punch
+590,2punchshortleav,Shortleave in for 2 punch,01/04/2017 18:30:39,0,1,1,0,,24/04/2017 03:23:58,Shortleave in for 2 punch
+591,2punchshortleav,Shortleave in for 2 punch,03/04/2017 10:10:38,0,1,1,0,,24/04/2017 03:25:52,Shortleave in for 2 punch
+592,2punchshortleav,Shortleave in for 2 punch,03/04/2017 18:30:38,0,1,1,0,,24/04/2017 03:25:59,Shortleave in for 2 punch
+593,2pshortleaveout,2 Punch user for shortleave out,01/04/2017 09:00:38,0,1,1,0,,24/04/2017 03:29:17,2 Punch user for shortleave out
+594,2pshortleaveout,2 Punch user for shortleave out,01/04/2017 17:00:38,0,1,1,0,,24/04/2017 03:29:27,2 Punch user for shortleave out
+595,2pshortleaveout,2 Punch user for shortleave out,03/04/2017 09:00:38,0,1,1,0,,24/04/2017 03:29:43,2 Punch user for shortleave out
+596,2pshortleaveout,2 Punch user for shortleave out,03/04/2017 17:30:40,0,1,1,0,,24/04/2017 03:29:54,2 Punch user for shortleave out
+597,npshortleavein,n punch user for shortleave in,01/04/2017 09:00:38,0,1,1,0,,24/04/2017 03:39:43,n punch user for shortleave in
+598,npshortleavein,n punch user for shortleave in,01/04/2017 11:00:39,0,1,1,0,,24/04/2017 03:39:52,n punch user for shortleave in
+599,npshortleavein,n punch user for shortleave in,01/04/2017 12:30:39,0,1,1,0,,24/04/2017 03:40:09,n punch user for shortleave in
+600,npshortleavein,n punch user for shortleave in,01/04/2017 18:30:38,0,1,1,0,,24/04/2017 03:40:22,n punch user for shortleave in
+601,npshortleavein,n punch user for shortleave in,03/04/2017 10:30:44,0,1,1,3,,24/04/2017 03:42:19,n punch user for shortleave in
+602,npshortleavein,n punch user for shortleave in,03/04/2017 12:00:39,0,1,1,0,,24/04/2017 03:42:30,n punch user for shortleave in
+603,npshortleavein,n punch user for shortleave in,03/04/2017 12:10:38,0,1,1,0,,24/04/2017 03:42:37,n punch user for shortleave in
+604,npshortleavein,n punch user for shortleave in,03/04/2017 18:30:38,0,1,1,0,,24/04/2017 03:42:45,n punch user for shortleave in
+605,2pshortleaveout,2 Punch user for shortleave out,01/04/2017 17:00:51,1,1,1,4,,24/04/2017 03:46:54,2 Punch user for shortleave out
+606,2pshortleaveout,2 Punch user for shortleave out,03/04/2017 17:30:45,1,1,1,4,,24/04/2017 03:47:17,2 Punch user for shortleave out
+607,2punchshortleav,Shortleave in for 2 punch,01/04/2017 10:30:44,0,1,1,3,,24/04/2017 03:48:04,Shortleave in for 2 punch
+608,2punchshortleav,Shortleave in for 2 punch,03/04/2017 10:10:41,0,1,1,3,,24/04/2017 03:48:24,Shortleave in for 2 punch
+609,npshortleaveout,n punch user with short leave out,01/04/2017 09:00:39,0,1,1,0,,24/04/2017 03:51:58,n punch user with short leave out
+610,npshortleaveout,n punch user with short leave out,01/04/2017 10:30:42,1,1,1,4,,24/04/2017 03:52:15,n punch user with short leave out
+611,npshortleaveout,n punch user with short leave out,01/04/2017 12:00:40,0,1,1,0,,24/04/2017 03:52:38,n punch user with short leave out
+612,npshortleaveout,n punch user with short leave out,01/04/2017 18:30:39,0,1,1,0,,24/04/2017 03:52:50,n punch user with short leave out
+613,npshortleaveout,n punch user with short leave out,03/04/2017 09:00:38,0,1,1,0,,24/04/2017 03:54:07,n punch user with short leave out
+614,npshortleaveout,n punch user with short leave out,03/04/2017 10:00:39,0,1,1,0,,24/04/2017 03:54:19,n punch user with short leave out
+615,npshortleaveout,n punch user with short leave out,03/04/2017 11:30:38,0,1,1,0,,24/04/2017 03:54:33,n punch user with short leave out
+616,npshortleaveout,n punch user with short leave out,03/04/2017 18:30:38,0,1,1,0,,24/04/2017 03:54:41,n punch user with short leave out
+617,npshortleaveout,n punch user with short leave out,03/04/2017 11:30:42,1,1,1,4,,24/04/2017 03:55:07,n punch user with short leave out
+618,2pofficialin,2punch user with official in,01/04/2017 10:45:47,0,1,1,1,,24/04/2017 04:14:12,2punch user with official in
+619,2pofficialin,2punch user with official in,01/04/2017 18:30:41,0,1,1,0,,24/04/2017 04:14:27,2punch user with official in
+620,2pofficialin,2punch user with official in,03/04/2017 10:10:42,0,1,1,1,,24/04/2017 04:15:22,2punch user with official in
+621,2pofficialin,2punch user with official in,03/04/2017 18:30:39,0,1,1,0,,24/04/2017 04:15:31,2punch user with official in
+622,2pOfficialout,2 punch user with official out,01/04/2017 09:00:38,0,1,1,0,,24/04/2017 04:16:47,2 punch user with official out
+623,2pOfficialout,2 punch user with official out,01/04/2017 16:30:41,1,1,1,2,,24/04/2017 04:17:03,2 punch user with official out
+624,2pOfficialout,2 punch user with official out,03/04/2017 09:00:38,0,1,1,0,,24/04/2017 04:17:14,2 punch user with official out
+625,2pOfficialout,2 punch user with official out,03/04/2017 16:00:44,1,1,1,2,,24/04/2017 04:17:28,2 punch user with official out
+626,NpofficialIn,N punch user for official In,01/04/2017 11:00:43,0,1,1,1,,24/04/2017 04:20:15,N punch user for official In
+627,NpofficialIn,N punch user for official In,01/04/2017 13:00:41,0,1,1,0,,24/04/2017 04:24:25,N punch user for official In
+628,NpofficialIn,N punch user for official In,01/04/2017 14:00:39,0,1,1,0,,24/04/2017 04:24:34,N punch user for official In
+629,NpofficialIn,N punch user for official In,01/04/2017 18:30:40,0,1,1,0,,24/04/2017 04:24:45,N punch user for official In
+630,NpofficialIn,N punch user for official In,01/04/2017 18:34:39,0,1,1,0,,24/04/2017 04:25:21,N punch user for official In
+631,NpofficialIn,N punch user for official In,01/04/2017 18:40:40,0,1,1,0,,24/04/2017 04:28:48,N punch user for official In
+632,NpofficialIn,N punch user for official In,03/04/2017 10:00:43,0,1,1,1,,24/04/2017 04:30:40,N punch user for official In
+633,NpofficialIn,N punch user for official In,03/04/2017 13:00:38,0,1,1,0,,24/04/2017 04:30:49,N punch user for official In
+634,NpofficialIn,N punch user for official In,03/04/2017 13:10:39,0,1,1,0,,24/04/2017 04:30:56,N punch user for official In
+635,NpofficialIn,N punch user for official In,03/04/2017 18:30:38,0,1,1,0,,24/04/2017 04:31:03,N punch user for official In
+636,NpofficialIn,N punch user for official In,04/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:31:29,N punch user for official In
+637,NpofficialIn,N punch user for official In,04/04/2017 13:00:40,0,1,1,0,,24/04/2017 04:31:39,N punch user for official In
+638,NpofficialIn,N punch user for official In,04/04/2017 14:50:41,0,1,1,1,,24/04/2017 04:32:09,N punch user for official In
+639,NpofficialIn,N punch user for official In,04/04/2017 19:50:39,0,1,1,0,,24/04/2017 04:32:17,N punch user for official In
+640,Npucnofficialou,N punch user with official out,01/04/2017 09:00:40,0,1,1,0,,24/04/2017 04:33:50,N punch user with official out
+641,Npucnofficialou,N punch user with official out,01/04/2017 14:00:43,1,1,1,2,,24/04/2017 04:34:08,N punch user with official out
+642,Npucnofficialou,N punch user with official out,01/04/2017 16:00:39,0,1,1,0,,24/04/2017 04:34:22,N punch user with official out
+643,Npucnofficialou,N punch user with official out,01/04/2017 19:00:45,0,1,1,0,,24/04/2017 04:34:37,N punch user with official out
+644,Npucnofficialou,N punch user with official out,03/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:35:12,N punch user with official out
+645,Npucnofficialou,N punch user with official out,03/04/2017 13:00:38,0,1,1,0,,24/04/2017 04:35:18,N punch user with official out
+646,Npucnofficialou,N punch user with official out,03/04/2017 13:30:47,0,1,1,0,,24/04/2017 04:35:36,N punch user with official out
+647,Npucnofficialou,N punch user with official out,03/04/2017 17:30:43,1,1,1,2,,24/04/2017 04:35:59,N punch user with official out
+648,Autoshift,Auto shift user with shift schedule not proce,01/04/2017 20:00:39,0,1,1,0,,24/04/2017 04:40:17,Auto shift user with shift schedule not proce
+649,Autoshift,Auto shift user with shift schedule not proce,02/04/2017 06:00:39,0,1,1,0,,24/04/2017 04:40:28,Auto shift user with shift schedule not proce
+650,Autoshift,Auto shift user with shift schedule not proce,03/04/2017 21:00:38,0,1,1,0,,24/04/2017 04:41:46,Auto shift user with shift schedule not proce
+651,Autoshift,Auto shift user with shift schedule not proce,04/04/2017 05:00:39,0,1,1,0,,24/04/2017 04:41:55,Auto shift user with shift schedule not proce
+652,Autoshift,Auto shift user with shift schedule not proce,04/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:44:22,Auto shift user with shift schedule not proce
+653,Autoshift,Auto shift user with shift schedule not proce,04/04/2017 18:30:39,0,1,1,0,,24/04/2017 04:44:33,Auto shift user with shift schedule not proce
+654,Autoshift,Auto shift user with shift schedule not proce,04/04/2017 20:00:38,0,1,1,0,,24/04/2017 04:45:36,Auto shift user with shift schedule not proce
+655,Autoshift,Auto shift user with shift schedule not proce,05/04/2017 06:00:38,0,1,1,0,,24/04/2017 04:45:45,Auto shift user with shift schedule not proce
+656,Autoshift,Auto shift user with shift schedule not proce,04/04/2017 22:00:39,0,1,1,0,,24/04/2017 04:46:36,Auto shift user with shift schedule not proce
+657,Autoshiftproces,Auto shift user whose shift has been processe,01/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:52:38,Auto shift user whose shift has been processe
+658,Autoshiftproces,Auto shift user whose shift has been processe,01/04/2017 18:30:39,0,1,1,0,,24/04/2017 04:52:47,Auto shift user whose shift has been processe
+659,Autoshiftproces,Auto shift user whose shift has been processe,03/04/2017 20:00:39,0,1,1,0,,24/04/2017 04:53:03,Auto shift user whose shift has been processe
+660,Autoshiftproces,Auto shift user whose shift has been processe,04/04/2017 06:00:38,0,1,1,0,,24/04/2017 04:53:14,Auto shift user whose shift has been processe
+661,Autoshiftproces,Auto shift user whose shift has been processe,04/04/2017 21:00:38,0,1,1,0,,24/04/2017 04:55:08,Auto shift user whose shift has been processe
+662,Autoshiftproces,Auto shift user whose shift has been processe,05/04/2017 05:00:38,0,1,1,0,,24/04/2017 04:55:18,Auto shift user whose shift has been processe
+663,Autoshiftproces,Auto shift user whose shift has been processe,05/04/2017 21:00:38,0,1,1,0,,24/04/2017 04:55:40,Auto shift user whose shift has been processe
+664,Autoshiftproces,Auto shift user whose shift has been processe,06/04/2017 05:00:39,0,1,1,0,,24/04/2017 04:55:50,Auto shift user whose shift has been processe
+665,Autoshiftproces,Auto shift user whose shift has been processe,06/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:55:57,Auto shift user whose shift has been processe
+666,Autoshiftproces,Auto shift user whose shift has been processe,06/04/2017 18:30:38,0,1,1,0,,24/04/2017 04:56:07,Auto shift user whose shift has been processe
+667,Npunchbeyond,Npunch user with deduction type as beyond,01/04/2017 09:00:39,0,1,1,0,,24/04/2017 04:59:59,Npunch user with deduction type as beyond
+668,Npunchbeyond,Npunch user with deduction type as beyond,01/04/2017 11:00:38,0,1,1,0,,24/04/2017 05:00:06,Npunch user with deduction type as beyond
+669,Npunchbeyond,Npunch user with deduction type as beyond,01/04/2017 11:20:39,0,1,1,0,,24/04/2017 05:00:18,Npunch user with deduction type as beyond
+670,Npunchbeyond,Npunch user with deduction type as beyond,01/04/2017 18:50:38,0,1,1,0,,24/04/2017 05:00:29,Npunch user with deduction type as beyond
+671,Npunchbeyond,Npunch user with deduction type as beyond,03/04/2017 09:00:39,0,1,1,0,,24/04/2017 05:00:56,Npunch user with deduction type as beyond
+672,Npunchbeyond,Npunch user with deduction type as beyond,03/04/2017 12:00:39,0,1,1,0,,24/04/2017 05:01:03,Npunch user with deduction type as beyond
+673,Npunchbeyond,Npunch user with deduction type as beyond,03/04/2017 12:25:39,0,1,1,0,,24/04/2017 05:01:15,Npunch user with deduction type as beyond
+674,Npunchbeyond,Npunch user with deduction type as beyond,03/04/2017 19:00:38,0,1,1,0,,24/04/2017 05:01:24,Npunch user with deduction type as beyond
+675,Npunchbeyond,Npunch user with deduction type as beyond,04/04/2017 09:00:38,0,1,1,0,,24/04/2017 05:01:41,Npunch user with deduction type as beyond
+676,Npunchbeyond,Npunch user with deduction type as beyond,04/04/2017 11:00:38,0,1,1,0,,24/04/2017 05:01:50,Npunch user with deduction type as beyond
+677,Npunchbeyond,Npunch user with deduction type as beyond,04/04/2017 11:15:38,0,1,1,0,,24/04/2017 05:01:57,Npunch user with deduction type as beyond
+678,Npunchbeyond,Npunch user with deduction type as beyond,04/04/2017 18:45:38,0,1,1,0,,24/04/2017 05:02:06,Npunch user with deduction type as beyond
+679,Npunchgreater,N punch user with greater than deduction typr,01/04/2017 09:00:40,0,1,1,0,,24/04/2017 05:04:32,N punch user with greater than deduction typr
+680,Npunchgreater,N punch user with greater than deduction typr,01/04/2017 12:00:38,0,1,1,0,,24/04/2017 05:04:39,N punch user with greater than deduction typr
+681,Npunchgreater,N punch user with greater than deduction typr,01/04/2017 12:20:38,0,1,1,0,,24/04/2017 05:04:45,N punch user with greater than deduction typr
+682,Npunchgreater,N punch user with greater than deduction typr,01/04/2017 18:30:38,0,1,1,0,,24/04/2017 05:04:53,N punch user with greater than deduction typr
+683,Npunchgreater,N punch user with greater than deduction typr,03/04/2017 09:00:43,0,1,1,0,,24/04/2017 05:05:24,N punch user with greater than deduction typr
+684,Npunchgreater,N punch user with greater than deduction typr,03/04/2017 12:00:39,0,1,1,0,,24/04/2017 05:05:36,N punch user with greater than deduction typr
+685,Npunchgreater,N punch user with greater than deduction typr,03/04/2017 12:30:40,0,1,1,0,,24/04/2017 05:05:47,N punch user with greater than deduction typr
+686,Npunchgreater,N punch user with greater than deduction typr,03/04/2017 18:30:38,0,1,1,0,,24/04/2017 05:05:55,N punch user with greater than deduction typr
+687,Npunchgreater,N punch user with greater than deduction typr,04/04/2017 09:00:38,0,1,1,0,,24/04/2017 05:06:28,N punch user with greater than deduction typr
+688,Npunchgreater,N punch user with greater than deduction typr,04/04/2017 13:00:38,0,1,1,0,,24/04/2017 05:06:36,N punch user with greater than deduction typr
+689,Npunchgreater,N punch user with greater than deduction typr,04/04/2017 14:00:38,0,1,1,0,,24/04/2017 05:06:47,N punch user with greater than deduction typr
+690,Npunchgreater,N punch user with greater than deduction typr,04/04/2017 19:00:38,0,1,1,0,,24/04/2017 05:06:55,N punch user with greater than deduction typr
+691,2poutfromexit,2Punch user with out punch from exit reader o,01/04/2017 09:00:37,0,1,1,0,,24/04/2017 05:23:52,2Punch user with out punch from exit reader o
+692,2poutfromexit,2Punch user with out punch from exit reader o,01/04/2017 18:30:37,1,1,1,0,,24/04/2017 05:24:04,2Punch user with out punch from exit reader o
+693,2poutfromexit,2Punch user with out punch from exit reader o,03/04/2017 09:10:37,0,1,1,0,,24/04/2017 05:24:48,2Punch user with out punch from exit reader o
+694,2poutfromexit,2Punch user with out punch from exit reader o,03/04/2017 18:40:37,1,1,1,0,,24/04/2017 05:24:56,2Punch user with out punch from exit reader o
+695,2poutfromexit,2Punch user with out punch from exit reader o,04/04/2017 09:30:37,0,1,1,0,,24/04/2017 05:25:40,2Punch user with out punch from exit reader o
+696,2poutfromexit,2Punch user with out punch from exit reader o,04/04/2017 19:00:37,1,1,1,0,,24/04/2017 05:25:48,2Punch user with out punch from exit reader o
+697,Npoutfromexit,Npunch user with out punch from exit reader,01/04/2017 09:00:37,0,1,1,0,,24/04/2017 05:28:10,Npunch user with out punch from exit reader
+698,Npoutfromexit,Npunch user with out punch from exit reader,01/04/2017 13:00:37,1,1,1,0,,24/04/2017 05:28:16,Npunch user with out punch from exit reader
+699,Npoutfromexit,Npunch user with out punch from exit reader,01/04/2017 14:00:36,0,1,1,0,,24/04/2017 05:28:26,Npunch user with out punch from exit reader
+700,Npoutfromexit,Npunch user with out punch from exit reader,01/04/2017 19:00:39,1,1,1,0,,24/04/2017 05:28:33,Npunch user with out punch from exit reader
+701,Npoutfromexit,Npunch user with out punch from exit reader,03/04/2017 09:30:37,0,1,1,0,,24/04/2017 05:30:05,Npunch user with out punch from exit reader
+702,Npoutfromexit,Npunch user with out punch from exit reader,03/04/2017 13:30:37,1,1,1,0,,24/04/2017 05:30:14,Npunch user with out punch from exit reader
+703,Npoutfromexit,Npunch user with out punch from exit reader,03/04/2017 13:40:38,0,1,1,0,,24/04/2017 05:30:38,Npunch user with out punch from exit reader
+704,Npoutfromexit,Npunch user with out punch from exit reader,03/04/2017 18:40:36,1,1,1,0,,24/04/2017 05:30:46,Npunch user with out punch from exit reader
+705,2pwithexitreade,Exit reader enabled but punches from entry,01/04/2017 09:00:02,0,1,1,0,,24/04/2017 07:28:11,Exit reader enabled but punches from entry
+706,2pwithexitreade,Exit reader enabled but punches from entry,01/04/2017 18:30:02,1,1,1,0,,24/04/2017 07:32:19,Exit reader enabled but punches from entry
+707,2pwithexitreade,Exit reader enabled but punches from entry,03/04/2017 09:00:01,0,1,1,0,,24/04/2017 07:32:45,Exit reader enabled but punches from entry
+708,2pwithexitreade,Exit reader enabled but punches from entry,03/04/2017 18:30:02,0,1,1,0,,24/04/2017 07:32:53,Exit reader enabled but punches from entry
+709,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,01/04/2017 09:00:02,0,1,1,0,,24/04/2017 07:52:20,Npunchuser exit enabled bt punches frm entry
+710,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,01/04/2017 15:00:02,0,1,1,0,,24/04/2017 07:52:27,Npunchuser exit enabled bt punches frm entry
+711,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,01/04/2017 16:00:02,0,1,1,0,,24/04/2017 07:52:37,Npunchuser exit enabled bt punches frm entry
+712,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,01/04/2017 19:00:02,0,1,1,0,,24/04/2017 07:52:45,Npunchuser exit enabled bt punches frm entry
+713,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,03/04/2017 09:00:02,0,1,1,0,,24/04/2017 07:55:41,Npunchuser exit enabled bt punches frm entry
+714,NpWithexitenabl,Npunchuser exit enabled bt punches frm entry,03/04/2017 19:00:01,0,1,1,0,,24/04/2017 07:55:59,Npunchuser exit enabled bt punches frm entry
+715,Flexible,flexibleuser,01/04/2017 09:00:05,0,1,1,0,,24/04/2017 08:04:11,flexibleuser
+716,Flexible,flexibleuser,01/04/2017 13:00:04,0,1,1,0,,24/04/2017 08:04:21,flexibleuser
+717,Flexible,flexibleuser,03/04/2017 09:00:04,0,1,1,0,,24/04/2017 08:04:33,flexibleuser
+718,Flexible,flexibleuser,03/04/2017 15:00:04,0,1,1,0,,24/04/2017 08:04:42,flexibleuser
+719,Flexible,flexibleuser,04/04/2017 08:00:04,0,1,1,0,,24/04/2017 08:04:51,flexibleuser
+720,Flexible,flexibleuser,04/04/2017 12:00:04,0,1,1,0,,24/04/2017 08:05:01,flexibleuser
+721,JPC,JPC user,24/04/2017 09:00:05,0,1,1,0,,24/04/2017 08:17:55,JPC user
+722,JPC,JPC user,24/04/2017 18:30:04,0,1,1,0,,24/04/2017 08:18:06,JPC user
+723,Jpcdevicebased,JPC user with device based,24/04/2017 09:00:10,0,1,1,0,,24/04/2017 08:20:50,JPC user with device based
+724,Jpcdevicebased,JPC user with device based,24/04/2017 09:00:08,0,1,1,0,,24/04/2017 08:22:08,JPC user with device based
+725,Jpcdevicebased,JPC user with device based,24/04/2017 11:00:08,0,1,1,0,,24/04/2017 08:22:21,JPC user with device based
+726,Jpcdevicebased,JPC user with device based,24/04/2017 15:00:10,0,1,1,0,,24/04/2017 08:22:37,JPC user with device based
+727,Jpcdevicebased,JPC user with device based,24/04/2017 16:00:06,0,1,1,0,,24/04/2017 08:23:15,JPC user with device based
+728,Jpcdevicebased,JPC user with device based,24/04/2017 18:00:07,0,1,1,0,,24/04/2017 08:23:33,JPC user with device based
+729,Jpcdevicebased,JPC user with device based,24/04/2017 19:00:09,0,1,1,0,,24/04/2017 08:23:54,JPC user with device based
+730,JPCdefaultjob,JPC default job,24/04/2017 09:00:04,0,1,1,0,,24/04/2017 08:28:06,JPC default job
+731,JPCdefaultjob,JPC default job,24/04/2017 15:00:03,0,1,1,0,,24/04/2017 08:28:14,JPC default job
+732,JPCdefaultjob,JPC default job,24/04/2017 16:00:03,0,1,1,0,,24/04/2017 08:28:22,JPC default job
+733,JPCdefaultjob,JPC default job,24/04/2017 18:00:03,0,1,1,0,,24/04/2017 08:28:30,JPC default job
+734,JPCdefaultjob,JPC default job,24/04/2017 19:00:03,0,1,1,0,,24/04/2017 08:28:56,JPC default job
+755,4Pbreaklatein,4p user with break latein,01/04/2017 09:00:16,0,1,1,0,,24/04/2017 10:00:49,4p user with break latein
+756,4Pbreaklatein,4p user with break latein,01/04/2017 13:00:17,0,1,1,0,,24/04/2017 10:00:56,4p user with break latein
+757,4Pbreaklatein,4p user with break latein,01/04/2017 13:50:17,0,1,1,0,,24/04/2017 10:01:05,4p user with break latein
+758,4Pbreaklatein,4p user with break latein,01/04/2017 18:50:17,0,1,1,0,,24/04/2017 10:01:13,4p user with break latein
+759,4Pbreaklatein,4p user with break latein,03/04/2017 09:00:16,0,1,1,0,,24/04/2017 10:01:23,4p user with break latein
+760,4Pbreaklatein,4p user with break latein,03/04/2017 13:00:16,0,1,1,0,,24/04/2017 10:01:30,4p user with break latein
+761,4Pbreaklatein,4p user with break latein,03/04/2017 14:10:17,0,1,1,0,,24/04/2017 10:01:40,4p user with break latein
+762,4Pbreaklatein,4p user with break latein,03/04/2017 19:10:17,0,1,1,0,,24/04/2017 10:01:54,4p user with break latein
+763,4Pbreakingrace,4 punch user with break hours within grace,01/04/2017 09:00:17,0,1,1,0,,24/04/2017 10:04:52,4 punch user with break hours within grace
+764,4Pbreakingrace,4 punch user with break hours within grace,01/04/2017 13:00:16,0,1,1,0,,24/04/2017 10:04:59,4 punch user with break hours within grace
+765,4Pbreakingrace,4 punch user with break hours within grace,01/04/2017 13:40:16,0,1,1,0,,24/04/2017 10:05:07,4 punch user with break hours within grace
+766,4Pbreakingrace,4 punch user with break hours within grace,01/04/2017 18:40:16,0,1,1,0,,24/04/2017 10:05:15,4 punch user with break hours within grace
+767,4Pbreakingrace,4 punch user with break hours within grace,03/04/2017 09:00:18,0,1,1,0,,24/04/2017 10:05:26,4 punch user with break hours within grace
+768,4Pbreakingrace,4 punch user with break hours within grace,03/04/2017 13:00:17,0,1,1,0,,24/04/2017 10:05:34,4 punch user with break hours within grace
+769,4Pbreakingrace,4 punch user with break hours within grace,03/04/2017 13:35:16,0,1,1,0,,24/04/2017 10:05:41,4 punch user with break hours within grace
+770,4Pbreakingrace,4 punch user with break hours within grace,03/04/2017 18:35:17,0,1,1,0,,24/04/2017 10:05:49,4 punch user with break hours within grace
+771,4PBreakLIex,4P user exceeds break latein,01/04/2017 09:00:41,0,1,1,0,,24/04/2017 10:52:20,4P user exceeds break latein
+772,4PBreakLIex,4P user exceeds break latein,01/04/2017 13:00:40,0,1,1,0,,24/04/2017 10:52:27,4P user exceeds break latein
+773,4PBreakLIex,4P user exceeds break latein,01/04/2017 14:15:41,0,1,1,0,,24/04/2017 10:52:37,4P user exceeds break latein
+774,4PBreakLIex,4P user exceeds break latein,01/04/2017 19:10:41,0,1,1,0,,24/04/2017 10:52:51,4P user exceeds break latein
+775,4PBreakLIex,4P user exceeds break latein,03/04/2017 09:00:41,0,1,1,0,,24/04/2017 10:53:11,4P user exceeds break latein
+776,4PBreakLIex,4P user exceeds break latein,03/04/2017 13:00:45,0,1,1,0,,24/04/2017 10:54:49,4P user exceeds break latein
+777,4PBreakLIex,4P user exceeds break latein,03/04/2017 14:20:41,0,1,1,0,,24/04/2017 10:55:00,4P user exceeds break latein
+778,4PBreakLIex,4P user exceeds break latein,03/04/2017 19:20:41,0,1,1,0,,24/04/2017 10:55:08,4P user exceeds break latein
+779,4PbreakEO,4 Punch user with break earlyout,01/04/2017 09:00:34,0,1,1,0,,24/04/2017 11:29:44,4 Punch user with break earlyout
+780,4PbreakEO,4 Punch user with break earlyout,01/04/2017 12:30:34,0,1,1,0,,24/04/2017 11:30:01,4 Punch user with break earlyout
+781,4PbreakEO,4 Punch user with break earlyout,01/04/2017 13:30:34,0,1,1,0,,24/04/2017 11:30:11,4 Punch user with break earlyout
+782,4PbreakEO,4 Punch user with break earlyout,01/04/2017 19:00:35,0,1,1,0,,24/04/2017 11:30:22,4 Punch user with break earlyout
+783,4PbreakEO,4 Punch user with break earlyout,03/04/2017 09:00:35,0,1,1,0,,24/04/2017 11:30:59,4 Punch user with break earlyout
+784,4PbreakEO,4 Punch user with break earlyout,03/04/2017 09:00:34,0,1,1,0,,24/04/2017 11:32:39,4 Punch user with break earlyout
+785,4PbreakEO,4 Punch user with break earlyout,03/04/2017 12:40:33,0,1,1,0,,24/04/2017 11:32:55,4 Punch user with break earlyout
+786,4PbreakEO,4 Punch user with break earlyout,03/04/2017 13:30:34,0,1,1,0,,24/04/2017 11:33:06,4 Punch user with break earlyout
+787,4PbreakEO,4 Punch user with break earlyout,03/04/2017 19:00:33,0,1,1,0,,24/04/2017 11:33:44,4 Punch user with break earlyout
+788,4PbreakEOgrace,4P user with break earlyout grace,01/04/2017 09:00:34,0,1,1,0,,24/04/2017 11:50:56,4P user with break earlyout grace
+789,4PbreakEOgrace,4P user with break earlyout grace,01/04/2017 12:50:33,0,1,1,0,,24/04/2017 11:51:08,4P user with break earlyout grace
+790,4PbreakEOgrace,4P user with break earlyout grace,01/04/2017 13:30:34,0,1,1,0,,24/04/2017 11:51:18,4P user with break earlyout grace
+791,4PbreakEOgrace,4P user with break earlyout grace,01/04/2017 19:00:36,0,1,1,0,,24/04/2017 11:51:30,4P user with break earlyout grace
+792,4PbreakEOgrace,4P user with break earlyout grace,03/04/2017 09:00:35,0,1,1,0,,24/04/2017 11:51:47,4P user with break earlyout grace
+793,4PbreakEOgrace,4P user with break earlyout grace,03/04/2017 12:55:33,0,1,1,0,,24/04/2017 11:51:57,4P user with break earlyout grace
+794,4PbreakEOgrace,4P user with break earlyout grace,03/04/2017 13:30:33,0,1,1,0,,24/04/2017 11:52:06,4P user with break earlyout grace
+795,4PbreakEOgrace,4P user with break earlyout grace,03/04/2017 19:00:35,0,1,1,0,,24/04/2017 11:52:20,4P user with break earlyout grace
+796,4PBreakEOex,4P Break for earlyout exceeds,01/04/2017 09:00:52,0,1,1,0,,25/04/2017 04:11:30,4P Break for earlyout exceeds
+797,4PBreakEOex,4P Break for earlyout exceeds,01/04/2017 11:15:50,0,1,1,0,,25/04/2017 04:11:59,4P Break for earlyout exceeds
+798,4PBreakEOex,4P Break for earlyout exceeds,01/04/2017 13:15:49,0,1,1,0,,25/04/2017 04:12:07,4P Break for earlyout exceeds
+799,4PBreakEOex,4P Break for earlyout exceeds,01/04/2017 18:30:49,0,1,1,0,,25/04/2017 04:12:16,4P Break for earlyout exceeds
+800,4PBreakEOex,4P Break for earlyout exceeds,03/04/2017 09:00:49,0,1,1,0,,25/04/2017 04:12:55,4P Break for earlyout exceeds
+801,4PBreakEOex,4P Break for earlyout exceeds,03/04/2017 11:10:52,0,1,1,0,,25/04/2017 04:12:55,4P Break for earlyout exceeds
+802,4PBreakEOex,4P Break for earlyout exceeds,25/04/2017 04:12:52,0,1,1,0,,25/04/2017 04:12:56,4P Break for earlyout exceeds
+803,4PBreakEOex,4P Break for earlyout exceeds,03/04/2017 18:30:48,0,1,1,0,,25/04/2017 04:13:03,4P Break for earlyout exceeds
+804,4PBreakEOex,4P Break for earlyout exceeds,03/04/2017 13:10:49,0,1,1,0,,25/04/2017 04:13:50,4P Break for earlyout exceeds
+805,BreakLIinTotal,Break latein in total latein,01/04/2017 09:10:50,0,1,1,0,,25/04/2017 04:26:03,Break latein in total latein
+806,BreakLIinTotal,Break latein in total latein,01/04/2017 13:00:50,0,1,1,0,,25/04/2017 04:26:13,Break latein in total latein
+807,BreakLIinTotal,Break latein in total latein,01/04/2017 13:50:50,0,1,1,0,,25/04/2017 04:26:28,Break latein in total latein
+808,BreakLIinTotal,Break latein in total latein,01/04/2017 19:20:49,0,1,1,0,,25/04/2017 04:26:40,Break latein in total latein
+809,BreakLIinTotal,Break latein in total latein,03/04/2017 09:20:49,0,1,1,0,,25/04/2017 04:27:10,Break latein in total latein
+810,BreakLIinTotal,Break latein in total latein,03/04/2017 13:00:48,0,1,1,0,,25/04/2017 04:27:19,Break latein in total latein
+811,BreakLIinTotal,Break latein in total latein,03/04/2017 13:40:49,0,1,1,0,,25/04/2017 04:27:30,Break latein in total latein
+812,BreakLIinTotal,Break latein in total latein,03/04/2017 19:20:50,0,1,1,0,,25/04/2017 04:27:49,Break latein in total latein
+813,BreakLIexceeds,Exceeds break and total latein,01/04/2017 09:32:49,0,1,1,0,,25/04/2017 04:29:45,Exceeds break and total latein
+814,BreakLIexceeds,Exceeds break and total latein,01/04/2017 13:00:49,0,1,1,0,,25/04/2017 04:30:05,Exceeds break and total latein
+815,BreakLIexceeds,Exceeds break and total latein,01/04/2017 13:32:48,0,1,1,0,,25/04/2017 04:30:12,Exceeds break and total latein
+816,BreakLIexceeds,Exceeds break and total latein,01/04/2017 19:20:49,0,1,1,0,,25/04/2017 04:30:23,Exceeds break and total latein
+817,BreakLIexceeds,Exceeds break and total latein,03/04/2017 09:20:49,0,1,1,0,,25/04/2017 04:31:31,Exceeds break and total latein
+818,BreakLIexceeds,Exceeds break and total latein,03/04/2017 13:00:49,0,1,1,0,,25/04/2017 04:31:40,Exceeds break and total latein
+819,BreakLIexceeds,Exceeds break and total latein,03/04/2017 13:50:49,0,1,1,0,,25/04/2017 04:31:52,Exceeds break and total latein
+820,BreakLIexceeds,Exceeds break and total latein,03/04/2017 19:30:48,0,1,1,0,,25/04/2017 04:32:03,Exceeds break and total latein
+821,BreakEOInTotal,Break earlyout in total early out,01/04/2017 08:50:50,0,1,1,0,,25/04/2017 04:42:42,Break earlyout in total early out
+822,BreakEOInTotal,Break earlyout in total early out,01/04/2017 12:40:49,0,1,1,0,,25/04/2017 04:43:02,Break earlyout in total early out
+823,BreakEOInTotal,Break earlyout in total early out,01/04/2017 13:10:48,0,1,1,0,,25/04/2017 04:43:10,Break earlyout in total early out
+824,BreakEOInTotal,Break earlyout in total early out,01/04/2017 18:20:49,0,1,1,0,,25/04/2017 04:43:34,Break earlyout in total early out
+825,BreakEOInTotal,Break earlyout in total early out,03/04/2017 08:35:49,0,1,1,0,,25/04/2017 04:44:28,Break earlyout in total early out
+826,BreakEOInTotal,Break earlyout in total early out,03/04/2017 12:55:49,0,1,1,0,,25/04/2017 04:44:37,Break earlyout in total early out
+827,BreakEOInTotal,Break earlyout in total early out,03/04/2017 13:15:48,0,1,1,0,,25/04/2017 04:44:48,Break earlyout in total early out
+828,BreakEOInTotal,Break earlyout in total early out,03/04/2017 18:25:49,0,1,1,0,,25/04/2017 04:44:57,Break earlyout in total early out
+829,BreakEOInTotal,Break earlyout in total early out,04/04/2017 08:35:54,0,1,1,0,,25/04/2017 04:45:39,Break earlyout in total early out
+830,BreakEOInTotal,Break earlyout in total early out,04/04/2017 12:55:48,0,1,1,0,,25/04/2017 04:45:47,Break earlyout in total early out
+831,BreakEOInTotal,Break earlyout in total early out,04/04/2017 13:30:49,0,1,1,0,,25/04/2017 04:45:58,Break earlyout in total early out
+832,BreakEOInTotal,Break earlyout in total early out,04/04/2017 18:05:49,0,1,1,0,,25/04/2017 04:46:09,Break earlyout in total early out
+833,BreakEOInTotal,Break earlyout in total early out,04/04/2017 18:10:21,0,1,1,0,,25/04/2017 04:47:47,Break earlyout in total early out
+834,BreakEOexceeds,Include Break early out in shift exceeds TD,01/04/2017 08:35:21,0,1,1,0,,25/04/2017 04:53:50,Include Break early out in shift exceeds TD
+835,BreakEOexceeds,Include Break early out in shift exceeds TD,01/04/2017 12:50:29,0,1,1,0,,25/04/2017 04:54:15,Include Break early out in shift exceeds TD
+836,BreakEOexceeds,Include Break early out in shift exceeds TD,01/04/2017 13:30:22,0,1,1,0,,25/04/2017 04:54:27,Include Break early out in shift exceeds TD
+837,BreakEOexceeds,Include Break early out in shift exceeds TD,01/04/2017 18:00:22,0,1,1,0,,25/04/2017 04:54:56,Include Break early out in shift exceeds TD
+838,NightShift,NightShift,01/04/2017 20:00:18,0,1,1,0,,25/04/2017 06:32:56,NightShift
+839,NightShift,NightShift,02/04/2017 05:00:17,0,1,1,0,,25/04/2017 06:33:11,NightShift
+840,NightShift,NightShift,02/04/2017 06:00:20,0,1,1,0,,25/04/2017 06:36:55,NightShift
+841,NightShift,NightShift,03/04/2017 21:00:19,0,1,1,0,,25/04/2017 06:46:37,NightShift
+842,NightShift,NightShift,04/04/2017 06:00:17,0,1,1,0,,25/04/2017 06:46:53,NightShift
+843,NightShift,NightShift,03/04/2017 20:00:17,0,1,1,0,,25/04/2017 06:58:45,NightShift
+844,SpecialOvertime,Special Overtime,01/04/2017 15:01:00,0,1,1,0,,25/04/2017 08:52:35,Special Overtime
+845,SpecialOvertime,Special Overtime,01/04/2017 17:01:04,0,1,1,0,,25/04/2017 08:52:53,Special Overtime
+846,SpecialOvertime,Special Overtime,01/04/2017 18:00:58,0,1,1,0,,25/04/2017 08:53:05,Special Overtime
+847,SpecialOvertime,Special Overtime,02/04/2017 06:00:57,0,1,1,0,,25/04/2017 08:53:16,Special Overtime
+848,SpecialOvertime,Special Overtime,03/04/2017 16:00:36,0,1,1,0,,25/04/2017 09:47:13,Special Overtime
+849,SpecialOvertime,Special Overtime,03/04/2017 17:00:33,0,1,1,0,,25/04/2017 09:47:23,Special Overtime
+850,SpecialOvertime,Special Overtime,03/04/2017 18:00:35,0,1,1,0,,25/04/2017 09:47:32,Special Overtime
+851,SpecialOvertime,Special Overtime,03/04/2017 05:00:33,0,1,1,0,,25/04/2017 09:47:40,Special Overtime
+852,SpecialOvertime,Special Overtime,04/04/2017 05:00:33,0,1,1,0,,25/04/2017 09:48:20,Special Overtime
+853,SpecialOTwOearl,SpecialOTWithoutearlyIn,01/04/2017 15:00:30,0,1,1,0,,25/04/2017 11:46:56,SpecialOTWithoutearlyIn
+854,SpecialOTwOearl,SpecialOTWithoutearlyIn,01/04/2017 17:00:28,0,1,1,0,,25/04/2017 11:47:08,SpecialOTWithoutearlyIn
+855,SpecialOTwOearl,SpecialOTWithoutearlyIn,02/04/2017 06:00:26,0,1,1,0,,25/04/2017 11:47:42,SpecialOTWithoutearlyIn
+856,SpecialOTwOearl,SpecialOTWithoutearlyIn,01/04/2017 18:00:27,0,1,1,0,,25/04/2017 11:48:53,SpecialOTWithoutearlyIn
+857,SpecialOTearlyi,Special OT with earlyin defined component,01/04/2017 14:00:36,0,1,1,0,,26/04/2017 01:03:48,Special OT with earlyin defined component
+858,SpecialOTearlyi,Special OT with earlyin defined component,01/04/2017 17:00:33,0,1,1,0,,26/04/2017 01:03:59,Special OT with earlyin defined component
+859,SpecialOTearlyi,Special OT with earlyin defined component,01/04/2017 18:00:35,0,1,1,0,,26/04/2017 01:04:09,Special OT with earlyin defined component
+860,SpecialOTearlyi,Special OT with earlyin defined component,02/04/2017 06:00:32,0,1,1,0,,26/04/2017 01:04:22,Special OT with earlyin defined component
+861,Lessworkhours,Less work hours for daily limit,01/04/2017 09:00:33,0,1,1,0,,26/04/2017 01:15:37,Less work hours for daily limit
+862,Lessworkhours,Less work hours for daily limit,01/04/2017 18:10:33,0,1,1,0,,26/04/2017 01:16:24,Less work hours for daily limit
+863,Lessworkhours,Less work hours for daily limit,01/04/2017 08:40:33,0,1,1,0,,26/04/2017 01:17:07,Less work hours for daily limit
+864,Lessworkhours,Less work hours for daily limit,03/04/2017 09:00:32,0,1,1,0,,26/04/2017 01:19:48,Less work hours for daily limit
+865,Lessworkhours,Less work hours for daily limit,03/04/2017 18:20:32,0,1,1,0,,26/04/2017 01:20:00,Less work hours for daily limit
+866,Lessworkhours,Less work hours for daily limit,04/04/2017 09:10:36,0,1,1,0,,26/04/2017 01:20:28,Less work hours for daily limit
+867,Lessworkhours,Less work hours for daily limit,04/04/2017 18:30:32,0,1,1,0,,26/04/2017 01:20:42,Less work hours for daily limit
+868,Lessworkhours,Less work hours for daily limit,05/04/2017 09:15:34,0,1,1,0,,26/04/2017 01:21:12,Less work hours for daily limit
+869,Lessworkhours,Less work hours for daily limit,05/04/2017 18:25:33,0,1,1,0,,26/04/2017 01:21:27,Less work hours for daily limit
+870,OTonWeekdays,Overtime consider  weekdays for WOPH,02/04/2017 08:30:36,0,1,1,0,08/06/2022,26/04/2017 01:31:03,Overtime consider  weekdays for WOPH
+871,OTonWeekdays,Overtime consider  weekdays for WOPH,02/04/2017 18:30:32,0,1,1,0,08/06/2022,26/04/2017 01:31:13,Overtime consider  weekdays for WOPH
+872,OTonWeekdays,Overtime consider  weekdays for WOPH,10/04/2017 08:00:33,0,1,1,0,08/06/2022,26/04/2017 01:42:08,Overtime consider  weekdays for WOPH
+873,OTonWeekdays,Overtime consider  weekdays for WOPH,10/04/2017 19:00:33,0,1,1,0,08/06/2022,26/04/2017 01:42:19,Overtime consider  weekdays for WOPH
+874,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,02/04/2017 08:00:33,0,1,1,0,,26/04/2017 01:47:32,Cal on weekday bt wkday is nt checked for OT
+875,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,02/04/2017 18:30:33,0,1,1,0,,26/04/2017 01:47:42,Cal on weekday bt wkday is nt checked for OT
+876,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,10/04/2017 09:00:34,0,1,1,0,,26/04/2017 01:48:31,Cal on weekday bt wkday is nt checked for OT
+877,OTcalWkdyntchk,Cal on weekday bt wkday is nt checked for OT,10/04/2017 19:30:33,0,1,1,0,,26/04/2017 01:48:40,Cal on weekday bt wkday is nt checked for OT
+878,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,02/04/2017 07:30:33,0,1,1,0,,26/04/2017 01:55:51,Cal of OT on Wkday and WeekOff as per chkbox
+879,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,02/04/2017 20:30:32,0,1,1,0,,26/04/2017 01:56:05,Cal of OT on Wkday and WeekOff as per chkbox
+880,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,10/04/2017 09:01:14,0,1,1,0,,26/04/2017 02:39:08,Cal of OT on Wkday and WeekOff as per chkbox
+881,CalcWkdaynwkoff,Cal of OT on Wkday and WeekOff as per chkbox,10/04/2017 19:01:02,0,1,1,0,,26/04/2017 02:39:23,Cal of OT on Wkday and WeekOff as per chkbox
+882,NetworkHrs,Networkhours bt no OT Component,01/04/2017 08:30:17,0,1,1,0,,26/04/2017 03:39:48,Networkhours bt no OT Component
+883,NetworkHrs,Networkhours bt no OT Component,01/04/2017 19:30:17,0,1,1,0,,26/04/2017 03:39:56,Networkhours bt no OT Component
+884,NetworkHrs,Networkhours bt no OT Component,02/04/2017 08:30:17,0,1,1,0,,26/04/2017 03:40:10,Networkhours bt no OT Component
+885,NetworkHrs,Networkhours bt no OT Component,02/04/2017 18:30:17,0,1,1,0,,26/04/2017 03:40:17,Networkhours bt no OT Component
+886,NetworkHrs,Networkhours bt no OT Component,10/04/2017 09:00:16,0,1,1,0,,26/04/2017 03:41:22,Networkhours bt no OT Component
+887,NetworkHrs,Networkhours bt no OT Component,10/04/2017 19:00:17,0,1,1,0,,26/04/2017 03:41:29,Networkhours bt no OT Component
+888,daily1earlyin,Cal onWOPH as per weekday,02/04/2017 06:30:14,0,1,1,0,,26/04/2017 03:59:58,Cal onWOPH as per weekday
+889,daily1earlyin,Cal onWOPH as per weekday,02/04/2017 21:30:14,0,1,1,0,,26/04/2017 04:00:24,Cal onWOPH as per weekday
+890,daily1earlyin,Cal onWOPH as per weekday,10/04/2017 07:30:12,0,1,1,0,,26/04/2017 04:01:53,Cal onWOPH as per weekday
+891,daily1earlyin,Cal onWOPH as per weekday,10/04/2017 18:30:12,0,1,1,0,,26/04/2017 04:02:04,Cal onWOPH as per weekday
+892,daily1wkdys,daily1 wkdys and weekends not assigned,02/04/2017 07:30:12,0,1,1,0,,26/04/2017 04:07:07,daily1 wkdys and weekends not assigned
+893,daily1wkdys,daily1 wkdys and weekends not assigned,02/04/2017 19:30:14,0,1,1,0,,26/04/2017 04:07:16,daily1 wkdys and weekends not assigned
+894,daily1wkdys,daily1 wkdys and weekends not assigned,10/04/2017 09:00:12,0,1,1,0,,26/04/2017 04:07:28,daily1 wkdys and weekends not assigned
+895,daily1wkdys,daily1 wkdys and weekends not assigned,10/04/2017 19:00:12,0,1,1,0,,26/04/2017 04:07:36,daily1 wkdys and weekends not assigned
+896,daily1wkdys,daily1 wkdys and weekends not assigned,09/04/2017 06:30:12,0,1,1,0,,26/04/2017 04:09:14,daily1 wkdys and weekends not assigned
+897,daily1wkdys,daily1 wkdys and weekends not assigned,09/04/2017 21:30:14,0,1,1,0,,26/04/2017 04:09:24,daily1 wkdys and weekends not assigned
+898,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,02/04/2017 07:30:13,0,1,1,0,,26/04/2017 04:18:50,Daily1 OT Not configured for Wkdays n weekend
+899,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,02/04/2017 19:30:13,0,1,1,0,,26/04/2017 04:19:03,Daily1 OT Not configured for Wkdays n weekend
+900,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,10/04/2017 09:00:12,0,1,1,0,,26/04/2017 04:22:06,Daily1 OT Not configured for Wkdays n weekend
+901,daily1OTNtconfi,Daily1 OT Not configured for Wkdays n weekend,10/04/2017 19:00:12,0,1,1,0,,26/04/2017 04:22:14,Daily1 OT Not configured for Wkdays n weekend
+902,daily1weekends,daily1 weekends config in OT,01/04/2017 07:00:59,0,1,1,0,,26/04/2017 05:11:45,daily1 weekends config in OT
+903,daily1weekends,daily1 weekends config in OT,01/04/2017 19:00:58,0,1,1,0,,26/04/2017 05:11:53,daily1 weekends config in OT
+904,daily1weekends,daily1 weekends config in OT,02/04/2017 07:00:58,0,1,1,0,,26/04/2017 05:12:06,daily1 weekends config in OT
+905,daily1weekends,daily1 weekends config in OT,02/04/2017 19:00:59,0,1,1,0,,26/04/2017 05:12:13,daily1 weekends config in OT
+906,daily1weekends,daily1 weekends config in OT,10/04/2017 07:00:59,0,1,1,0,,26/04/2017 05:12:22,daily1 weekends config in OT
+907,daily1weekends,daily1 weekends config in OT,10/04/2017 20:20:58,0,1,1,0,,26/04/2017 05:12:33,daily1 weekends config in OT
+908,daily1weekends,daily1 weekends config in OT,01/04/2017 09:00:59,0,1,1,0,,26/04/2017 05:23:54,daily1 weekends config in OT
+909,FB,OT for FB,01/04/2017 09:01:06,0,1,1,0,,26/04/2017 05:24:01,OT for FB
+910,FB,OT for FB,01/04/2017 19:30:59,0,1,1,0,,26/04/2017 05:24:15,OT for FB
+911,FlexibleOT,OT for flexible user,02/04/2017 07:00:10,0,1,1,0,,26/04/2017 06:49:38,OT for flexible user
+912,FlexibleOT,OT for flexible user,02/04/2017 17:00:09,0,1,1,0,,26/04/2017 06:49:49,OT for flexible user
+913,FlexibleOT,OT for flexible user,10/04/2017 09:00:10,0,1,1,0,,26/04/2017 07:04:03,OT for flexible user
+914,FlexibleOT,OT for flexible user,10/04/2017 16:00:09,0,1,1,0,,26/04/2017 07:04:17,OT for flexible user
+915,NpunchNightshif,N punch user with night shift,01/04/2017 20:00:11,0,1,1,0,,26/04/2017 07:15:19,N punch user with night shift
+916,NpunchNightshif,N punch user with night shift,01/04/2017 22:00:10,0,1,1,0,,26/04/2017 07:15:31,N punch user with night shift
+917,NpunchNightshif,N punch user with night shift,01/04/2017 22:30:09,0,1,1,0,,26/04/2017 07:17:17,N punch user with night shift
+918,npunchnoearly,npunch user with no earlyout policy,02/04/2017 05:30:09,0,1,1,0,,26/04/2017 07:17:29,npunch user with no earlyout policy
+919,NpunchNightshif,N punch user with night shift,02/04/2017 05:30:16,0,1,1,0,,26/04/2017 07:17:37,N punch user with night shift
+920,NpunchNightshif,N punch user with night shift,02/04/2017 19:30:09,0,1,1,0,,26/04/2017 07:18:34,N punch user with night shift
+921,NpunchNightshif,N punch user with night shift,02/04/2017 23:30:09,0,1,1,0,,26/04/2017 07:18:47,N punch user with night shift
+922,NpunchNightshif,N punch user with night shift,03/04/2017 00:00:08,0,1,1,0,,26/04/2017 07:18:58,N punch user with night shift
+923,NpunchNightshif,N punch user with night shift,03/04/2017 05:00:08,0,1,1,0,,26/04/2017 07:19:07,N punch user with night shift
+924,NpunchNightshif,N punch user with night shift,02/04/2017 05:40:10,0,1,1,0,,26/04/2017 07:22:12,N punch user with night shift
+925,NpunchNightshif,N punch user with night shift,02/04/2017 06:30:29,0,1,1,0,,26/04/2017 07:22:45,N punch user with night shift
+926,NpunchFlexible,Npunch user with type as flexible,01/04/2017 09:00:09,0,1,1,0,,26/04/2017 07:33:38,Npunch user with type as flexible
+927,NpunchFlexible,Npunch user with type as flexible,01/04/2017 13:00:09,0,1,1,0,,26/04/2017 07:33:47,Npunch user with type as flexible
+928,NpunchFlexible,Npunch user with type as flexible,01/04/2017 13:30:09,0,1,1,0,,26/04/2017 07:33:56,Npunch user with type as flexible
+929,NpunchFlexible,Npunch user with type as flexible,01/04/2017 17:30:09,0,1,1,0,,26/04/2017 07:34:08,Npunch user with type as flexible
+930,NpunchFlexible,Npunch user with type as flexible,01/04/2017 18:00:09,0,1,1,0,,26/04/2017 07:34:17,Npunch user with type as flexible
+931,NpunchFlexible,Npunch user with type as flexible,01/04/2017 19:00:09,0,1,1,0,,26/04/2017 07:34:25,Npunch user with type as flexible
+932,NpunchFlexible,Npunch user with type as flexible,03/04/2017 08:30:08,0,1,1,0,,26/04/2017 07:35:51,Npunch user with type as flexible
+933,NpunchFlexible,Npunch user with type as flexible,03/04/2017 13:00:08,0,1,1,0,,26/04/2017 07:36:00,Npunch user with type as flexible
+934,NpunchFlexible,Npunch user with type as flexible,03/04/2017 13:30:09,0,1,1,0,,26/04/2017 07:36:07,Npunch user with type as flexible
+935,NpunchFlexible,Npunch user with type as flexible,03/04/2017 18:00:08,0,1,1,0,,26/04/2017 07:36:45,Npunch user with type as flexible
+936,Eligiblehours,Eligible work hours,01/04/2017 06:00:14,0,1,1,0,,26/04/2017 08:07:00,Eligible work hours
+937,Eligiblehours,Eligible work hours,01/04/2017 21:00:14,0,1,1,0,,26/04/2017 08:07:13,Eligible work hours
+938,Eligiblehours,Eligible work hours,03/04/2017 09:00:15,0,1,1,0,,26/04/2017 08:33:43,Eligible work hours
+939,Eligiblehours,Eligible work hours,03/04/2017 18:00:14,0,1,1,0,,26/04/2017 08:33:51,Eligible work hours
+940,Eligiblehours,Eligible work hours,04/04/2017 08:00:14,0,1,1,0,,26/04/2017 08:34:33,Eligible work hours
+941,Eligiblehours,Eligible work hours,04/04/2017 18:00:14,0,1,1,0,,26/04/2017 08:34:41,Eligible work hours
+942,Eligiblehours,Eligible work hours,05/04/2017 07:00:16,0,1,1,0,,26/04/2017 08:36:05,Eligible work hours
+943,Eligiblehours,Eligible work hours,05/04/2017 17:00:14,0,1,1,0,,26/04/2017 08:36:45,Eligible work hours
+944,Eligiblehours,Eligible work hours,06/04/2017 07:00:13,0,1,1,0,,26/04/2017 08:42:03,Eligible work hours
+945,Eligiblehours,Eligible work hours,06/04/2017 15:00:14,0,1,1,0,,26/04/2017 08:42:19,Eligible work hours
+946,Eligiblehours,Eligible work hours,07/04/2017 08:30:13,0,1,1,0,,26/04/2017 08:48:49,Eligible work hours
+947,Eligiblehours,Eligible work hours,07/04/2017 16:30:17,0,1,1,0,,26/04/2017 08:49:29,Eligible work hours
+948,Eligiblehours,Eligible work hours,08/04/2017 08:30:13,0,1,1,0,,26/04/2017 08:50:23,Eligible work hours
+949,Eligiblehours,Eligible work hours,08/04/2017 16:30:19,1,1,1,4,,26/04/2017 08:50:37,Eligible work hours
+950,manualOT,User with Manual Overtime,01/04/2017 08:01:02,0,1,1,0,,27/04/2017 03:16:34,User with Manual Overtime
+951,manualOT,User with Manual Overtime,01/04/2017 20:01:01,0,1,1,0,,27/04/2017 03:18:02,User with Manual Overtime
+952,manualOT,User with Manual Overtime,03/04/2017 07:00:33,0,1,1,0,,27/04/2017 03:18:52,User with Manual Overtime
+953,manualOT,User with Manual Overtime,03/04/2017 21:00:33,0,1,1,0,,27/04/2017 03:19:00,User with Manual Overtime
+954,Awardandpenalty,award n penalty,24/04/2017 09:00:36,0,1,1,0,,27/04/2017 03:28:13,award n penalty
+955,Awardandpenalty,award n penalty,24/04/2017 13:00:37,0,1,1,0,,27/04/2017 03:28:27,award n penalty
+956,Awardandpenalty,award n penalty,24/04/2017 14:00:38,0,1,1,0,,27/04/2017 03:29:00,award n penalty
+957,Awardandpenalty,award n penalty,24/04/2017 18:30:36,0,1,1,0,,27/04/2017 03:29:13,award n penalty
+958,Awardandpenalty,award n penalty,24/04/2017 19:30:36,0,1,1,0,,27/04/2017 03:29:47,award n penalty
+959,Awardandpenalty,award n penalty,25/04/2017 08:30:36,0,1,1,0,,27/04/2017 03:31:13,award n penalty
+960,Awardandpenalty,award n penalty,25/04/2017 10:30:35,0,1,1,0,,27/04/2017 03:31:23,award n penalty
+961,Awardandpenalty,award n penalty,25/04/2017 15:30:35,0,1,1,0,,27/04/2017 03:31:33,award n penalty
+962,Awardandpenalty,award n penalty,25/04/2017 19:30:39,0,1,1,0,,27/04/2017 03:31:46,award n penalty
+963,Awardandpenalty,award n penalty,26/04/2017 09:00:42,0,1,1,0,,27/04/2017 03:57:38,award n penalty
+964,Awardandpenalty,award n penalty,26/04/2017 09:00:44,0,1,1,0,,27/04/2017 03:59:06,award n penalty
+965,Awardandpenalty,award n penalty,26/04/2017 11:00:37,0,1,1,0,,27/04/2017 03:59:19,award n penalty
+966,Awardandpenalty,award n penalty,26/04/2017 14:00:34,0,1,1,0,,27/04/2017 03:59:29,award n penalty
+967,Awardandpenalty,award n penalty,26/04/2017 19:00:37,0,1,1,0,,27/04/2017 03:59:43,award n penalty
+968,COFF,COFF,01/04/2017 09:00:35,0,1,1,0,,27/04/2017 05:15:49,COFF
+969,COFF,COFF,01/04/2017 19:00:38,0,1,1,0,,27/04/2017 05:16:01,COFF
+970,COFF,COFF,03/04/2017 08:00:34,0,1,1,0,,27/04/2017 05:21:06,COFF
+971,COFF,COFF,03/04/2017 21:00:34,0,1,1,0,,27/04/2017 05:21:14,COFF
+972,JPCmergejob,JPC merged Job,01/04/2017 09:00:41,0,1,1,0,,27/04/2017 07:18:29,JPC merged Job
+973,JPCmergejob,JPC merged Job,24/04/2017 09:00:42,0,1,1,0,,27/04/2017 07:18:42,JPC merged Job
+974,JPCmergejob,JPC merged Job,24/04/2017 16:00:42,0,1,1,0,,27/04/2017 07:18:55,JPC merged Job
+975,JPCmergejob,JPC merged Job,24/04/2017 18:00:41,0,1,1,0,,27/04/2017 07:19:12,JPC merged Job
+976,JPCmergejob,JPC merged Job,24/04/2017 20:00:40,0,1,1,0,,27/04/2017 07:19:24,JPC merged Job
+977,JPCmergejob,JPC merged Job,25/04/2017 08:00:26,0,1,1,0,,27/04/2017 08:06:54,JPC merged Job
+978,JPCmergejob,JPC merged Job,25/04/2017 14:00:25,0,1,1,0,,27/04/2017 08:07:08,JPC merged Job
+979,JPCmergejob,JPC merged Job,25/04/2017 17:23:03,0,1,1,0,,27/04/2017 08:29:54,JPC merged Job
+980,JPCmergejob,JPC merged Job,25/04/2017 19:00:08,0,1,1,0,,27/04/2017 08:30:19,JPC merged Job
+981,JPCSplitHO,JPC split timesheet normal shift,24/04/2017 09:00:05,0,1,1,0,,27/04/2017 08:36:34,JPC split timesheet normal shift
+982,JPCSplitHO,JPC split timesheet normal shift,24/04/2017 19:00:06,0,1,1,0,,27/04/2017 08:36:45,JPC split timesheet normal shift
+983,JPCSplitHO,JPC split timesheet normal shift,25/04/2017 08:00:07,0,1,1,0,,27/04/2017 08:56:28,JPC split timesheet normal shift
+984,JPCSplitHO,JPC split timesheet normal shift,25/04/2017 21:00:06,0,1,1,0,,27/04/2017 08:56:39,JPC split timesheet normal shift
+985,JPCSplitHO,JPC split timesheet normal shift,24/04/2017 08:00:07,0,1,1,0,,27/04/2017 09:04:43,JPC split timesheet normal shift
+986,JPCSplitHO,JPC split timesheet normal shift,23/04/2017 20:00:10,0,1,1,0,,27/04/2017 09:05:14,JPC split timesheet normal shift
+987,JPCSplitNS,JPC split timesheet night shift,24/04/2017 20:00:03,0,1,1,0,,27/04/2017 09:06:15,JPC split timesheet night shift
+988,JPCSplitNS,JPC split timesheet night shift,25/04/2017 05:00:04,0,1,1,0,,27/04/2017 09:06:26,JPC split timesheet night shift
+989,OTCOFFBoth,Auto authorize OT COFF,01/04/2017 09:00:23,0,1,1,0,,27/04/2017 10:49:46,Auto authorize OT COFF
+990,OTCOFFBoth,Auto authorize OT COFF,01/04/2017 13:00:23,0,1,1,0,,27/04/2017 10:49:54,Auto authorize OT COFF
+991,OTCOFFBoth,Auto authorize OT COFF,01/04/2017 14:00:23,0,1,1,0,,27/04/2017 10:50:06,Auto authorize OT COFF
+992,OTCOFFBoth,Auto authorize OT COFF,01/04/2017 18:30:23,0,1,1,0,,27/04/2017 10:50:17,Auto authorize OT COFF
+993,OTCOFFBoth,Auto authorize OT COFF,03/04/2017 08:00:43,0,1,1,0,,27/04/2017 11:16:46,Auto authorize OT COFF
+994,OTCOFFBoth,Auto authorize OT COFF,03/04/2017 13:00:43,0,1,1,0,,27/04/2017 11:17:14,Auto authorize OT COFF
+995,OTCOFFBoth,Auto authorize OT COFF,03/04/2017 14:00:57,0,1,1,0,,27/04/2017 11:18:02,Auto authorize OT COFF
+996,OTCOFFBoth,Auto authorize OT COFF,03/04/2017 19:30:42,0,1,1,0,,27/04/2017 11:18:13,Auto authorize OT COFF
+997,OTCOFFBoth,Auto authorize OT COFF,02/04/2017 08:30:43,0,1,1,0,,27/04/2017 11:19:40,Auto authorize OT COFF
+998,OTCOFFBoth,Auto authorize OT COFF,02/04/2017 14:30:42,0,1,1,0,,27/04/2017 11:19:47,Auto authorize OT COFF
+999,OTCOFFBoth,Auto authorize OT COFF,02/04/2017 15:30:42,0,1,1,0,,27/04/2017 11:19:54,Auto authorize OT COFF
+1000,OTCOFFBoth,Auto authorize OT COFF,02/04/2017 20:30:42,0,1,1,0,,27/04/2017 11:20:03,Auto authorize OT COFF
+1001,RestrictedDail1,Restricted OT cal for Daily1,01/04/2017 08:01:01,0,1,1,0,,28/04/2017 07:12:14,Restricted OT cal for Daily1
+1002,RestrictedDail1,Restricted OT cal for Daily1,01/04/2017 20:00:37,0,1,1,0,,28/04/2017 07:12:26,Restricted OT cal for Daily1
+1003,RestrictedDail1,Restricted OT cal for Daily1,11/04/2017 08:00:37,0,1,1,0,,28/04/2017 07:12:36,Restricted OT cal for Daily1
+1004,RestrictedDail1,Restricted OT cal for Daily1,11/04/2017 20:00:37,0,1,1,0,,28/04/2017 07:12:44,Restricted OT cal for Daily1
+1005,RestrictedDail1,Restricted OT cal for Daily1,12/04/2017 08:00:37,0,1,1,0,,28/04/2017 07:27:57,Restricted OT cal for Daily1
+1006,RestrictedDail1,Restricted OT cal for Daily1,12/04/2017 20:00:37,0,1,1,0,,28/04/2017 07:28:06,Restricted OT cal for Daily1
+1007,RestrictedDail1,Restricted OT cal for Daily1,15/04/2017 08:00:36,0,1,1,0,,28/04/2017 07:49:35,Restricted OT cal for Daily1
+1008,RestrictedDail1,Restricted OT cal for Daily1,15/04/2017 20:00:36,0,1,1,0,,28/04/2017 07:49:43,Restricted OT cal for Daily1
+743,Jpcdefaultenter,Job coseting user with default job of enterpr,24/04/2017 09:00:21,0,3,1,0,,24/04/2017 09:46:28,Job coseting user with default job of enterpr
+744,Jpcdefaultenter,Job coseting user with default job of enterpr,24/04/2017 15:00:12,0,3,1,0,,24/04/2017 09:46:53,Job coseting user with default job of enterpr
+745,Jpcdefaultenter,Job coseting user with default job of enterpr,24/04/2017 17:00:06,0,3,1,0,,24/04/2017 09:46:59,Job coseting user with default job of enterpr
+746,Jpcdefaultenter,Job coseting user with default job of enterpr,24/04/2017 19:00:06,0,3,1,0,,24/04/2017 09:47:04,Job coseting user with default job of enterpr
+11086,auto,auto,01/04/2017 19:30:04,0,9,1,0,,30/04/2017 10:05:03,auto
+11087,auto,auto,01/04/2017 19:30:34,0,9,1,0,,30/04/2017 10:05:33,auto
+11088,auto,auto,02/04/2017 04:30:04,0,9,1,0,,30/04/2017 10:05:48,auto
+11089,auto,auto,03/04/2017 19:30:25,0,9,1,0,,30/04/2017 10:06:29,auto
+11090,auto,auto,04/04/2017 04:30:04,0,9,1,0,,30/04/2017 10:06:43,auto
+11091,auto,auto,05/04/2017 09:30:08,0,9,1,0,,30/04/2017 10:08:27,auto
+11092,auto,auto,06/04/2017 04:30:03,0,9,1,0,,30/04/2017 10:08:39,auto
+11093,auto,auto,08/04/2017 19:30:04,0,9,1,0,,30/04/2017 10:09:25,auto
+11094,auto,auto,09/04/2017 04:30:03,0,9,1,0,,30/04/2017 10:09:36,auto
+11095,auto,auto,10/04/2017 19:30:02,0,9,1,0,,30/04/2017 10:10:15,auto
+11096,auto,auto,11/04/2017 04:30:07,0,9,1,0,,30/04/2017 10:10:29,auto
+11097,auto,auto,12/04/2017 19:30:15,0,9,1,0,,30/04/2017 10:11:14,auto
+11098,auto,auto,13/04/2017 04:30:07,0,9,1,0,,30/04/2017 10:11:30,auto
+739,JPCsitedefaultj,JPC user with sitewise default job,24/04/2017 09:00:23,0,2,1,0,,24/04/2017 08:59:30,JPC user with sitewise default job
+740,JPCsitedefaultj,JPC user with sitewise default job,24/04/2017 15:00:22,0,2,1,0,,24/04/2017 08:59:40,JPC user with sitewise default job
+741,JPCsitedefaultj,JPC user with sitewise default job,24/04/2017 17:00:21,0,2,1,0,,24/04/2017 08:59:50,JPC user with sitewise default job
+742,JPCsitedefaultj,JPC user with sitewise default job,24/04/2017 19:00:21,0,2,1,0,,24/04/2017 08:59:59,JPC user with sitewise default job
